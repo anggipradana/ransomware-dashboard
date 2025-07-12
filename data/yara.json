@@ -1,0 +1,249 @@
+{
+  "count": 61,
+  "groups": [
+    {
+      "group": "Akira",
+      "yara_count": 1
+    },
+    {
+      "group": "Alphv",
+      "yara_count": 1
+    },
+    {
+      "group": "AvosLocker",
+      "yara_count": 1
+    },
+    {
+      "group": "Babuk",
+      "yara_count": 1
+    },
+    {
+      "group": "Beast",
+      "yara_count": 1
+    },
+    {
+      "group": "Bianlian",
+      "yara_count": 1
+    },
+    {
+      "group": "Bitpaymer",
+      "yara_count": 1
+    },
+    {
+      "group": "BlackByte",
+      "yara_count": 1
+    },
+    {
+      "group": "BlackCat",
+      "yara_count": 1
+    },
+    {
+      "group": "BlackMatter",
+      "yara_count": 1
+    },
+    {
+      "group": "Blackbasta",
+      "yara_count": 1
+    },
+    {
+      "group": "Blacksuit",
+      "yara_count": 1
+    },
+    {
+      "group": "BlueLocker",
+      "yara_count": 1
+    },
+    {
+      "group": "Cactus",
+      "yara_count": 1
+    },
+    {
+      "group": "Chaos",
+      "yara_count": 1
+    },
+    {
+      "group": "CobaltStrike",
+      "yara_count": 1
+    },
+    {
+      "group": "Conti",
+      "yara_count": 1
+    },
+    {
+      "group": "Darkside",
+      "yara_count": 1
+    },
+    {
+      "group": "Dharma",
+      "yara_count": 1
+    },
+    {
+      "group": "ESXiArg",
+      "yara_count": 1
+    },
+    {
+      "group": "Enmity",
+      "yara_count": 1
+    },
+    {
+      "group": "GlobeImposter",
+      "yara_count": 1
+    },
+    {
+      "group": "Grief",
+      "yara_count": 1
+    },
+    {
+      "group": "HelloKitty",
+      "yara_count": 1
+    },
+    {
+      "group": "Hive",
+      "yara_count": 1
+    },
+    {
+      "group": "HsHarada",
+      "yara_count": 1
+    },
+    {
+      "group": "Incransom",
+      "yara_count": 1
+    },
+    {
+      "group": "LockBit3",
+      "yara_count": 2
+    },
+    {
+      "group": "Lorenz",
+      "yara_count": 1
+    },
+    {
+      "group": "Losttrust",
+      "yara_count": 1
+    },
+    {
+      "group": "Mallox",
+      "yara_count": 1
+    },
+    {
+      "group": "Maze",
+      "yara_count": 1
+    },
+    {
+      "group": "Medusa",
+      "yara_count": 1
+    },
+    {
+      "group": "MedusaLocker",
+      "yara_count": 1
+    },
+    {
+      "group": "Monti",
+      "yara_count": 1
+    },
+    {
+      "group": "Mount-Locker",
+      "yara_count": 1
+    },
+    {
+      "group": "Netwalker",
+      "yara_count": 1
+    },
+    {
+      "group": "NoEscape",
+      "yara_count": 1
+    },
+    {
+      "group": "Nokoyawa",
+      "yara_count": 1
+    },
+    {
+      "group": "Phobos",
+      "yara_count": 1
+    },
+    {
+      "group": "Play",
+      "yara_count": 1
+    },
+    {
+      "group": "Proton",
+      "yara_count": 1
+    },
+    {
+      "group": "Proxima",
+      "yara_count": 1
+    },
+    {
+      "group": "Qilin",
+      "yara_count": 1
+    },
+    {
+      "group": "Quantum",
+      "yara_count": 1
+    },
+    {
+      "group": "RCRU64",
+      "yara_count": 1
+    },
+    {
+      "group": "Ransomhouse",
+      "yara_count": 1
+    },
+    {
+      "group": "Rhysida",
+      "yara_count": 1
+    },
+    {
+      "group": "Royal",
+      "yara_count": 1
+    },
+    {
+      "group": "Snatch",
+      "yara_count": 1
+    },
+    {
+      "group": "SunCrypt",
+      "yara_count": 1
+    },
+    {
+      "group": "Thanos",
+      "yara_count": 1
+    },
+    {
+      "group": "Trinity",
+      "yara_count": 1
+    },
+    {
+      "group": "Tuga",
+      "yara_count": 1
+    },
+    {
+      "group": "Unibovwood",
+      "yara_count": 1
+    },
+    {
+      "group": "VoidCrypt",
+      "yara_count": 1
+    },
+    {
+      "group": "Zeppelin",
+      "yara_count": 1
+    },
+    {
+      "group": "clop",
+      "yara_count": 1
+    },
+    {
+      "group": "nevada",
+      "yara_count": 1
+    },
+    {
+      "group": "ragnarlocker",
+      "yara_count": 1
+    },
+    {
+      "group": "raworld",
+      "yara_count": 1
+    }
+  ]
+}

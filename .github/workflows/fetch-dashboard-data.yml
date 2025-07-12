@@ -1,59 +1,41 @@
-
-name: Fetch Dashboard Data (Hourly - Sanitized)
+name: Fetch Clean Ransomware Data
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '0 * * * *'  # setiap jam
   workflow_dispatch:
 
 jobs:
-  fetch-dashboard-data:
+  fetch-data:
     runs-on: ubuntu-latest
 
     steps:
     - name: Checkout repository
       uses: actions/checkout@v3
 
-    - name: Install jq
-      run: sudo apt-get update && sudo apt-get install -y jq
-
-    - name: Create data directory
+    - name: Create data folder
       run: mkdir -p data
 
-    - name: Fetch /stats
-      run: |
-        curl -s -H "X-API-KEY: ${{ secrets.RANSOMWARE_API_KEY }}" \
-          https://api-pro.ransomware.live/stats | jq 'del(.client)' > data/stats.json
+    - name: Fetch victims.json
+      run: curl -s https://data.ransomware.live/victims.json > data/victims.json
 
-    - name: Fetch /groups
-      run: |
-        curl -s -H "X-API-KEY: ${{ secrets.RANSOMWARE_API_KEY }}" \
-          https://api-pro.ransomware.live/groups | jq 'del(.client)' > data/groups.json
+    - name: Fetch groups.json
+      run: curl -s https://data.ransomware.live/groups.json > data/groups.json
 
-    - name: Fetch /press/recent
+    - name: Fetch press.json (requires API key)
       run: |
         curl -s -H "X-API-KEY: ${{ secrets.RANSOMWARE_API_KEY }}" \
-          https://api-pro.ransomware.live/press/recent | jq 'del(.client)' > data/press_recent.json
+        https://api-pro.ransomware.live/press > data/press.json
 
-    - name: Fetch /victims/recent
+    - name: Fetch stats.json (requires API key)
       run: |
         curl -s -H "X-API-KEY: ${{ secrets.RANSOMWARE_API_KEY }}" \
-          https://api-pro.ransomware.live/victims/recent | jq 'del(.client)' > data/victims_recent.json
-
-    - name: Fetch /listsectors
-      run: |
-        curl -s -H "X-API-KEY: ${{ secrets.RANSOMWARE_API_KEY }}" \
-          https://api-pro.ransomware.live/listsectors | jq 'del(.client)' > data/listsectors.json
-
-    - name: Fetch /iocs
-      run: |
-        curl -s -H "X-API-KEY: ${{ secrets.RANSOMWARE_API_KEY }}" \
-          https://api-pro.ransomware.live/iocs | jq 'del(.client)' > data/iocs.json
+        https://api-pro.ransomware.live/stats > data/stats.json
 
     - name: Commit and push if changed
       run: |
         git config user.name "github-actions"
         git config user.email "actions@github.com"
         git add data/
-        git diff --cached --quiet || git commit -m "Auto-update dashboard data (client key removed)"
+        git diff --cached --quiet || git commit -m "Auto-update ransomware data"
         git push

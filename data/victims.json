@@ -264671,5 +264671,38 @@
         "activity": "Not Found",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "bartec.com",
+        "group_name": "safepay",
+        "discovered": "2025-07-12 16:46:38.624261",
+        "description": "[AI generated] Bartec Group is a global company known for its innovative solutions in the safety and security field. They specialize in industrial safety technology, focusing on hazardous areas and activities. Their product range includes equipment for mobile data acquisition, data communication, control and automation technology, heating technology, and measurement and analysis technology.",
+        "website": "bartec.com",
+        "published": "2023-11-10 19:13:13.000000",
+        "post_url": "http://j3dp6okmaklajrsk6zljl5sfa2vpui7j2w6cwmhmmqhab6frdfbphhid.onion#bartec",
+        "country": "DE",
+        "activity": "Technology",
+        "duplicates": [
+            {
+                "date": "2025-07-12 16:46:38.644703",
+                "group": "hunters",
+                "link": "https://www.ransomware.live/id/QmFydGVjIFRvcCBIb2xkaW5nIEdtYkhAaHVudGVycw==",
+                "attackdate": "2023-11-10 19:13:13.000000"
+            }
+        ],
+        "extrainfos": []
+    },
+    {
+        "post_title": "nod.ro",
+        "group_name": "safepay",
+        "discovered": "2025-07-12 16:47:07.616255",
+        "description": "[AI generated] \"N/A\"",
+        "website": "nod.ro",
+        "published": "2025-07-12 16:46:41.256976",
+        "post_url": "http://j3dp6okmaklajrsk6zljl5sfa2vpui7j2w6cwmhmmqhab6frdfbphhid.onion#nod",
+        "country": "RO",
+        "activity": "Technology",
+        "duplicates": [],
+        "extrainfos": []
     }
 ]

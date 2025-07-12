@@ -1,0 +1,19 @@
+[
+  {
+    "group": "lockbit3",
+    "ioc_types": [
+      "ip",
+      "md5",
+      "btc"
+    ],
+    "total": 342
+  },
+  {
+    "group": "clop",
+    "ioc_types": [
+      "email",
+      "btc"
+    ],
+    "total": 148
+  }
+]

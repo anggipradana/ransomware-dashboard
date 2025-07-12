@@ -1,13 +1,13 @@
 
-name: Fetch Clean Ransomware Data
+name: Fetch Dashboard Data (Hourly - Cleaned)
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '0 * * * *'  # Every hour
   workflow_dispatch:
 
 jobs:
-  fetch-data:
+  fetch-dashboard-data:
     runs-on: ubuntu-latest
 
     steps:
@@ -17,29 +17,44 @@ jobs:
     - name: Install jq
       run: sudo apt-get update && sudo apt-get install -y jq
 
-    - name: Create data folder
+    - name: Create data directory
       run: mkdir -p data
 
-    - name: Fetch victims.json
-      run: curl -s https://data.ransomware.live/victims.json > data/victims.json
-
-    - name: Fetch groups.json
-      run: curl -s https://data.ransomware.live/groups.json > data/groups.json
-
-    - name: Fetch press.json (from /press/all, filter out client)
-      run: |
-        curl -s -H "X-API-KEY: ${{ secrets.RANSOMWARE_API_KEY }}" \
-          https://api-pro.ransomware.live/press/all | jq 'del(.client)' > data/press.json
-
-    - name: Fetch stats.json (filter out client)
+    - name: Fetch /stats
       run: |
         curl -s -H "X-API-KEY: ${{ secrets.RANSOMWARE_API_KEY }}" \
           https://api-pro.ransomware.live/stats | jq 'del(.client)' > data/stats.json
+
+    - name: Fetch /press/all
+      run: |
+        curl -s -H "X-API-KEY: ${{ secrets.RANSOMWARE_API_KEY }}" \
+          https://api-pro.ransomware.live/press/all | jq 'del(.client)' > data/press_all.json
+
+    - name: Fetch /listsectors
+      run: |
+        curl -s -H "X-API-KEY: ${{ secrets.RANSOMWARE_API_KEY }}" \
+          https://api-pro.ransomware.live/listsectors | jq 'del(.client)' > data/listsectors.json
+
+    - name: Fetch /iocs
+      run: |
+        curl -s -H "X-API-KEY: ${{ secrets.RANSOMWARE_API_KEY }}" \
+          https://api-pro.ransomware.live/iocs | jq 'del(.client)' > data/iocs.json
+
+    - name: Fetch /yara
+      run: |
+        curl -s -H "X-API-KEY: ${{ secrets.RANSOMWARE_API_KEY }}" \
+          https://api-pro.ransomware.live/yara | jq 'del(.client)' > data/yara.json
+
+    - name: Fetch full victims list (no auth)
+      run: curl -s https://data.ransomware.live/victims.json > data/victims.json
+
+    - name: Fetch full groups list (no auth)
+      run: curl -s https://data.ransomware.live/groups.json > data/groups.json
 
     - name: Commit and push if changed
       run: |
         git config user.name "github-actions"
         git config user.email "actions@github.com"
         git add data/
-        git diff --cached --quiet || git commit -m "Auto-update ransomware data (with client field sanitized)"
+        git diff --cached --quiet || git commit -m "Auto-update dashboard data (client key removed)"
         git push

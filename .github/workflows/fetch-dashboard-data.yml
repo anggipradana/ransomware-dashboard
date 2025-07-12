@@ -1,8 +1,9 @@
+
 name: Fetch Clean Ransomware Data
 
 on:
   schedule:
-    - cron: '0 * * * *'  # setiap jam
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -13,6 +14,9 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v3
 
+    - name: Install jq
+      run: sudo apt-get update && sudo apt-get install -y jq
+
     - name: Create data folder
       run: mkdir -p data
 
@@ -22,20 +26,20 @@ jobs:
     - name: Fetch groups.json
       run: curl -s https://data.ransomware.live/groups.json > data/groups.json
 
-    - name: Fetch press.json (requires API key)
+    - name: Fetch press.json (from /press/all, filter out client)
       run: |
         curl -s -H "X-API-KEY: ${{ secrets.RANSOMWARE_API_KEY }}" \
-        https://api-pro.ransomware.live/press > data/press.json
+          https://api-pro.ransomware.live/press/all | jq 'del(.client)' > data/press.json
 
-    - name: Fetch stats.json (requires API key)
+    - name: Fetch stats.json (filter out client)
       run: |
         curl -s -H "X-API-KEY: ${{ secrets.RANSOMWARE_API_KEY }}" \
-        https://api-pro.ransomware.live/stats > data/stats.json
+          https://api-pro.ransomware.live/stats | jq 'del(.client)' > data/stats.json
 
     - name: Commit and push if changed
       run: |
         git config user.name "github-actions"
         git config user.email "actions@github.com"
         git add data/
-        git diff --cached --quiet || git commit -m "Auto-update ransomware data"
+        git diff --cached --quiet || git commit -m "Auto-update ransomware data (with client field sanitized)"
         git push

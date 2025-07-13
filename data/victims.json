@@ -264758,5 +264758,50 @@
         "activity": "Construction",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "conasa infraestrutura s.a.",
+        "group_name": "nightspire",
+        "discovered": "2025-07-13 14:57:13.711467",
+        "description": "conasa infraestrutura s.a.",
+        "website": "conasa.com",
+        "published": "2025-07-06 00:00:00.000000",
+        "post_url": "",
+        "country": "BR",
+        "activity": "Construction",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "30 GB"
+        }
+    },
+    {
+        "post_title": "Tuna Processors Phillipines, Inc",
+        "group_name": "nightspire",
+        "discovered": "2025-07-13 14:57:42.138370",
+        "description": "Tuna Processors Phillipines, Inc",
+        "website": "tppi.com",
+        "published": "2025-07-06 00:00:00.000000",
+        "post_url": "",
+        "country": "PH",
+        "activity": "Agriculture and Food Production",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "1 GB"
+        }
+    },
+    {
+        "post_title": "Twaweza",
+        "group_name": "nightspire",
+        "discovered": "2025-07-13 14:58:06.237864",
+        "description": "Twaweza",
+        "website": "twaweza.org",
+        "published": "2025-07-04 00:00:00.000000",
+        "post_url": "",
+        "country": "TZ",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "2TB"
+        }
     }
 ]

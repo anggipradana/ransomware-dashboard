@@ -264730,5 +264730,20 @@
         "activity": "Manufacturing",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "North Country HealthCare",
+        "group_name": "stormous",
+        "discovered": "2025-07-13 07:35:59.137439",
+        "description": "Health information for 600,000 patients has been accessed from the North Country Health (NCH) care",
+        "website": "",
+        "published": "2025-07-13 07:35:11.058565",
+        "post_url": "http://6sf5xa7eso3e3vk46i5tpcqhnlayczztj7zjktzaztlotyy75zs6j7qd.onion/NCH/",
+        "country": "US",
+        "activity": "Healthcare",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "?GB"
+        }
     }
 ]

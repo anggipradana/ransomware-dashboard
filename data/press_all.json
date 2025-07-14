@@ -2940,7 +2940,10 @@
           "Predator": 2
         }
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "dragonforce",
+        "permalink": "https://www.ransomware.live/id/QmVsa0BkcmFnb25mb3JjZQ=="
+      }
     },
     {
       "date": "2025-05-09",

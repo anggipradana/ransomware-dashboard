@@ -4,8 +4,42 @@
     "month": null,
     "country": null
   },
-  "count": 2440,
+  "count": 2447,
   "results": [
+    {
+      "date": "2025-07-11",
+      "victim": "Nottingham Trent University",
+      "domain": "ntu.ac.uk",
+      "country": "GB",
+      "summary": "Nottingham Trent University a été victime d'une attaque cybernétique qui a touché un petit nombre de serveurs, mais les opérations de l'université ont continué normalement. Les mots de passe de tous les comptes des employés et des étudiants ont été réinitialisés. L'université a travaillé pour atténuer l'impact de l'incident et a remercié sa communauté pour sa réactivité et sa vigilance.",
+      "title": "University hit by cyber attack as it resets everyone's passwords",
+      "url": "https://www.nottinghampost.com/news/nottingham-news/nottingham-trent-university-hit-cyber-10339991",
+      "added": "2025-07-15",
+      "infostealer": {
+        "update": "2025-07-15 07:53:58",
+        "employees": 585,
+        "users": 2417,
+        "thirdparties_domain": 210,
+        "employees_url": 50,
+        "users_url": 100,
+        "thirdparties": 162,
+        "infostealer_stats": {
+          "Lumma": 1736,
+          "RedLine": 1680,
+          "Raccoon": 658,
+          "StealC": 386,
+          "Vidar": 156,
+          "Azorult": 110,
+          "UNKNOWN": 74,
+          "CRYPTBOT": 24,
+          "Atomic": 16,
+          "Taurus": 6,
+          "Mystic": 6,
+          "Predator": 2
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2025-07-10",
       "victim": "Wibaie",
@@ -64,6 +98,27 @@
           "KPOT": 3,
           "Atomic": 2
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-07-09",
+      "victim": "DITTT",
+      "domain": "dittt.gouv.nc",
+      "country": "NC",
+      "summary": "La DITTT a été victime d'une cyberattaque visant les données relatives aux immatriculations et aux permis de conduire. L'ampleur de l'attaque est en cours d'évaluation. Une enquête a été ouverte pour déterminer l'origine exacte de l'attaque et renforcer les dispositifs de sécurité existants.",
+      "title": "Les données de la DITTT visées par une cyberattaque",
+      "url": "https://www.lnc.nc/article/nouvelle-caledonie/les-donnees-de-la-dittt-visees-par-une-cyberattaque",
+      "added": "2025-07-15",
+      "infostealer": {
+        "update": "2025-07-15 07:53:31",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },
@@ -2686,6 +2741,27 @@
         "group": "interlock",
         "permalink": "https://www.ransomware.live/id/Q2VudHJhbCBQb2ludCBTY2hvb2wgRGlzdHJpY3QgNkBpbnRlcmxvY2s="
       }
+    },
+    {
+      "date": "2025-05-13",
+      "victim": "Anne Arundel Dermatology",
+      "domain": "aadermatology.com",
+      "country": "US",
+      "summary": "Anne Arundel Dermatology experienced a data breach due to unauthorized access to certain systems by an unknown third party. The breach occurred between February 14, 2025, and May 13, 2025. The affected data may include personal or health information.",
+      "title": "2025-07-11 Anne Arundel Dermatology Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-07-11-anne-arundel-dermatology-data-breach-notice-consumers",
+      "added": "2025-07-15",
+      "infostealer": {
+        "update": "2025-07-15 07:54:12",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
     },
     {
       "date": "2025-05-13",
@@ -8300,6 +8376,34 @@
         "group": "kairos",
         "permalink": "https://www.ransomware.live/id/ZHJ2aXRlbmFzLmNvbUBrYWlyb3M="
       }
+    },
+    {
+      "date": "2025-02-25",
+      "victim": "Genex Services, LLC",
+      "domain": "genexservices.com",
+      "country": "US",
+      "summary": "Genex Services, LLC experienced a data security incident due to a phishing attack that compromised the laptops of two employees, potentially affecting personal information. The incident was discovered on February 25, 2025. Genex is notifying all individuals whose information was potentially impacted.",
+      "title": "2025-07-10 Genex Services Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-07-10-genex-services-data-breach-notice-consumers",
+      "added": "2025-07-12",
+      "infostealer": {
+        "update": "2025-07-15 07:55:15",
+        "employees": 3,
+        "users": 18,
+        "thirdparties_domain": 7,
+        "employees_url": 6,
+        "users_url": 6,
+        "thirdparties": 7,
+        "infostealer_stats": {
+          "Lumma": 20,
+          "RedLine": 10,
+          "Vidar": 2,
+          "Raccoon": 2,
+          "Azorult": 2,
+          "StealC": 2
+        }
+      },
+      "ransomware": null
     },
     {
       "date": "2025-02-25",
@@ -14952,6 +15056,27 @@
     },
     {
       "date": "2024-11-07",
+      "victim": "Next Level Finance Partners, LLC d/b/a Century Support Services",
+      "domain": "centuryss.com",
+      "country": "US",
+      "summary": "An unauthorized party gained access to Century Support Services' computer systems, potentially accessing personal information including names, dates of birth, Social Security numbers, and medical information. The incident occurred on or about November 7, 2024, and was discovered on or about May 30, 2025. The company has notified affected individuals and is offering credit monitoring and other resources.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/a59ab7f7-0aff-43e0-b1db-53d8ad91cfaf.html",
+      "added": "2025-07-15",
+      "infostealer": {
+        "update": "2025-07-15 07:54:33",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2024-11-07",
       "victim": "Finastra",
       "domain": "finastra.com",
       "country": "GB",
@@ -18568,6 +18693,29 @@
         "employees_url": 0,
         "users_url": 0,
         "thirdparties": 0
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2024-09-15",
+      "victim": "Webb Institute",
+      "domain": "webb.edu",
+      "country": "US",
+      "summary": "Webb Institute suffered a criminal cyberattack that may have accessed personally identifiable information (PII) of certain individuals. The incident occurred on or about September 15, 2024, and was discovered on May 23, 2025. The school is offering complimentary access to Experian IdentityWorks for 6 months to help protect affected individuals.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/1523a138-eee1-435d-8cab-2964c32de79e.html",
+      "added": "2025-07-15",
+      "infostealer": {
+        "update": "2025-07-15 07:54:52",
+        "employees": 0,
+        "users": 1,
+        "thirdparties_domain": 1,
+        "employees_url": 0,
+        "users_url": 1,
+        "thirdparties": 4,
+        "infostealer_stats": {
+          "Generic Stealer": 1
+        }
       },
       "ransomware": null
     },
@@ -25665,6 +25813,28 @@
       "added": "2024-05-23",
       "infostealer": "",
       "ransomware": null
+    },
+    {
+      "date": "2024-05-16",
+      "victim": "Dordt University",
+      "domain": "dordt.edu",
+      "country": "US",
+      "summary": "Dordt University suffered a data security incident due to a sophisticated cybersecurity incident, resulting in unauthorized access to its network and potential exposure of personal information between April 21, 2024, and May 16, 2024. The attack had been claimed by BianLian on June 13th, 2024.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/fbad33e9-bb5e-47d9-a1d6-9356d9ff6e43.html",
+      "added": "2025-07-12",
+      "infostealer": {
+        "update": "2024-06-14 06:57:20",
+        "employees": 5,
+        "users": 3,
+        "thirdparties": 45,
+        "employees_url": 6,
+        "users_url": 0
+      },
+      "ransomware": {
+        "group": "bianlian",
+        "permalink": "https://www.ransomware.live/id/RG9yZHQgVW5pdmVyc2l0eUBiaWFubGlhbg=="
+      }
     },
     {
       "date": "2024-05-16",

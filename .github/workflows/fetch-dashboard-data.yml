@@ -1,9 +1,8 @@
-
-name: Fetch Dashboard Data (Hourly - Cleaned)
+name: Fetch Dashboard Data (Hourly - Sanitized)
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Every hour
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -45,10 +44,15 @@ jobs:
         curl -s -H "X-API-KEY: ${{ secrets.RANSOMWARE_API_KEY }}" \
           https://api-pro.ransomware.live/yara | jq 'del(.client)' > data/yara.json
 
-    - name: Fetch full victims list (no auth)
+    - name: Fetch /negotiations
+      run: |
+        curl -s -H "X-API-KEY: ${{ secrets.RANSOMWARE_API_KEY }}" \
+          https://api-pro.ransomware.live/negotiations | jq 'del(.client)' > data/negotiations.json
+
+    - name: Fetch victims.json (public)
       run: curl -s https://data.ransomware.live/victims.json > data/victims.json
 
-    - name: Fetch full groups list (no auth)
+    - name: Fetch groups.json (public)
       run: curl -s https://data.ransomware.live/groups.json > data/groups.json
 
     - name: Commit and push if changed

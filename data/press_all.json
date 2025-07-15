@@ -4,8 +4,71 @@
     "month": null,
     "country": null
   },
-  "count": 2447,
+  "count": 2450,
   "results": [
+    {
+      "date": "2025-07-13",
+      "victim": "Uni-Asia Group Limited",
+      "domain": "uni-asia.com",
+      "country": "SGN",
+      "summary": "Le groupe Uni-Asia a signalé un incident de cybersécurité au sein d’une de ses entités, dont le serveur informatique a été piraté, empêchant l’accès aux données qu’il contient. Les fonctions informatiques étant externalisées, le groupe collabore actuellement avec son prestataire pour contenir l'incident, évaluer son impact et rétablir l’accès aux données. L’enquête est en cours, et la société communiquera de nouvelles informations en cas d’évolution significative.",
+      "title": "Cybersecurity Incident",
+      "url": "https://uniasia.listedcompany.com/newsroom/20250714_193655_CHJ_MU5LLAOUPRNTL538.1.pdf",
+      "added": "2025-07-15",
+      "infostealer": {
+        "update": "2025-07-15 08:52:18",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-07-13",
+      "victim": "Millcreek Township",
+      "domain": "millcreektownship.com",
+      "country": "US",
+      "summary": "Le canton de Millcreek a bloqué une attaque informatique survenu le week-end, sans affecter les services. Les fonctionnaires ont détecté et contrecarré la menace, et aucun dommage n'a été causé. Le canton a mis en place des mesures de sécurité supplémentaires pour prévenir de futures menaces.",
+      "title": "Millcreek Township Blocks Weekend Cyberattack, No Services Affected",
+      "url": "https://www.erienewsnow.com/story/52921550/millcreek-township-blocks-weekend-cyberattack-no-services-affected",
+      "added": "2025-07-15",
+      "infostealer": {
+        "update": "2025-07-15 08:52:37",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-07-13",
+      "victim": "Cookeville Regional Medical Center",
+      "domain": "crmchealth.org",
+      "country": "US",
+      "summary": "Le Cookeville Regional Medical Center a découvert une faille de sécurité dans son réseau, une partie non autorisée a eu accès au réseau de l'hôpital, mais les soins aux patients restent la priorité absolue. L'hôpital continue de fonctionner normalement et les investigations sont en cours. La sécurité des patients est assurée en dépit de la coupure d'internet. (via eCrime.ch)",
+      "title": "CRMC experiencing a network security incident - UCBJ - Upper Cumberland Business Journal",
+      "url": "https://www.ucbjournal.com/crmc-experiencing-a-network-security-incident/",
+      "added": "2025-07-15",
+      "infostealer": {
+        "update": "2025-07-15 08:53:00",
+        "employees": 1,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 1,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2025-07-11",
       "victim": "Nottingham Trent University",

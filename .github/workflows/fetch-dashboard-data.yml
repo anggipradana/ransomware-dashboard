@@ -48,6 +48,11 @@ jobs:
       run: |
         curl -s -H "X-API-KEY: ${{ secrets.RANSOMWARE_API_KEY }}" \
           https://api-pro.ransomware.live/negotiations | jq 'del(.client)' > data/negotiations.json
+          
+    - name: Fetch /ransomnotes
+      run: |
+        curl -s -H "X-API-KEY: ${{ secrets.RANSOMWARE_API_KEY }}" \
+          https://api-pro.ransomware.live/ransomnotes | jq 'del(.client)' > data/ransomnotes.json
 
     - name: Fetch victims.json (public)
       run: curl -s https://data.ransomware.live/victims.json > data/victims.json

@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2450,
+  "count": 2451,
   "results": [
     {
       "date": "2025-07-13",
@@ -2007,6 +2007,30 @@
         "infostealer_stats": {}
       },
       "ransomware": null
+    },
+    {
+      "date": "2025-05-29",
+      "victim": "Lorain County Auditor",
+      "domain": "loraincountyauditor.gov",
+      "country": "US",
+      "summary": "Une faille de sécurité en ligne a forcé la fermeture de plusieurs bureaux du comté de Lorain dans l'Ohio. Les services les plus critiques restent en ligne, mais certains systèmes sont hors ligne par précaution. Les commissaires travaillent avec des experts pour enquêter sur l'incident. L'attaque a été revendiquée le 14 juillet sous l'enseigne Global.",
+      "title": "Local courts unexpectedly closed after online security incident",
+      "url": "https://fox8.com/news/online-security-incident-unexpectedly-causes-some-lorain-county-courts-to-close/",
+      "added": "2025-07-15",
+      "infostealer": {
+        "update": "2025-07-14 15:47:30",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "global",
+        "permalink": "https://www.ransomware.live/id/bG9yYWluY291bnR5YXVkaXRvci5nb3ZAZ2xvYmFs"
+      }
     },
     {
       "date": "2025-05-29",

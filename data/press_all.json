@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2451,
+  "count": 2452,
   "results": [
     {
       "date": "2025-07-13",
@@ -66,6 +66,40 @@
         "users_url": 0,
         "thirdparties": 0,
         "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-07-11",
+      "victim": "Universidade Federal do Piauí (UFPI)",
+      "domain": "ufpi.br",
+      "country": "BR",
+      "summary": "L'universté fédérale de Piauí a signalé que les systèmes institutionnels affectés par des dysfonctionnements depuis vendredi ont été stabilisés. La cause principale de l'instabilité était l'épuisement des ressources informatiques. Un script malveillant a été identifié et isolé par l'équipe de technologie.",
+      "title": "UFPI restabelece sistemas afetados por ataque cibernético",
+      "url": "https://piauihoje.com/noticias/educacao/ufpi-restabelece-sistemas-afetados-por-ataque-cibernetico-440149.html",
+      "added": "2025-07-15",
+      "infostealer": {
+        "update": "2025-07-15 14:57:27",
+        "employees": 8,
+        "users": 3310,
+        "thirdparties_domain": 0,
+        "employees_url": 2,
+        "users_url": 100,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "RedLine": 2512,
+          "Lumma": 1650,
+          "Raccoon": 852,
+          "StealC": 228,
+          "Vidar": 202,
+          "Azorult": 134,
+          "UNKNOWN": 96,
+          "CRYPTBOT": 28,
+          "Mystic": 14,
+          "Taurus": 4,
+          "Predator": 4,
+          "Ficker": 2
+        }
       },
       "ransomware": null
     },

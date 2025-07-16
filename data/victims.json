@@ -265614,5 +265614,95 @@
         "activity": "Not Found",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Tra ***",
+        "group_name": "crypto24",
+        "discovered": "2025-07-16 16:26:28.460867",
+        "description": "...",
+        "website": "tra ***",
+        "published": "2025-07-16 16:26:27.458903",
+        "post_url": "",
+        "country": "",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": {
+            "size": ""
+        }
+    },
+    {
+        "post_title": "Larimart S.P.A",
+        "group_name": "crypto24",
+        "discovered": "2025-07-16 16:26:52.883261",
+        "description": "We have secured 2TB of confidential data : NATO-linked armor specifications and ballistic protection designs,EUC/EUS certificates and UAMA export control documents,VTLM test data and confidential field performance results from Santa Severa,Strategic planning documents, internal pricing, MoD, invoices and tactical customer lists,Archives of confidential consortium contracts and weapon system development records.",
+        "website": "larimart.it",
+        "published": "2025-07-15",
+        "post_url": "",
+        "country": "IT",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": {
+            "size": "2TB"
+        }
+    },
+    {
+        "post_title": "Warisan TC Holdings Berhad",
+        "group_name": "crypto24",
+        "discovered": "2025-07-16 16:27:16.133792",
+        "description": "We have exfiltrated over 300GB of sensitive data, including Customer databases (all dbs of wtc - TOURPLAN, CRM, E-INVOICE,...),Legal and HR documents, Financial and employee records, Contractual documents with partners and customers.",
+        "website": "warisantc.com",
+        "published": "2025-07-09",
+        "post_url": "",
+        "country": "MY",
+        "activity": "Transportation/Logistics",
+        "duplicates": [],
+        "extrainfos": {
+            "size": "300GB"
+        }
+    },
+    {
+        "post_title": "Tan Chong Motor Holdings Berhad",
+        "group_name": "crypto24",
+        "discovered": "2025-07-16 16:27:39.772446",
+        "description": "We have exfiltrated over 300GB of sensitive data, including Customer databases (all dbs of tanchong - NAV, BRASSTAX, VTS, CRM, E-INVOICE,...),Legal and HR documents, Financial and employee records, Contractual documents with partners and customers.",
+        "website": "tanchonggroup.com",
+        "published": "2025-07-09",
+        "post_url": "",
+        "country": "MY",
+        "activity": "Manufacturing",
+        "duplicates": [],
+        "extrainfos": {
+            "size": "300GB"
+        }
+    },
+    {
+        "post_title": "A-Qroup Sığorta Şirkəti",
+        "group_name": "crypto24",
+        "discovered": "2025-07-16 16:28:02.775457",
+        "description": "The entire InsureAZ database has been leaked — including real insurance documents and all related materials such as medical, auto, and internal corporate records.",
+        "website": "a-group.az",
+        "published": "2025-06-18",
+        "post_url": "",
+        "country": "AZ",
+        "activity": "Financial Services",
+        "duplicates": [],
+        "extrainfos": {
+            "size": "730GB"
+        }
+    },
+    {
+        "post_title": "Artemis Healthcare, Inc",
+        "group_name": "crypto24",
+        "discovered": "2025-07-16 16:28:27.276941",
+        "description": "It contains sensitive personal data, including medical records, official documents, and imaging files of millions of patients, as well as various databases.",
+        "website": "www.arianadx.com",
+        "published": "2025-06-18",
+        "post_url": "",
+        "country": "US",
+        "activity": "Healthcare",
+        "duplicates": [],
+        "extrainfos": {
+            "size": "1TB"
+        }
     }
 ]

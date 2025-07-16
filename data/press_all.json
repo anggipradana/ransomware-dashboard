@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2452,
+  "count": 2458,
   "results": [
     {
       "date": "2025-07-13",
@@ -260,6 +260,42 @@
         "infostealer_stats": {
           "RedLine": 4,
           "Lumma": 4
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-07-04",
+      "victim": "Air Serbia",
+      "domain": "airserbia.com",
+      "country": "RS",
+      "summary": "Air Serbia, la compagnie aérienne nationale de Serbie, est victime d'une cyberattaque qui a commencé le 4 juillet et qui a déjà duré 11 jours, entraînant des retards dans la distribution des bulletins de paie du personnel. L'attaque a compromis l'annuaire actif de l'entreprise et pourrait avoir entraîné une faille de sécurité dans les données personnelles. Le personnel de l'entreprise a été invité à coopérer avec l'équipe IT pour résoudre le problème.",
+      "title": "Air Serbia delays staff payslips due to ongoing cyberattack",
+      "url": "https://www.theregister.com/2025/07/16/air_serbia_cyberattack/",
+      "added": "2025-07-16",
+      "infostealer": {
+        "update": "2025-07-16 12:48:08",
+        "employees": 27,
+        "users": 757,
+        "thirdparties_domain": 10,
+        "employees_url": 8,
+        "users_url": 100,
+        "thirdparties": 19,
+        "infostealer_stats": {
+          "RedLine": 520,
+          "Lumma": 337,
+          "Generic Stealer": 120,
+          "StealC": 124,
+          "Raccoon": 122,
+          "Vidar": 47,
+          "Azorult": 44,
+          "UNKNOWN": 24,
+          "Mystic": 6,
+          "CRYPTBOT": 4,
+          "Predator": 4,
+          "Ficker": 2,
+          "DarkCrystal": 1,
+          "Atomic": 2
         }
       },
       "ransomware": null
@@ -2102,6 +2138,27 @@
       "added": "2025-05-31",
       "infostealer": {
         "update": "2025-05-31 15:20:02",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-05-28",
+      "victim": "Belvedere",
+      "domain": "cityofbelvedere.org",
+      "country": "US",
+      "summary": "La ville de Belvedere a subi une attaque informatique en mai qui a conduit à la fermeture temporaire de ses serveurs et systèmes de réseau. Les autorités enquêtent actuellement pour déterminer si des données sensibles ont été compromises. L'incident s'est produit un mois avant la publication d'un rapport qui met en évidence les risques croissants de cyberattaques dans la région. L'attaque a été revendiquée sous l'enseigne Qilin le 5 juin 2025.",
+      "title": "The Ark | Belvedere probes cyberattack as report warns of rising risks",
+      "url": "https://www.thearknewspaper.com/live/belvedere-probes-cyberattack-as-report-warns-of-rising-risks",
+      "added": "2025-07-16",
+      "infostealer": {
+        "update": "2025-06-05 21:48:39",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,
@@ -5368,6 +5425,27 @@
     },
     {
       "date": "2025-04-10",
+      "victim": "Appalachian Regional Commission",
+      "domain": "arc.gov",
+      "country": "US",
+      "summary": "The Appalachian Regional Commission (ARC) suffered a data security incident involving malware deployment on certain systems, resulting in unauthorized access to personal information. The incident occurred on April 10, 2025, and was discovered on the same date. It was claimed under the Medusa brand on April 27th.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/92432803-595d-4344-adcb-727e9eff6573.html",
+      "added": "2025-07-16",
+      "infostealer": {
+        "update": "2025-07-16 12:48:48",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-04-10",
       "victim": "Saito Korotype Printing Co., Ltd.",
       "domain": "saicollo.jp",
       "country": "JP",
@@ -8500,6 +8578,33 @@
     },
     {
       "date": "2025-02-25",
+      "victim": "All Star Recruiting Locums, LLC",
+      "domain": "allstarhealthcaresolutions.com",
+      "country": "US",
+      "summary": "All Star Recruiting Locums, LLC notified customers of a data breach that occurred on or around February 25, 2025, where an unauthorized third party may have accessed personal information. The attack was claimed under the RansomHub brand on March 21st, 2025.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/bb068583-f49d-4be6-9b67-b95f3bd3eba3.html",
+      "added": "2025-07-16",
+      "infostealer": {
+        "update": "2025-03-21 18:45:50",
+        "employees": 0,
+        "users": 2,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 2,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "RedLine": 2,
+          "Lumma": 2
+        }
+      },
+      "ransomware": {
+        "group": "ransomhub",
+        "permalink": "https://www.ransomware.live/id/d3d3LmFsbHN0YXJoZWFsdGhjYXJlc29sdXRpb25zLmNvbUByYW5zb21odWI="
+      }
+    },
+    {
+      "date": "2025-02-25",
       "victim": "Genex Services, LLC",
       "domain": "genexservices.com",
       "country": "US",
@@ -10607,6 +10712,33 @@
         "employees_url": 0,
         "users_url": 1,
         "thirdparties": 0
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-01-29",
+      "victim": "American Consumer Credit Counseling, Inc. (âACCCâ)",
+      "domain": "consumercredit.com",
+      "country": "US",
+      "summary": "Unauthorized access to some of ACCC's systems occurred on January 29, 2025, resulting in the acquisition of personal information, including names and financial account numbers. The breach affected 94 Maine residents. ACCC has taken steps to enhance the security of its computer network.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/eff61f6b-6d9e-470c-847e-5ba4d62f7b8e.html",
+      "added": "2025-07-16",
+      "infostealer": {
+        "update": "2025-07-16 12:47:47",
+        "employees": 0,
+        "users": 25,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 7,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "Lumma": 21,
+          "RedLine": 18,
+          "Generic Stealer": 2,
+          "Azorult": 4,
+          "UNKNOWN": 2
+        }
       },
       "ransomware": null
     },
@@ -47289,6 +47421,30 @@
       "url": "https://radiologybusiness.com/topics/health-it/enterprise-imaging/70-year-old-radiology-practice-suffers-cyberattack",
       "infostealer": "",
       "ransomware": null
+    },
+    {
+      "date": "2022-11-28",
+      "victim": "DotHouse Health",
+      "domain": "dothousehealth.org",
+      "country": "US",
+      "summary": "DotHouse Health experienced a data breach due to suspicious activity on their computer systems, potentially impacting patient information. The breach occurred between October 31, 2022, and November 27, 2022. It was claimed under the Alphv/BlackCat brand on July 26th, 2023.",
+      "title": "2025-07-14 DotHouse Health Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-07-14-dothouse-health-data-breach-notice-consumers",
+      "added": "2025-07-16",
+      "infostealer": {
+        "update": "2025-07-16 12:48:26",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "alphv",
+        "permalink": "https://www.ransomware.live/id/ZG90aG91c2VoZWFsdGhvcmdAYWxwaHY="
+      }
     },
     {
       "date": "2022-11-25",

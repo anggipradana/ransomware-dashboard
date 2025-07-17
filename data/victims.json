@@ -264604,12 +264604,18 @@
         "discovered": "2025-07-12 09:59:00.967394",
         "description": "United States",
         "website": "www.eia-global.com",
-        "published": "2025-07-11 09:58:16.293448",
+        "published": "2025-07-03 00:00:00.000000",
         "post_url": "http://k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion//topic.php?id=oKgg1wuLGZeRXU",
         "country": "US",
         "activity": "Financial Services",
         "duplicates": [],
-        "extrainfos": []
+        "extrainfos": [],
+        "modifications": [
+            {
+                "date": "2025-07-17 14:00:35.107465",
+                "description": "Update published"
+            }
+        ]
     },
     {
         "post_title": "INS Quebec",
@@ -266062,6 +266068,19 @@
         "post_url": "",
         "country": "SG",
         "activity": "Transportation/Logistics",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Fayrefield Foods",
+        "group_name": "akira",
+        "discovered": "2025-07-17 14:10:30.800303",
+        "description": "Fayrefield Foods specializes in the production and marketing of d\nairy products and powders throughout Europe, the Middle East, and\nNorth America.\n\nWe are ready to upload more than 41 GB of essential corporate doc\numents. Scans of almost all employees and other personal document\ns, detailed financial files, client information, NDAs, contracts \nand agreements, etc.\n",
+        "website": "",
+        "published": "2025-07-17 00:00:00.000000",
+        "post_url": "",
+        "country": "GB",
+        "activity": "Agriculture and Food Production",
         "duplicates": [],
         "extrainfos": []
     }

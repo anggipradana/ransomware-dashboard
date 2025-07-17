@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2460,
+  "count": 2462,
   "results": [
     {
       "date": "2025-07-16",
@@ -27,6 +27,27 @@
           "RedLine": 2,
           "Lumma": 2
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-07-13",
+      "victim": "Seoul Guarantee Insurance (SGI)",
+      "domain": "sgi.co.kr",
+      "country": "KR",
+      "summary": "SGI a été victime d'une attaque de ransomware, ce qui met en lumière les règles de cybersécurité financière laxistes. L'attaque a eu lieu le 17 juillet 2025. L'entreprise est basée à Séoul, en Corée du Sud.",
+      "title": "SGI ransomware attack puts lax financial cybersecurity rules under scrutiny - The Korea Times",
+      "url": "https://www.koreatimes.co.kr/business/banking-finance/20250717/sgi-ransomware-attack-puts-lax-financial-cybersecurity-rules-under-scrutiny",
+      "added": "2025-07-17",
+      "infostealer": {
+        "update": "2025-07-17 08:24:20",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },
@@ -16459,6 +16480,29 @@
         "employees_url": 1,
         "users_url": 89,
         "thirdparties": 3
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2024-10-23",
+      "victim": "LaBovick Law Group",
+      "domain": "labovick.com",
+      "country": "US",
+      "summary": "LaBovick Law Group suffered a ransomware attack, resulting in the exfiltration of client data, including personal information. The attack occurred between October 7, 2024, and October 23, 2024. The law firm paid the ransom on November 12th.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/9cf8bea2-c7d2-4466-884b-f1e6219acca7.html",
+      "added": "2025-07-17",
+      "infostealer": {
+        "update": "2025-07-17 08:24:02",
+        "employees": 0,
+        "users": 1,
+        "thirdparties_domain": 3,
+        "employees_url": 0,
+        "users_url": 1,
+        "thirdparties": 1,
+        "infostealer_stats": {
+          "RedLine": 2
+        }
       },
       "ransomware": null
     },

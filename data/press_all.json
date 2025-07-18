@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2462,
+  "count": 2464,
   "results": [
     {
       "date": "2025-07-16",
@@ -27,6 +27,27 @@
           "RedLine": 2,
           "Lumma": 2
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-07-14",
+      "victim": "Novabev Group",
+      "domain": "novabev.com",
+      "country": "RU",
+      "summary": "Le groupe russe Novabev a été victime d'une cyberattaque sans précédent qui a perturbé temporairement une partie de son infrastructure informatique. Les attaquants ont demandé une rançon, mais l'entreprise a refusé de céder à leurs exigences. Les opérations de l'entreprise, notamment celles de sa filiale WineLab, ont été affectées, mais les données personnelles des clients ne semblent pas avoir été compromises.",
+      "title": "Russia’s Novabev Group hit by cyberattack",
+      "url": "https://www.just-drinks.com/news/novabev-group-hit-by-cyberattack/",
+      "added": "2025-07-18",
+      "infostealer": {
+        "update": "2025-07-18 10:49:46",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },
@@ -8310,6 +8331,30 @@
         }
       },
       "ransomware": null
+    },
+    {
+      "date": "2025-03-02",
+      "victim": "Conterra Ultra Broadband Holdings, Inc. d/b/a Conterra Networks",
+      "domain": "conterra.com",
+      "country": "US",
+      "summary": "Conterra Networks suffered a data breach due to ransomware encryption of certain servers, potentially exposing sensitive information. The incident occurred between March 2 and March 12, 2025 and was claimed under the RansomHub brand on March 26th.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/fd278b65-cf6a-47d8-89ac-e697fb6bbfc0.html",
+      "added": "2025-07-18",
+      "infostealer": {
+        "update": "2025-03-26 16:27:21",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "ransomhub",
+        "permalink": "https://www.ransomware.live/id/Y29udGVycmEuY29tQHJhbnNvbWh1Yg=="
+      }
     },
     {
       "date": "2025-03-02",

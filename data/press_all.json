@@ -4,8 +4,83 @@
     "month": null,
     "country": null
   },
-  "count": 2464,
+  "count": 2469,
   "results": [
+    {
+      "date": "2025-07-18",
+      "victim": "Openbaar Ministerie",
+      "domain": "om.nl",
+      "country": "NL",
+      "summary": "Le Openbaar Ministerie a fermé toutes les connexions internet après une menace de sécurité grave, les hackers ayant probablement exploité une vulnérabilité dans Citrix NetScaler. Les employés ne peuvent plus travailler à distance et les officiers de justice ont dû télécharger leurs documents avant les audiences. La situation est considérée comme grave, avec des preuves que la vulnérabilité a été exploitée.",
+      "title": "OM offline na Citrix-kwetsbaarheid: datalek niet uitgesloten",
+      "url": "https://www.techzine.nl/nieuws/security/567671/om-offline-na-citrix-kwetsbaarheid-datalek-niet-uitgesloten/",
+      "added": "2025-07-18",
+      "infostealer": {
+        "update": "2025-07-18 11:43:20",
+        "employees": 0,
+        "users": 3,
+        "thirdparties_domain": 5,
+        "employees_url": 1,
+        "users_url": 1,
+        "thirdparties": 5,
+        "infostealer_stats": {
+          "RedLine": 2
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-07-18",
+      "victim": "M&L Smarter Solutions AG",
+      "domain": "mlconsult.com",
+      "country": "DE",
+      "summary": "Vodafone a connu des problèmes de vente en raison d'une attaque informatique sur un fournisseur de services, ce qui a entraîné la perte d'accès à l'outil de vente Vodafone Sales World. Les données de vente ne sont plus accessibles et Vodafone échange désormais des informations avec ses partenaires de vente par e-mail et WhatsApp. L'entreprise a informé les autorités compétentes et n'a pas encore constaté de fuite de données personnelles des clients.",
+      "title": "Vodafone-Vertrieb durch Cyberangriff auf Dienstleister beeinträchtigt",
+      "url": "https://www.borncity.com/blog/2025/07/18/vodafone-vertrieb-durch-cyberangriff-auf-dienstleister-beeintraechtigt/",
+      "added": "2025-07-18",
+      "infostealer": {
+        "update": "2025-07-18 11:43:42",
+        "employees": 0,
+        "users": 151,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 11,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "RedLine": 98,
+          "Lumma": 74,
+          "Raccoon": 24,
+          "Azorult": 18,
+          "Vidar": 14,
+          "CRYPTBOT": 2,
+          "Taurus": 2,
+          "UNKNOWN": 2,
+          "StealC": 2
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-07-18",
+      "victim": "Susan B. Allen Memorial Hospital",
+      "domain": "sbamh.com",
+      "country": "US",
+      "summary": "Un hôpital du Kansas, le Susan B. Allen Memorial Hospital, a détecté une activité anormale dans son réseau, ce qui a entraîné une panne de système. Une équipe de cybersécurité a été appelée pour enquêter et aider à la récupération. Cette attaque potentielle s'inscrit dans une tendance croissante de cyberattaques visant les fournisseurs de soins de santé aux États-Unis.",
+      "title": "Cyberattack suspected at El Dorado hospital, part of growing trend targeting medical systems",
+      "url": "https://www.kwch.com/2025/07/18/cyberattack-suspected-el-dorado-hospital-part-growing-trend-targeting-medical-systems/",
+      "added": "2025-07-18",
+      "infostealer": {
+        "update": "2025-07-18 11:44:00",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2025-07-16",
       "victim": "Delfingen",
@@ -10011,6 +10086,30 @@
         "infostealer_stats": {}
       },
       "ransomware": null
+    },
+    {
+      "date": "2025-02-09",
+      "victim": "Diller, Scofidio + Renfro, LLC",
+      "domain": "dsrny.com",
+      "country": "US",
+      "summary": "Diller Scofidio + Renfro, LLC experienced a data security incident where an unknown actor acquired certain data without authorization on or about February 8, 2025. The incident occurred after a network disruption on February 9, 2025. The company is offering complimentary credit monitoring and identity theft protection services to affected individuals.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/51421607-e3b2-4974-9768-fd938e231f87.html",
+      "added": "2025-07-18",
+      "infostealer": {
+        "update": "2025-03-04 20:06:05",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "ransomhub",
+        "permalink": "https://www.ransomware.live/id/ZHNybnkuY29tQHJhbnNvbWh1Yg=="
+      }
     },
     {
       "date": "2025-02-09",
@@ -23561,6 +23660,32 @@
         "employees_url": 0,
         "users_url": 0,
         "thirdparties": 0
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2024-07-04",
+      "victim": "The Alcohol & Drug Testing Service",
+      "domain": "tadts.net",
+      "country": "US",
+      "summary": "The Alcohol & Drug Testing Service experienced a cybersecurity incident in July 2024 that potentially involved personal information. The incident occurred on July 9, 2024, and an unauthorized actor downloaded some of the company's data. The company has taken steps to strengthen its security and protect affected individuals.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/e987c96e-5f4d-4312-9518-10d9ac360450.html",
+      "added": "2025-07-18",
+      "infostealer": {
+        "update": "2025-07-18 11:44:20",
+        "employees": 0,
+        "users": 11,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 1,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "Lumma": 12,
+          "Vidar": 6,
+          "StealC": 2,
+          "Generic Stealer": 1
+        }
       },
       "ransomware": null
     },

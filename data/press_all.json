@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2470,
+  "count": 2476,
   "results": [
     {
       "date": "2025-07-18",
@@ -78,6 +78,37 @@
         "users_url": 0,
         "thirdparties": 0,
         "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-07-17",
+      "victim": "Police de Cordoue",
+      "domain": "policiacordoba.gov.ar",
+      "country": "AR",
+      "summary": "La policía de Córdoba a confirmé avoir subi une attaque cybernétique qui a consisté en un accès non autorisé aux informations liées aux registres du personnel policier. L'institution a assuré que la sécurité des citoyens n'a pas été compromise et que les données confidentielles n'ont pas été affectées. Les autorités ont pris des mesures pour contenir et atténuer l'incident.",
+      "title": "La policía de Córdoba confirmó que sufrió un ataque cibernético",
+      "url": "https://www.lavelez.com.ar/locales/la-policia-de-cordoba-confirmo-que-sufrio-un-ataque-cibernetico/140222/",
+      "added": "2025-07-20",
+      "infostealer": {
+        "update": "2025-07-20 14:22:08",
+        "employees": 118,
+        "users": 614,
+        "thirdparties_domain": 4,
+        "employees_url": 9,
+        "users_url": 40,
+        "thirdparties": 12,
+        "infostealer_stats": {
+          "RedLine": 501,
+          "Raccoon": 88,
+          "Vidar": 28,
+          "racoon": 12,
+          "UNKNOWN": 11,
+          "Azorult": 4,
+          "Lumma": 122,
+          "StealC": 47,
+          "Mystic": 2
+        }
       },
       "ransomware": null
     },
@@ -995,6 +1026,27 @@
           "UNKNOWN": 2,
           "Azorult": 2
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-06-23",
+      "victim": "Birdsong Peanuts",
+      "domain": "birdsongpeanuts.com",
+      "country": "US",
+      "summary": "Birdsong Peanuts suffered a data breach that exposed customers to identity theft and fraud. The breach occurred when customers were offered free credit monitoring services. The breach was discovered on an unknown date, but the notification was sent on 07/15/2025.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/caf3d0da-c0da-4e82-92a0-8c43962790c8.html",
+      "added": "2025-07-19",
+      "infostealer": {
+        "update": "2025-07-20 14:20:24",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },
@@ -4983,6 +5035,27 @@
           "Lumma": 2,
           "Vidar": 2
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-04-17",
+      "victim": "Arbor Associates,Inc.",
+      "domain": "arborstaffing.com",
+      "country": "US",
+      "summary": "Arbor Associates,Inc. suffered a data security incident that may have affected personal or protected health information. The incident occurred between April 15, 2025, and April 17, 2025, when certain files may have been acquired without authorization. The affected information may have included first and last name, contact information, age, biologic sex, date of birth, and medical record number.",
+      "title": "2025-07-17 Arbor Associates Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-07-17-arbor-associates-data-breach-notice-consumers",
+      "added": "2025-07-19",
+      "infostealer": {
+        "update": "2025-07-20 14:21:45",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },
@@ -19215,6 +19288,27 @@
     },
     {
       "date": "2024-09-15",
+      "victim": "Western Montana Mental Health Center",
+      "domain": "wmmhc.org",
+      "country": "US",
+      "summary": "Western Montana Mental Health Center experienced a network disruption on September 15, 2024, which led to unauthorized access to certain files. The breach involved personal and protected health information of approximately 6 Maine residents. The organization is offering complimentary identity protection services to affected individuals.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/eddb74c4-b969-4fd8-8e71-4b9f003095bd.html",
+      "added": "2025-07-19",
+      "infostealer": {
+        "update": "2025-07-20 14:21:25",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2024-09-15",
       "victim": "Webb Institute",
       "domain": "webb.edu",
       "country": "US",
@@ -21258,6 +21352,29 @@
         "employees_url": 1,
         "users_url": 3,
         "thirdparties": 28
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2024-08-12",
+      "victim": "St. Lawrence Lewis Board of Cooperative Educational Services",
+      "domain": "sllboces.org",
+      "country": "US",
+      "summary": "St. Lawrence-Lewis Board of Cooperative Educational Services experienced a data incident which may have affected personal information, including SSN, name, address, DOB, tax identification number, medical information, and financial account information. The incident occurred on or about August 12, 2024. The organization has taken measures to mitigate the potential impact and is offering complimentary credit monitoring services.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/64a4742c-859e-400b-8098-589299a4052c.html",
+      "added": "2025-07-20",
+      "infostealer": {
+        "update": "2025-07-20 14:21:06",
+        "employees": 0,
+        "users": 3,
+        "thirdparties_domain": 1,
+        "employees_url": 0,
+        "users_url": 2,
+        "thirdparties": 3,
+        "infostealer_stats": {
+          "Lumma": 4
+        }
       },
       "ransomware": null
     },
@@ -28391,6 +28508,29 @@
         "thirdparties": 0,
         "employees_url": 0,
         "users_url": 0
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2024-04-13",
+      "victim": "Safe Fleet Holdings, LLC",
+      "domain": "safefleet.net",
+      "country": "US",
+      "summary": "Safe Fleet Holdings, LLC experienced a data breach on April 13, 2024, where an unauthorized actor accessed certain systems and accessed or took personal information. The breach included names, addresses, Social Security numbers, and financial account information of Maine residents. Safe Fleet Holdings, LLC notified potentially affected individuals and offered credit monitoring and identity restoration services.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/b7d82113-b9ab-4e33-94a5-b9b4bdddfed8.html",
+      "added": "2025-07-19",
+      "infostealer": {
+        "update": "2025-07-20 14:20:45",
+        "employees": 0,
+        "users": 1,
+        "thirdparties_domain": 5,
+        "employees_url": 0,
+        "users_url": 1,
+        "thirdparties": 4,
+        "infostealer_stats": {
+          "StealC": 2
+        }
       },
       "ransomware": null
     },

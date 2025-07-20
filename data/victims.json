@@ -266395,5 +266395,27 @@
         "activity": "Not Found",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "TransCore ITS, LLC",
+        "group_name": "crypto24",
+        "discovered": "2025-07-20 00:51:06.310683",
+        "description": "We’ve successfully breached the internal network of TransCore’s Dubai office.Over 200 GB of internal data has been exfiltrated, including in-development source code, full file sets from active and archived client projects, internal financial records, and a massive trove of unprotected customer data — all stored without proper safeguards.The stolen data contains clear violations of multiple NDAs, exposing confidential third-party materials and client information.",
+        "website": "transcore.com",
+        "published": "2025-03-31 18:24:38.388288",
+        "post_url": "",
+        "country": "AE",
+        "activity": "Technology",
+        "duplicates": [
+            {
+                "date": "2025-07-20 00:51:06.375496",
+                "group": "chaos",
+                "link": "https://www.ransomware.live/id/VHJhbnNjb3JlQGNoYW9z",
+                "attackdate": "2025-03-31 18:24:38.388288"
+            }
+        ],
+        "extrainfos": {
+            "size": "2TB"
+        }
     }
 ]

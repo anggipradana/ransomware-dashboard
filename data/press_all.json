@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2469,
+  "count": 2470,
   "results": [
     {
       "date": "2025-07-18",
@@ -378,6 +378,35 @@
         "users_url": 0,
         "thirdparties": 0,
         "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-07-07",
+      "victim": "La Biennale di Venezia",
+      "domain": "labiennale.org",
+      "country": "IT",
+      "summary": "La Biennale di Venezia a été victime d'une attaque informatique le 7 juillet 2025, les techniciens ont isolé les systèmes et les autorités ont été informées. Les opérations de ripristino ont permis la réactivation progressive des services. La Biennale fournira des informations aux personnes dont les données personnelles pourraient avoir été compromises.",
+      "title": "Venezia, attacco informatico ai sistemi della Biennale",
+      "url": "https://tg.la7.it/cronaca/venezia-attacco-informatico-sistemi-biennale-18-07-2025-241317",
+      "added": "2025-07-20",
+      "infostealer": {
+        "update": "2025-07-20 13:28:29",
+        "employees": 19,
+        "users": 82,
+        "thirdparties_domain": 2,
+        "employees_url": 5,
+        "users_url": 30,
+        "thirdparties": 5,
+        "infostealer_stats": {
+          "RedLine": 62,
+          "Lumma": 28,
+          "StealC": 22,
+          "Raccoon": 16,
+          "Vidar": 8,
+          "UNKNOWN": 4,
+          "Azorult": 2
+        }
       },
       "ransomware": null
     },

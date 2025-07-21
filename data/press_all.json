@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2476,
+  "count": 2477,
   "results": [
     {
       "date": "2025-07-18",
@@ -10662,6 +10662,30 @@
         "infostealer_stats": {}
       },
       "ransomware": null
+    },
+    {
+      "date": "2025-02-03",
+      "victim": "Alpha Wellness and Alpha Medical Centre",
+      "domain": "alphamedctr.com",
+      "country": "US",
+      "summary": "Une petite pratique médicale en Géorgie a été forcée de fermer ses portes en raison d'une attaque de ransomware, les données de 1 714 patients ont été exposées. La pratique médicale a engagé des experts en cybersécurité pour enquêter sur l'incident. L'attaque a été attribuée au groupe de ransomware RansomHub.",
+      "title": "Small Georgia Medical Practice Closes Due to Cyberattack",
+      "url": "https://www.hipaajournal.com/small-georgia-medical-practice-closes-due-to-cyberattack/",
+      "added": "2025-07-21",
+      "infostealer": {
+        "update": "2025-02-18 17:05:53",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "ransomhub",
+        "permalink": "https://www.ransomware.live/id/d3d3LmFscGhhbWVkY3RyLmNvbUByYW5zb21odWI="
+      }
     },
     {
       "date": "2025-02-03",

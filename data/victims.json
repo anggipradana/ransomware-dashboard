@@ -266585,7 +266585,14 @@
         "country": "US",
         "activity": "Technology",
         "duplicates": [],
-        "extrainfos": []
+        "extrainfos": [],
+        "updates": [
+            {
+                "date": "2025-07-21 00:00:00.000000",
+                "description": "Dell confirms breach of test lab platform by World Leaks extortion group",
+                "link": "https://www.bleepingcomputer.com/news/security/dell-confirms-breach-of-test-lab-platform-by-world-leaks-extortion-group/"
+            }
+        ]
     },
     {
         "post_title": "Scherer Sanitätshaus Gruppe",

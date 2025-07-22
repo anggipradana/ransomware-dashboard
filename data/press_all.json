@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2478,
+  "count": 2479,
   "results": [
     {
       "date": "2025-07-22",
@@ -25,6 +25,33 @@
         "thirdparties": 0,
         "infostealer_stats": {
           "Lumma": 2
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-07-20",
+      "victim": "Groupe Colabor Inc.",
+      "domain": "colabor.com",
+      "country": "CA",
+      "summary": "Le Groupe Colabor Inc. a identifié un incident de cybersécurité qui a eu un impact sur ses systèmes internes de TI, la société a pris des mesures pour protéger son réseau et ses données. L'enquête est en cours pour comprendre l'étendue et l'impact de l'incident. Les détails sur l'incident, y compris la mesure dans laquelle les données des clients, des fournisseurs ou des employés ont pu avoir été consultées, ne sont pas encore connus.",
+      "title": "Groupe Colabor Inc. annonce faire l’objet d’un incident de cybersécurité",
+      "url": "https://www.globenewswire.com/fr/news-release/2025/07/21/3119097/0/fr/Groupe-Colabor-Inc-annonce-faire-l-objet-d-un-incident-de-cybersécurité.html",
+      "added": "2025-07-22",
+      "infostealer": {
+        "update": "2025-07-22 13:55:50",
+        "employees": 0,
+        "users": 23,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 8,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "Lumma": 24,
+          "RedLine": 12,
+          "Vidar": 2,
+          "Raccoon": 2,
+          "Azorult": 2
         }
       },
       "ransomware": null

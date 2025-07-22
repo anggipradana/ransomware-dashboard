@@ -1,6 +1,6 @@
 {
   "filter_type": null,
-  "count": 33,
+  "count": 34,
   "groups": [
     {
       "group": "Akira",
@@ -198,6 +198,12 @@
     },
     {
       "group": "Satanlockv2",
+      "ioc_types": {
+        "tox": 1
+      }
+    },
+    {
+      "group": "Securotrop",
       "ioc_types": {
         "tox": 1
       }

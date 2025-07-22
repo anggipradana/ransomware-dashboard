@@ -4,8 +4,31 @@
     "month": null,
     "country": null
   },
-  "count": 2477,
+  "count": 2478,
   "results": [
+    {
+      "date": "2025-07-22",
+      "victim": "Südwestdeutsche Medienholding (SWMH)",
+      "domain": "swmh.de",
+      "country": "DE",
+      "summary": "La Südwestdeutsche Medienholding a été victime d'une attaque de pirates informatiques, des tiers non autorisés ont pu accéder à son réseau, la société a déclaré un incident de sécurité informatique critique et est en contact étroit avec les autorités de sécurité.",
+      "title": "Kritischer Sicherheitsvorfall: Hackerangriff auf die SWMH-Mediengruppe - HORIZONT",
+      "url": "https://www.horizont.net/medien/nachrichten/kritischer-sicherheitsvorfall-hackerangriff-auf-die-swmh-mediengruppe-229298",
+      "added": "2025-07-22",
+      "infostealer": {
+        "update": "2025-07-22 09:54:42",
+        "employees": 0,
+        "users": 1,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 1,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "Lumma": 2
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2025-07-18",
       "victim": "Openbaar Ministerie",

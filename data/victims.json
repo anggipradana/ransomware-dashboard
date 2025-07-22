@@ -257841,7 +257841,7 @@
         "group_name": "qilin",
         "discovered": "2025-06-12 12:06:35.301378",
         "description": "The full leak will be published soon, unless a company representative contacts us via the channels provided.nuCamp RV (http://nucamprv.com) manufactures the highest quality recreational vehicles on the market today. Integrity lies at the core            ...",
-        "website": "(http://nucamprv.com",
+        "website": "http://www.nucamprv.com",
         "published": "2025-06-11 00:00:00.000000",
         "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=4eca3ce2-ab82-3e22-ad25-4a557ee4d2b9",
         "country": "US",
@@ -267061,6 +267061,174 @@
         "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=9ba0729e-3c0b-35d3-b547-ccb14418ddac",
         "country": "",
         "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "BronzeCraft",
+        "group_name": "securotrop",
+        "discovered": "2025-07-22 09:13:01.967892",
+        "description": "[AI generated] BronzeCraft is a leading manufacturer and distributor of high-quality, durable, and decorative bronze foundry cast products. The American-based company has been business since 1944, providing a wide range of products including window hardware, custom and specialty products. They use time-honored casting techniques and offer excellent customer service to meet the requirements of their diverse clientele.",
+        "website": "",
+        "published": "2025-07-21 00:00:00.000000",
+        "post_url": "http://securo45z554mw7rgrt7wcgv5eenj2xmxyrsdj3fcjsvindu63s4bsid.onion/BronzeCraft/",
+        "country": "US",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": ""
+        }
+    },
+    {
+        "post_title": "Fasse Valves",
+        "group_name": "securotrop",
+        "discovered": "2025-07-22 09:13:37.701913",
+        "description": "[AI generated] \"Fasse Valves\" is an American company that specializes in the design and manufacture of hydraulic valve systems. The company is renowned for their remote control products that fundamentally increase the productivity of hydraulic equipment. Their product line includes Multiplier valves, selector valves, remote valve control systems, and more, with applications in agricultural machinery, construction equipment, and industrial hydraulics.",
+        "website": "www.fasse.com",
+        "published": "2025-06-11 00:00:00.000000",
+        "post_url": "http://securo45z554mw7rgrt7wcgv5eenj2xmxyrsdj3fcjsvindu63s4bsid.onion/FasseValves/info.txt",
+        "country": "US",
+        "activity": "Manufacturing",
+        "duplicates": [
+            {
+                "date": "2025-07-22 09:13:37.773433",
+                "group": "qilin",
+                "link": "https://www.ransomware.live/id/ZmFzc2UuY29tQHFpbGlu",
+                "attackdate": "2025-06-11 00:00:00.000000"
+            }
+        ],
+        "extrainfos": {
+            "data_size": "98.12 GB"
+        }
+    },
+    {
+        "post_title": "Great Lakes Wholesale Group",
+        "group_name": "securotrop",
+        "discovered": "2025-07-22 09:14:10.407028",
+        "description": "[AI generated] Great Lakes Wholesale Group is a wholesale distributor providing a wide variety of general merchandise to dollar stores, discount stores, and grocery stores. The company offers products across several categories including health & beauty, groceries, household, houseware, hardware, toys, party supplies, pet supplies and others. They offer goods at a lower price point and are based in Lockport, Illinois, USA.",
+        "website": "www.glwholesale.com",
+        "published": "2025-06-19 00:00:00.000000",
+        "post_url": "http://securo45z554mw7rgrt7wcgv5eenj2xmxyrsdj3fcjsvindu63s4bsid.onion/GreatLakesWholesaleGroup/info.txt",
+        "country": "US",
+        "activity": "Not Found",
+        "duplicates": [
+            {
+                "date": "2025-07-22 09:14:10.463984",
+                "group": "qilin",
+                "link": "https://www.ransomware.live/id/Z2x3aG9sZXNhbGUuY29tQHFpbGlu",
+                "attackdate": "2025-06-19 00:00:00.000000"
+            }
+        ],
+        "extrainfos": {
+            "data_size": "510 GB"
+        }
+    },
+    {
+        "post_title": "Moser Engineering",
+        "group_name": "securotrop",
+        "discovered": "2025-07-22 09:14:43.731664",
+        "description": "[AI generated] Moser Engineering is a renowned company recognized for manufacturing high-grade performance auto parts. Founded in 1986 in Portland, Indiana, it specializes in producing aftermarket axle and drivetrain components. Its product line includes axles, differential covers, rear ends, brake kits, and more. The company serves varied customers, including drag racing, muscle cars, street rods, hot rods, and vehicle restoration enthusiasts.",
+        "website": "www.moserengineering.com",
+        "published": "2025-06-29 00:00:00.000000",
+        "post_url": "http://securo45z554mw7rgrt7wcgv5eenj2xmxyrsdj3fcjsvindu63s4bsid.onion/MoserEngineering/info.txt",
+        "country": "US",
+        "activity": "Manufacturing",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "547 GB"
+        }
+    },
+    {
+        "post_title": "Nucamp RV",
+        "group_name": "securotrop",
+        "discovered": "2025-07-22 09:15:36.599622",
+        "description": "[AI generated] Nucamp RV is an Ohio-based manufacturer of recreational vehicles (RVs) and teardrop trailers. Their RVs are known for their streamlined design, affordability, and functionality. Their product line includes models like the T@B teardrop, T@G teardrop, and Cirrus Truck Camper. The company prioritizes craftsmanship, aiming to offer lightweight, innovative, and quality camping solutions.",
+        "website": "www.nucamprv.com",
+        "published": "2025-07-03 00:00:00.000000",
+        "post_url": "http://securo45z554mw7rgrt7wcgv5eenj2xmxyrsdj3fcjsvindu63s4bsid.onion/NucampRV/info.txt",
+        "country": "US",
+        "activity": "Manufacturing",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "284 GB"
+        }
+    },
+    {
+        "post_title": "SPG Construction",
+        "group_name": "securotrop",
+        "discovered": "2025-07-22 09:16:10.361572",
+        "description": "[AI generated] SPG Construction is a specialized construction company that operates within a variety of sectors including industrial, commercial, and residential. The company offers a wide array of services covering different aspects of construction from initial design and planning to the final build. They are recognized for their high-quality work and commitment to client satisfaction, maintaining a solid reputation in the construction industry.",
+        "website": "www.spg.net",
+        "published": "2025-06-14 00:00:00.000000",
+        "post_url": "http://securo45z554mw7rgrt7wcgv5eenj2xmxyrsdj3fcjsvindu63s4bsid.onion/SPGConstruction/info.txt",
+        "country": "",
+        "activity": "Construction",
+        "duplicates": [
+            {
+                "date": "2025-07-22 09:16:10.437727",
+                "group": "qilin",
+                "link": "https://www.ransomware.live/id/c3BnLm5ldEBxaWxpbg==",
+                "attackdate": "2025-06-14 00:00:00.000000"
+            }
+        ],
+        "extrainfos": {
+            "data_size": "118 GB"
+        }
+    },
+    {
+        "post_title": "Titan Trailer Mfg",
+        "group_name": "securotrop",
+        "discovered": "2025-07-22 09:16:43.500535",
+        "description": "[AI generated] Titan Trailer Manufacturing, Inc. is a company based in North America that specializes in the design and production of high-quality trailers. They mainly create bulk commodity trailers and flatbeds. Their catalog incorporates different models suitable for various needs, ranging from agriculture and construction to commercial freight. Combining quality and strength, each Titan Trailer is designed for durability and efficiency.",
+        "website": "www.titantrailers.com",
+        "published": "2025-06-11 00:00:00.000000",
+        "post_url": "http://securo45z554mw7rgrt7wcgv5eenj2xmxyrsdj3fcjsvindu63s4bsid.onion/TitanTrailerMfg/info.txt",
+        "country": "US",
+        "activity": "Manufacturing",
+        "duplicates": [
+            {
+                "date": "2025-07-22 09:16:43.557181",
+                "group": "qilin",
+                "link": "https://www.ransomware.live/id/dGl0YW50cmFpbGVycy5jb21AcWlsaW4=",
+                "attackdate": "2025-06-11 00:00:00.000000"
+            }
+        ],
+        "extrainfos": {
+            "data_size": "~2000 GB"
+        }
+    },
+    {
+        "post_title": "VRE Sytems",
+        "group_name": "securotrop",
+        "discovered": "2025-07-22 09:17:17.478522",
+        "description": "[AI generated] VRE Systems is a Canada-based company that specializes in designing and manufacturing custom and standard products for various industries, including horticulture, cannabis, retail garden centers, and livestock. Their products range from greenhouses, garden center retail carts, to livestock handling equipment. They prioritize offering solutions that optimize productivity and efficiency for their customers.",
+        "website": "www.vresystems.com",
+        "published": "2025-06-25 00:00:00.000000",
+        "post_url": "http://securo45z554mw7rgrt7wcgv5eenj2xmxyrsdj3fcjsvindu63s4bsid.onion/VRESystems/info.txt",
+        "country": "CA",
+        "activity": "Not Found",
+        "duplicates": [
+            {
+                "date": "2025-07-22 09:17:17.602151",
+                "group": "qilin",
+                "link": "https://www.ransomware.live/id/dnJlc3lzdGVtcy5jb21AcWlsaW4=",
+                "attackdate": "2025-06-25 00:00:00.000000"
+            }
+        ],
+        "extrainfos": {
+            "data_size": "284 GB"
+        }
+    },
+    {
+        "post_title": "www.optyma.co.uk",
+        "group_name": "kraken",
+        "discovered": "2025-07-22 09:19:35.049905",
+        "description": "Established in 1987, Optyma is a principle provider of integrated security systems. Our expertise in the design, implementation,...",
+        "website": "www.optyma.co.uk",
+        "published": "2025-07-22 09:19:07.115698",
+        "post_url": "http://krakenccj3wr23452a4ibkbkuph4d6soyx2xgjoogtuamc3m7u7wemad.onion/news/322ce2ea5ef9baa18c8fa730e9202701",
+        "country": "UK",
+        "activity": "Technology",
         "duplicates": [],
         "extrainfos": []
     }

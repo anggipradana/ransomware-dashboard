@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2482,
+  "count": 2486,
   "results": [
     {
       "date": "2025-07-22",
@@ -26,6 +26,27 @@
         "infostealer_stats": {
           "Lumma": 2
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-07-21",
+      "victim": "Serviço Autônomo de Água e Esgoto de Barretos (SAAEB)",
+      "domain": "saaeb.com.br",
+      "country": "BR",
+      "summary": "Le SAAEB a subi une tentative d'attaque cybernétique, les systèmes internes sont temporairement hors service, mais les données ont été sauvegardées grâce à la politique de sécurité de l'information. L'équipe technique travaille à la restauration des systèmes. Les services présentiels sont actuellement indisponibles en raison de cette situation.",
+      "title": "SAAE sofre tentativa de ataque cibernético",
+      "url": "https://www.odiarioonline.com.br/saae-sofre-tentativa-de-ataque-cibernetico/",
+      "added": "2025-07-23",
+      "infostealer": {
+        "update": "2025-07-23 16:32:45",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },
@@ -2156,6 +2177,27 @@
     },
     {
       "date": "2025-06-03",
+      "victim": "Keystone Shipping",
+      "domain": "keyship.com",
+      "country": "US",
+      "summary": "Unauthorized access to Keystone's computer network occurred on June 3, 2025, resulting in the theft of names and Social Security numbers of four Maine residents. Keystone took measures to secure its network and reported the incident to law enforcement. The attack was claimed by Akira on June 24th.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/c3434c1f-31fd-48bc-bca0-29bacecddb06.html",
+      "added": "2025-07-23",
+      "infostealer": {
+        "update": "2025-07-23 16:32:04",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-06-03",
       "victim": "Banque Sol",
       "domain": "bancosol.ao",
       "country": "AO",
@@ -3256,6 +3298,27 @@
         "group": "interlock",
         "permalink": "https://www.ransomware.live/id/Q2VudHJhbCBQb2ludCBTY2hvb2wgRGlzdHJpY3QgNkBpbnRlcmxvY2s="
       }
+    },
+    {
+      "date": "2025-05-13",
+      "victim": "Upper Dublin Family Dentistry",
+      "domain": "udfd.com",
+      "country": "US",
+      "summary": "Upper Dublin Family Dentistry experienced a data security incident where an unauthorized party gained access to their computer systems and may have accessed patient information, including names, Social Security numbers, and dental medical records.",
+      "title": "2025-07-21 Upper Dublin Family Dentistry Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-07-21-upper-dublin-family-dentistry-data-breach-notice-consumers",
+      "added": "2025-07-23",
+      "infostealer": {
+        "update": "2025-07-23 16:32:24",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
     },
     {
       "date": "2025-05-13",
@@ -11970,6 +12033,30 @@
       "ransomware": {
         "group": "safepay",
         "permalink": "https://www.ransomware.live/id/aGFyY29ib2UubmV0QHNhZmVwYXk="
+      }
+    },
+    {
+      "date": "2025-01-17",
+      "victim": "Prestige Maintenance USA",
+      "domain": "prestigeusa.net",
+      "country": "US",
+      "summary": "Prestige Maintenance USA experienced a data security incident where unauthorized access to certain personal information occurred. The incident was discovered on January 17, 2025, and the company took immediate action to secure its systems. Approximately one Maine resident's information was potentially affected.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/98dbee3c-4c46-464a-b38f-af89ad185d2a.html",
+      "added": "2025-07-23",
+      "infostealer": {
+        "update": "2025-07-23 16:31:45",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "alphv",
+        "permalink": "https://www.ransomware.live/id/UFJFU1RJR0UgTUFJTlRFTkFOQ0UgVVNBIFdBUyBIQUNLRURAYWxwaHY="
       }
     },
     {

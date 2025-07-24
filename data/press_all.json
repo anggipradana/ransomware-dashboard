@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2486,
+  "count": 2489,
   "results": [
     {
       "date": "2025-07-22",
@@ -149,6 +149,29 @@
         "users_url": 0,
         "thirdparties": 0,
         "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-07-17",
+      "victim": "Instituto de Cardiologia e Transplantes do Distrito Federal (ICTDF)",
+      "domain": "ictdf.org.br",
+      "country": "BR",
+      "summary": "L'équipe de TI de l'ICTDF a fait face avec succès à une attaque cibernétique, contenant les dégâts et protégeant les données sensibles, grâce à leur action technique et stratégique. Les professionnels ont travaillé ininterruptement pour rétablir les services et minimiser les impacts sur les patients. Leur action a souligné l'importance des investissements en sécurité numérique et en formation technique.",
+      "title": "Equipe de TI do ICTDF é homenageada por atuação exemplar em ataque cibernético - Agenda Capital",
+      "url": "https://agendacapital.com.br/equipe-de-ti-do-ictdf-e-homenageada-por-atuacao-exemplar-em-ataque-cibernetico/",
+      "added": "2025-07-24",
+      "infostealer": {
+        "update": "2025-07-24 09:21:57",
+        "employees": 0,
+        "users": 1,
+        "thirdparties_domain": 1,
+        "employees_url": 0,
+        "users_url": 1,
+        "thirdparties": 1,
+        "infostealer_stats": {
+          "Lumma": 2
+        }
       },
       "ransomware": null
     },
@@ -3196,6 +3219,30 @@
         "infostealer_stats": {}
       },
       "ransomware": null
+    },
+    {
+      "date": "2025-05-14",
+      "victim": "Town of North Providence",
+      "domain": "northprovidenceri.gov",
+      "country": "US",
+      "summary": "An unauthorized third-party accessed TransUnion's network environment, potentially exposing personal information of approximately 1781 Rhode Island residents. The incident occurred on or about May 14, 2025, and was discovered on or about May 14, 2025. The attack was claimed by Medusa on June 1st.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/bbadd348-a631-4500-b7b7-39c45eb0bb92.html",
+      "added": "2025-07-24",
+      "infostealer": {
+        "update": "2025-06-01 00:47:09",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "medusa",
+        "permalink": "https://www.ransomware.live/id/VG93biBvZiBOb3J0aCBQcm92aWRlbmNlIFJob2RlIElzbGFuZCBjb3Jwb3JhdGUgb2ZmaWNlQG1lZHVzYQ=="
+      }
     },
     {
       "date": "2025-05-14",
@@ -25771,6 +25818,30 @@
       "ransomware": {
         "group": "cicada3301",
         "permalink": "https://www.ransomware.live/id/QVNTVCBSaG9kZW5zZUBjaWNhZGEzMzAx"
+      }
+    },
+    {
+      "date": "2024-06-05",
+      "victim": "Taos County",
+      "domain": "taoscounty.org",
+      "country": "US",
+      "summary": "Le comté de Taos a subi une attaque de ransomware qui a limité ou cessé ses services administratifs, les responsables du comté travaillent avec des spécialistes en cybersécurité pour restaurer les systèmes affectés. L'attaque a été attribuée au groupe de hackers russes Kairos, qui a volé près de 2 To de données. Le système judiciaire et l'industrie immobilière ont été particulièrement touchés par la perturbation.",
+      "title": "County acknowledges 'sophisticated cyberattack'",
+      "url": "https://www.taosnews.com/public-safety/county-acknowledges-sophisticated-cyberattack/article_1420a2e1-5072-597b-84a0-874e6ed4a628.html",
+      "added": "2025-07-24",
+      "infostealer": {
+        "update": "2025-06-19 20:14:21",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "kairos",
+        "permalink": "https://www.ransomware.live/id/dGFvc2NvdW50eS5vcmdAa2Fpcm9z"
       }
     },
     {

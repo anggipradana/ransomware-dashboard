@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2492,
+  "count": 2498,
   "results": [
     {
       "date": "2025-07-22",
@@ -25,6 +25,33 @@
         "thirdparties": 0,
         "infostealer_stats": {
           "Lumma": 2
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-07-21",
+      "victim": "Fort Smith Public School District",
+      "domain": "fortsmithschools.org",
+      "country": "US",
+      "summary": "Le district scolaire public de Fort Smith est victime d'une attaque informatique qui a perturbé les systèmes téléphoniques et internet. Le district travaille avec une entreprise tierce pour résoudre le problème et ne prévoit pas de perturbation pour le début de l'année scolaire. L'attaque a été signalée aux autorités compétentes et une enquête est en cours.",
+      "title": "Fort Smith Public School District working to resolve cyber attack disruption - Talk Business & Politics",
+      "url": "https://talkbusiness.net/2025/07/fort-smith-public-school-district-working-to-resolve-cyber-attack-disruption/",
+      "added": "2025-07-25",
+      "infostealer": {
+        "update": "2025-07-25 11:29:08",
+        "employees": 0,
+        "users": 22,
+        "thirdparties_domain": 74,
+        "employees_url": 0,
+        "users_url": 6,
+        "thirdparties": 70,
+        "infostealer_stats": {
+          "RedLine": 16,
+          "Azorult": 14,
+          "Vidar": 2,
+          "UNKNOWN": 2,
+          "Raccoon": 2
         }
       },
       "ransomware": null
@@ -74,6 +101,48 @@
           "Raccoon": 2,
           "Azorult": 2
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-07-18",
+      "victim": "Hampton County Regional Medical Center",
+      "domain": "hamptonregionalmc.com",
+      "country": "US",
+      "summary": "Le centre médical régional du comté de Hampton fait face à des problèmes de sécurité après une attaque informatique, ce qui a entraîné des difficultés d'accès aux dossiers médicaux des patients. Les systèmes de l'hôpital sont actuellement hors service, ce qui a des implications pour la sécurité et la confiance des patients. L'hôpital a publié un communiqué sur son site Web pour informer les patients de la situation et de ses efforts pour résoudre le problème.",
+      "title": "Hampton County Regional Medical Center facing issues due to cyber incident",
+      "url": "https://www.wtoc.com/2025/07/24/hampton-county-regional-medical-center-facing-issues-due-cyber-incident/",
+      "added": "2025-07-25",
+      "infostealer": {
+        "update": "2025-07-25 12:19:54",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-07-18",
+      "victim": "Exel Composites Plc",
+      "domain": "exelcomposites.com",
+      "country": "FI",
+      "summary": "Exel Composites Plc a été victime d'une cyberattaque en juillet, une violation de données a été confirmée le 18 juillet 2025. L'intrusion non autorisée a affecté un nombre limité de postes de travail et de serveurs. L'entreprise a agi immédiatement pour contenir la faille et protéger ses systèmes.",
+      "title": "Exel Composites Plc has been the target of a cyberattack | Placera.se",
+      "url": "https://www.placera.se/pressmeddelanden/exel-composites-exel-composites-plc-has-been-the-target-of-a-cyberattack-20250725",
+      "added": "2025-07-25",
+      "infostealer": {
+        "update": "2025-07-25 11:29:27",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },
@@ -5591,6 +5660,27 @@
     },
     {
       "date": "2025-04-15",
+      "victim": "McKenzie Memorial Hospital",
+      "domain": "mckenziehealth.org",
+      "country": "US",
+      "summary": "McKenzie Memorial Hospital suffered a data security incident where an unauthorized actor accessed certain files on their network between April 14, 2025, and April 15, 2025. The incident may have exposed sensitive information, including first and last name, Social Security Number, and financial account information. The hospital has taken steps to address the incident and is offering complimentary credit monitoring and identity protection services.",
+      "title": "Data Breach Notification",
+      "url": "https://mm.nh.gov/files/uploads/doj/remote-docs/mckenzie-memorial-hospital-20250724.pdf",
+      "added": "2025-07-25",
+      "infostealer": {
+        "update": "2025-07-25 11:29:46",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-04-15",
       "victim": "Department of Pensions",
       "domain": "gov.lk",
       "country": "LK",
@@ -6395,6 +6485,39 @@
         "users_url": 0,
         "thirdparties": 0,
         "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-04-03",
+      "victim": "National Association for Stock Car Auto Racing",
+      "domain": "nascar.com",
+      "country": "US",
+      "summary": "Unauthorized access to the network occurred between March 31 and April 3, 2025, resulting in the acquisition of certain files containing personal information. The investigation determined that one or more of the files contained the name and Social Security number of one Maine resident. The attack was claimed by Medusa on April 13th.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/dff3c2fa-cf00-4967-9715-22dbe34996a1.html",
+      "added": "2025-07-25",
+      "infostealer": {
+        "update": "2025-07-25 11:30:08",
+        "employees": 4,
+        "users": 922,
+        "thirdparties_domain": 18,
+        "employees_url": 7,
+        "users_url": 100,
+        "thirdparties": 2,
+        "infostealer_stats": {
+          "RedLine": 598,
+          "Generic Stealer": 207,
+          "Lumma": 320,
+          "Azorult": 266,
+          "Raccoon": 94,
+          "Vidar": 45,
+          "StealC": 38,
+          "UNKNOWN": 26,
+          "CRYPTBOT": 8,
+          "DarkCrystal": 2,
+          "Mystic": 4
+        }
       },
       "ransomware": null
     },
@@ -30272,6 +30395,25 @@
         "thirdparties": 0,
         "employees_url": 1,
         "users_url": 0
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2024-03-19",
+      "victim": "Traverse City Area Public Schools",
+      "domain": "tcaps.net",
+      "country": "US",
+      "summary": "An unauthorized party acquired a limited number of electronic files from Traverse City Area Public Schools' computer systems, potentially containing personal information. The incident occurred on or about March 19, 2024, and was claimed by Medusa on April 14th.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/85b25859-32ca-42a9-9d7b-439e49749cca.html",
+      "added": "2025-07-25",
+      "infostealer": {
+        "update": "2024-04-01 11:54:25",
+        "employees": 0,
+        "users": 75,
+        "thirdparties": 2,
+        "employees_url": 0,
+        "users_url": 19
       },
       "ransomware": null
     },

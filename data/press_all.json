@@ -4,8 +4,38 @@
     "month": null,
     "country": null
   },
-  "count": 2498,
+  "count": 2499,
   "results": [
+    {
+      "date": "2025-07-23",
+      "victim": "Post",
+      "domain": "post.lu",
+      "country": "LU",
+      "summary": "Le groupe Post a subi une cyberattaque ciblée qui a affecté l'ensemble de son réseau, causant des perturbations importantes dans le pays. Les analyses forensiques ont permis d'identifier la cause de l'incident, qui a été qualifiée de cyberattaque d'un niveau technique avancé. Aucune donnée n'a été compromise ou exfiltrée, et les techniciens de Post ont mis en place des contre-mesures pour garantir la stabilité et la sécurité des services.",
+      "title": "Post : c’était bien une cyberattaque !",
+      "url": "https://www.lesfrontaliers.lu/societe/post-cetait-bien-une-cyberattaque/",
+      "added": "2025-07-26",
+      "infostealer": {
+        "update": "2025-07-26 14:49:55",
+        "employees": 5,
+        "users": 292,
+        "thirdparties_domain": 24,
+        "employees_url": 7,
+        "users_url": 36,
+        "thirdparties": 4,
+        "infostealer_stats": {
+          "RedLine": 190,
+          "Lumma": 194,
+          "Generic Stealer": 43,
+          "Raccoon": 56,
+          "StealC": 22,
+          "Vidar": 18,
+          "Azorult": 8,
+          "UNKNOWN": 2
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2025-07-22",
       "victim": "Südwestdeutsche Medienholding (SWMH)",

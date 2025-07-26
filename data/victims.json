@@ -268208,5 +268208,90 @@
         "activity": "Not Found",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "teamsignal.com",
+        "group_name": "safepay",
+        "discovered": "2025-07-26 19:51:12.501875",
+        "description": "[AI generated] \"Teamsignal\" is an employee engagement and ground intelligence platform for teams and organizations. It facilitates upward communication from staff to management and leadership, allowing organizations to gain real-time insights into performance, morale, and workplace climate. Teamsignal uses a data-driven approach to enhance employee wellbeing and boost productivity. Its core features include regular pulse surveys, data analytics, and comprehensive dashboard visualizations.",
+        "website": "teamsignal.com",
+        "published": "2025-07-26 19:50:33.952413",
+        "post_url": "http://j3dp6okmaklajrsk6zljl5sfa2vpui7j2w6cwmhmmqhab6frdfbphhid.onion#teamsignal",
+        "country": "TW",
+        "activity": "Technology",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "briar-group.com",
+        "group_name": "safepay",
+        "discovered": "2025-07-26 19:52:04.863655",
+        "description": "[AI generated] The Briar Group is a Boston, MA based hospitality company known for its commitment to great food, excellent service, and exceptional design and ambiance. The family-owned company operates a portfolio of various dining establishments, including bars, pubs, and restaurants all over the Boston area. From traditional Irish pubs to modern American eateries, the Briar Group offers diverse dining experiences.",
+        "website": "briar-group.com",
+        "published": "2025-07-26 19:51:35.027175",
+        "post_url": "http://j3dp6okmaklajrsk6zljl5sfa2vpui7j2w6cwmhmmqhab6frdfbphhid.onion#briar-group",
+        "country": "US",
+        "activity": "Hospitality and Tourism",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "appagroup.com",
+        "group_name": "safepay",
+        "discovered": "2025-07-26 19:52:58.977420",
+        "description": "[AI generated] Appa Group is an engineering and construction company that specializes in the engineering, procurement, and construction (EPC) of industrial plants and commercial buildings. They deal with varied sectors including oil & gas, petrochemical, power, infrastructure, and more. The company undertakes each aspect of the construction process in-house to ensure seamless delivery.",
+        "website": "appagroup.com",
+        "published": "2025-07-26 19:52:27.311699",
+        "post_url": "http://j3dp6okmaklajrsk6zljl5sfa2vpui7j2w6cwmhmmqhab6frdfbphhid.onion#appagroup",
+        "country": "DE",
+        "activity": "Technology",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "havtechpa.com",
+        "group_name": "safepay",
+        "discovered": "2025-07-26 19:53:58.907655",
+        "description": "[AI generated] N/A",
+        "website": "havtechpa.com",
+        "published": "2025-07-26 19:53:21.390789",
+        "post_url": "http://j3dp6okmaklajrsk6zljl5sfa2vpui7j2w6cwmhmmqhab6frdfbphhid.onion#havtechpa",
+        "country": "US",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "swfldermatology.com",
+        "group_name": "safepay",
+        "discovered": "2025-07-26 19:54:51.056767",
+        "description": "[AI generated] Southwest Florida Dermatology is a professional healthcare practice offering a range of skin care services. Their team of certified dermatologists and skin care specialists provide treatments for various skin conditions including acne, psoriasis, eczema and skin cancer. They also offer cosmetic dermatology services like Botox, fillers, and laser treatments. It is dedicated to offering high-quality patient care in a compassionate environment.",
+        "website": "swfldermatology.com",
+        "published": "2025-07-26 19:54:21.471635",
+        "post_url": "http://j3dp6okmaklajrsk6zljl5sfa2vpui7j2w6cwmhmmqhab6frdfbphhid.onion#swfldermatology",
+        "country": "US",
+        "activity": "Healthcare",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "bussepc.com",
+        "group_name": "safepay",
+        "discovered": "2025-07-26 19:55:21.129277",
+        "description": "[AI generated] N/A",
+        "website": "bussepc.com",
+        "published": "2024-01-19 17:55:12.123456",
+        "post_url": "http://j3dp6okmaklajrsk6zljl5sfa2vpui7j2w6cwmhmmqhab6frdfbphhid.onion#bussepc",
+        "country": "DE",
+        "activity": "Not Found",
+        "duplicates": [
+            {
+                "date": "2025-07-26 19:55:21.153018",
+                "group": "alphv",
+                "link": "https://www.ransomware.live/id/RlVMTCBMRUFLISBCdXNzZSAmIEJ1c2VlLCBQQyBBdHRvcm5leXMgYXQgTGF3QGFscGh2",
+                "attackdate": "2024-01-19 17:55:12.123456"
+            }
+        ],
+        "extrainfos": []
     }
 ]

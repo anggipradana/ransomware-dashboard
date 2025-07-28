@@ -1,11 +1,11 @@
 {
   "filter_type": null,
-  "count": 34,
+  "count": 37,
   "groups": [
     {
       "group": "Akira",
       "ioc_types": {
-        "sha256": 10,
+        "sha256": 37,
         "btc": 1,
         "md5": 321
       }
@@ -42,6 +42,13 @@
       "group": "Cactus",
       "ioc_types": {
         "md5": 51
+      }
+    },
+    {
+      "group": "Chaos",
+      "ioc_types": {
+        "sha256": 3,
+        "ip": 3
       }
     },
     {
@@ -88,6 +95,14 @@
       }
     },
     {
+      "group": "Ghostsec",
+      "ioc_types": {
+        "sha256": 4,
+        "url": 5,
+        "ip": 1
+      }
+    },
+    {
       "group": "Global",
       "ioc_types": {
         "session": 1
@@ -108,7 +123,10 @@
     {
       "group": "Interlock",
       "ioc_types": {
-        "md5": 9
+        "sha256": 3,
+        "md5": 9,
+        "url": 4,
+        "ip": 3
       }
     },
     {
@@ -144,6 +162,12 @@
         "email": 2,
         "md5": 18,
         "tox": 3
+      }
+    },
+    {
+      "group": "Medusalocker",
+      "ioc_types": {
+        "sha256": 19
       }
     },
     {

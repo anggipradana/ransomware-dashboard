@@ -1,6 +1,6 @@
 {
   "filter_type": null,
-  "count": 37,
+  "count": 41,
   "groups": [
     {
       "group": "Akira",
@@ -18,6 +18,12 @@
       }
     },
     {
+      "group": "Bashe",
+      "ioc_types": {
+        "ip": 1
+      }
+    },
+    {
       "group": "Bert",
       "ioc_types": {
         "md5": 9,
@@ -29,6 +35,12 @@
       "ioc_types": {
         "md5": 8,
         "ip": 191
+      }
+    },
+    {
+      "group": "Blacksuit",
+      "ioc_types": {
+        "ip": 1
       }
     },
     {
@@ -58,6 +70,12 @@
       }
     },
     {
+      "group": "Crypto24",
+      "ioc_types": {
+        "ip": 1
+      }
+    },
+    {
       "group": "D4rk4rmy",
       "ioc_types": {
         "tox": 1
@@ -66,7 +84,7 @@
     {
       "group": "Datacarry",
       "ioc_types": {
-        "sha256": 1,
+        "sha256": 2,
         "email": 1,
         "session": 1,
         "md5": 1,
@@ -111,7 +129,8 @@
     {
       "group": "GunRa",
       "ioc_types": {
-        "md5": 4
+        "md5": 4,
+        "ip": 1
       }
     },
     {
@@ -230,6 +249,12 @@
       "group": "Securotrop",
       "ioc_types": {
         "tox": 1
+      }
+    },
+    {
+      "group": "Teamxxx",
+      "ioc_types": {
+        "ip": 1
       }
     },
     {

@@ -268677,5 +268677,27 @@
         "activity": "Consumer Services",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Tiger Communications",
+        "group_name": "securotrop",
+        "discovered": "2025-07-29 16:49:32.219476",
+        "description": "[AI generated] Tiger Communications is a UK-based company that specializes in providing telecoms analytics and call management solutions. They offer businesses insights into their telecommunications, whether it be for general analysis, cost reduction, or security purposes. Tiger's range of solutions includes real-time and historical reporting, CRM integration, fraud detection and prevention, and more.",
+        "website": "tigercomlv.com",
+        "published": "2025-07-18 00:00:00.000000",
+        "post_url": "http://securo45z554mw7rgrt7wcgv5eenj2xmxyrsdj3fcjsvindu63s4bsid.onion/TigerCommunications/info.txt",
+        "country": "UK",
+        "activity": "Telecommunication",
+        "duplicates": [
+            {
+                "date": "2025-07-29 16:49:32.337821",
+                "group": "qilin",
+                "link": "https://www.ransomware.live/id/VGlnZXIgQ29tbXVuaWNhdGlvbnNAcWlsaW4=",
+                "attackdate": "2025-07-18 00:00:00.000000"
+            }
+        ],
+        "extrainfos": {
+            "data_size": "243.30 GB"
+        }
     }
 ]

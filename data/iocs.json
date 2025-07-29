@@ -1,6 +1,6 @@
 {
   "filter_type": null,
-  "count": 41,
+  "count": 42,
   "groups": [
     {
       "group": "Akira",
@@ -21,6 +21,13 @@
       "group": "Bashe",
       "ioc_types": {
         "ip": 1
+      }
+    },
+    {
+      "group": "Beast",
+      "ioc_types": {
+        "tox": 1,
+        "mail": 8
       }
     },
     {

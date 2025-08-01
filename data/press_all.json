@@ -4,8 +4,40 @@
     "month": null,
     "country": null
   },
-  "count": 2508,
+  "count": 2516,
   "results": [
+    {
+      "date": "2025-07-31",
+      "victim": "Muséum national d'Histoire naturelle",
+      "domain": "mnhn.fr",
+      "country": "FR",
+      "summary": "Le Muséum national d'Histoire naturelle a été victime d'une cyberattaque, ce qui affecte la recherche française. Le musée est également un centre de recherche important. L'attaque a eu lieu récemment, mais la date exacte n'est pas précisée.",
+      "title": "Une cyberattaque cible le Muséum national d'Histoire naturelle, la recherche française affectée",
+      "url": "https://www.latribune.fr/technos-medias/informatique/une-cyberattaque-cible-le-museum-national-d-histoire-naturelle-la-recherche-francaise-affectee-1030706.html",
+      "added": "2025-08-01",
+      "infostealer": {
+        "update": "2025-08-01 10:30:27",
+        "employees": 10,
+        "users": 893,
+        "thirdparties_domain": 74,
+        "employees_url": 11,
+        "users_url": 97,
+        "thirdparties": 6,
+        "infostealer_stats": {
+          "Lumma": 600,
+          "RedLine": 496,
+          "Raccoon": 256,
+          "Vidar": 96,
+          "StealC": 78,
+          "UNKNOWN": 20,
+          "Azorult": 20,
+          "Atomic": 6,
+          "CRYPTBOT": 2,
+          "Mystic": 2
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2025-07-26",
       "victim": "Ville de St. Paul",
@@ -30,6 +62,37 @@
           "Raccoon": 3,
           "Azorult": 2,
           "StealC": 1
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-07-25",
+      "victim": "Curaçao Tax Office",
+      "domain": "belastingdienst.cw",
+      "country": "CW",
+      "summary": "Le bureau des impôts de Curaçao a subi une attaque de ransomware, ce qui a paralysé la plupart de ses opérations. Seule la section des véhicules a rouvert ses portes. Les autorités enquêtent toujours sur la nature et l'étendue de l'attaque.",
+      "title": "Partial Services Resume at Curaçao Tax Office After Ransomware Attack",
+      "url": "https://www.curacaochronicle.com/post/local/partial-services-resume-at-curacao-tax-office-after-ransomware-attack/",
+      "added": "2025-08-01",
+      "infostealer": {
+        "update": "2025-08-01 10:29:43",
+        "employees": 0,
+        "users": 255,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 21,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "RedLine": 218,
+          "Lumma": 130,
+          "Raccoon": 38,
+          "Vidar": 18,
+          "StealC": 10,
+          "UNKNOWN": 6,
+          "Azorult": 6,
+          "CRYPTBOT": 4,
+          "Predator": 2
         }
       },
       "ransomware": null
@@ -74,6 +137,27 @@
         "group": "babuk2",
         "permalink": "https://www.ransomware.live/id/T3JhbmdlLmNvbUBiYWJ1azI="
       }
+    },
+    {
+      "date": "2025-07-24",
+      "victim": "Baden-Württembergischer Landesverband für Prävention und Rehabilitation gGmbH (bwlv)",
+      "domain": "bwlv.de",
+      "country": "DE",
+      "summary": "Le Baden-Württembergischer Landesverband pour Prävention et Rehabilitation a été victime d'une attaque informatique, mais grâce à des mesures de sécurité, les systèmes ont été isolés et la prise en charge des patients n'a pas été affectée. Les auteurs de l'attaque ont pu chiffrer certaines parties de l'infrastructure informatique. Une enquête est en cours pour déterminer les causes de l'attaque et les conséquences potentielles sur les données personnelles. (via eCrime.ch)",
+      "title": "Menschen begleiten. Seit über 100 Jahren.",
+      "url": "https://www.bw-lv.de",
+      "added": "2025-08-01",
+      "infostealer": {
+        "update": "2025-08-01 10:29:20",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
     },
     {
       "date": "2025-07-23",
@@ -7787,6 +7871,27 @@
     },
     {
       "date": "2025-03-17",
+      "victim": "Ontario Medical Supply (OMS)",
+      "domain": "oms.ca",
+      "country": "CA",
+      "summary": "Une faille de sécurité a eu lieu chez Ontario Medical Supply, un fournisseur d'Ontario Health atHome, en mars, mais l'agence n'a informé le public qu'en juin, plus de deux mois après avoir été informée. La faille a pu affecter jusqu'à 200 000 patients. L'agence a été critiquée pour son retard à informer les patients et la commission de la vie privée.",
+      "title": "Ontario health agency informed of cyberattack more than 2 months before telling patients | Globalnews.ca",
+      "url": "https://globalnews.ca/news/11308121/ontario-health-athome-cyberattack-notified/",
+      "added": "2025-08-01",
+      "infostealer": {
+        "update": "2025-08-01 10:30:03",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-03-17",
       "victim": "WaterStreet Company",
       "domain": "waterstreetcompany.com",
       "country": "US",
@@ -10218,6 +10323,27 @@
         "group": "clop",
         "permalink": "https://www.ransomware.live/id/QkVJTk9HTE9VLkdSQGNsb3A="
       }
+    },
+    {
+      "date": "2025-02-14",
+      "victim": "Interpool, Inc.",
+      "domain": "interpoolinc.com",
+      "country": "US",
+      "summary": "Interpool, Inc. suffered a data breach on February 14, 2025, where an unknown cyberactor accessed a limited portion of their computer network and copied files without permission. The breach involved name and other types of personal information. Interpool, Inc. is notifying individuals and providing free resources and guidance, including identity monitoring services.",
+      "title": "2025-07-25 Interpool dba TRAC Intermodal Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-07-25-interpool-dba-trac-intermodal-data-breach-notice-consumers",
+      "added": "2025-07-29",
+      "infostealer": {
+        "update": "2025-08-01 10:29:00",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
     },
     {
       "date": "2025-02-14",
@@ -12848,6 +12974,48 @@
     },
     {
       "date": "2025-01-12",
+      "victim": "Clymene Management Services, LLC",
+      "domain": "clymeneenterprises.com",
+      "country": "US",
+      "summary": "An unauthorized actor accessed the CMS network between January 9, 2025, and January 12, 2025, and certain information contained within those systems may have been viewed or copied. The information that could have been subject to unauthorized access includes name, financial account information, and Social Security number. CMS is providing access to credit monitoring services for one year, through Experian, to individuals whose personal information was potentially affected by this event.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/09e4b716-89e4-44a8-8c41-094741515267.html",
+      "added": "2025-07-30",
+      "infostealer": {
+        "update": "2025-08-01 10:28:00",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-01-12",
+      "victim": "DTiQ Technologies, Inc.",
+      "domain": "dtiq.com",
+      "country": "US",
+      "summary": "DTiQ Technologies, Inc. experienced unauthorized access to a portion of their network between December 31, 2024, and January 12, 2025, resulting in the exposure of customer information. The incident was discovered on January 12, 2025, and the company has since taken steps to investigate and mitigate the breach. Affected individuals have been notified and offered complimentary credit monitoring and identity protection services.",
+      "title": "2025-07-25 DTiQ Technologies Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-07-25-dtiq-technologies-data-breach-notice-consumers",
+      "added": "2025-07-29",
+      "infostealer": {
+        "update": "2025-08-01 10:28:21",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-01-12",
       "victim": "Newport Advisory, LLC",
       "domain": "newportllc.com",
       "country": "US",
@@ -13234,6 +13402,27 @@
         "employees_url": 0,
         "users_url": 1,
         "thirdparties": 0
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2024-12-30",
+      "victim": "Central New York Cardiology",
+      "domain": "centralnewyorkcardiology.com",
+      "country": "US",
+      "summary": "Central New York Cardiology experienced a data breach between December 26, 2024, and December 30, 2024, where an unauthorized individual acquired certain information. The breach was discovered on June 11, 2025, and the organization is providing credit monitoring and identity protection services to affected individuals. The information potentially impacted includes names in combination with other data elements.",
+      "title": "2025-07-28 Central New York Cardiology Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-07-28-central-new-york-cardiology-data-breach-notice-consumers",
+      "added": "2025-07-30",
+      "infostealer": {
+        "update": "2025-08-01 10:28:41",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },

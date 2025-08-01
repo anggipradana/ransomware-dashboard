@@ -4,8 +4,77 @@
     "month": null,
     "country": null
   },
-  "count": 2502,
+  "count": 2508,
   "results": [
+    {
+      "date": "2025-07-26",
+      "victim": "Ville de St. Paul",
+      "domain": "stpaul.gov",
+      "country": "US",
+      "summary": "La ville de St. Paul a déclaré l'état d'urgence locale après une attaque informatique qui a touché ses réseaux Internet, forçant la ville à fermer ses services en ligne. L'enquête est en cours et il n'est pas encore clair qui est derrière l'attaque ou si des données sensibles ont été volées. La ville a pris des mesures pour protéger ses systèmes et a appelé l'aide de l'armée nationale du Minnesota pour assurer la sécurité de ses résidents.",
+      "title": "FBI, Nat’l Guard assist St. Paul as cyber-attackers force shutdown of Internet-based systems",
+      "url": "https://www.twincities.com/2025/07/29/fbi-natl-guard-assist-st-paul-as-cyber-attackers-force-shut-down-of-internet-based-systems/",
+      "added": "2025-08-01",
+      "infostealer": {
+        "update": "2025-08-01 09:20:51",
+        "employees": 0,
+        "users": 37,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 16,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "RedLine": 15,
+          "Lumma": 12,
+          "Generic Stealer": 4,
+          "Raccoon": 3,
+          "Azorult": 2,
+          "StealC": 1
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-07-25",
+      "victim": "Orange",
+      "domain": "orange.com",
+      "country": "FR",
+      "summary": "Le groupe de télécommunications Orange a été victime d'une cyberattaque, entraînant des perturbations de services pour certains clients entreprises et services grand public en France. Les équipes d'Orange se sont mobilisées pour isoler les services concernés et limiter les impacts. Aucune donnée de clients n'a été exfiltrée selon les investigations préliminaires.",
+      "title": "Le groupe de télécommunications Orange annonce avoir été victime d'une cyberattaque",
+      "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/le-groupe-de-telecommunications-orange-annonce-avoir-ete-victime-d-une-cyberattaque_7404658.html",
+      "added": "2025-08-01",
+      "infostealer": {
+        "update": "2025-03-16 14:47:53",
+        "employees": 596,
+        "users": 5582,
+        "thirdparties_domain": 423,
+        "employees_url": 100,
+        "users_url": 100,
+        "thirdparties": 2274,
+        "infostealer_stats": {
+          "RedLine": 4760,
+          "Lumma": 2452,
+          "Generic Stealer": 885,
+          "Raccoon": 1448,
+          "StealC": 620,
+          "Vidar": 468,
+          "Azorult": 352,
+          "UNKNOWN": 166,
+          "CRYPTBOT": 24,
+          "Mystic": 22,
+          "Taurus": 10,
+          "Atomic": 8,
+          "Ficker": 6,
+          "Predator": 6,
+          "KPOT": 2,
+          "DarkCrystal": 1
+        }
+      },
+      "ransomware": {
+        "group": "babuk2",
+        "permalink": "https://www.ransomware.live/id/T3JhbmdlLmNvbUBiYWJ1azI="
+      }
+    },
     {
       "date": "2025-07-23",
       "victim": "Post",
@@ -4579,6 +4648,27 @@
       "added": "2025-06-19",
       "infostealer": {
         "update": "2025-06-19 15:52:28",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-04-28",
+      "victim": "Pike County Prosecutor's Office",
+      "domain": "pikecountyo.com",
+      "country": "US",
+      "summary": "Pike County Prosecutor's Office suffered a ransomware attack on its third-party IT provider, resulting in unauthorized access to County data and removal of County files. The incident occurred on April 28, 2025, and the County notified federal law enforcement and began an investigation. The affected data included personal information maintained by the County.",
+      "title": "2025-07-24 Pike County, Ohio Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-07-24-pike-county-ohio-data-breach-notice-consumers",
+      "added": "2025-08-01",
+      "infostealer": {
+        "update": "2025-08-01 09:21:11",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,
@@ -10772,6 +10862,30 @@
     },
     {
       "date": "2025-02-08",
+      "victim": "Phil Smith Management, Inc. d/b/a Phil Smith Automotive Group",
+      "domain": "philsmithauto.com",
+      "country": "US",
+      "summary": "Phil Smith Automotive Group experienced a ransomware attack in early February 2025, which may have resulted in unauthorized access to personal information of six Maine residents. The affected information included individuals' name, Social Security number, and driver's license or state-issued identification number. The company is providing two years of complimentary credit protection and monitoring services through Cyberscout.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/1a05044e-dd7f-4bd0-ac1e-110418195305.html",
+      "added": "2025-08-01",
+      "infostealer": {
+        "update": "2025-04-06 22:24:15",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "dragonforce",
+        "permalink": "https://www.ransomware.live/id/UGhpbCBTbWl0aCBBdXRvbW90aXZlIEdyb3VwQGRyYWdvbmZvcmNl"
+      }
+    },
+    {
+      "date": "2025-02-08",
       "victim": "Geokon, Inc.",
       "domain": "geokon.com",
       "country": "US",
@@ -13985,6 +14099,29 @@
         "thirdparties": 0
       },
       "ransomware": null
+    },
+    {
+      "date": "2024-12-11",
+      "victim": "Mid Florida Primary Care, PA",
+      "domain": "mymfpc.com",
+      "country": "US",
+      "summary": "Mid Florida Primary Care, PA suffered a data breach where unauthorized access and copying of patient information occurred between November 29, 2024, and December 11, 2024. The breach was claimed by BianLian on December 14th, 2024.",
+      "title": "Data Breach Notification",
+      "url": "https://ago.vermont.gov/document/2025-07-29-mid-florida-primary-care-data-breach-notice-consumers",
+      "added": "2025-08-01",
+      "infostealer": {
+        "update": "2024-12-14 14:38:41",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0
+      },
+      "ransomware": {
+        "group": "bianlian",
+        "permalink": "https://www.ransomware.live/id/TWlkIEZsb3JpZGEgUHJpbWFyeSBDYXJlQGJpYW5saWFu"
+      }
     },
     {
       "date": "2024-12-11",
@@ -30499,6 +30636,27 @@
         "thirdparties": 0,
         "employees_url": 1,
         "users_url": 0
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2024-03-19",
+      "victim": "Traverse City Area Public Schools",
+      "domain": "traverscityarea.org",
+      "country": "US",
+      "summary": "An unauthorized party acquired a limited number of electronic files from Traverse City Area Public Schools' computer systems, potentially containing personal information. The incident occurred on or about March 19, 2024, and was claimed by Medusa on April 14, 2024.",
+      "title": "2025-07-24 Traverse City Area Public Schools Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-07-24-traverse-city-area-public-schools-data-breach-notice-consumers",
+      "added": "2025-08-01",
+      "infostealer": {
+        "update": "2025-08-01 09:21:31",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },

@@ -1,5 +1,5 @@
 {
-  "count": 180,
+  "count": 182,
   "groups": [
     {
       "group": ".git",
@@ -266,8 +266,16 @@
       "ransomnotes_count": 1
     },
     {
+      "group": "flocker",
+      "ransomnotes_count": 1
+    },
+    {
       "group": "fog",
       "ransomnotes_count": 2
+    },
+    {
+      "group": "fsociety",
+      "ransomnotes_count": 1
     },
     {
       "group": "ftcode",

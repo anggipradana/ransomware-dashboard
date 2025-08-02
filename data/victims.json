@@ -269887,5 +269887,38 @@
         "activity": "Financial Services",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Pitman Farms",
+        "group_name": "dragonforce",
+        "discovered": "2025-08-02 12:50:36.655222",
+        "description": "(Financial, banking, and audit documentation. Suppliers, clients, mail correspondence, and many more interesting things about how to significantly increase profits while store shelves are empty due to the H5N1 virus.) Pitman Farms has been distributing fine poultry meats since 1954, establishing partnerships to deliver premium poultry products at both local and national levels. The company prides itself on offering quality protein sources to its diverse clientele. By choosing Pitman Farms, customers can expect high-quality poultry that meets their needs. With over 65 years of experience, Pitman Farms continues to prioritize quality in its offerings.",
+        "website": "pitmanfarms.com",
+        "published": "2022-10-20 21:51:27.146973",
+        "post_url": "http://z3wqggtxft7id3ibr7srivv5gjof5fwg76slewnzwwakjuf3nlhukdid.onion/blog/?post_uuid=cfaeb484-8b8b-436c-8d02-8223ae0c7c7f",
+        "country": "US",
+        "activity": "Agriculture and Food Production",
+        "duplicates": [
+            {
+                "date": "2025-08-02 12:50:36.664255",
+                "group": "blackbyte",
+                "link": "https://www.ransomware.live/id/UGl0bWFuIEZhbWlseSBGYXJtc0BibGFja2J5dGU=",
+                "attackdate": "2022-10-20 21:51:27.146973"
+            }
+        ],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Clemens Construction",
+        "group_name": "dragonforce",
+        "discovered": "2025-08-02 12:52:04.158280",
+        "description": "(Banking, insurance, financial, and HR documentation. Audit. Client documentation.) Clemens Construction is a reputable construction firm based in Philadelphia, specializing in renovation and construction projects for the hospitality and commercial sectors. They serve a diverse clientele including hotels, educational institutions, and commercial properties, emphasizing quality and open communication throughout their projects. With a strong track record of successful collaborations, they have earned recognition for their professionalism and ability to manage complex projects while minimizing disruption to operations. The company is committed to delivering exceptional results, making them a preferred partner for construction needs in their market.",
+        "website": "clemensconstruction.com",
+        "published": "2025-08-02 12:42:13.657757",
+        "post_url": "http://z3wqggtxft7id3ibr7srivv5gjof5fwg76slewnzwwakjuf3nlhukdid.onion/blog/?post_uuid=e68b3f39-daca-4507-8e46-f40aa4b1f36b",
+        "country": "US",
+        "activity": "Construction",
+        "duplicates": [],
+        "extrainfos": []
     }
 ]

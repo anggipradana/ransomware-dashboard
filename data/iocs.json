@@ -1,7 +1,14 @@
 {
   "filter_type": null,
-  "count": 43,
+  "count": 44,
   "groups": [
+    {
+      "group": "Ailock",
+      "ioc_types": {
+        "sha256": 1,
+        "md5": 1
+      }
+    },
     {
       "group": "Akira",
       "ioc_types": {

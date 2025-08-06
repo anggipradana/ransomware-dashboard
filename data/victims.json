@@ -270754,5 +270754,72 @@
         "activity": "Manufacturing",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Budinger & Associates",
+        "group_name": "securotrop",
+        "discovered": "2025-08-06 16:57:41.128629",
+        "description": "[AI generated] Budinger & Associates is a consulting engineering company that specializes in geotechnical engineering, construction monitoring, environmental consultations, and mining and materials services. With its headquarters in Spokane Valley, Washington, the firm has over 40 years of experience and serves professionals in industries like infrastructure, construction, mining, and real estate.",
+        "website": "www.budingerinc.com",
+        "published": "2025-08-06 16:57:10.575167",
+        "post_url": "http://securo45z554mw7rgrt7wcgv5eenj2xmxyrsdj3fcjsvindu63s4bsid.onion/Budinger&Associates/info.txt",
+        "country": "US",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "1159.13 GB"
+        }
+    },
+    {
+        "post_title": "TANI & ABE",
+        "group_name": "blacknevas",
+        "discovered": "2025-08-06 17:17:02.043511",
+        "description": "TANI &amp; ABE is a patent and trademark law firm established in 1977 and headquartered in Tokyo, Japan.",
+        "website": "www.taniabe.co.jp",
+        "published": "2025-07-27 13:44:51",
+        "post_url": "http://ctyfftrjgtwdjzlgqh4avbd35sqrs6tde4oyam2ufbjch6oqpqtkdtid.onion/publications/details/6ebb6645-bae9-4d94-b128-8202ed5a7ccc",
+        "country": "JP",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": {
+            "Activity": "Law Firms & Legal Services",
+            "Revenue": "5000000"
+        }
+    },
+    {
+        "post_title": "CK Power Public Company Limited",
+        "group_name": "blacknevas",
+        "discovered": "2025-08-06 17:17:31.778564",
+        "description": "CK Power Public Company Limited, through its subsidiaries, generates and sells electricity and steam in Thailand and Lao People's Democratic Republic.",
+        "website": "www.ckpower.co.th",
+        "published": "2024-11-20 15:00:01.000000",
+        "post_url": "http://ctyfftrjgtwdjzlgqh4avbd35sqrs6tde4oyam2ufbjch6oqpqtkdtid.onion/publications/details/a3f9ea17-3139-48b4-9758-81706adc5312",
+        "country": "TH",
+        "activity": "Energy",
+        "duplicates": [
+            {
+                "date": "2025-08-06 17:17:31.818948",
+                "group": "hunters",
+                "link": "https://www.ransomware.live/id/Q0sgUG93ZXIgUHVibGljIE1hbnVmYWN0dXJpbmdAaHVudGVycw==",
+                "attackdate": "2024-11-20 15:00:01.000000"
+            }
+        ],
+        "extrainfos": {
+            "Activity": "Energy, Utilities & Waste Treatment General",
+            "Revenue": "274000000"
+        }
+    },
+    {
+        "post_title": "BRUNTON-SHAW.COM",
+        "group_name": "everest",
+        "discovered": "2025-08-06 17:19:05.066887",
+        "description": "[AI generated] Brunton Shaw is a company based in the UK that specializes in the manufacture of wire and rope solutions. It offers high performance ropes for various sectors including construction, mining, oil, gas, and renewable energy. The company is well-known for delivering reliable and durable products with an emphasis on quality and innovation. It has global presence with an extensive distribution network.",
+        "website": "BRUNTON-SHAW.COM",
+        "published": "2025-08-06 17:18:30.145234",
+        "post_url": "http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/news/bruntonshaw",
+        "country": "GB",
+        "activity": "Manufacturing",
+        "duplicates": [],
+        "extrainfos": []
     }
 ]

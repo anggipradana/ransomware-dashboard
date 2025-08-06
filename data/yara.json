@@ -1,6 +1,10 @@
 {
-  "count": 61,
+  "count": 62,
   "groups": [
+    {
+      "group": "Ailock",
+      "yara_count": 1
+    },
     {
       "group": "Akira",
       "yara_count": 1

@@ -271229,5 +271229,63 @@
         "activity": "Healthcare",
         "duplicates": [],
         "extrainfos": []
-    }
-]
+    },
+    {
+        "post_title": "ACEA SpA",
+        "group_name": "worldleaks",
+        "discovered": "2025-08-07 15:20:10.085281",
+        "description": "[AI generated] ACEA SpA is an Italian utility company that distributes and produces electricity, gas, water, and energy. It operates in various sectors such as electricity, water, and environment. It manages the water service in Rome and Frosinone, and parts of other Italian provinces. Furthermore, it is involved in energy production from renewable sources and waste disposal management. Founded in 1909, the Rome-based company is one of the major players in Italy's utilities sector.",
+        "website": "gruppo.acea.it",
+        "published": "2025-07-30 17:43:48.000000",
+        "post_url": "https://worldleaksartrjm3c6vasllvgacbi5u3mgzkluehrzhk2jz4taufuid.onion/companies/7978461947",
+        "country": "IT",
+        "activity": "Energy",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Origene",
+        "group_name": "worldleaks",
+        "discovered": "2025-08-07 15:21:01.386285",
+        "description": "[AI generated] Origene Technologies Inc. is a biotechnological company that specializes in innovative gene-related research and other customized research areas for the scientific community. Their primary focus includes antibody development, gene synthesis, CRISPR tools, and other experimental models. Founded in 1996 and headquartered in Rockville, Maryland, U.S., Origene operates globally and offers its products and solutions to a wide range of industries like pharmaceuticals, diagnostics, academia, and more.",
+        "website": "www.origene.com",
+        "published": "2025-02-03 14:43:16.164520",
+        "post_url": "https://worldleaksartrjm3c6vasllvgacbi5u3mgzkluehrzhk2jz4taufuid.onion/companies/1742838557",
+        "country": "US",
+        "activity": "Healthcare",
+        "duplicates": [
+            {
+                "date": "2025-08-07 15:21:01.470391",
+                "group": "ransomhub",
+                "link": "https://www.ransomware.live/id/d3d3Lm9yaWdlbmUuY29tQHJhbnNvbWh1Yg==",
+                "attackdate": "2025-02-03 14:43:16.164520"
+            }
+        ],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Neway Valve",
+        "group_name": "worldleaks",
+        "discovered": "2025-08-07 15:21:52.924807",
+        "description": "[AI generated] Neway Valve is a global company based in China, specializing in the research, development, and manufacturing of industrial valve products. Their product portfolio includes gate, globe, check, ball, and butterfly valves. These products are used in various industries like oil and gas, chemical, power, and metallurgy. Neway Valve is recognized for its quality, innovation, and service.",
+        "website": "www.newayvalve.com",
+        "published": "2025-08-07 13:42:14.000000",
+        "post_url": "https://worldleaksartrjm3c6vasllvgacbi5u3mgzkluehrzhk2jz4taufuid.onion/companies/9195577978",
+        "country": "US",
+        "activity": "Manufacturing",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "The Gisborne Group",
+        "group_name": "worldleaks",
+        "discovered": "2025-08-07 15:22:40.502101",
+        "description": "[AI generated] \"The Gisborne Group\" is a privately-held construction company founded in Canada. They provide services in industrial and commercial construction, design-build projects, commercial retail and office buildings, and multi-unit residential buildings. With an impressive portfolio of forward-thinking construction practices, they're known for their commitment to quality, safety, and project efficiency.",
+        "website": "www.gisborne.com",
+        "published": "2025-08-07 13:42:07.000000",
+        "post_url": "https://worldleaksartrjm3c6vasllvgacbi5u3mgzkluehrzhk2jz4taufuid.onion/companies/0602516211",
+        "country": "CA",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": []
+    },

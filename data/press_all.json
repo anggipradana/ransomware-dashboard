@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2525,
+  "count": 2533,
   "results": [
     {
       "date": "2025-08-07",
@@ -4832,6 +4832,31 @@
     },
     {
       "date": "2025-04-29",
+      "victim": "Episciences, Inc.",
+      "domain": "epionce.com",
+      "country": "US",
+      "summary": "Episciences experienced a data breach between April 27, 2025, and April 29, 2025, where an unauthorized actor gained access to certain files within their network, potentially copying files containing name and Social Security Number. The breach was discovered on April 29, 2025, and Episciences notified affected individuals and provided complimentary credit monitoring services. No evidence of fraudulent use of data has been found.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/2144e896-2bd7-4993-8215-370dd872508d.html",
+      "added": "2025-08-07",
+      "infostealer": {
+        "update": "2025-08-07 17:28:13",
+        "employees": 0,
+        "users": 5,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 3,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "UNKNOWN": 4,
+          "RedLine": 2,
+          "Azorult": 2
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-04-29",
       "victim": "North Yarmouth Academy",
       "domain": "nya.org",
       "country": "US",
@@ -7003,6 +7028,30 @@
     },
     {
       "date": "2025-04-02",
+      "victim": "PAC Strapping Products, Inc.",
+      "domain": "strapsolutions.com",
+      "country": "US",
+      "summary": "PAC Strapping Products, Inc. experienced a ransomware incident that may have affected personal information, including names, credit/debit card numbers, and expiration dates. The company has taken measures to prevent a similar incident and is offering free credit monitoring services. The incident occurred on or about April 2, 2025.",
+      "title": "2025-08-05 PAC Strapping Products Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-08-05-pac-strapping-products-data-breach-notice-consumers",
+      "added": "2025-08-07",
+      "infostealer": {
+        "update": "2025-04-10 21:43:20",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "play",
+        "permalink": "https://www.ransomware.live/id/UEFDIFN0cmFwcGluZyBQcm9kdWN0c0BwbGF5"
+      }
+    },
+    {
+      "date": "2025-04-02",
       "victim": "Bureau du défenseur public fédéral de l'Arizona",
       "domain": "az.fd.org",
       "country": "US",
@@ -7045,6 +7094,27 @@
         "group": "akira",
         "permalink": "https://www.ransomware.live/id/UHJlY2lzaW9uIFRheCBSZWxpZWZAYWtpcmE="
       }
+    },
+    {
+      "date": "2025-03-31",
+      "victim": "Nova Recovery LLC d/b/a Nova Recovery Center",
+      "domain": "novarecoveryaustin.com",
+      "country": "US",
+      "summary": "Nova Recovery Center suffered a data security incident that exposed personal information of its clients, including names, addresses, dates of birth, Social Security numbers, and financial payment information. The incident occurred due to unauthorized access to certain systems hosted on the Nova Recovery network. The organization has taken steps to contain the incident and is offering identity monitoring services to affected clients.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/f541d597-8a94-4dd9-9b3e-ecbd1e29f164.html",
+      "added": "2025-08-06",
+      "infostealer": {
+        "update": "2025-08-07 17:28:31",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
     },
     {
       "date": "2025-03-31",
@@ -9631,6 +9701,30 @@
     },
     {
       "date": "2025-02-28",
+      "victim": "Karen S. Pouliot CPA, P.A.",
+      "domain": "tpacpafirm.com",
+      "country": "US",
+      "summary": "Karen S. Pouliot CPA, P.A. experienced a data security incident where an unknown actor accessed and acquired personal information without authorization. The incident occurred on February 28, 2025, and the investigation concluded on July 22, 2025. The potentially affected information may have included names and other personal data.",
+      "title": "2025-07-28 Karen S. Pouliot CPA Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-07-28-karen-s-pouliot-cpa-data-breach-notice-consumers",
+      "added": "2025-08-07",
+      "infostealer": {
+        "update": "2025-03-14 10:54:56",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "medusa",
+        "permalink": "https://www.ransomware.live/id/S2FyZW4gUyBQb3VsaW90QG1lZHVzYQ=="
+      }
+    },
+    {
+      "date": "2025-02-28",
       "victim": "Missouri Department of Conservation",
       "domain": "mdc.mo.gov",
       "country": "US",
@@ -11813,6 +11907,37 @@
         "thirdparties": 0,
         "employees_url": 0,
         "users_url": 0
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-02-01",
+      "victim": "SmartRent Technologies, Inc.",
+      "domain": "smartrent.com",
+      "country": "US",
+      "summary": "SmartRent Technologies, Inc. suffered a data breach due to a phishing campaign that compromised an accounting firm's internal share drive. The breach may have resulted in unauthorized access to personal information of current and former employees. The incident was discovered on July 8, 2025.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/e4738d80-376e-4a9c-9bc1-9cf588ac5ac2.html",
+      "added": "2025-08-05",
+      "infostealer": {
+        "update": "2025-08-07 17:29:36",
+        "employees": 3,
+        "users": 210,
+        "thirdparties_domain": 12,
+        "employees_url": 1,
+        "users_url": 66,
+        "thirdparties": 4,
+        "infostealer_stats": {
+          "RedLine": 174,
+          "Lumma": 68,
+          "Raccoon": 40,
+          "StealC": 14,
+          "Vidar": 12,
+          "UNKNOWN": 6,
+          "CRYPTBOT": 2,
+          "Azorult": 2,
+          "Atomic": 2
+        }
       },
       "ransomware": null
     },
@@ -14259,6 +14384,36 @@
     },
     {
       "date": "2024-12-17",
+      "victim": "Vector Security, Inc.",
+      "domain": "vectorsecurity.com",
+      "country": "US",
+      "summary": "Vector Security, Inc. suffered a data breach where unauthorized activity was detected in their IT systems, potentially exposing personal information of customers. The breach occurred as early as mid-December 2024, but the company took immediate action to contain the activity and launched an investigation. Customers are being offered credit monitoring services and fraud assistance.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/314ab0f7-d910-44a7-8a3e-a48cccdbd8fd.html",
+      "added": "2025-08-02",
+      "infostealer": {
+        "update": "2025-08-07 17:29:55",
+        "employees": 0,
+        "users": 96,
+        "thirdparties_domain": 9,
+        "employees_url": 0,
+        "users_url": 22,
+        "thirdparties": 3,
+        "infostealer_stats": {
+          "RedLine": 66,
+          "Azorult": 34,
+          "Lumma": 20,
+          "Raccoon": 16,
+          "Vidar": 4,
+          "UNKNOWN": 4,
+          "Mystic": 2,
+          "Atomic": 2
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2024-12-17",
       "victim": "Albion College",
       "domain": "albion.edu",
       "country": "US",
@@ -15641,6 +15796,35 @@
         "employees_url": 5,
         "users_url": 3,
         "thirdparties": 22
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2024-11-25",
+      "victim": "Barrett-Jackson Holdings, LLC",
+      "domain": "barrett-jackson.com",
+      "country": "US",
+      "summary": "Barrett-Jackson Holdings, LLC suffered a data breach that involved the copying of files from their computer systems, potentially exposing sensitive information such as Social Security numbers, driver's license numbers, and bank account numbers. The breach was discovered on November 25, 2024, and the company is now providing notice to those whose information was found in the relevant files. The company is offering complimentary credit monitoring services to affected individuals.",
+      "title": "2025-07-31 Barrett-Jackson Holdings Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-07-31-barrett-jackson-holdings-data-breach-notice-consumers",
+      "added": "2025-08-02",
+      "infostealer": {
+        "update": "2025-08-07 17:29:15",
+        "employees": 0,
+        "users": 330,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 42,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "RedLine": 216,
+          "Lumma": 110,
+          "Azorult": 60,
+          "Raccoon": 34,
+          "Vidar": 24,
+          "UNKNOWN": 8,
+          "StealC": 8
+        }
       },
       "ransomware": null
     },
@@ -25770,6 +25954,27 @@
         "thirdparties": 0,
         "employees_url": 0,
         "users_url": 0
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2024-06-20",
+      "victim": "Lollytogs, Ltd. d/b/a LT Apparel Group (âLT Apparelâ)",
+      "domain": "ltapparel.com",
+      "country": "US",
+      "summary": "LT Apparel Group experienced a cybersecurity incident involving unauthorized access to their internal systems, resulting in the disclosure of personal information. The incident was discovered on June 20, 2024, and the company has since implemented measures to enhance the security of their systems and data. A complimentary membership of Experian IdentityWorksSM is being offered to affected individuals.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/4d3e12b5-8f2e-48b9-b580-031b04c94cff.html",
+      "added": "2025-07-26",
+      "infostealer": {
+        "update": "2025-08-07 17:28:52",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },

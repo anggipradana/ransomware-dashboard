@@ -4,8 +4,35 @@
     "month": null,
     "country": null
   },
-  "count": 2516,
+  "count": 2521,
   "results": [
+    {
+      "date": "2025-08-07",
+      "victim": "Hans-Böckler-Stiftung",
+      "domain": "boeckler.de",
+      "country": "DE",
+      "summary": "La Hans-Böckler-Stiftung a été victime d'une attaque ciblée et travaille avec des experts externes pour élucider l'affaire, les paiements de bourses ne sont pas affectés. La fondation a isolé et arrêté tous les systèmes informatiques après la découverte de l'attaque. Les experts en forensique informatique analysent actuellement les systèmes affectés pour garantir leur remise en service sécurisée.",
+      "title": "Cyberangriff verschlüsselt Systeme der Hans-Böckler-Stiftung",
+      "url": "https://www.it-daily.net/shortnews/cyberangriff-hans-boeckler-stiftung",
+      "added": "2025-08-07",
+      "infostealer": {
+        "update": "2025-08-07 15:23:01",
+        "employees": 1,
+        "users": 51,
+        "thirdparties_domain": 3,
+        "employees_url": 1,
+        "users_url": 3,
+        "thirdparties": 1,
+        "infostealer_stats": {
+          "Lumma": 36,
+          "RedLine": 18,
+          "Azorult": 16,
+          "Vidar": 8,
+          "Raccoon": 8
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2025-07-31",
       "victim": "Muséum national d'Histoire naturelle",
@@ -6200,6 +6227,36 @@
     },
     {
       "date": "2025-04-12",
+      "victim": "Revinate LLC",
+      "domain": "revinate.com",
+      "country": "US",
+      "summary": "Revinate LLC suffered a data breach between April 9 and 12, 2025, where an unknown cyber actor accessed a limited portion of their computer network and copied certain files without permission. The breach involved the copying of files containing Social Security numbers. Revinate notified approximately two Maine residents and is providing complimentary identity monitoring services.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/b9924fdd-c331-4359-8f42-2481f422c6a3.html",
+      "added": "2025-07-26",
+      "infostealer": {
+        "update": "2025-08-07 15:23:40",
+        "employees": 0,
+        "users": 257,
+        "thirdparties_domain": 2,
+        "employees_url": 0,
+        "users_url": 74,
+        "thirdparties": 2,
+        "infostealer_stats": {
+          "RedLine": 154,
+          "Generic Stealer": 56,
+          "Lumma": 97,
+          "StealC": 46,
+          "Raccoon": 42,
+          "Vidar": 22,
+          "UNKNOWN": 10,
+          "Azorult": 10
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-04-12",
       "victim": "CMC Group",
       "domain": "cmc.com.vn",
       "country": "VN",
@@ -10575,6 +10632,30 @@
     },
     {
       "date": "2025-02-12",
+      "victim": "Baillie Lumber Co., L.P.",
+      "domain": "baillie.com",
+      "country": "US",
+      "summary": "Baillie Lumber Co., L.P. experienced a data breach where an unauthorized actor gained access to certain files within their network from February 6, 2025, to February 12, 2025, potentially copying files containing name and Social Security number information.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/6ebf7179-ebaf-4fc6-8082-72d23e710605.html",
+      "added": "2025-08-01",
+      "infostealer": {
+        "update": "2025-03-12 13:53:32",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "cactus",
+        "permalink": "https://www.ransomware.live/id/YmFpbGxpZS5jb21AY2FjdHVz"
+      }
+    },
+    {
+      "date": "2025-02-12",
       "victim": "State Bar of Texas",
       "domain": "texasbar.com",
       "country": "US",
@@ -14247,6 +14328,30 @@
         "infostealer_stats": {}
       },
       "ransomware": null
+    },
+    {
+      "date": "2024-12-12",
+      "victim": "Huntington Hospitality Financial Corp",
+      "domain": "huntingtonhotelgroup.com",
+      "country": "US",
+      "summary": "A data security incident occurred at Huntington Hospitality Financial Services Corp, where personal information of certain individuals was potentially accessed without authorization. The incident was discovered on July 18, 2025, after a suspicious event was first learned of on December 12, 2024. The company is offering complimentary credit monitoring and identity theft protection services to affected individuals.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/590aeb4d-6b66-497b-a439-f5b603c21b65.html",
+      "added": "2025-08-01",
+      "infostealer": {
+        "update": "2025-01-09 12:27:50",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "termite",
+        "permalink": "https://www.ransomware.live/id/SHVudGluZ3RvbiBIb3RlbCBHcm91cEB0ZXJtaXRl"
+      }
     },
     {
       "date": "2024-12-12",
@@ -23210,6 +23315,34 @@
         "employees_url": 0,
         "users_url": 0,
         "thirdparties": 0
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2024-07-28",
+      "victim": "Bengal Police",
+      "domain": "wbpolice.gov.in",
+      "country": "IN",
+      "summary": "La police du Bengale a lancé une enquête après avoir constaté que le centre de données de l'aile des crimes informatiques de l'État a été compromis, les autorités soupçonnent une atteinte intentionnelle de la part de la société privée qui gère le centre de données. Les enquêteurs ont découvert que la société privée avait un accès exclusif au centre de données au moment de l'attaque et que les officiers de police ont été confrontés à des problèmes d'accès au système après que la société a refusé de leur donner le contrôle administratif. L'enquête est en cours et plusieurs officiers ont déjà été interrogés.",
+      "title": "State police cyber crime wing faces data breach, cops suspect sabotage | Kolkata News - Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/kolkata/state-police-cyber-crime-wing-faces-data-breach-cops-suspect-sabotage/articleshow/123047377.cms",
+      "added": "2025-08-07",
+      "infostealer": {
+        "update": "2025-08-07 15:23:20",
+        "employees": 0,
+        "users": 72,
+        "thirdparties_domain": 1,
+        "employees_url": 0,
+        "users_url": 24,
+        "thirdparties": 1,
+        "infostealer_stats": {
+          "Lumma": 22,
+          "RedLine": 14,
+          "Generic Stealer": 9,
+          "Raccoon": 8,
+          "StealC": 7,
+          "Vidar": 1
+        }
       },
       "ransomware": null
     },

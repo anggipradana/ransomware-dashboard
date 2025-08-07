@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2521,
+  "count": 2525,
   "results": [
     {
       "date": "2025-08-07",
@@ -30,6 +30,27 @@
           "Vidar": 8,
           "Raccoon": 8
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-07-31",
+      "victim": "Town of Bar Harbor",
+      "domain": "barharbormaine.gov",
+      "country": "US",
+      "summary": "La ville de Bar Harbor a subi une attaque de cybersécurité, ce qui a entraîné la fermeture de ses services en ligne pour un avenir prévisible. Les systèmes de la ville ont été déconnectés pour prévenir tout dommage supplémentaire et une enquête est en cours avec l'aide de la société de cybersécurité CrowdStrike. Les employés ont été informés de la violation de données et de la possibilité que des données personnelles aient été compromises.",
+      "title": "Bar Harbor town services remain offline after cybersecurity attack",
+      "url": "https://www.bangordailynews.com/2025/08/01/hancock/hancock-government/bar-harbor-targeted-cybersecurity-attack/",
+      "added": "2025-08-07",
+      "infostealer": {
+        "update": "2025-08-07 16:24:15",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },
@@ -62,6 +83,27 @@
           "CRYPTBOT": 2,
           "Mystic": 2
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-07-29",
+      "victim": "North St. Paul Police Department",
+      "domain": "northstpaul.org",
+      "country": "US",
+      "summary": "Le département de police de North St. Paul a été visé par une cyberattaque, ce qui a conduit à une réunion d'urgence du conseil municipal pour répondre à l'attaque. Les détails de la cyberattaque n'ont pas été divulgués. La ville a approuvé un contrat avec un cabinet d'avocats pour enquêter et examiner l'ampleur de l'attaque.",
+      "title": "North St. Paul Police Department targeted in cyberattack",
+      "url": "https://www.fox9.com/news/north-st-paul-police-department-targeted-cyberattack",
+      "added": "2025-08-07",
+      "infostealer": {
+        "update": "2025-08-07 16:23:55",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },
@@ -167,6 +209,37 @@
     },
     {
       "date": "2025-07-24",
+      "victim": "Ridgefield Public Schools",
+      "domain": "ridgefield.org",
+      "country": "US",
+      "summary": "Ridgefield Public Schools a subi une attaque de ransomware, ce qui a entraîné la fermeture de son réseau et une enquête sur les conséquences potentielles pour les données. Les autorités ont été informées et aident à l'enquête. Le district travaille à restaurer ses services de manière sécurisée et méthodique.",
+      "title": "Cyberattack Disrupts Ridgefield Public Schools Network, Investigation Underway",
+      "url": "https://patch.com/connecticut/ridgefield/cyberattack-disrupts-ridgefield-public-schools-network-investigation-underway",
+      "added": "2025-08-07",
+      "infostealer": {
+        "update": "2025-08-05 20:49:18",
+        "employees": 0,
+        "users": 31,
+        "thirdparties_domain": 1,
+        "employees_url": 0,
+        "users_url": 15,
+        "thirdparties": 2,
+        "infostealer_stats": {
+          "RedLine": 14,
+          "Azorult": 10,
+          "Lumma": 10,
+          "Vidar": 6,
+          "Raccoon": 6,
+          "UNKNOWN": 2
+        }
+      },
+      "ransomware": {
+        "group": "safepay",
+        "permalink": "https://www.ransomware.live/id/cmlkZ2VmaWVsZC5vcmdAc2FmZXBheQ=="
+      }
+    },
+    {
+      "date": "2025-07-24",
       "victim": "Baden-Württembergischer Landesverband für Prävention und Rehabilitation gGmbH (bwlv)",
       "domain": "bwlv.de",
       "country": "DE",
@@ -183,6 +256,36 @@
         "users_url": 0,
         "thirdparties": 0,
         "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-07-23",
+      "victim": "POST Luxembourg",
+      "domain": "post.lu",
+      "country": "LU",
+      "summary": "Le gouvernement luxembourgeois a lancé une enquête sur une panne télécom nationale causée par une cyberattaque, qui a duré plus de trois heures et a touché les réseaux mobiles 4G et 5G. La faille de sécurité a été trouvée dans un composant logiciel standard utilisé par POST Luxembourg, l'opérateur télécom étatique. Les autorités ont souligné que l'attaque était conçue pour être perturbatrice, mais n'a pas compromis les systèmes internes ou les données des utilisateurs.",
+      "title": "Luxembourg Probes Cyberattack Behind Telecom Outage, Cites “Exceptionally Sophisticated” Assault - IT Security News",
+      "url": "https://www.itsecuritynews.info/luxembourg-probes-cyberattack-behind-telecom-outage-cites-exceptionally-sophisticated-assault/",
+      "added": "2025-08-07",
+      "infostealer": {
+        "update": "2025-07-26 14:49:55",
+        "employees": 5,
+        "users": 292,
+        "thirdparties_domain": 24,
+        "employees_url": 7,
+        "users_url": 36,
+        "thirdparties": 4,
+        "infostealer_stats": {
+          "RedLine": 190,
+          "Lumma": 194,
+          "Generic Stealer": 43,
+          "Raccoon": 56,
+          "StealC": 22,
+          "Vidar": 18,
+          "Azorult": 8,
+          "UNKNOWN": 2
+        }
       },
       "ransomware": null
     },

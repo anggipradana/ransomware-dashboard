@@ -271349,10 +271349,16 @@
         "website": "lodipd.org",
         "published": "2025-08-07 00:00:00.000000",
         "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=8f32c5fb-4981-395e-94dd-bfe766583ceb",
-        "country": "IT",
+        "country": "US",
         "activity": "Public Sector",
         "duplicates": [],
-        "extrainfos": []
+        "extrainfos": [],
+        "modifications": [
+            {
+                "date": "2025-08-08 09:04:58",
+                "description": "Update country"
+            }
+        ]
     },
     {
         "post_title": "camdon.ca",

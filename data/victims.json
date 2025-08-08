@@ -271523,12 +271523,18 @@
         "group_name": "everest",
         "discovered": "2025-08-08 10:22:56.109692",
         "description": "[AI generated] Pacific HealthWorks is a management services organization based in Los Angeles, United States. The company primarily provides comprehensive management, administrative, and support services to healthcare practitioners and facilities, including doctors’ offices, healthcare clinics, and other related medical entities. They focus on business and operational aspects so the medical professionals can concentrate on patient care.",
-        "website": "",
+        "website": "pacifichealthworks.com",
         "published": "2025-07-08 00:00:00.000000",
         "post_url": "http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/news/Pacific",
         "country": "US",
         "activity": "Healthcare",
         "duplicates": [],
-        "extrainfos": []
+        "extrainfos": [],
+        "modifications": [
+            {
+                "date": "2025-08-08 15:05:05",
+                "description": "Update website"
+            }
+        ]
     }
 ]

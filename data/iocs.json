@@ -1,6 +1,6 @@
 {
   "filter_type": null,
-  "count": 44,
+  "count": 45,
   "groups": [
     {
       "group": "Ailock",
@@ -55,6 +55,13 @@
       "group": "Blacksuit",
       "ioc_types": {
         "ip": 1
+      }
+    },
+    {
+      "group": "Bqtlock",
+      "ioc_types": {
+        "telegram": 5,
+        "twitter": 1
       }
     },
     {

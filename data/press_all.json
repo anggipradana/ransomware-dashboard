@@ -237,7 +237,10 @@
           "StealC": 1
         }
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "interlock",
+        "permalink": "https://www.ransomware.live/id/Q2l0eSBvZiBTdCBQYXVsQGludGVybG9jaw=="
+      }
     },
     {
       "date": "2025-07-25",

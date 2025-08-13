@@ -4,8 +4,55 @@
     "month": null,
     "country": null
   },
-  "count": 2538,
+  "count": 2541,
   "results": [
+    {
+      "date": "2025-08-13",
+      "victim": "Hoppegarten",
+      "domain": "gemeinde-hoppegarten.de",
+      "country": "DE",
+      "summary": "La commune de Hoppegarten est actuellement hors ligne en raison d'une attaque informatique, le Landeskriminalamt enquête sur une tentative de sabotage informatique, et la CDU-Landtagsfraktion réclame un plan d'urgence national pour les communes. La commune a été informée d'une attaque imminente sur son infrastructure IT et a décidé de se mettre hors ligne pour se protéger. Les autorités estiment que les administrations publiques et les organismes publics sont particulièrement visés par les attaquants.",
+      "title": "Computersabotage: Gemeindeverwaltung Hoppegarten offline",
+      "url": "https://www.it-daily.net/shortnews/hoppegarten-offline",
+      "added": "2025-08-13",
+      "infostealer": {
+        "update": "2025-08-13 15:38:39",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-08-08",
+      "victim": "Spartanburg County",
+      "domain": "spartanburgcounty.org",
+      "country": "US",
+      "summary": "Le comté de Spartanburg a été victime d'une cyberattaque, ce qui a entraîné la perturbation de certains services en ligne. Les responsables du comté ont déclaré que l'attaque avait été contenue et que les services essentiels continuaient de fonctionner normalement. Le comté travaille actuellement à la restauration de ses systèmes et à la rétablisation de l'accès public.",
+      "title": "Spartanburg County hit by cyberattack, some online services disrupted",
+      "url": "https://www.wyff4.com/article/spartanburg-county-cyberattack-services-disrupted/65637950",
+      "added": "2025-08-13",
+      "infostealer": {
+        "update": "2025-08-13 15:38:59",
+        "employees": 0,
+        "users": 18,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 5,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "RedLine": 15,
+          "UNKNOWN": 2,
+          "Lumma": 3,
+          "Vidar": 1
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2025-08-07",
       "victim": "Hans-Böckler-Stiftung",
@@ -112,6 +159,31 @@
           "RedLine": 6,
           "Lumma": 4,
           "Azorult": 2
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-08-04",
+      "victim": "Infoniqa",
+      "domain": "infoniqa.com",
+      "country": "CH",
+      "summary": "La plateforme de ressources humaines Infoniqa a subi une attaque informatique, ce qui a conduit à la fermeture de certaines parties de son site. L'entreprise n'a pas encore trouvé de preuves de fuite de données. Les services affectés incluent ONE Start Cloud, myInfoniqa Kundenportal et le Help Center / Ticketsystem.",
+      "title": "HR-Plattform Infoniqa erleidet einen Cyberangriff",
+      "url": "https://www.swisscybersecurity.net/news/2025-08-08/hr-plattform-infoniqa-erleidet-einen-cyberangriff",
+      "added": "2025-08-13",
+      "infostealer": {
+        "update": "2025-08-13 15:38:20",
+        "employees": 2,
+        "users": 9,
+        "thirdparties_domain": 2,
+        "employees_url": 2,
+        "users_url": 5,
+        "thirdparties": 2,
+        "infostealer_stats": {
+          "Lumma": 14,
+          "RedLine": 4,
+          "Vidar": 2
         }
       },
       "ransomware": null
@@ -47308,7 +47380,21 @@
       "summary": "Une attaque de ransomware a été signalée dans le comté de Spartanburg en Caroline du Sud. Les numéros de téléphone de certains départements ont été temporairement impactés. Les autorités ont détecté et répondu à l'attaque, et travaillent avec des consultants en cybersécurité tiers. Les services essentiels, y compris les opérations 9-1-1 et les communications d'urgence, continuent de fonctionner. Le système judiciaire de Caroline du Sud ne devrait pas être affecté.",
       "title": "South Carolina: Ransomware attack Spartanburg County",
       "url": "https://www.wyff4.com/article/south-carolina-ransomware-attack-spartanburg-county/43725703",
-      "infostealer": "",
+      "infostealer": {
+        "update": "2025-08-13 15:38:59",
+        "employees": 0,
+        "users": 18,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 5,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "RedLine": 15,
+          "UNKNOWN": 2,
+          "Lumma": 3,
+          "Vidar": 1
+        }
+      },
       "ransomware": null
     },
     {

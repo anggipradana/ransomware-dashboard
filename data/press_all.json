@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2537,
+  "count": 2538,
   "results": [
     {
       "date": "2025-08-07",
@@ -210,6 +210,38 @@
         "infostealer_stats": {}
       },
       "ransomware": null
+    },
+    {
+      "date": "2025-07-28",
+      "victim": "FranceLink",
+      "domain": "francelink.net",
+      "country": "FR",
+      "summary": "FranceLink a été victime d'une attaque informatique, ce qui a entraîné la fermeture temporaire de son standard téléphonique et des perturbations dans ses services, notamment la perte de données. L'équipe de FranceLink travaille activement à la récupération des données et à la reconstruction de ses infrastructures. Les clients sont invités à prendre des mesures pour minimiser les impacts, notamment en migrant leurs services de messagerie.",
+      "title": "Cyberattaque",
+      "url": "https://status.francelink.net",
+      "added": "2025-08-13",
+      "infostealer": {
+        "update": "2025-08-13 12:13:46",
+        "employees": 10,
+        "users": 79,
+        "thirdparties_domain": 0,
+        "employees_url": 3,
+        "users_url": 92,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "RedLine": 40,
+          "Lumma": 40,
+          "Raccoon": 30,
+          "Vidar": 16,
+          "StealC": 10,
+          "Azorult": 8,
+          "Atomic": 2
+        }
+      },
+      "ransomware": {
+        "group": "akira",
+        "permalink": "https://www.ransomware.live/id/RnJhbmNlTGlua0Bha2lyYQ=="
+      }
     },
     {
       "date": "2025-07-26",

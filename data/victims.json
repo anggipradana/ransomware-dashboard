@@ -273041,5 +273041,38 @@
         "extrainfos": {
             "data_size": "550GB"
         }
+    },
+    {
+        "post_title": "SFA Engineering",
+        "group_name": "underground",
+        "discovered": "2025-08-15 14:03:57.684917",
+        "description": "Revenue: $1.7 Billion\n Type: Industry\n Size: 2,3 TBytes",
+        "website": "",
+        "published": "2025-08-15 12:48:00.000000",
+        "post_url": "http://47glxkuxyayqrvugfumgsblrdagvrah7gttfscgzn56eyss5wg3uvmqd.onion/packages/3d8a47a4-988b-4842-844a-047a3f1f9e9d",
+        "country": "KR",
+        "activity": "Technology",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "ACMARK",
+        "group_name": "apos",
+        "discovered": "2025-08-15 14:14:48.552958",
+        "description": "ACMARK s.r.o. was established in 2009 and its mission is to provide high-quality consulting services designed to support the marketing and business processes in organizations. To support these activities and processes our company supplies globally tested information technology which helps our customers successfully develop their own activities and reach the maximum possible profitability.",
+        "website": "acmark.com",
+        "published": "2025-06-24 00:00:00.000000",
+        "post_url": "http://yrz6bayqwhleymbeviter7ejccxm64sv2ppgqgderzgdhutozcbbhpqd.onion/blog/c33fca04-0eef-4fd0-8eef-8585fe239ede",
+        "country": "??",
+        "activity": "Not Found",
+        "duplicates": [
+            {
+                "date": "2025-08-15 14:14:48.621854",
+                "group": "beast",
+                "link": "https://www.ransomware.live/id/QUNNQVJLQGJlYXN0",
+                "attackdate": "2025-06-24 00:00:00.000000"
+            }
+        ],
+        "extrainfos": []
     }
 ]

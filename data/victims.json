@@ -273839,5 +273839,20 @@
         "activity": "Technology",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Palmgold Management Sdn Bhd",
+        "group_name": "crypto24",
+        "discovered": "2025-08-18 15:47:10.923377",
+        "description": "We have exfiltrated over 500GB of most sensitive and business-critical data from palmgold's internal network. This includes data from both the Casino Division and the Credit Division, where the Casino Division holds the full operational database of over 60,000 members including PII, jackpot and play history, betting patterns, machine configurations, Power BI dashboards used for internal analytics, confidential finance, HR, and IT documents, complete scanner share contents from all branches (kmscan, toshibascan, fujiscan), as well as operational logic such as promotion formulas, game-specific revenue models, slot machine volatility settings, player-tier betting analytics, risk thresholds, fraud alert triggers, and blacklist criteria, while the Credit Division (pgcredit.com.my) contains all customer KYC information along with detailed banking and cash transaction records.",
+        "website": "palmgold-mgmt.com",
+        "published": "2025-08-18 15:47:09.996465",
+        "post_url": "",
+        "country": "MY",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": {
+            "size": "500GB"
+        }
     }
 ]

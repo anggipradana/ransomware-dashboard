@@ -2184,7 +2184,10 @@
           "UNKNOWN": 4
         }
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "gunra",
+        "permalink": "https://www.ransomware.live/id/SnVzdGljaWEgUGVuYWwgTWlsaXRhckBndW5yYQ=="
+      }
     },
     {
       "date": "2025-06-13",

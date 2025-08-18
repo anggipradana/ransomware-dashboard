@@ -256395,17 +256395,20 @@
         "extrainfos": []
     },
     {
-        "post_title": "ACCS Le Groupe",
+        "post_title": "ACCS Le Groupe",
         "group_name": "gunra",
         "discovered": "2025-06-06 17:10:37.294990",
-        "description": "Building automation, systems integration, and energy optimization for smart buildings",
+        "description": "[AI generated] ACCS Le Groupe is a French-based company specializing in the delivery of IT solutions and services. The company offers a comprehensive range of services including IT auditing, consulting, project management, and training. Their solutions are tailored to meet the specific needs of businesses across varying sectors. Additionally, ACCS Le Groupe provides infrastructures hosting, data management tools and cybersecurity measures to ensure efficient and secure business operations.",
         "website": "accslegroupe.ca",
-        "published": "2025-06-06 17:09:27.753250",
-        "post_url": "http://gunrabxbig445sjqa535uaymzerj6fp4nwc6ngc2xughf2pedjdhk4ad.onion",
+        "published": "2025-06-06 17:10:37.294990",
+        "post_url": "http://gunrabxbig445sjqa535uaymzerj6fp4nwc6ngc2xughf2pedjdhk4ad.onion/accs/",
         "country": "CA",
-        "activity": "Not Found",
+        "activity": "Technology",
         "duplicates": [],
-        "extrainfos": []
+        "extrainfos": {
+            "Activity": "Building automation, systems integration, and energy optimization for smart buildings",
+            "data_size": ""
+        }
     },
     {
         "post_title": "Kittery Police Department",
@@ -271717,10 +271720,7 @@
         "country": "",
         "activity": "Technology",
         "duplicates": [],
-        "extrainfos": {
-            "data_size": "Shown in video",
-            "ransom": "private XMR"
-        }
+        "extrainfos": []
     },
     {
         "post_title": "formacompany",
@@ -273748,5 +273748,53 @@
         "activity": "Transportation/Logistics",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Seoul Guarantee Insurance",
+        "group_name": "gunra",
+        "discovered": "2025-08-18 08:09:59.674603",
+        "description": "[AI generated] Seoul Guarantee Insurance (SGI) is a South Korean company specializing in credit and guarantee insurance for businesses. It offers insurance cover for trade, construction, and small to medium-sized businesses. It also provides surety bonds, credit guarantees, and financial services. Other services include reinsurance, loan guarantees, export insurance, and retail insurance products. The company was established in 1969 and is based in Seoul, South Korea.",
+        "website": "sgic.co.kr",
+        "published": "2025-08-18 08:09:18.655408",
+        "post_url": "http://gunrabxbig445sjqa535uaymzerj6fp4nwc6ngc2xughf2pedjdhk4ad.onion/#",
+        "country": "KR",
+        "activity": "Financial Services",
+        "duplicates": [],
+        "extrainfos": {
+            "Activity": "Insurance",
+            "data_size": "13.2TB"
+        }
+    },
+    {
+        "post_title": "SEGUROS AMÉRICA",
+        "group_name": "gunra",
+        "discovered": "2025-08-18 08:10:54.956002",
+        "description": "[AI generated] N/A",
+        "website": "segurosamerica.com.ni",
+        "published": "2025-08-18 08:10:22.195134",
+        "post_url": "http://gunrabxbig445sjqa535uaymzerj6fp4nwc6ngc2xughf2pedjdhk4ad.onion/segamerica",
+        "country": "NI",
+        "activity": "Financial Services",
+        "duplicates": [],
+        "extrainfos": {
+            "Activity": "Insurance",
+            "data_size": ""
+        }
+    },
+    {
+        "post_title": "Justicia Penal Militar",
+        "group_name": "gunra",
+        "discovered": "2025-08-18 08:11:09.208414",
+        "description": "[AI generated] N/A",
+        "website": "justiciamilitar.gov.co",
+        "published": "2025-08-18 08:10:56.990203",
+        "post_url": "http://gunrabxbig445sjqa535uaymzerj6fp4nwc6ngc2xughf2pedjdhk4ad.onion/juspemil.co",
+        "country": "CO",
+        "activity": "Public Sector",
+        "duplicates": [],
+        "extrainfos": {
+            "Activity": "Gobierno",
+            "data_size": "45TB"
+        }
     }
 ]

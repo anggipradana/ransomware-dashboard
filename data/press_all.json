@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2551,
+  "count": 2560,
   "results": [
     {
       "date": "2025-08-16",
@@ -1325,6 +1325,27 @@
     },
     {
       "date": "2025-07-09",
+      "victim": "Daniels Law Group, LLC",
+      "domain": "danielslawgroupllc.com",
+      "country": "US",
+      "summary": "An unidentified individual or group used illegal methods to gain unauthorized access to Daniels Law Group's file servers, potentially acquiring personal data belonging to clients and their family members. The incident occurred on or before July 1, 2025, and was discovered on July 9, 2025. It was claimed by Qilin on July 21st.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/9087bea4-54f6-4881-af88-cd9bccffe964.html",
+      "added": "2025-08-13",
+      "infostealer": {
+        "update": "2025-07-21 21:20:37",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-07-09",
       "victim": "DITTT",
       "domain": "dittt.gouv.nc",
       "country": "NC",
@@ -1541,6 +1562,27 @@
     },
     {
       "date": "2025-07-02",
+      "victim": "Harris, Burnett, Arend & Schmiesing CPA",
+      "domain": "hbastax.com",
+      "country": "US",
+      "summary": "Harris, Burnett, Arend & Schmiesing CPA’s experienced a data breach where an unknown bad actor accessed individual’s information, potentially including names, social security numbers, and financial data.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/8b1df7c6-4eb0-4945-a8f0-8fb03130533c.html",
+      "added": "2025-08-12",
+      "infostealer": {
+        "update": "2025-08-18 12:49:27",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-07-02",
       "victim": "The Morton Forum",
       "domain": "themortonforum.com",
       "country": "GB",
@@ -1571,6 +1613,27 @@
       "added": "2025-07-03",
       "infostealer": {
         "update": "2025-07-04 21:59:38",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-07-01",
+      "victim": "Tipton, marler, Garner and Chastain, P.A.",
+      "domain": "cpagroup.com",
+      "country": "US",
+      "summary": "Tipton, Marler, Garner and Chastain, P.A. suffered a data breach where an unauthorized actor viewed and/or copied a limited number of files containing names and Social Security numbers. The breach occurred on July 1, 2025, and was discovered on July 1, 2025. The incident was investigated, and the affected individuals were notified.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/159fbe3d-16b2-4ff1-bea9-2cd310c6e931.html",
+      "added": "2025-08-12",
+      "infostealer": {
+        "update": "2025-08-18 12:49:06",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,
@@ -3077,6 +3140,35 @@
           "Vidar": 18,
           "UNKNOWN": 12,
           "Predator": 2
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-06-03",
+      "victim": "Connex Credit Union",
+      "domain": "connexcu.org",
+      "country": "US",
+      "summary": "Connex Credit Union experienced a data security incident where certain files were accessed or downloaded without authorization between June 2 and 3, 2025. The incident may have involved personal information such as names, account numbers, debit card information, Social Security numbers, and/or other government IDs. Connex is offering complimentary credit and identity protection services to affected individuals.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/ba496af0-2688-4929-ad01-f07a4d8972cf.html",
+      "added": "2025-08-09",
+      "infostealer": {
+        "update": "2025-08-18 12:49:48",
+        "employees": 0,
+        "users": 32,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 12,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "RedLine": 20,
+          "Lumma": 14,
+          "Generic Stealer": 4,
+          "Azorult": 8,
+          "Raccoon": 4,
+          "Vidar": 4,
+          "UNKNOWN": 2
         }
       },
       "ransomware": null
@@ -4656,6 +4748,34 @@
         }
       },
       "ransomware": null
+    },
+    {
+      "date": "2025-05-07",
+      "victim": "Value Store It Management Inc.",
+      "domain": "valuestoreit.com",
+      "country": "US",
+      "summary": "Value Store It Management, Inc. experienced a data security incident where an unauthorized party obtained access to their internal network, potentially exposing personally identifiable information. The incident occurred on or about May 7, 2025, and was claimed by INC Ransom on June 1st.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/427f5ee9-be41-44bc-8383-8b88ec41de6c.html",
+      "added": "2025-08-09",
+      "infostealer": {
+        "update": "2025-06-02 04:04:09",
+        "employees": 0,
+        "users": 11,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 5,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "RedLine": 16,
+          "Azorult": 4,
+          "Lumma": 2
+        }
+      },
+      "ransomware": {
+        "group": "incransom",
+        "permalink": "https://www.ransomware.live/id/dmFsdWVzdG9yZWl0QGluY3JhbnNvbQ=="
+      }
     },
     {
       "date": "2025-05-07",
@@ -14258,6 +14378,29 @@
     },
     {
       "date": "2024-12-29",
+      "victim": "Manpower of Lansing, MI Inc.",
+      "domain": "manpower.com",
+      "country": "US",
+      "summary": "Manpower of Lansing MI, Inc. experienced an IT outage that led to unauthorized access to their network between December 29, 2024, and January 12, 2025. The attack was claimed by RansomHub on January 22nd.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/7f78311b-64ff-4436-82b7-187ed0d23685.html",
+      "added": "2025-08-12",
+      "infostealer": {
+        "update": "2025-01-22 19:02:57",
+        "employees": 62,
+        "users": 6381,
+        "thirdparties_domain": 19,
+        "employees_url": 9,
+        "users_url": 100,
+        "thirdparties": 17
+      },
+      "ransomware": {
+        "group": "ransomhub",
+        "permalink": "https://www.ransomware.live/id/d3d3Lm1hbnBvd2VyLmNvbUByYW5zb21odWI="
+      }
+    },
+    {
+      "date": "2024-12-29",
       "victim": "Peikko",
       "domain": "peikko.com",
       "country": "FI",
@@ -15979,6 +16122,27 @@
     },
     {
       "date": "2024-11-29",
+      "victim": "Stevens & Day, LLP",
+      "domain": "stevensdaylaw.com",
+      "country": "US",
+      "summary": "Stevens & Day suffered a data breach, providing customers with access to credit monitoring and fraud assistance services. The breach led to the notification of affected customers, who were offered free services to protect their information. The incident prompted the company to encourage customers to monitor their accounts and credit reports for suspicious activity.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/c1ece9c6-8833-4c80-8886-645f6607036f.html",
+      "added": "2025-08-09",
+      "infostealer": {
+        "update": "2025-08-18 12:50:08",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2024-11-29",
       "victim": "Brodsky Renehan Pearlstein & Bouquet Chartered",
       "domain": "brpfamilylaw.com",
       "country": "US",
@@ -16477,6 +16641,27 @@
         "group": "termite",
         "permalink": "https://www.ransomware.live/id/Qmx1ZSBZb25kZXJAdGVybWl0ZQ=="
       }
+    },
+    {
+      "date": "2024-11-20",
+      "victim": "DBM Global Inc.",
+      "domain": "dbmglobal.com",
+      "country": "US",
+      "summary": "DBM Global, Inc. experienced a data security incident in November 2024, where an unknown actor acquired certain personal information without authorization. The incident was discovered on November 20, 2024, and DBM Global undertook a comprehensive review of the potentially impacted data. The company notified 12 Maine residents and offered complimentary credit monitoring and identity theft protection services.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/21ad31aa-c8fd-4fb0-a560-7a1bb935531a.html",
+      "added": "2025-08-12",
+      "infostealer": {
+        "update": "2025-08-18 12:48:47",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
     },
     {
       "date": "2024-11-20",
@@ -18906,6 +19091,29 @@
         "group": "ransomhub",
         "permalink": "https://www.ransomware.live/id/d3d3Lm9tYS5hZXJvQHJhbnNvbWh1Yg=="
       }
+    },
+    {
+      "date": "2024-10-17",
+      "victim": "Old Dutch Foods, Inc.",
+      "domain": "olddutchfoods.com",
+      "country": "US",
+      "summary": "Old Dutch Foods, Inc. suffered a data breach between October 16 and October 17, 2024, where unauthorized access occurred and sensitive information may have been copied and taken. The breach involved name, Social Security number, driver's license number, and financial account information. Old Dutch Foods, Inc. is offering complimentary credit monitoring and identity protection services through Experian.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/c0f6b4b4-b4a9-4a04-905d-5b3dcdf14037.html",
+      "added": "2025-08-12",
+      "infostealer": {
+        "update": "2025-08-18 12:48:29",
+        "employees": 1,
+        "users": 0,
+        "thirdparties_domain": 5,
+        "employees_url": 2,
+        "users_url": 0,
+        "thirdparties": 1,
+        "infostealer_stats": {
+          "RedLine": 2
+        }
+      },
+      "ransomware": null
     },
     {
       "date": "2024-10-17",

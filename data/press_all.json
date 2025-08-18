@@ -427,7 +427,10 @@
           "Vidar": 2
         }
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "warlock",
+        "permalink": "https://www.ransomware.live/id/aW5mb25pcWEuY29tQHdhcmxvY2s="
+      }
     },
     {
       "date": "2025-08-03",

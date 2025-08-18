@@ -4,8 +4,32 @@
     "month": null,
     "country": null
   },
-  "count": 2543,
+  "count": 2550,
   "results": [
+    {
+      "date": "2025-08-15",
+      "victim": "Compagnie des guides de Chamonix",
+      "domain": "chamonix-guides.com",
+      "country": "FR",
+      "summary": "La compagnie des guides de Chamonix a été victime d'une cyberattaque le 15 août, entraînant la consultation et le potentiel vol de données confidentielles. Les défenses en place ont permis de contenir une partie de l'attaque, mais la direction appelle à la vigilance face à de possibles e-mails suspects. Une enquête est menée avec des experts en cybersécurité et les autorités compétentes ont été saisies.",
+      "title": "Haute-Savoie. Une cyberattaque cible la compagnie des guides de Chamonix le jour de sa fête",
+      "url": "https://www.ledauphine.com/faits-divers-justice/2025/08/16/une-cyberattaque-cible-la-compagnie-des-guides-le-jour-de-sa-fete",
+      "added": "2025-08-18",
+      "infostealer": {
+        "update": "2025-08-18 10:40:02",
+        "employees": 0,
+        "users": 15,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 8,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "Lumma": 14,
+          "Vidar": 2
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2025-08-13",
       "victim": "Hoppegarten",
@@ -24,6 +48,102 @@
         "users_url": 0,
         "thirdparties": 0,
         "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-08-12",
+      "victim": "Stock in the Channel",
+      "domain": "stockinthechannel.com",
+      "country": "GB",
+      "summary": "Stock in the Channel, une entreprise britannique, a subi une attaque de ransomware qui a entraîné la fermeture de son site web. Les attaquants ont exploité une vulnérabilité zero day dans l'une des applications tierces utilisées par l'entreprise. Selon l'entreprise, il n'y a actuellement aucune preuve de violation de données et tous les données critiques ont été récupérées.",
+      "title": "Stock in the Channel pulls website amid cyberattack",
+      "url": "https://www.theregister.com/2025/08/14/stock_in_the_channel_pulls/",
+      "added": "2025-08-18",
+      "infostealer": {
+        "update": "2025-08-18 10:41:03",
+        "employees": 0,
+        "users": 166,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 43,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "RedLine": 98,
+          "Lumma": 84,
+          "Raccoon": 22,
+          "StealC": 18,
+          "Vidar": 8,
+          "Azorult": 8
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-08-12",
+      "victim": "Colt Technology Services",
+      "domain": "colt.net",
+      "country": "GB",
+      "summary": "La société de télécommunications britannique Colt Technology Services est victime d'une cyberattaque qui a causé une panne de plusieurs jours de certaines de ses opérations. L'attaque a commencé le 12 août et les services tels que Colt Online et la plateforme Voice API sont toujours hors ligne. Les autorités ont été notifiées, mais les détails sur les auteurs de l'attaque ou son type n'ont pas été divulgués.",
+      "title": "Colt Telecom attack claimed by WarLock ransomware, data up for sale",
+      "url": "https://www.bleepingcomputer.com/news/security/colt-telecom-attack-claimed-by-warlock-ransomware-data-up-for-sale/",
+      "added": "2025-08-18",
+      "infostealer": {
+        "update": "2025-08-17 09:16:50",
+        "employees": 81,
+        "users": 362,
+        "thirdparties_domain": 30,
+        "employees_url": 20,
+        "users_url": 100,
+        "thirdparties": 71,
+        "infostealer_stats": {
+          "RedLine": 149,
+          "Generic Stealer": 91,
+          "Lumma": 76,
+          "Raccoon": 67,
+          "Vidar": 20,
+          "Azorult": 17,
+          "StealC": 12,
+          "UNKNOWN": 7,
+          "Ficker": 1
+        }
+      },
+      "ransomware": {
+        "group": "warlock",
+        "permalink": "https://www.ransomware.live/id/Y29sdC5uZXRAd2FybG9jaw=="
+      }
+    },
+    {
+      "date": "2025-08-11",
+      "victim": "Linedata",
+      "domain": "linedata.com",
+      "country": "FR",
+      "summary": "Une cyberattaque a visé le fournisseur français de services de gestion de fonds Linedata, ce qui a entraîné la suspension de fonds utilisant Tutman Fund Solutions en tant que directeur corporatif autorisé. L'attaque a eu un impact sur environ 80 fonds. Linedata est une entreprise de technologie, de données et de logiciels cotée à Euronext Paris.",
+      "title": "Cyberattack at French fund administrator Linedata led to fund suspensions",
+      "url": "https://citywire.com/new-model-adviser/news/french-fintech-linedata-hit-with-cyberattack-which-led-to-acd-fund-suspension/a2472078",
+      "added": "2025-08-18",
+      "infostealer": {
+        "update": "2025-08-18 10:40:21",
+        "employees": 31,
+        "users": 343,
+        "thirdparties_domain": 10,
+        "employees_url": 27,
+        "users_url": 100,
+        "thirdparties": 4,
+        "infostealer_stats": {
+          "RedLine": 314,
+          "Generic Stealer": 56,
+          "Lumma": 110,
+          "Raccoon": 76,
+          "StealC": 37,
+          "Vidar": 23,
+          "UNKNOWN": 18,
+          "Mystic": 4,
+          "Azorult": 4,
+          "Taurus": 2,
+          "CRYPTBOT": 2,
+          "Atomic": 1
+        }
       },
       "ransomware": null
     },
@@ -114,6 +234,41 @@
           "UNKNOWN": 2,
           "Lumma": 3,
           "Vidar": 1
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-08-07",
+      "victim": "Nigeria Customs Service (NCS)",
+      "domain": "customs.gov.ng",
+      "country": "NG",
+      "summary": "Une cyberattaque a paralysé la plateforme informatique des douanes nigérianes, provoquant de fortes perturbations dans le dédouanement des cargaisons et entraînant des pertes pour les agents à cause des frais de surestaries. Les autorités affirment avoir rétabli et renforcé le système, tout en discutant avec les parties prenantes d’éventuelles compensations pour les importateurs affectés. Cependant, plusieurs acteurs du secteur critiquent la fiabilité du nouveau système B’Odogwu et dénoncent l’inaction des organisations économiques face aux conséquences pour les opérateurs portuaires.",
+      "title": "Cyber attack hits Customs, disrupts cargo clearance",
+      "url": "https://www.vanguardngr.com/2025/08/cyber-attack-hits-customs-disrupts-cargo-clearance/",
+      "added": "2025-08-18",
+      "infostealer": {
+        "update": "2025-08-18 10:41:29",
+        "employees": 59,
+        "users": 2614,
+        "thirdparties_domain": 15,
+        "employees_url": 14,
+        "users_url": 18,
+        "thirdparties": 21,
+        "infostealer_stats": {
+          "RedLine": 1596,
+          "Lumma": 1202,
+          "Raccoon": 842,
+          "Vidar": 268,
+          "StealC": 208,
+          "Azorult": 182,
+          "UNKNOWN": 92,
+          "Predator": 12,
+          "Ficker": 12,
+          "Mystic": 12,
+          "Taurus": 4,
+          "Atomic": 4,
+          "CRYPTBOT": 2
         }
       },
       "ransomware": null
@@ -689,6 +844,31 @@
           "Vidar": 2,
           "Raccoon": 2,
           "Azorult": 2
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-07-18",
+      "victim": "Venture Credit Union Society Ltd",
+      "domain": "venturecreditunion.com",
+      "country": "BB",
+      "summary": "La Venture Credit Union Society Ltd a été victime d'une attaque de ransomware, mais a réussi à récupérer grâce à ses mesures de sécurité robustes. L'attaque a entraîné la fuite de certaines informations personnelles, mais aucune information bancaire de base n'a été compromise. L'entreprise a promis de rester vigilante et de continuer à investir dans son infrastructure de cybersécurité.",
+      "title": "Venture Credit Union announces recovery from ransomware attack",
+      "url": "https://technewstt.com/venture-credit-union-ransomware-attack/",
+      "added": "2025-08-18",
+      "infostealer": {
+        "update": "2025-08-12 19:15:36",
+        "employees": 0,
+        "users": 6,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 5,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "Vidar": 4,
+          "StealC": 4,
+          "CRYPTBOT": 2
         }
       },
       "ransomware": null
@@ -22979,6 +23159,27 @@
         "group": "bianlian",
         "permalink": "https://www.ransomware.live/id/QmVuc29uIEtlYXJsZXkgSUZHIC0gSW5zdXJhbmNlIEJyb2tlcnMgJiBGaW5hbmNpYWwgQWR2aXNvcnNAYmlhbmxpYW4="
       }
+    },
+    {
+      "date": "2024-08-11",
+      "victim": "Clinical Diagnostics",
+      "domain": "clinicaldiagnostics.nl",
+      "country": "NL",
+      "summary": "Le laboratoire Clinical Diagnostics a été victime d'une cyberattaque, entraînant la fuite de données de patients et de professionnels de santé. Cette attaque a des conséquences importantes pour les soins de santé aux Pays-Bas, notamment pour les cabinets de médecins et les services de garde qui travaillent avec le laboratoire. Les organisations concernées ont exprimé leur inquiétude quant à la lenteur de la communication de la part de Clinical Diagnostics.",
+      "title": "Datalek bij laboratorium Clinical Diagnostics treft huisartsenzorg",
+      "url": "https://www.dutchitleaders.nl/news/688050/datalek-bij-laboratorium-clinical-diagnostics-treft-huisartsenzorg",
+      "added": "2025-08-18",
+      "infostealer": {
+        "update": "2025-08-18 10:40:40",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
     },
     {
       "date": "2024-08-11",

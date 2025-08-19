@@ -1,5 +1,5 @@
 {
-  "count": 183,
+  "count": 184,
   "groups": [
     {
       "group": ".git",
@@ -127,7 +127,11 @@
     },
     {
       "group": "braincipher",
-      "ransomnotes_count": 2
+      "ransomnotes_count": 3
+    },
+    {
+      "group": "bytesfromheaven",
+      "ransomnotes_count": 1
     },
     {
       "group": "cactus",

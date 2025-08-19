@@ -1,5 +1,5 @@
 {
-  "count": 59,
+  "count": 60,
   "sectors": [
     {
       "sector": "Advertising, Marketing & Public Relations",
@@ -56,6 +56,10 @@
     {
       "sector": "Consumer Services",
       "count": 217
+    },
+    {
+      "sector": "Consumer services",
+      "count": 1
     },
     {
       "sector": "Critical Manufacturing",
@@ -167,7 +171,7 @@
     },
     {
       "sector": "Not Found",
-      "count": 2155
+      "count": 2156
     },
     {
       "sector": "Nuclear Reactors, Materials, and Waste",
@@ -207,7 +211,7 @@
     },
     {
       "sector": "Technology",
-      "count": 1346
+      "count": 1347
     },
     {
       "sector": "Technology, Not Found, Education",

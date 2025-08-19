@@ -1,6 +1,6 @@
 {
   "filter_type": null,
-  "count": 45,
+  "count": 46,
   "groups": [
     {
       "group": "Ailock",
@@ -55,6 +55,13 @@
       "group": "Blacksuit",
       "ioc_types": {
         "ip": 1
+      }
+    },
+    {
+      "group": "Bluelocker",
+      "ioc_types": {
+        "sha256": 4,
+        "tox": 1
       }
     },
     {

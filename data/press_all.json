@@ -278,7 +278,10 @@
         "thirdparties": 0,
         "infostealer_stats": {}
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "qilin",
+        "permalink": "https://www.ransomware.live/id/SW5vdGl2LCBJbmNAcWlsaW4="
+      }
     },
     {
       "date": "2025-08-08",

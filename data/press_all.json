@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2570,
+  "count": 2573,
   "results": [
     {
       "date": "2025-08-16",
@@ -69,6 +69,32 @@
         "users_url": 0,
         "thirdparties": 0,
         "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-08-12",
+      "victim": "City of Lubbock",
+      "domain": "lubbock.tx.us",
+      "country": "US",
+      "summary": "La ville de Lubbock a subi deux attaques informatiques cette année, dont une qui a fermé sa présence en ligne. Une attaque antérieure avait créé une fausse fenêtre contextuelle sur le site de paiement des services publics de la ville. Les autorités de la ville ont travaillé pour restaurer les systèmes et ont offert une période de surveillance du crédit gratuite aux personnes touchées.",
+      "title": "Another cyber-attack at city hall: city gave notice to Texas AG, topic added to special meeting of City Council",
+      "url": "https://www.everythinglubbock.com/news/local-news/another-cyber-attack-at-city-hall-city-gave-notice-to-texas-ag-topic-added-to-special-meeting-of-city-council/",
+      "added": "2025-08-19",
+      "infostealer": {
+        "update": "2025-08-19 07:52:34",
+        "employees": 0,
+        "users": 36,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 21,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "RedLine": 24,
+          "Azorult": 20,
+          "Lumma": 6,
+          "Vidar": 2
+        }
       },
       "ransomware": null
     },
@@ -230,6 +256,27 @@
           "UNKNOWN": 6,
           "StealC": 2
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-08-08",
+      "victim": "Inotiv, Inc.",
+      "domain": "inotiv.com",
+      "country": "US",
+      "summary": "Inotiv, Inc. a subi une faille de sécurité informatique le 8 août 2025, une enquête est en cours pour déterminer l'ampleur de l'incident. L'entreprise a pris des mesures pour contenir et remédier à la situation, mais les opérations commerciales ont été perturbées. L'incident a eu un impact temporaire sur la disponibilité et l'accès à certains réseaux et systèmes de l'entreprise.",
+      "title": "notv-20250808",
+      "url": "https://www.sec.gov/Archives/edgar/data/720154/000162828025040658/notv-20250808.htm",
+      "added": "2025-08-19",
+      "infostealer": {
+        "update": "2025-08-19 07:52:52",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },
@@ -25118,6 +25165,27 @@
         "employees_url": 0,
         "users_url": 0,
         "thirdparties": 0
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2024-07-19",
+      "victim": "Dinowitz & Bove CPA",
+      "domain": "dbaccounting.net",
+      "country": "US",
+      "summary": "Dinowitz & Bove CPA experienced a data security incident that may have affected personally identifiable information. The incident occurred on July 19, 2024, and was discovered on July 8, 2025. The breach involved the potential unauthorized access to names and other information.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/2fb71b27-fbed-4a25-9fdc-ee1e9565394a.html",
+      "added": "2025-08-19",
+      "infostealer": {
+        "update": "2025-08-19 07:52:12",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },

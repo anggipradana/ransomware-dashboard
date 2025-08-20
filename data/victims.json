@@ -274575,5 +274575,25 @@
         "activity": "Manufacturing",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Greater Pittsburgh Orthopaedic Associates",
+        "group_name": "ransomhouse",
+        "discovered": "2025-08-20 18:12:33.465208",
+        "description": "Pittsburgh Orthopaedic Associates (GPOA), Pittsburgh’s oldest continuously-operating orthopaedic surgical associates. Our goal is to provide compassionate orthopaedic care to patients of all ages for an extensive variety of conditions.",
+        "website": "www.gpoa.com",
+        "published": "2024-05-14 00:00:00.00000",
+        "post_url": "http://zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion/r/c9e248e3c9d5f639f26db4afd147a5b68a946aa6",
+        "country": "US",
+        "activity": "Healthcare",
+        "duplicates": [
+            {
+                "date": "2025-08-20 18:12:33.541672",
+                "group": "donutleaks",
+                "link": "https://www.ransomware.live/id/UGl0dHNidXJnaOKAmXMgVHJ1c3RlZCBPcnRob3BhZWRpYyBTdXJnZW9uc0Bkb251dGxlYWtz",
+                "attackdate": "2024-05-14 00:00:00.00000"
+            }
+        ],
+        "extrainfos": []
     }
 ]

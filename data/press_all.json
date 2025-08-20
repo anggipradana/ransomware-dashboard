@@ -4,8 +4,29 @@
     "month": null,
     "country": null
   },
-  "count": 2577,
+  "count": 2578,
   "results": [
+    {
+      "date": "2025-08-17",
+      "victim": "Büchner Barella",
+      "domain": "buechnerbarella.de",
+      "country": "DE",
+      "summary": "Le groupe d'assurance allemand Büchner Barella a été victime d'une attaque ciblée et criminelle de pirates informatiques, mais les systèmes de sécurité de l'entreprise ont permis de limiter les dégâts. Les pirates ont réussi à compromettre les systèmes, mais l'entreprise travaille avec des experts pour résoudre le problème. Les détails de l'attaque sont encore inconnus, mais l'entreprise informera ses clients dès que possible.",
+      "title": "Hintergründe unklar: Cyber-Angriff auf Versicherungsmakler Büchner Barella",
+      "url": "https://www.procontra-online.de/versicherer/artikel/hintergruende-unklar-cyber-angriff-auf-versicherungsmakler-buechner-barella",
+      "added": "2025-08-20",
+      "infostealer": {
+        "update": "2025-08-20 15:21:20",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2025-08-17",
       "victim": "Ville de Middletown",

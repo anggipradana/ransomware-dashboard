@@ -271559,12 +271559,18 @@
         "discovered": "2025-08-08 23:12:14.630685",
         "description": "[AI generated] MauiLodging.com is a property rental service company based in Maui, Hawaii. This firm specializes in providing a wide range of accommodation options as per user requirements, from luxury villas to economical vacation rentals. Tailored to cater to the varying needs of tourists, the firm assures quality amenities, scenic locations, and personalized customer services, making the trip to the island unforgettable.",
         "website": "mauilodging.com",
-        "published": "2025-08-08 23:11:39.036314",
+        "published": "2025-08-01 00:00:00.000000",
         "post_url": "http://j3dp6okmaklajrsk6zljl5sfa2vpui7j2w6cwmhmmqhab6frdfbphhid.onion#mauilodging",
         "country": "US",
         "activity": "Hospitality and Tourism",
         "duplicates": [],
-        "extrainfos": []
+        "extrainfos": [],
+        "modifications": [
+            {
+                "date": "2025-08-20 16:28:13.495551",
+                "description": "Update published"
+            }
+        ]
     },
     {
         "post_title": "Drive & Shine",
@@ -271780,12 +271786,18 @@
         "discovered": "2025-08-10 12:10:28.864269",
         "description": "Welcome to Howard Financial Corp\r Audit and compliance (LIP AUDIT 2023–2025)\r Customer databases (ACTIVE/INACTIVE blue files, customer lists)\r Internal procedures and templates (HOWARD FINANCIAL PROCEDURES)\r Working with partners (AIG, Allianz, Americo, etc.)\r Personal work logs and diaries\r Customer letter archives\r Financial and product materials\r Contracts and legal documentation\r You will soon see everything.",
         "website": "www.howardfinancialcorp.com",
-        "published": "2025-08-10 05:05:00.000000",
+        "published": "2025-05-19 00:00:00.000000",
         "post_url": "http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6898811ec7b82dfe0b66967e",
         "country": "US",
         "activity": "Financial Services",
         "duplicates": [],
-        "extrainfos": []
+        "extrainfos": [],
+        "modifications": [
+            {
+                "date": "2025-08-20 16:28:13.485049",
+                "description": "Update published"
+            }
+        ]
     },
     {
         "post_title": "L3Harris Technologies",
@@ -273285,12 +273297,18 @@
         "discovered": "2025-08-17 00:16:29.021375",
         "description": "Employees: 25\r Revenue:$5 Million\r Industry:Accounting Services  \r Phone Number:(704) 878-9541\r SENSITIVE DATA_$",
         "website": "mycpaconnection.com",
-        "published": "2025-08-16 23:48:00.000000",
+        "published": "2025-07-20 00:00:00.000000",
         "post_url": "http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/689d8841c7b82dfe0bbff05a",
         "country": "US",
         "activity": "Financial Services",
         "duplicates": [],
-        "extrainfos": []
+        "extrainfos": [],
+        "modifications": [
+            {
+                "date": "2025-08-20 16:28:13.474859",
+                "description": "Update published"
+            }
+        ]
     },
     {
         "post_title": "Panorama",
@@ -274516,6 +274534,45 @@
         "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=01ad468b-601d-354a-8c92-ea5fd60d7b7c",
         "country": "KR",
         "activity": "Construction",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "hmsaojose.com",
+        "group_name": "global",
+        "discovered": "2025-08-20 16:42:32.502232",
+        "description": "Hospital Maternidade São José\n1TB of private patient information. Personal details and more.",
+        "website": "hmsaojose.com",
+        "published": "2025-08-20 00:00:00.000000",
+        "post_url": "",
+        "country": "BR",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "EUROFILM ΜΑΝΤΖΑΡΗΣ Α.Ε",
+        "group_name": "incransom",
+        "discovered": "2025-08-20 16:43:11.518840",
+        "description": "info@mantzaris-film.com\r (+30) 27410 54900\r info.ath@mantzaris-film.com\r (+30) 212 000 0001",
+        "website": "",
+        "published": "2025-08-20 05:56:00.000000",
+        "post_url": "http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/68a5fa40c7b82dfe0b4fd48b",
+        "country": "GR",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "welldone.com.tw",
+        "group_name": "qilin",
+        "discovered": "2025-08-20 17:06:53.348557",
+        "description": "Welldone Company is the first legal remittance company for migrant workers in Taiwan：\nApproved by the Financial Supervisory Commission to conduct financial technology innovation experiments for migrant workers’remittances in 2018.\nObtai            ...",
+        "website": "www.welldone.com.tw",
+        "published": "2025-08-20 00:00:00.000000",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=251e56bc-049a-305e-acd7-949d92481ff2",
+        "country": "TW",
+        "activity": "Manufacturing",
         "duplicates": [],
         "extrainfos": []
     }

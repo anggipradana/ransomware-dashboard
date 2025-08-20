@@ -4,8 +4,33 @@
     "month": null,
     "country": null
   },
-  "count": 2573,
+  "count": 2577,
   "results": [
+    {
+      "date": "2025-08-17",
+      "victim": "Ville de Middletown",
+      "domain": "cityofmiddletown.org",
+      "country": "US",
+      "summary": "La ville de Middletown est victime d'une faille de sécurité informatique qui a perturbé de nombreuses fonctions de la ville. Les services en personne sont suspendus au bâtiment de la ville de Middletown, mais les autres départements continuent de fonctionner normalement. La ville fournira des mises à jour supplémentaires sur la situation.",
+      "title": "Middletown issues update after weekend cyberattack",
+      "url": "https://www.wdtn.com/news/local-news/middletown-issues-update-after-weekend-cyberattack/",
+      "added": "2025-08-20",
+      "infostealer": {
+        "update": "2025-08-20 07:50:39",
+        "employees": 0,
+        "users": 17,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 5,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "RedLine": 10,
+          "Raccoon": 4,
+          "Azorult": 4
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2025-08-16",
       "victim": "Bragg",
@@ -47,6 +72,35 @@
         "infostealer_stats": {
           "Lumma": 14,
           "Vidar": 2
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-08-14",
+      "victim": "University of St. Thomas",
+      "domain": "stthom.edu",
+      "country": "US",
+      "summary": "Une tentative de piratage a visé les serveurs de l'Université de St. Thomas, entraînant une interruption des services en ligne, mais aucune donnée n'a été compromise selon l'université. Les équipes de sécurité enquêtent sur l'incident et travaillent à rétablir les services le plus rapidement possible. L'université a pris des mesures de précaution pour protéger les données des étudiants et du personnel.",
+      "title": "Cyber Attack Takes University of St. Thomas, Texas, Offline",
+      "url": "https://www.govtech.com/education/higher-ed/cyber-attack-takes-university-of-st-thomas-texas-offline",
+      "added": "2025-08-20",
+      "infostealer": {
+        "update": "2025-08-20 07:50:20",
+        "employees": 15,
+        "users": 83,
+        "thirdparties_domain": 50,
+        "employees_url": 9,
+        "users_url": 33,
+        "thirdparties": 33,
+        "infostealer_stats": {
+          "RedLine": 62,
+          "Lumma": 54,
+          "StealC": 14,
+          "Raccoon": 10,
+          "Vidar": 8,
+          "Azorult": 4,
+          "UNKNOWN": 2
         }
       },
       "ransomware": null
@@ -158,6 +212,37 @@
       "ransomware": {
         "group": "warlock",
         "permalink": "https://www.ransomware.live/id/Y29sdC5uZXRAd2FybG9jaw=="
+      }
+    },
+    {
+      "date": "2025-08-11",
+      "victim": "Welcome Financial Group",
+      "domain": "welcomefg.co.kr",
+      "country": "KR",
+      "summary": "Un groupe russe a revendiqué une attaque par ransomware contre Welrix I&F, une filiale de Welcome Financial Group, et a affirmé avoir acquis la base de données des clients. L'entreprise a alerté les autorités de cybersécurité et les autorités financières. L'attaque est la dernière d'une série de cyberattaques contre des entreprises sud-coréennes.",
+      "title": "Welcome Financial Group unit hit by ransomware attack | Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20250818010400315",
+      "added": "2025-08-20",
+      "infostealer": {
+        "update": "2025-08-18 00:34:49",
+        "employees": 0,
+        "users": 49,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 11,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "RedLine": 34,
+          "Lumma": 16,
+          "Raccoon": 4,
+          "Vidar": 2,
+          "CRYPTBOT": 2,
+          "Azorult": 2
+        }
+      },
+      "ransomware": {
+        "group": "qilin",
+        "permalink": "https://www.ransomware.live/id/V2VsY29tZSBGaW5hbmNpYWwgR3JvdXBAcWlsaW4="
       }
     },
     {
@@ -20335,6 +20420,27 @@
         "group": "rhysida",
         "permalink": "https://www.ransomware.live/id/VmVybWlsaW9uIFBhcmlzaCBTY2hvb2wgU3lzdGVtQHJoeXNpZGE="
       }
+    },
+    {
+      "date": "2024-10-06",
+      "victim": "Ratio Architects LLC.",
+      "domain": "ratiodesign.com",
+      "country": "US",
+      "summary": "Ratio Architects, LLC suffered a data security incident involving the unauthorized acquisition of personal information, including names and other data elements. The incident occurred on October 6, 2024, and was discovered on May 23, 2025. The company has taken steps to resecure its systems and is providing identity monitoring services to affected individuals.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/5b123e58-3a9f-4c9d-8a85-ab44c7990dc8.html",
+      "added": "2025-08-20",
+      "infostealer": {
+        "update": "2025-08-20 07:50:58",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
     },
     {
       "date": "2024-10-06",

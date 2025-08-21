@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2585,
+  "count": 2587,
   "results": [
     {
       "date": "2025-08-17",
@@ -1997,6 +1997,30 @@
         }
       },
       "ransomware": null
+    },
+    {
+      "date": "2025-06-29",
+      "victim": "MPOWERHealth",
+      "domain": "mpowerhealth.com",
+      "country": "US",
+      "summary": "MPOWERHealth a été victime d'une fuite de données de 989,8 Go, comprenant des informations de santé protégées et des données sensibles, qui ont été trouvées intactes et non cryptées dans la corbeille de recyclage. Les données ont été obtenues par WorldLeaks, qui a exigé un paiement en échange de la non-divulgation des données. MPOWERHealth a cessé de répondre après que WorldLeaks ait refusé de négocier le prix.",
+      "title": "MPOWERHealth victim of cyberattack; protected health information involved – DataBreaches.Net",
+      "url": "https://databreaches.net/2025/08/21/mpowerhealth-victim-of-cyberattack-protected-health-information-involved/",
+      "added": "2025-08-21",
+      "infostealer": {
+        "update": "2025-08-19 19:48:40",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "worldleaks",
+        "permalink": "https://www.ransomware.live/id/TVBPV0VSSGVhbHRoQHdvcmxkbGVha3M="
+      }
     },
     {
       "date": "2025-06-29",
@@ -10727,6 +10751,27 @@
         "group": "RunSomeWares",
         "permalink": "https://www.ransomware.live/id/SGFydmVzdEBSdW5Tb21lV2FyZXM="
       }
+    },
+    {
+      "date": "2025-02-26",
+      "victim": "DermCare Management",
+      "domain": "dermcaremgt.com",
+      "country": "US",
+      "summary": "DermCare Management, une société de gestion de pratiques médicales basée en Floride, a subi une faille de sécurité qui a affecté plusieurs pratiques de dermatologie. Les informations personnelles et médicales de patients ont pu être compromises. L'enquête est toujours en cours pour déterminer l'étendue de la faille de sécurité.",
+      "title": "Dermatology Clinics Affected by Practice Management Company Data Breach",
+      "url": "https://www.hipaajournal.com/dermatology-clinics-practice-management-company-data-breach/",
+      "added": "2025-08-21",
+      "infostealer": {
+        "update": "2025-08-21 13:45:52",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
     },
     {
       "date": "2025-02-26",

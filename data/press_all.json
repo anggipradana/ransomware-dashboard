@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2578,
+  "count": 2585,
   "results": [
     {
       "date": "2025-08-17",
@@ -2161,6 +2161,27 @@
       "added": "2025-07-01",
       "infostealer": {
         "update": "2025-07-04 22:03:21",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-06-24",
+      "victim": "Morrow Equipment",
+      "domain": "morrowequipment.com",
+      "country": "US",
+      "summary": "Morrow Equipment Company experienced a network disruption on June 24, 2025, which led to unauthorized access to certain files containing personal information. The breach was claimed by Lynx on July 27th.",
+      "title": "2025-08-13 Morrow Equipment Company Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-08-13-morrow-equipment-company-data-breach-notice-consumers",
+      "added": "2025-08-21",
+      "infostealer": {
+        "update": "2025-08-21 10:17:19",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,
@@ -6031,6 +6052,27 @@
       "added": "2025-04-29",
       "infostealer": {
         "update": "2025-04-29 08:43:59",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-04-26",
+      "victim": "The Seydel Companies",
+      "domain": "seydel.com",
+      "country": "US",
+      "summary": "The Seydel Companies, Inc. experienced a data security incident where an unauthorized actor accessed their network, potentially viewing and/or obtaining certain files containing personal information. The incident occurred on or about April 26, 2025, and was discovered on July 31, 2025. The company is offering complimentary identity theft protection services to affected individuals.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/b1a10d3b-ec4b-43cd-8f81-6ab49c539758.html",
+      "added": "2025-08-21",
+      "infostealer": {
+        "update": "2025-05-01 20:20:11",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,
@@ -13393,6 +13435,27 @@
     },
     {
       "date": "2025-01-25",
+      "victim": "peterpauper",
+      "domain": "peterpauper.com",
+      "country": "US",
+      "summary": "Peter Pauper Press suffered a data breach due to unauthorized access to their computer network, resulting in the potential exposure of names and Social Security numbers. The breach occurred on or around January 25, 2025, and was claimed by TeamXXX on June, 10th.",
+      "title": "2025-08-18 Peter Pauper Press Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-08-18-peter-pauper-press-data-breach-notice-consumers",
+      "added": "2025-08-21",
+      "infostealer": {
+        "update": "2025-08-21 10:17:41",
+        "employees": 0,
+        "users": 1,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 2,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-01-25",
       "victim": "Deed Research, Inc.",
       "domain": "drititle.com",
       "country": "US",
@@ -13688,6 +13751,31 @@
         "users_url": 0,
         "thirdparties": 0,
         "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-01-20",
+      "victim": "Fundamental Administrative Services LLC",
+      "domain": "fundltc.com",
+      "country": "US",
+      "summary": "Fundamental Administrative Services LLC suffered a data breach after an unauthorized actor copied certain files from their computer network between October 27, 2024, and January 13, 2025. The breach may have affected personal information, including names, Social Security numbers, driver's license or state identification numbers, financial account information, and medical treatment information. The company is offering complimentary access to 12/24 months of credit monitoring through IDX.",
+      "title": "2025-08-15 Fundamental Administrative Services Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-08-15-fundamental-administrative-services-data-breach-notice-consumers",
+      "added": "2025-08-21",
+      "infostealer": {
+        "update": "2025-08-21 10:16:41",
+        "employees": 1,
+        "users": 3,
+        "thirdparties_domain": 2,
+        "employees_url": 2,
+        "users_url": 3,
+        "thirdparties": 5,
+        "infostealer_stats": {
+          "Lumma": 4,
+          "UNKNOWN": 2,
+          "Azorult": 2
+        }
       },
       "ransomware": null
     },
@@ -14903,6 +14991,29 @@
       "ransomware": {
         "group": "ransomhub",
         "permalink": "https://www.ransomware.live/id/aGVhbHRoY2FyZXdpdGhpbnJlYWNoLm9yZ0ByYW5zb21odWI="
+      }
+    },
+    {
+      "date": "2024-12-26",
+      "victim": "Muscogee County School District",
+      "domain": "muscogee.k12.ga.us",
+      "country": "US",
+      "summary": "The Muscogee County School District suffered a data breach between December 12, 2024, and December 26, 2024, resulting in the potential exposure of personal information. An unknown third party accessed the district's computer network, and an investigation was conducted to determine the extent of the incident. The attack was claimed by Safepay on January 28th, 2025.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/fbc9cba8-6937-4469-9945-bc9fbdca806c.html",
+      "added": "2025-08-21",
+      "infostealer": {
+        "update": "2025-01-28 19:10:59",
+        "employees": 60,
+        "users": 62,
+        "thirdparties_domain": 9,
+        "employees_url": 3,
+        "users_url": 23,
+        "thirdparties": 5
+      },
+      "ransomware": {
+        "group": "safepay",
+        "permalink": "https://www.ransomware.live/id/bXVzY29nZWUuazEyLmdhLnVzQHNhZmVwYXk="
       }
     },
     {
@@ -22594,6 +22705,29 @@
         "infostealer_stats": {}
       },
       "ransomware": null
+    },
+    {
+      "date": "2024-08-30",
+      "victim": "Farmer's Rice Cooperative",
+      "domain": "farmersrice.com",
+      "country": "US",
+      "summary": "Farmer's Rice Cooperative experienced a data incident that may have affected personal information, including names, addresses, and Social Security numbers. The incident was claimed by Play on September 4th.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/81da24e1-91c1-4ac0-893b-124270d70eca.html",
+      "added": "2025-08-21",
+      "infostealer": {
+        "update": "2024-09-04 20:22:19",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0
+      },
+      "ransomware": {
+        "group": "play",
+        "permalink": "https://www.ransomware.live/id/RmFybWVycycgUmljZSBDb29wZXJhdGl2ZUBwbGF5"
+      }
     },
     {
       "date": "2024-08-30",
@@ -45330,6 +45464,32 @@
       "title": "新加坡专科医学院遭网络攻击 会员个资外泄 - 地方 - 狮城二三事",
       "url": "https://johor.sinchew.com.my/news/20230912/johor/4978158",
       "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2023-07-12",
+      "victim": "Premier Health Partners",
+      "domain": "premierhealth.com",
+      "country": "US",
+      "summary": "Premier Health Partners experienced a data breach where unauthorized parties accessed certain systems between June 7, 2023, and July 12, 2023, potentially exposing sensitive information. The breach may have included names, dates of birth, Social Security numbers, driver's license numbers, and other personal data. Premier Health is offering free credit monitoring services to affected individuals.",
+      "title": "2025-08-18 Premier Health Partners Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-08-18-premier-health-partners-data-breach-notice-consumers",
+      "added": "2025-08-21",
+      "infostealer": {
+        "update": "2025-08-21 10:17:01",
+        "employees": 10,
+        "users": 0,
+        "thirdparties_domain": 3,
+        "employees_url": 5,
+        "users_url": 1,
+        "thirdparties": 2,
+        "infostealer_stats": {
+          "Lumma": 6,
+          "Raccoon": 4,
+          "Vidar": 2,
+          "RedLine": 2
+        }
+      },
       "ransomware": null
     },
     {

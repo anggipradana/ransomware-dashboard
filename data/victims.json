@@ -274898,5 +274898,40 @@
         "activity": "Manufacturing",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Colmar Industrial Supplies",
+        "group_name": "beast",
+        "discovered": "2025-08-21 18:41:05.148427",
+        "description": "Colmar Industrial Supplies Inc. is a leading distributor of cutting tools and industrial supplies located in Chicagoland. They offer a wide range of products, including cutting tools, maintenance and repair supplies, workholding solutions, precision measuring instruments, and abrasives for grinding and finishing. The company is committed to providing innovative and cost-effective solutions, ensuring timely responses and efficient inventory management for their clients. Their expert customer service team is dedicated to minimizing downtime for manufacturers and guaranteeing quick delivery of essential products.",
+        "website": "www.colmarindustrial.com",
+        "published": "2023-12-19 19:16:52.658880",
+        "post_url": "http://beast6azu4f7fxjakiayhnssybibsgjnmy77a6duufqw5afjzfjhzuqd.onion/card/colmar_industrial_supplies",
+        "country": "",
+        "activity": "Manufacturing",
+        "duplicates": [
+            {
+                "date": "2025-08-21 18:41:05.170559",
+                "group": "toufan",
+                "link": "https://www.ransomware.live/id/Y29sbWFyaW5kdXN0cmlhbC5jb21AdG91ZmFu",
+                "attackdate": "2023-12-19 19:16:52.658880"
+            }
+        ],
+        "extrainfos": {
+            "data_size": "240GB"
+        }
+    },
+    {
+        "post_title": "www.gillette-ac.com",
+        "group_name": "qilin",
+        "discovered": "2025-08-21 19:09:06.773600",
+        "description": "Gillette Air Conditioning Company, USA specializes in air conditioning, heating, refrigeration, and boilers for commercial and industrial facilities. The company prides itself on safety, quality, and productivity, utilizing advanced technolog            ...",
+        "website": "gillette-ac.com",
+        "published": "2025-08-21 00:00:00.000000",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=95612f75-db86-35a7-9104-2294bbada5a1",
+        "country": "US",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": []
     }
 ]

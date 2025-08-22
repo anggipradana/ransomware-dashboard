@@ -275217,5 +275217,25 @@
         "activity": "Not Found",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Inicio - Ganadería Revuelta",
+        "group_name": "qilin",
+        "discovered": "2025-08-22 21:41:35.156321",
+        "description": "Inicio - Ganadería Revuela, Mexico - the company produces beef. It has its own production chain, which includes: feedlots, slaughterhouse, packing factory and finished product factory. The company supplies meat to the United States, Canada,             ...",
+        "website": " https://www.ganaderiarevuelta.com.mx",
+        "published": "2024-06-05 19:14:43.138048",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=11330d5c-7f82-3e5c-9c68-de0cbc488fbf",
+        "country": "MX",
+        "activity": "Agriculture and Food Production",
+        "duplicates": [
+            {
+                "date": "2025-08-22 21:41:35.220278",
+                "group": "daixin",
+                "link": "https://www.ransomware.live/id/RHViYWkgTXVuaWNpcGFsaXR5IChVQUUpQGRhaXhpbg==",
+                "attackdate": "2024-06-05 19:14:43.138048"
+            }
+        ],
+        "extrainfos": []
     }
 ]

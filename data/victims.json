@@ -275063,5 +275063,42 @@
         "activity": "Hospitality and Tourism",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Jack's Lawn Service, Inc.",
+        "group_name": "beast",
+        "discovered": "2025-08-22 08:19:45.074559",
+        "description": "Jack's Lawn Service, Inc., located in Monroe, Michigan, offers a comprehensive range of landscaping services for both residential and commercial clients. Their services include lawn maintenance, weed control, fertilization, insecticide applications, and small engine repairs among others. The company is dedicated to customer satisfaction and provides free estimates along with a 24/7 answering service for after-hour inquiries. Established in 1977, Jack's Lawn Service prides itself on earning the trust of its customers through high-quality service. https://www.zoominfo.com/c/jacks-lawn-service-inc/66176570",
+        "website": "www.jackslawnservice.com",
+        "published": "2025-08-18 00:00:00.000000",
+        "post_url": "http://beast6azu4f7fxjakiayhnssybibsgjnmy77a6duufqw5afjzfjhzuqd.onion/card/jack_s_lawn_service__inc_",
+        "country": "",
+        "activity": "Consumer Services",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "~100GB"
+        }
+    },
+    {
+        "post_title": "Mobal Trucking",
+        "group_name": "beast",
+        "discovered": "2025-08-22 08:20:05.624211",
+        "description": "CONTACT INFORMATION OFFICE - 636-294-0770 MAL GREWAL MAIN NUMBER - 314-267-4288 {24 HOURS} FAX - 636-980-9719 EMAIL ADDRESS - MOBAL3855@YAHOO.COM",
+        "website": "-",
+        "published": "2024-03-27 14:57:43.127611",
+        "post_url": "http://beast6azu4f7fxjakiayhnssybibsgjnmy77a6duufqw5afjzfjhzuqd.onion/card/mobal_trucking",
+        "country": "",
+        "activity": "Transportation/Logistics",
+        "duplicates": [
+            {
+                "date": "2025-08-22 08:20:05.683415",
+                "group": "qilin",
+                "link": "https://www.ransomware.live/id/TC1QaW1lbnRhIChldGRlbGV0cm9uaWNzKUBxaWxpbg==",
+                "attackdate": "2024-03-27 14:57:43.127611"
+            }
+        ],
+        "extrainfos": {
+            "data_size": "40GB"
+        }
     }
 ]

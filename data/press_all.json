@@ -1102,7 +1102,10 @@
           "Azorult": 2
         }
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "akira",
+        "permalink": "https://www.ransomware.live/id/Q29sYWJvckBha2lyYQ=="
+      }
     },
     {
       "date": "2025-07-18",

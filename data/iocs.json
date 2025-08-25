@@ -1,6 +1,6 @@
 {
   "filter_type": null,
-  "count": 46,
+  "count": 48,
   "groups": [
     {
       "group": "Ailock",
@@ -13,7 +13,7 @@
       "group": "Akira",
       "ioc_types": {
         "sha256": 37,
-        "btc": 1,
+        "btc": 7,
         "md5": 321
       }
     },
@@ -33,6 +33,8 @@
     {
       "group": "Beast",
       "ioc_types": {
+        "sha256": 1,
+        "session": 1,
         "tox": 1,
         "mail": 8
       }
@@ -52,6 +54,12 @@
       }
     },
     {
+      "group": "Blacknevas",
+      "ioc_types": {
+        "sha256": 28
+      }
+    },
+    {
       "group": "Blacksuit",
       "ioc_types": {
         "ip": 1
@@ -68,6 +76,7 @@
       "group": "Bqtlock",
       "ioc_types": {
         "telegram": 5,
+        "xmr": 1,
         "twitter": 1
       }
     },
@@ -106,7 +115,7 @@
     {
       "group": "D4rk4rmy",
       "ioc_types": {
-        "tox": 1
+        "tox": 2
       }
     },
     {
@@ -185,6 +194,7 @@
     {
       "group": "Kawa4096",
       "ioc_types": {
+        "sha256": 1,
         "email": 1,
         "tox": 1
       }
@@ -315,6 +325,13 @@
         "md5": 7,
         "tox": 1,
         "ip": 2
+      }
+    },
+    {
+      "group": "Warlock",
+      "ioc_types": {
+        "sha256": 1,
+        "tox": 3
       }
     },
     {

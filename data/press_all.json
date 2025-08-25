@@ -4,8 +4,78 @@
     "month": null,
     "country": null
   },
-  "count": 2595,
+  "count": 2600,
   "results": [
+    {
+      "date": "2025-08-25",
+      "victim": "Maryland Transit Administration (MTA)",
+      "domain": "mta.maryland.gov",
+      "country": "US",
+      "summary": "La Maryland Transit Administration (MTA) a subi une faille de sécurité informatique, mais les services de base sont toujours actifs. Les systèmes de planification de la mobilité sont affectés, ce qui rend les nouvelles réservations et les rebookings temporairement indisponibles. Les autorités enquêtent sur l'incident avec l'aide d'experts en cybersécurité et de services de police.",
+      "title": "Cyberattack disrupts MTA systems; core services remain active but mobility scheduling impacted",
+      "url": "https://www.wmar2news.com/news/region/baltimore-city/cyberattack-disrupts-mta-systems-core-services-remain-active-but-mobility-scheduling-impacted",
+      "added": "2025-08-25",
+      "infostealer": {
+        "update": "2025-08-25 07:53:22",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-08-24",
+      "victim": "KNH ENTERPRISE CO., LTD.",
+      "domain": "knh-global.com",
+      "country": "TW",
+      "summary": "KNH Enterprise a subi une attaque informatique, mais grâce à une intervention rapide, les systèmes affectés sont en cours de restauration et il n'y a pas d'impact significatif sur les opérations. Le Groupe a engagé une entreprise de cybersécurité pour résoudre l'incident et continuera à améliorer la sécurité de son réseau et de son infrastructure informatique.",
+      "title": "Today's Information",
+      "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=170924&spoke_date=20250824&co_id=9919",
+      "added": "2025-08-25",
+      "infostealer": {
+        "update": "2025-08-25 07:53:02",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-08-22",
+      "victim": "Cajeme",
+      "domain": "cajeme.gob.mx",
+      "country": "MX",
+      "summary": "La ville de Cajeme a suspendu ses services numériques après une attaque informatique contre son système municipal. Les services en ligne ont été interrompus pour protéger les données sensibles. L'attaque a eu lieu le 22 août 2025 et les autorités travaillent pour rétablir les services.",
+      "title": "Suspenden trámites y servicios digitales en el Ayuntamiento de Cajeme tras ataque cibernético - El Sol de Hermosillo | Noticias Locales, Policiacas, sobre México, Sonora y el Mundo",
+      "url": "https://oem.com.mx/elsoldehermosillo/policiaca/suspenden-tramites-y-servicios-digitales-en-el-ayuntamiento-de-cajeme-tras-ataque-cibernetico-25360433",
+      "added": "2025-08-25",
+      "infostealer": {
+        "update": "2025-08-25 07:15:38",
+        "employees": 6,
+        "users": 32,
+        "thirdparties_domain": 6,
+        "employees_url": 5,
+        "users_url": 31,
+        "thirdparties": 1,
+        "infostealer_stats": {
+          "RedLine": 44,
+          "Raccoon": 10,
+          "Lumma": 8,
+          "StealC": 4,
+          "UNKNOWN": 2,
+          "Mystic": 2
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2025-08-18",
       "victim": "Département de l'Aude",
@@ -3942,6 +4012,30 @@
         "users_url": 0,
         "thirdparties": 0,
         "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-05-27",
+      "victim": "Tungsten Automation Corporation (f/k/a Kofax, Inc.)",
+      "domain": "tungstenautomation.com",
+      "country": "US",
+      "summary": "Tungsten Automation (formerly Kofax) suffered a data breach, resulting in the exposure of personal information. Experian IdentityWorks is offering a complimentary two-year membership to affected individuals. The breach is believed to have occurred prior to November 28, 2025.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/37b04f5a-9289-4adc-ace3-edb87ebc32b2.html",
+      "added": "2025-08-23",
+      "infostealer": {
+        "update": "2025-08-25 07:52:42",
+        "employees": 0,
+        "users": 5,
+        "thirdparties_domain": 1,
+        "employees_url": 0,
+        "users_url": 5,
+        "thirdparties": 1,
+        "infostealer_stats": {
+          "Lumma": 3,
+          "Generic Stealer": 2
+        }
       },
       "ransomware": null
     },
@@ -20379,6 +20473,29 @@
       "added": "2024-12-03",
       "infostealer": "",
       "ransomware": null
+    },
+    {
+      "date": "2024-10-11",
+      "victim": "Legacy Treatment Services",
+      "domain": "legacytreatment.org",
+      "country": "US",
+      "summary": "Legacy Treatment Services, Inc. experienced a cybersecurity incident that impacted connectivity to their network, potentially exposing personal data of those served by both Legacy and Community Treatment Solutions between October 6, 2024, and October 11, 2024. The attack was claimed under the Interlock brand on October 26th.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/c82f893a-b2f7-4c1f-b512-8273bbc51586.html",
+      "added": "2025-08-23",
+      "infostealer": {
+        "update": "2024-10-26 11:36:05",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0
+      },
+      "ransomware": {
+        "group": "interlock",
+        "permalink": "https://www.ransomware.live/id/TGVnYWN5IFRyZWF0bWVudCBTZXJ2aWNlc0BpbnRlcmxvY2s="
+      }
     },
     {
       "date": "2024-10-11",

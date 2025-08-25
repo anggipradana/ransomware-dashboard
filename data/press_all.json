@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2600,
+  "count": 2601,
   "results": [
     {
       "date": "2025-08-25",
@@ -24,6 +24,35 @@
         "users_url": 0,
         "thirdparties": 0,
         "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-08-24",
+      "victim": "Elche",
+      "domain": "elche.es",
+      "country": "ES",
+      "summary": "La ville de Elche a subi un attaque cibernétique qui a rendu ses systèmes informatiques inopératifs, provoquant la convocation d'une réunion d'urgence du Comité de Crise. Les autorités analysent l'incident et travaillent pour rétablir la normalité. Les services municipaux sont actuellement limités, mais l'attention presenciale est toujours assurée.",
+      "title": "Elche sufre un ataque cibernético que ha inutilizado sus sistemas informáticos",
+      "url": "https://www.ondacero.es/emisoras/comunidad-valenciana/elche/noticias/elche-sufre-ataque-cibernetico-que-inutilizado-sus-sistemas-informaticos_2025082568ac5afefb354e4b3d1d8bcf.html",
+      "added": "2025-08-25",
+      "infostealer": {
+        "update": "2025-08-25 13:56:39",
+        "employees": 5,
+        "users": 46,
+        "thirdparties_domain": 7,
+        "employees_url": 2,
+        "users_url": 28,
+        "thirdparties": 15,
+        "infostealer_stats": {
+          "Lumma": 17,
+          "RedLine": 13,
+          "Raccoon": 8,
+          "StealC": 5,
+          "Azorult": 4,
+          "Generic Stealer": 2,
+          "Vidar": 2
+        }
       },
       "ransomware": null
     },

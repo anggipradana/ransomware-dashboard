@@ -275501,10 +275501,25 @@
         "group_name": "kairos",
         "discovered": "2025-08-25 15:13:50.724699",
         "description": "Unknown - Trico",
-        "website": "trico176.org/USA/180GB",
+        "website": "trico176.org",
         "published": "2025-08-25 15:13:09.116172",
         "post_url": "http://nerqnacjmdy3obvevyol7qhazkwkv57dwqvye5v46k5bcujtfa6sduad.onion/detail?code=trico176-org-usa-180gb",
-        "country": "",
+        "country": "US",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "180GB"
+        }
+    },
+    {
+        "post_title": "nrlassoc.com",
+        "group_name": "qilin",
+        "discovered": "2025-08-25 15:18:37.487749",
+        "description": "NRL Associates, Inc. USA. The company manufactures machine tooled parts for a variety of customers. 10 years ago, the company significantly expanded and moved into a new 55,000 square foot state-of-the-art facility. They now have the most mod            ...",
+        "website": "nrlassoc.com",
+        "published": "2025-08-25 00:00:00.000000",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=144a0ed2-bda0-33f2-b513-16187b45cfd2",
+        "country": "US",
         "activity": "Not Found",
         "duplicates": [],
         "extrainfos": []

@@ -254070,7 +254070,7 @@
         "discovered": "2025-05-29 16:41:13.163783",
         "description": "McKenzie Commercial delivers high-quality, cost-effective commerc\nial construction services, while fostering a supportive work envi\nronment for employees who provide exceptional workmanship.\n\nWe are going to upload about 42 GB of corporate data. Employee pe\nrsonal information (DOB, passports, addresses, phones, emails, an\nd so on), financial data, client data, lots of project data, cont\nracts and agreements, confidential documents, NDAs, etc.\n",
         "website": "mckenziecommercial.com",
-        "published": "2025-05-29 00:00:00.000000",
+        "published": "2025-03-12 00:00:00.000000",
         "post_url": "",
         "country": "US",
         "activity": "Construction",
@@ -254084,6 +254084,10 @@
             {
                 "date": "2025-05-30 08:41:52",
                 "description": "Update country"
+            },
+            {
+                "date": "2025-08-25 16:35:14.042931",
+                "description": "Update published"
             }
         ]
     },
@@ -275436,7 +275440,7 @@
         "group_name": "direwolf",
         "discovered": "2025-08-25 13:40:51.081525",
         "description": "[AI generated] Wine Works Australia is a wine sales and marketing company that represents local and international wineries in export markets. They focus on establishing sustainable and profitable relationships with business partners. The company uses its extensive knowledge of wine and international markets to develop effective strategies to drive wine sales in different regions. They offer services to wineries seeking to start or expand their export operations.",
-        "website": "",
+        "website": "wineworks.com.au",
         "published": "2025-08-25 13:40:33.716110",
         "post_url": "http://direwolfcdkv5whaz2spehizdg22jsuf5aeje4asmetpbt6ri4jnd4qd.onion/articles/Wine_Works_Australia.html",
         "country": "AU",
@@ -275462,7 +275466,7 @@
         "group_name": "direwolf",
         "discovered": "2025-08-25 13:41:27.036701",
         "description": "[AI generated] Dynacast is a global manufacturing company specializing in engineered metal components. It provides solutions using precision die casting, metal injection molding, and CNC machining. It caters to various sectors including automotive, healthcare, and consumer electronics. Established in 1936, Dynacast operates more than 20 manufacturing facilities in over a dozen countries.\n",
-        "website": "",
+        "website": "dynacast.com",
         "published": "2025-08-25 13:41:10.319102",
         "post_url": "http://direwolfcdkv5whaz2spehizdg22jsuf5aeje4asmetpbt6ri4jnd4qd.onion/articles/Dynacast.html",
         "country": "US",
@@ -275475,10 +275479,10 @@
         "group_name": "direwolf",
         "discovered": "2025-08-25 13:41:48.455117",
         "description": "[AI generated] Bolt Nut Manufacturing is a dedicated company involved in manufacturing and delivering superior quality bolt nuts for various industries. The company specializes in creating high-strength, durable bolt nuts using best-in-class materials. They serve clientele from diverse industries, providing reliable solutions that meet specific needs. Their commitment to quality, prompt delivery, and customer service sets them apart.",
-        "website": "",
+        "website": "bnml.co.uk",
         "published": "2025-08-25 13:41:30.305653",
         "post_url": "http://direwolfcdkv5whaz2spehizdg22jsuf5aeje4asmetpbt6ri4jnd4qd.onion/articles/Bolt_Nut_Manufacturing.html",
-        "country": "",
+        "country": "GB",
         "activity": "Manufacturing",
         "duplicates": [],
         "extrainfos": []
@@ -275488,7 +275492,7 @@
         "group_name": "direwolf",
         "discovered": "2025-08-25 14:20:08.762404",
         "description": "[AI generated] Aroeira Salles Advogados is a Brazilian law firm providing a comprehensive array of legal services. Their expertise covers a range of disciplines such as labor law, public law, civil law, business law, and environmental law. Established in 2001, the firm serves both individuals and corporations and is known for its commitment to ethical and effective legal practice. Aroeira Salles prides itself on its use of technology for driving efficiency in legal services.",
-        "website": "",
+        "website": "aroeirasalles.com.br",
         "published": "2025-08-25 14:19:52.649372",
         "post_url": "http://direwolfcdkv5whaz2spehizdg22jsuf5aeje4asmetpbt6ri4jnd4qd.onion/articles/aroeirasalles.html",
         "country": "BR",
@@ -275521,6 +275525,34 @@
         "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=144a0ed2-bda0-33f2-b513-16187b45cfd2",
         "country": "US",
         "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Van Hook Dental Studio",
+        "group_name": "beast",
+        "discovered": "2025-08-25 16:38:39.127652",
+        "description": "Van Hook Dental Studio is a privately-owned dental laboratory that serves as an extension to dental practices. With 40 years of experience, they offer a range of products including fixed, removable, and implant restorations. Their services encompass custom shades, imaging, clinical advising, and on-site assistance. All products are FDA cleared and manufactured in the U.S.A.",
+        "website": "www.vhdental.com",
+        "published": "2025-08-22 00:00:00.000000",
+        "post_url": "http://beast6azu4f7fxjakiayhnssybibsgjnmy77a6duufqw5afjzfjhzuqd.onion/card/van_hook_dental_studio",
+        "country": "US",
+        "activity": "Healthcare",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "470GB"
+        }
+    },
+    {
+        "post_title": "airfastindonesia.com",
+        "group_name": "warlock",
+        "discovered": "2025-08-25 16:58:04.704808",
+        "description": "all user data",
+        "website": "airfastindonesia.com",
+        "published": "2025-08-25 16:58:02.169445",
+        "post_url": "",
+        "country": "ID",
+        "activity": "Transportation/Logistics",
         "duplicates": [],
         "extrainfos": []
     }

@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2603,
+  "count": 2605,
   "results": [
     {
       "date": "2025-08-25",
@@ -52,6 +52,27 @@
       "added": "2025-08-25",
       "infostealer": {
         "update": "2025-08-25 07:53:22",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-08-24",
+      "victim": "Miljödata",
+      "domain": "miljodata.se",
+      "country": "SE",
+      "summary": "Une cyberattaque a visé le système de gestion des ressources humaines de Miljödata, utilisé par 80% des communes suédoises, ce qui pourrait avoir entraîné une fuite de données sensibles. Les communes touchées, dont Karlstad, Skellefteå et Luleå, ont activé des groupes de crise pour gérer la situation. L'autorité de protection des données, IMY, a reçu plus de 70 notifications et enquête sur l'incident.",
+      "title": "Cyberattack mot Miljödata – Skellefteå kommun varnar",
+      "url": "https://www.tv4.se/artikel/LKbcNGU8j9W36DypFcNMo/cyberattack-mot-stort-kommunsystem-kaensliga-uppgfiter-kan-ha-laeckts",
+      "added": "2025-08-26",
+      "infostealer": {
+        "update": "2025-08-26 13:44:11",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,
@@ -452,6 +473,27 @@
         "group": "warlock",
         "permalink": "https://www.ransomware.live/id/Y29sdC5uZXRAd2FybG9jaw=="
       }
+    },
+    {
+      "date": "2025-08-11",
+      "victim": "Organisme canadien de réglementation des investissements (OCRI)",
+      "domain": "ocri.ca",
+      "country": "CA",
+      "summary": "L'Organisme canadien de réglementation des investissements a été victime d'une menace de cybersécurité, des renseignements personnels de courtiers membres ont été touchés, mais les données des investisseurs ne sont pas affectées. L'OCRI collabore avec des experts pour cerner l'ampleur de l'attaque et offrira des mesures de protection aux personnes concernées. L'organisme est préoccupé par cette situation et s'engage à aviser individuellement les personnes concernées.",
+      "title": "Cyberattaque à l’OCRI : des données de conseillers exposées | Finance et Investissement",
+      "url": "https://www.finance-investissement.com/nouvelles/actualites/cyberattaque-a-locri-des-donnees-de-conseillers-exposees/",
+      "added": "2025-08-26",
+      "infostealer": {
+        "update": "2025-08-26 13:43:50",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
     },
     {
       "date": "2025-08-11",

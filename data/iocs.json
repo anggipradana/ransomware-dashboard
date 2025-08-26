@@ -1,6 +1,6 @@
 {
   "filter_type": null,
-  "count": 48,
+  "count": 49,
   "groups": [
     {
       "group": "Ailock",
@@ -253,6 +253,12 @@
       "ioc_types": {
         "email": 1,
         "tox": 1
+      }
+    },
+    {
+      "group": "Promptlock",
+      "ioc_types": {
+        "sha1": 6
       }
     },
     {

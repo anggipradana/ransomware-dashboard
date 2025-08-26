@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2605,
+  "count": 2606,
   "results": [
     {
       "date": "2025-08-25",
@@ -263,6 +263,27 @@
           "Raccoon": 4,
           "Azorult": 4
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-08-16",
+      "victim": "Nissan Motor Co. Ltd.",
+      "domain": "nissan-global.com",
+      "country": "JP",
+      "summary": "Nissan a subi une faille de sécurité suite à un accès non autorisé à un serveur de sa filiale Creative Box Inc., entraînant la fuite de données sensibles. Les pirates de Qilin ont revendiqué la responsabilité de cette attaque et menacent de rendre publiques les données volées. Une enquête est actuellement en cours pour déterminer l'étendue de la faille de sécurité.",
+      "title": "Nissan confirms design studio data breach claimed by Qilin ransomware",
+      "url": "https://www.bleepingcomputer.com/news/security/nissan-confirms-design-studio-data-breach-claimed-by-qilin-ransomware/",
+      "added": "2025-08-26",
+      "infostealer": {
+        "update": "2025-08-21 08:35:45",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },

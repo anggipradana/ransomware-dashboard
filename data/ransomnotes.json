@@ -1,5 +1,5 @@
 {
-  "count": 184,
+  "count": 185,
   "groups": [
     {
       "group": ".git",
@@ -375,7 +375,7 @@
     },
     {
       "group": "krypt",
-      "ransomnotes_count": 1
+      "ransomnotes_count": 2
     },
     {
       "group": "kuiper",
@@ -559,7 +559,7 @@
     },
     {
       "group": "ransomhouse",
-      "ransomnotes_count": 2
+      "ransomnotes_count": 3
     },
     {
       "group": "ransomhub",
@@ -723,6 +723,10 @@
     },
     {
       "group": "worldleaks",
+      "ransomnotes_count": 1
+    },
+    {
+      "group": "xleaks",
       "ransomnotes_count": 1
     },
     {

@@ -85,11 +85,11 @@
                 "available": false,
                 "delay": null,
                 "updated": "2025-08-24 18:31:08.942346",
-                "lastscrape": "2025-08-26 14:00:09.566656",
+                "lastscrape": "2025-08-26 14:30:08.104192",
                 "enabled": true,
                 "type": "DLS",
                 "http": {
-                    "fetched_at": "2025-08-26T14:00:09+00:00",
+                    "fetched_at": "2025-08-26T14:30:08+00:00",
                     "start_url": "http://xb6q2aggycmlcrjtbjendcnnwpmmwbosqaugxsqb4nx6cmod3emy7sad.onion",
                     "final_url": null,
                     "status": null,
@@ -120,11 +120,11 @@
                 "available": false,
                 "delay": null,
                 "updated": "2025-08-24 19:31:15.506541",
-                "lastscrape": "2025-08-26 14:00:24.591917",
+                "lastscrape": "2025-08-26 14:30:23.534360",
                 "enabled": true,
                 "type": "DLS",
                 "http": {
-                    "fetched_at": "2025-08-26T14:00:24+00:00",
+                    "fetched_at": "2025-08-26T14:30:23+00:00",
                     "start_url": "http://xfycpauc22t5jsmfjcaz2oydrrrfy75zuk6chr32664bsscq4fgyaaqd.onion",
                     "final_url": null,
                     "status": null,
@@ -160,7 +160,7 @@
             },
             {
                 "fqdn": "abrahams-ax.se",
-                "title": "\u062a\u0628\u0631 \u0627\u0628\u0631\u0627\u0647\u06cc\u0645 \u2013 Abraham's Ax",
+                "title": "تبر ابراهیم – Abraham's Ax",
                 "version": 0,
                 "slug": "http://abrahams-ax.se",
                 "available": false,
@@ -187,12 +187,12 @@
                 "slug": "http://3ev4metjirohtdpshsqlkrqcmxq6zu3d7obrdhglpy5jpbr7whmlfgqd.onion/",
                 "available": true,
                 "delay": null,
-                "updated": "2025-08-26 13:01:14.930682",
-                "lastscrape": "2025-08-26 13:01:14.930682",
+                "updated": "2025-08-26 14:31:08.388365",
+                "lastscrape": "2025-08-26 14:31:08.388365",
                 "enabled": true,
                 "type": "DLS",
                 "http": {
-                    "fetched_at": "2025-08-26T13:01:14+00:00",
+                    "fetched_at": "2025-08-26T14:31:08+00:00",
                     "start_url": "http://3ev4metjirohtdpshsqlkrqcmxq6zu3d7obrdhglpy5jpbr7whmlfgqd.onion/",
                     "final_url": "http://3ev4metjirohtdpshsqlkrqcmxq6zu3d7obrdhglpy5jpbr7whmlfgqd.onion/",
                     "status": 200,
@@ -210,7 +210,7 @@
                     },
                     "headers": {
                         "server": "nginx",
-                        "date": "Tue, 26 Aug 2025 13:01:15 GMT",
+                        "date": "Tue, 26 Aug 2025 14:31:08 GMT",
                         "content-type": "text/html",
                         "last-modified": "Mon, 15 May 2023 18:56:25 GMT",
                         "connection": "keep-alive",
@@ -441,12 +441,12 @@
                 "slug": "http://mydatae2d63il5oaxxangwnid5loq2qmtsol2ozr6vtb7yfm5ypzo6id.onion",
                 "available": true,
                 "delay": null,
-                "updated": "2025-08-26 13:01:11.967688",
-                "lastscrape": "2025-08-26 13:01:11.967688",
+                "updated": "2025-08-26 14:31:10.756183",
+                "lastscrape": "2025-08-26 14:31:10.756183",
                 "enabled": true,
                 "type": "DLS",
                 "http": {
-                    "fetched_at": "2025-08-26T13:01:11+00:00",
+                    "fetched_at": "2025-08-26T14:31:10+00:00",
                     "start_url": "http://mydatae2d63il5oaxxangwnid5loq2qmtsol2ozr6vtb7yfm5ypzo6id.onion",
                     "final_url": "http://mydatae2d63il5oaxxangwnid5loq2qmtsol2ozr6vtb7yfm5ypzo6id.onion",
                     "status": 403,
@@ -463,7 +463,7 @@
                         "security_headers": {}
                     },
                     "headers": {
-                        "date": "Tue, 26 Aug 2025 13:02:40 GMT",
+                        "date": "Tue, 26 Aug 2025 14:32:38 GMT",
                         "server": "nginx",
                         "content-type": "text/html; charset=iso-8859-1"
                     },
@@ -477,12 +477,12 @@
                 "slug": "http://mydatae2d63il5oaxxangwnid5loq2qmtsol2ozr6vtb7yfm5ypzo6id.onion/blog_1",
                 "available": true,
                 "delay": null,
-                "updated": "2025-08-26 13:02:17.203726",
-                "lastscrape": "2025-08-26 13:02:17.203726",
+                "updated": "2025-08-26 14:32:15.367159",
+                "lastscrape": "2025-08-26 14:32:15.367159",
                 "enabled": true,
                 "type": "DLS",
                 "http": {
-                    "fetched_at": "2025-08-26T13:02:17+00:00",
+                    "fetched_at": "2025-08-26T14:32:15+00:00",
                     "start_url": "http://mydatae2d63il5oaxxangwnid5loq2qmtsol2ozr6vtb7yfm5ypzo6id.onion/blog_1",
                     "final_url": "http://mydatae2d63il5oaxxangwnid5loq2qmtsol2ozr6vtb7yfm5ypzo6id.onion/blog_1",
                     "status": 403,
@@ -499,7 +499,7 @@
                         "security_headers": {}
                     },
                     "headers": {
-                        "date": "Tue, 26 Aug 2025 13:03:45 GMT",
+                        "date": "Tue, 26 Aug 2025 14:33:43 GMT",
                         "server": "nginx",
                         "content-type": "text/html; charset=iso-8859-1"
                     },
@@ -554,7 +554,7 @@
             },
             {
                 "fqdn": "vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd.onion",
-                "title": "\u00a0",
+                "title": " ",
                 "version": 3,
                 "slug": "http://vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd.onion/search",
                 "available": false,
@@ -649,11 +649,11 @@
                 "available": false,
                 "delay": null,
                 "updated": "2025-08-08 05:01:05.952489",
-                "lastscrape": "2025-08-26 14:00:11.271469",
+                "lastscrape": "2025-08-26 14:30:12.454511",
                 "enabled": true,
                 "type": "Files",
                 "http": {
-                    "fetched_at": "2025-08-26T14:00:11+00:00",
+                    "fetched_at": "2025-08-26T14:30:12+00:00",
                     "start_url": "http://bashe4aec32kr6zbifwd5x6xgjsmhg4tbowrbx4pneqhc5mqooyifpid.onion",
                     "final_url": null,
                     "status": null,
@@ -672,11 +672,11 @@
                 "available": false,
                 "delay": null,
                 "updated": "2025-08-08 05:02:08.245057",
-                "lastscrape": "2025-08-26 14:00:27.030270",
+                "lastscrape": "2025-08-26 14:30:26.147500",
                 "enabled": true,
                 "type": "DLS",
                 "http": {
-                    "fetched_at": "2025-08-26T14:00:27+00:00",
+                    "fetched_at": "2025-08-26T14:30:26+00:00",
                     "start_url": "http://basheqtvzqwz4vp6ks5lm2ocq7i6tozqgf6vjcasj4ezmsy4bkpshhyd.onion",
                     "final_url": null,
                     "status": null,
@@ -695,11 +695,11 @@
                 "available": false,
                 "delay": null,
                 "updated": "2025-08-08 05:03:11.517707",
-                "lastscrape": "2025-08-26 14:00:45.123685",
+                "lastscrape": "2025-08-26 14:30:38.256442",
                 "enabled": true,
                 "type": "DLS",
                 "http": {
-                    "fetched_at": "2025-08-26T14:00:45+00:00",
+                    "fetched_at": "2025-08-26T14:30:38+00:00",
                     "start_url": "http://basherq53eniermxovo3bkduw5qqq5bkqcml3qictfmamgvmzovykyqd.onion/",
                     "final_url": null,
                     "status": null,
@@ -718,11 +718,11 @@
                 "available": false,
                 "delay": null,
                 "updated": "2025-08-08 05:04:16.433186",
-                "lastscrape": "2025-08-26 14:01:04.749655",
+                "lastscrape": "2025-08-26 14:30:48.641230",
                 "enabled": true,
                 "type": "DLS",
                 "http": {
-                    "fetched_at": "2025-08-26T14:01:04+00:00",
+                    "fetched_at": "2025-08-26T14:30:48+00:00",
                     "start_url": "http://basherykagbxoaiaxkgqhmhd5gbmedwb3di4ig3ouovziagosv4n77qd.onion",
                     "final_url": null,
                     "status": null,
@@ -753,11 +753,11 @@
                 "available": false,
                 "delay": null,
                 "updated": "2025-08-08 05:05:24.522159",
-                "lastscrape": "2025-08-26 14:01:14.331858",
+                "lastscrape": "2025-08-26 14:31:01.491388",
                 "enabled": true,
                 "type": "DLS",
                 "http": {
-                    "fetched_at": "2025-08-26T14:01:14+00:00",
+                    "fetched_at": "2025-08-26T14:31:01+00:00",
                     "start_url": "http://bashete63b3gcijfofpw6fmn3rwnmyi5aclp55n6awcfbexivexbhyad.onion",
                     "final_url": null,
                     "status": null,
@@ -776,11 +776,11 @@
                 "available": false,
                 "delay": null,
                 "updated": "2025-08-08 05:06:29.059302",
-                "lastscrape": "2025-08-26 14:01:27.086162",
+                "lastscrape": "2025-08-26 14:31:11.689902",
                 "enabled": true,
                 "type": "DLS",
                 "http": {
-                    "fetched_at": "2025-08-26T14:01:27+00:00",
+                    "fetched_at": "2025-08-26T14:31:11+00:00",
                     "start_url": "http://bashex7mokreyoxl6wlswxl4foi7okgs7or7aergnuiockuoq35yt3ad.onion",
                     "final_url": null,
                     "status": null,
@@ -810,11 +810,11 @@
                 "available": false,
                 "delay": null,
                 "updated": "2025-08-16 04:01:12.598337",
-                "lastscrape": "2025-08-26 14:00:10.491446",
+                "lastscrape": "2025-08-26 14:30:08.624353",
                 "enabled": true,
                 "type": "DLS",
                 "http": {
-                    "fetched_at": "2025-08-26T14:00:10+00:00",
+                    "fetched_at": "2025-08-26T14:30:08+00:00",
                     "start_url": "http://arcuufpr5xxbbkin4mlidt7itmr6znlppk63jbtkeguuhszmc5g7qdyd.onion",
                     "final_url": null,
                     "status": null,
@@ -837,7 +837,7 @@
         "locations": [
             {
                 "fqdn": "3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion",
-                "title": "Arvin Club \u2013 \u0622\u0632\u0627\u062f\u06cc \u0628\u0631\u0627\u06cc \u0627\u062a\u0635\u0627\u0644",
+                "title": "Arvin Club – آزادی برای اتصال",
                 "version": 3,
                 "slug": "http://3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion/",
                 "available": false,
@@ -1456,12 +1456,12 @@
                 "slug": "http://weg7sdx54bevnvulapqu6bpzwztryeflq3s23tegbmnhkbpqz637f2yd.onion",
                 "available": true,
                 "delay": null,
-                "updated": "2025-08-26 13:01:30.412492",
-                "lastscrape": "2025-08-26 13:01:30.412492",
+                "updated": "2025-08-26 14:31:20.904347",
+                "lastscrape": "2025-08-26 14:31:20.904347",
                 "enabled": true,
                 "type": "DLS",
                 "http": {
-                    "fetched_at": "2025-08-26T13:01:30+00:00",
+                    "fetched_at": "2025-08-26T14:31:20+00:00",
                     "start_url": "http://weg7sdx54bevnvulapqu6bpzwztryeflq3s23tegbmnhkbpqz637f2yd.onion",
                     "final_url": "http://weg7sdx54bevnvulapqu6bpzwztryeflq3s23tegbmnhkbpqz637f2yd.onion",
                     "status": 200,
@@ -1479,7 +1479,7 @@
                     },
                     "headers": {
                         "server": "nginx",
-                        "date": "Tue, 26 Aug 2025 13:01:40 GMT",
+                        "date": "Tue, 26 Aug 2025 14:31:27 GMT",
                         "content-type": "text/html",
                         "content-length": "525",
                         "last-modified": "Mon, 21 Jul 2025 20:33:25 GMT",
@@ -1994,11 +1994,11 @@
                 "available": false,
                 "delay": null,
                 "updated": "2025-08-25 09:01:15.156459",
-                "lastscrape": "2025-08-26 14:00:11.347493",
+                "lastscrape": "2025-08-26 14:30:15.280943",
                 "enabled": true,
                 "type": "DLS",
                 "http": {
-                    "fetched_at": "2025-08-26T14:00:11+00:00",
+                    "fetched_at": "2025-08-26T14:30:15+00:00",
                     "start_url": "http://ciphbitqyg26jor7eeo6xieyq7reouctefrompp6ogvhqjba7uo4xdid.onion",
                     "final_url": null,
                     "status": null,
@@ -2808,14 +2808,14 @@
                 "title": "DarkVault",
                 "version": 3,
                 "slug": "http://tx23pk4zw5qynq3tmfk2jz5zbel63p4nwvkheswze7r6gzxhzcbseyad.onion",
-                "available": false,
+                "available": true,
                 "delay": null,
-                "updated": "2025-08-26 12:31:23.204724",
-                "lastscrape": "2025-08-26 14:01:07.551536",
+                "updated": "2025-08-26 14:31:20.820689",
+                "lastscrape": "2025-08-26 14:31:20.820689",
                 "enabled": true,
                 "type": "DLS",
                 "http": {
-                    "fetched_at": "2025-08-26T14:01:07+00:00",
+                    "fetched_at": "2025-08-26T14:31:20+00:00",
                     "start_url": "http://tx23pk4zw5qynq3tmfk2jz5zbel63p4nwvkheswze7r6gzxhzcbseyad.onion",
                     "final_url": "http://tx23pk4zw5qynq3tmfk2jz5zbel63p4nwvkheswze7r6gzxhzcbseyad.onion",
                     "status": 200,
@@ -2833,7 +2833,7 @@
                     },
                     "headers": {
                         "server": "nginx",
-                        "date": "Tue, 26 Aug 2025 14:04:46 GMT",
+                        "date": "Tue, 26 Aug 2025 14:34:50 GMT",
                         "content-type": "text/html; charset=UTF-8",
                         "last-modified": "Tue, 09 Jan 2024 19:55:28 GMT",
                         "connection": "keep-alive",
@@ -3313,7 +3313,7 @@
             }
         ],
         "profile": [],
-        "description": "The QNAPCrypt ransomware works similarly to other ransomware, including encrypting all files and delivering a ransom note. However, there are several important differences:1. The ransom note was included solely as a text file, without any message on the screen\u2014naturally, because it is a server and not an endpoint.2. Every victim is provided with a different, unique Bitcoin wallet\u2014this could help the attackers avoid being traced.3. Once a victim is compromised, the malware requests a wallet address and a public RSA key from the command and control server (C&C) before file encryption."
+        "description": "The QNAPCrypt ransomware works similarly to other ransomware, including encrypting all files and delivering a ransom note. However, there are several important differences:1. The ransom note was included solely as a text file, without any message on the screen—naturally, because it is a server and not an endpoint.2. Every victim is provided with a different, unique Bitcoin wallet—this could help the attackers avoid being traced.3. Once a victim is compromised, the malware requests a wallet address and a public RSA key from the command and control server (C&C) before file encryption."
     },
     {
         "name": "ElDorado",
@@ -3449,11 +3449,11 @@
                 "slug": "http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/",
                 "available": false,
                 "updated": "2025-08-25 19:31:22.668897",
-                "lastscrape": "2025-08-26 14:00:12.666547",
+                "lastscrape": "2025-08-26 14:30:13.564130",
                 "enabled": true,
                 "type": "DLS",
                 "http": {
-                    "fetched_at": "2025-08-26T14:00:12+00:00",
+                    "fetched_at": "2025-08-26T14:30:13+00:00",
                     "start_url": "http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/",
                     "final_url": null,
                     "status": null,
@@ -3502,7 +3502,7 @@
         "locations": [
             {
                 "fqdn": "flock4cvoeqm4c62gyohvmncx6ck2e7ugvyqgyxqtrumklhd5ptwzpqd.onion",
-                "title": "\ud835\udc05\ud835\udc12\ud835\udc0e\ud835\udc02\ud835\udc08\ud835\udc04\ud835\udc13\ud835\udc18 | \ud835\udc05\ud835\udc0b\ud835\udc0e\ud835\udc02\ud835\udc0a\ud835\udc04\ud835\udc11",
+                "title": "𝐅𝐒𝐎𝐂𝐈𝐄𝐓𝐘 | 𝐅𝐋𝐎𝐂𝐊𝐄𝐑",
                 "version": 3,
                 "slug": "http://flock4cvoeqm4c62gyohvmncx6ck2e7ugvyqgyxqtrumklhd5ptwzpqd.onion",
                 "available": true,
@@ -3680,7 +3680,7 @@
         "locations": [
             {
                 "fqdn": "ws3dh6av66sjbxxkjpw5ao3wqzmtejnkzheswm4dz5rrwvular7xvkqd.onion",
-                "title": "\u0423\u0442\u0435\u0447\u043a\u0438 | Groove",
+                "title": "Утечки | Groove",
                 "version": 3,
                 "slug": "http://ws3dh6av66sjbxxkjpw5ao3wqzmtejnkzheswm4dz5rrwvular7xvkqd.onion/",
                 "available": false,
@@ -3738,7 +3738,7 @@
             },
             {
                 "fqdn": "handala-hack.to",
-                "title": "Handala Hack Team \u2013 Free Palestine",
+                "title": "Handala Hack Team – Free Palestine",
                 "version": 0,
                 "slug": "https://handala-hack.to/",
                 "available": true,
@@ -3780,7 +3780,7 @@
             },
             {
                 "fqdn": "vmjfieomxhnfjba57sd6jjws2ogvowjgxhhfglsikqvvrnrajbmpxqqd.onion",
-                "title": "Handala Hack Team \u2013 Free Palestine",
+                "title": "Handala Hack Team – Free Palestine",
                 "version": 3,
                 "slug": "http://vmjfieomxhnfjba57sd6jjws2ogvowjgxhhfglsikqvvrnrajbmpxqqd.onion",
                 "available": true,
@@ -3927,7 +3927,7 @@
         "captcha": false,
         "parser": false,
         "javascript_render": false,
-        "meta": "US announces it seized Hive ransomware gang\u2019s leak sites and decryption keys",
+        "meta": "US announces it seized Hive ransomware gang’s leak sites and decryption keys",
         "locations": [
             {
                 "fqdn": "hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion",
@@ -4403,24 +4403,49 @@
             },
             {
                 "fqdn": "karaleaks.com",
-                "title": "",
+                "title": "karaleaks.com",
                 "version": 0,
                 "slug": "https://karaleaks.com",
                 "available": true,
-                "updated": "2025-08-26 13:01:08.863018",
-                "lastscrape": "2025-08-26 13:01:08.863018",
+                "updated": "2025-08-26 14:31:09.647592",
+                "lastscrape": "2025-08-26 14:31:09.647592",
                 "enabled": true,
                 "type": "DLS",
                 "http": {
-                    "fetched_at": "2025-08-26T13:01:08+00:00",
+                    "fetched_at": "2025-08-26T14:31:09+00:00",
                     "start_url": "https://karaleaks.com",
-                    "final_url": null,
-                    "status": null,
-                    "http_version": null,
-                    "redirect_chain": [],
-                    "fingerprint": {},
-                    "headers": {},
-                    "error": "Host unreachable"
+                    "final_url": "http://survey-smiles.com",
+                    "status": 200,
+                    "http_version": "HTTP/1.1",
+                    "redirect_chain": [
+                        {
+                            "status": 302,
+                            "location": "http://survey-smiles.com"
+                        }
+                    ],
+                    "fingerprint": {
+                        "server": null,
+                        "x_powered_by": null,
+                        "via": null,
+                        "cdn": null,
+                        "content_type": "text/html; charset=utf-8",
+                        "content_length": "1054",
+                        "set_cookie_present": true,
+                        "security_headers": {}
+                    },
+                    "headers": {
+                        "date": "Tue, 26 Aug 2025 14:31:10 GMT",
+                        "content-type": "text/html; charset=utf-8",
+                        "content-length": "1054",
+                        "x-request-id": "89a122be-0017-4f1e-afb5-dcac2689eae2",
+                        "cache-control": "no-store, max-age=0",
+                        "accept-ch": "sec-ch-prefers-color-scheme",
+                        "critical-ch": "sec-ch-prefers-color-scheme",
+                        "vary": "sec-ch-prefers-color-scheme",
+                        "x-adblock-key": "MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBANDrp2lz7AOmADaN8tA50LsWcjLFyQFcb/P2Txc58oYOeILb3vBw7J6f4pamkAQVSQuqYsKx3YzdUHCvbVZvFUsCAwEAAQ==_xeM0K7nTrQlnea4BwFj/8BNRcoxbwa87vMdW5ugJ9sltdB6bZcZxjNzdAIDNhFzcUR6R7Wfti468mi9Q00YRqA==",
+                        "set-cookie": "parking_session=89a122be-0017-4f1e-afb5-dcac2689eae2; expires=Tue, 26 Aug 2025 14:46:10 GMT; path=/"
+                    },
+                    "error": null
                 }
             }
         ],
@@ -4652,7 +4677,7 @@
         "parser": false,
         "javascript_render": false,
         "meta": null,
-        "description": "\u2139\ufe0f  La Piovra Ransomware is an exercise of the company Offensive Security (also known as OffSec)",
+        "description": "ℹ️  La Piovra Ransomware is an exercise of the company Offensive Security (also known as OffSec)",
         "locations": [
             {
                 "fqdn": "et22fibzuzfyzgurm35sttm52qbzvdgzy5qhzy46a3gmkrrht3lec5ad.onion",
@@ -4668,7 +4693,7 @@
             },
             {
                 "fqdn": "h3txev6jev7rcm6p2qkxn2vctybi4dvochr3inymzgif53n2j2oqviqd.onion",
-                "title": "La Piovra Ransomware \u2013 a new cartel",
+                "title": "La Piovra Ransomware – a new cartel",
                 "version": 3,
                 "slug": "http://h3txev6jev7rcm6p2qkxn2vctybi4dvochr3inymzgif53n2j2oqviqd.onion",
                 "available": false,
@@ -5572,11 +5597,11 @@
                 "slug": "http://lockbit7z355oalq4hiy5p7de64l6rsqutwlvydqje56uvevcc57r6qd.onion",
                 "available": false,
                 "updated": "2025-08-26 12:31:23.761920",
-                "lastscrape": "2025-08-26 14:00:13.055219",
+                "lastscrape": "2025-08-26 14:30:07.732703",
                 "enabled": true,
                 "type": "Files",
                 "http": {
-                    "fetched_at": "2025-08-26T14:00:13+00:00",
+                    "fetched_at": "2025-08-26T14:30:07+00:00",
                     "start_url": "http://lockbit7z355oalq4hiy5p7de64l6rsqutwlvydqje56uvevcc57r6qd.onion",
                     "final_url": null,
                     "status": null,
@@ -5605,11 +5630,11 @@
                 "slug": "http://lockbit7z37ntefjdbjextn6tmdkry4j546ejnru5cejeguitiopvhad.onion",
                 "available": false,
                 "updated": "2025-08-26 12:32:30.588295",
-                "lastscrape": "2025-08-26 14:00:26.946567",
+                "lastscrape": "2025-08-26 14:30:30.962042",
                 "enabled": true,
                 "type": "Files",
                 "http": {
-                    "fetched_at": "2025-08-26T14:00:27+00:00",
+                    "fetched_at": "2025-08-26T14:30:30+00:00",
                     "start_url": "http://lockbit7z37ntefjdbjextn6tmdkry4j546ejnru5cejeguitiopvhad.onion",
                     "final_url": null,
                     "status": null,
@@ -5696,11 +5721,11 @@
                 "slug": "http://lockbit7z4bsm63m3dagp5xglyacr4z4bwytkvkkwtn6enmuo5fi5iyd.onion",
                 "available": false,
                 "updated": "2025-08-25 12:04:31.256151",
-                "lastscrape": "2025-08-26 14:01:46.797299",
+                "lastscrape": "2025-08-26 14:30:32.359223",
                 "enabled": true,
                 "type": "Files",
                 "http": {
-                    "fetched_at": "2025-08-26T14:01:46+00:00",
+                    "fetched_at": "2025-08-26T14:30:32+00:00",
                     "start_url": "http://lockbit7z4bsm63m3dagp5xglyacr4z4bwytkvkkwtn6enmuo5fi5iyd.onion",
                     "final_url": null,
                     "status": null,
@@ -5718,11 +5743,11 @@
                 "slug": "http://lockbit7z4cgxvictidwfxpuiov4scdw34nxotmbdjyxpkvkg34mykyd.onion",
                 "available": false,
                 "updated": "2025-08-25 12:05:37.389167",
-                "lastscrape": "2025-08-26 14:01:49.701337",
+                "lastscrape": "2025-08-26 14:30:39.748560",
                 "enabled": true,
                 "type": "Files",
                 "http": {
-                    "fetched_at": "2025-08-26T14:01:49+00:00",
+                    "fetched_at": "2025-08-26T14:30:39+00:00",
                     "start_url": "http://lockbit7z4cgxvictidwfxpuiov4scdw34nxotmbdjyxpkvkg34mykyd.onion",
                     "final_url": null,
                     "status": null,
@@ -5740,11 +5765,11 @@
                 "slug": "http://lockbit7z4k5zer5fbqi2vdq5sx2vuggatwyqvoodrkhubxftyrvncid.onion",
                 "available": false,
                 "updated": "2025-08-24 17:33:32.228185",
-                "lastscrape": "2025-08-26 14:01:52.780419",
+                "lastscrape": "2025-08-26 14:30:41.207225",
                 "enabled": true,
                 "type": "Files",
                 "http": {
-                    "fetched_at": "2025-08-26T14:01:52+00:00",
+                    "fetched_at": "2025-08-26T14:30:41+00:00",
                     "start_url": "http://lockbit7z4k5zer5fbqi2vdq5sx2vuggatwyqvoodrkhubxftyrvncid.onion",
                     "final_url": null,
                     "status": null,
@@ -5762,11 +5787,11 @@
                 "slug": "http://lockbit7z4ndl6thsct34yd47jrzdkpnfg3acfvpacuccb45pnars2ad.onion",
                 "available": false,
                 "updated": "2025-08-25 12:06:43.824294",
-                "lastscrape": "2025-08-26 14:01:55.393464",
+                "lastscrape": "2025-08-26 14:30:43.909930",
                 "enabled": true,
                 "type": "Files",
                 "http": {
-                    "fetched_at": "2025-08-26T14:01:55+00:00",
+                    "fetched_at": "2025-08-26T14:30:43+00:00",
                     "start_url": "http://lockbit7z4ndl6thsct34yd47jrzdkpnfg3acfvpacuccb45pnars2ad.onion",
                     "final_url": null,
                     "status": null,
@@ -5806,11 +5831,11 @@
                 "slug": "http://lockbit7z5ehshj6gzpetw5kso3onts6ty7wrnneya5u4aj3vzkeoaqd.onion",
                 "available": false,
                 "updated": "2025-08-25 19:33:39.299936",
-                "lastscrape": "2025-08-26 14:01:57.817360",
+                "lastscrape": "2025-08-26 14:30:45.929203",
                 "enabled": true,
                 "type": "Files",
                 "http": {
-                    "fetched_at": "2025-08-26T14:01:57+00:00",
+                    "fetched_at": "2025-08-26T14:30:45+00:00",
                     "start_url": "http://lockbit7z5ehshj6gzpetw5kso3onts6ty7wrnneya5u4aj3vzkeoaqd.onion",
                     "final_url": null,
                     "status": null,
@@ -7187,7 +7212,7 @@
             },
             {
                 "fqdn": "z6wkgghtoawog5noty5nxulmmt2zs7c3yvwr22v4czbffdoly2kl4uad.onion",
-                "title": "Ransomware blog \u2013 We will not give ourselves a name. Just watch out for the leakage of your data:)",
+                "title": "Ransomware blog – We will not give ourselves a name. Just watch out for the leakage of your data:)",
                 "version": 3,
                 "slug": "http://z6wkgghtoawog5noty5nxulmmt2zs7c3yvwr22v4czbffdoly2kl4uad.onion",
                 "available": true,
@@ -7822,7 +7847,7 @@
         "locations": [
             {
                 "fqdn": "noname2j6zkgnt7ftxsjju5tfd3s45s4i3egq5bqtl72kgum4ldc6qyd.onion",
-                "title": "NO-NAME Blog Since 2020 \u2013 2023",
+                "title": "NO-NAME Blog Since 2020 – 2023",
                 "version": 3,
                 "slug": "http://noname2j6zkgnt7ftxsjju5tfd3s45s4i3egq5bqtl72kgum4ldc6qyd.onion",
                 "available": false,
@@ -8287,11 +8312,11 @@
                 "slug": "http://ji57fr53anp7wb44tbbnp72qcgbhqywy4jmbncawdcrejj5amuvh3zqd.onion/site/login",
                 "available": false,
                 "updated": "2025-08-12 21:32:58.032611",
-                "lastscrape": "2025-08-26 14:00:24.008897",
+                "lastscrape": "2025-08-26 14:30:11.526266",
                 "enabled": true,
                 "type": "Admin",
                 "http": {
-                    "fetched_at": "2025-08-26T14:00:24+00:00",
+                    "fetched_at": "2025-08-26T14:30:11+00:00",
                     "start_url": "http://ji57fr53anp7wb44tbbnp72qcgbhqywy4jmbncawdcrejj5amuvh3zqd.onion/site/login",
                     "final_url": null,
                     "status": null,
@@ -8309,7 +8334,7 @@
             "https://cloud.google.com/blog/topics/threat-intelligence/unc3944-sms-phishing-sim-swapping-ransomware/",
             "https://www.trendmicro.com/en_us/research/22/h/new-golang-ransomware-agenda-customizes-attacks.html"
         ],
-        "description": "Qilin ransomware was first observed in July of 2022. Qilin Ransomware is written in Golang and supports multiple encryption modes; all of which are controlled by the operator. Qilin actors practice double extortion \u2013 demanding payment for a decryptor, as well as for the non-release of stolen data."
+        "description": "Qilin ransomware was first observed in July of 2022. Qilin Ransomware is written in Golang and supports multiple encryption modes; all of which are controlled by the operator. Qilin actors practice double extortion – demanding payment for a decryptor, as well as for the non-release of stolen data."
     },
     {
         "name": "qiulong",
@@ -8785,7 +8810,7 @@
             },
             {
                 "fqdn": "f6amq3izzsgtna4vw24rpyhy3ofwazlgex2zqdssavevvkklmtudxjad.onion",
-                "title": "Ransomedvc \u2013 Leading Agency In Digital Peace \u2013 Ran",
+                "title": "Ransomedvc – Leading Agency In Digital Peace – Ran",
                 "version": 3,
                 "slug": "http://f6amq3izzsgtna4vw24rpyhy3ofwazlgex2zqdssavevvkklmtudxjad.onion",
                 "available": false,
@@ -8872,7 +8897,7 @@
         "locations": [
             {
                 "fqdn": "xw7au5pnwtl6lozbsudkmyd32n6gnqdngitjdppybudan3x3pjgpmpid.onion",
-                "title": "\u00a9RansomHouse",
+                "title": "©RansomHouse",
                 "version": 3,
                 "slug": "http://xw7au5pnwtl6lozbsudkmyd32n6gnqdngitjdppybudan3x3pjgpmpid.onion/",
                 "available": false,
@@ -8942,7 +8967,7 @@
             },
             {
                 "fqdn": "secxrosqawaefsio3biv2dmi2c5yunf3t7ilwf54czq3v4bi7w6mbfad.onion",
-                "title": "Ransomhouse \u00a9",
+                "title": "Ransomhouse ©",
                 "version": 3,
                 "slug": "http://secxrosqawaefsio3biv2dmi2c5yunf3t7ilwf54czq3v4bi7w6mbfad.onion",
                 "available": false,
@@ -9639,7 +9664,7 @@
         "locations": [
             {
                 "fqdn": "lc65fb3wrvox6xlyn4hklwjcojau55diqxxylqs4qsfng23ftzijnxad.onion",
-                "title": "DuckDuckGo \u2014 Privacy, simplified.",
+                "title": "DuckDuckGo — Privacy, simplified.",
                 "version": 3,
                 "slug": "http://lc65fb3wrvox6xlyn4hklwjcojau55diqxxylqs4qsfng23ftzijnxad.onion",
                 "available": false,
@@ -9679,7 +9704,7 @@
         "parser": false,
         "javascript_render": false,
         "meta": null,
-        "description": "Not a ransomware group but a hacktivist group that appeared coincidentally days before Russia\u2019s invasion of Ukraine",
+        "description": "Not a ransomware group but a hacktivist group that appeared coincidentally days before Russia’s invasion of Ukraine",
         "locations": [
             {
                 "fqdn": "nv5p2mmpctvyqdyyi5zwh4gnifq2uxdx4etvnmaheqlrw6ordrjwxryd.onion",
@@ -9950,7 +9975,7 @@
                 "available": false,
                 "delay": null,
                 "updated": "2025-08-26 12:31:46.557828",
-                "lastscrape": "2025-08-26 14:01:22.120034",
+                "lastscrape": "2025-08-26 14:31:07.112271",
                 "enabled": true,
                 "type": "DLS",
                 "http": {
@@ -10224,11 +10249,11 @@
                 "available": false,
                 "delay": null,
                 "updated": "2025-08-26 03:01:45.395002",
-                "lastscrape": "2025-08-26 14:01:23.344914",
+                "lastscrape": "2025-08-26 14:31:07.234130",
                 "enabled": true,
                 "type": "DLS",
                 "http": {
-                    "fetched_at": "2025-08-26T14:01:23+00:00",
+                    "fetched_at": "2025-08-26T14:31:07+00:00",
                     "start_url": "https://t.me/s/CyberToufan",
                     "final_url": "https://t.me/CyberToufan",
                     "status": 200,
@@ -10245,7 +10270,7 @@
                         "via": null,
                         "cdn": null,
                         "content_type": "text/html; charset=utf-8",
-                        "content_length": "3654",
+                        "content_length": "3657",
                         "set_cookie_present": false,
                         "security_headers": {
                             "content-security-policy": "frame-ancestors https://web.telegram.org",
@@ -10255,9 +10280,9 @@
                     },
                     "headers": {
                         "server": "nginx/1.18.0",
-                        "date": "Tue, 26 Aug 2025 14:01:59 GMT",
+                        "date": "Tue, 26 Aug 2025 14:31:07 GMT",
                         "content-type": "text/html; charset=utf-8",
-                        "content-length": "3654",
+                        "content-length": "3657",
                         "connection": "keep-alive",
                         "pragma": "no-cache",
                         "cache-control": "no-store",
@@ -10892,12 +10917,12 @@
                 "slug": "https://weerwolven.biz",
                 "available": true,
                 "delay": null,
-                "updated": "2025-08-26 13:01:11.484960",
-                "lastscrape": "2025-08-26 13:01:11.484960",
+                "updated": "2025-08-26 14:31:10.185676",
+                "lastscrape": "2025-08-26 14:31:10.185676",
                 "enabled": true,
                 "type": "DLS",
                 "http": {
-                    "fetched_at": "2025-08-26T13:01:11+00:00",
+                    "fetched_at": "2025-08-26T14:31:10+00:00",
                     "start_url": "https://weerwolven.biz",
                     "final_url": "https://weerwolven.biz",
                     "status": 200,
@@ -10914,9 +10939,9 @@
                         "security_headers": {}
                     },
                     "headers": {
-                        "date": "Tue, 26 Aug 2025 13:01:12 GMT",
+                        "date": "Tue, 26 Aug 2025 14:31:11 GMT",
                         "server": "Apache",
-                        "set-cookie": "__tad=1756213272.3820541; expires=Fri, 24 Aug 2035 13:01:12 GMT; Max-Age=315360000",
+                        "set-cookie": "__tad=1756218671.1021636; expires=Fri, 24 Aug 2035 14:31:11 GMT; Max-Age=315360000",
                         "content-type": "text/html; charset=UTF-8",
                         "connection": "close"
                     },
@@ -10983,7 +11008,7 @@
         "locations": [
             {
                 "fqdn": "xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion",
-                "title": "\u661fTeam News",
+                "title": "星Team News",
                 "version": 3,
                 "slug": "http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/",
                 "available": false,
@@ -11123,22 +11148,44 @@
                 "title": "Leaks",
                 "version": 3,
                 "slug": "http://orca66hwnpciepupe5626k2ib6dds6zizjwuuashz67usjps2wehz4id.onion",
-                "available": false,
+                "available": true,
                 "delay": null,
-                "updated": "2025-08-21 04:31:18.041294",
-                "lastscrape": "2025-08-26 14:01:25.238387",
+                "updated": "2025-08-26 14:31:17.981516",
+                "lastscrape": "2025-08-26 14:31:17.981516",
                 "enabled": true,
                 "type": "DLS",
                 "http": {
-                    "fetched_at": "2025-08-26T14:01:25+00:00",
+                    "fetched_at": "2025-08-26T14:31:30+00:00",
                     "start_url": "http://orca66hwnpciepupe5626k2ib6dds6zizjwuuashz67usjps2wehz4id.onion",
-                    "final_url": null,
-                    "status": null,
-                    "http_version": null,
+                    "final_url": "http://orca66hwnpciepupe5626k2ib6dds6zizjwuuashz67usjps2wehz4id.onion",
+                    "status": 200,
+                    "http_version": "HTTP/1.1",
                     "redirect_chain": [],
-                    "fingerprint": {},
-                    "headers": {},
-                    "error": "Host unreachable"
+                    "fingerprint": {
+                        "server": "nginx/1.24.0 (Ubuntu)",
+                        "x_powered_by": null,
+                        "via": null,
+                        "cdn": null,
+                        "content_type": "text/html; charset=UTF-8",
+                        "content_length": null,
+                        "set_cookie_present": true,
+                        "security_headers": {
+                            "x-frame-options": "SAMEORIGIN",
+                            "x-content-type-options": "nosniff"
+                        }
+                    },
+                    "headers": {
+                        "server": "nginx/1.24.0 (Ubuntu)",
+                        "content-type": "text/html; charset=UTF-8",
+                        "connection": "keep-alive",
+                        "cache-control": "no-cache, private",
+                        "date": "Tue, 26 Aug 2025 14:31:30 GMT",
+                        "set-cookie": "XSRF-TOKEN=eyJpdiI6ImdQOGF6dDFwaS9CUmZsU2VYRjJvWXc9PSIsInZhbHVlIjoiWW1LaFlSS1pMTjAxNGNOcndHdUVKektRN1Y3d2xJeWlZemdtNFhhZGI3MDNlM1lraVM5dVkzTGxDU1cxbGNvSXJyU2I4Zm92em5MWVFmRmtlYUZZK1ZKM2VnUXhRMStLVHZ6TXNqUUZvUFBkdXJ2aFRUNUZwTTFGS1lKSG1hTmwiLCJtYWMiOiIyNzdhZGFmOTk0Njc1NTc0MmFmYTUzOGNkMTc4Y2EzYjQzNjZjNWE4NWRlMDMzOGViYjgwMjg3NDZkY2VlMGQ0IiwidGFnIjoiIn0%3D; expires=Tue, 26 Aug 2025 16:31:30 GMT; Max-Age=7200; path=/; samesite=lax, laravel_session=eyJpdiI6IjZIMWVha1FXeURwQjIwMmdsRGtPbkE9PSIsInZhbHVlIjoiUUY3c0dPTWNZQncyckdXV0Y3NHRDTE5XVExDdlNQQXVsemNuY2s5Rk1ySTBtY0pwOEsvb2hQeHFOMFB4RkpzMlM3Q3VFVm5Ua3hHL0FacG9pd3huRXI4YWNra0VLYTdqNU1NaXRyQStIWFFYVnpNTUhJZUFEMjNJOFRFRm5paGkiLCJtYWMiOiJmMjYyNjdmMzZjY2FjZDMyNmU2MTU5MjZhMmI4MjU1OTIxNWQ4OWNhMWQyN2U2NDI3OWY3N2UwNTVkMDBiYzQ1IiwidGFnIjoiIn0%3D; expires=Tue, 26 Aug 2025 16:31:30 GMT; Max-Age=7200; path=/; httponly; samesite=lax",
+                        "x-frame-options": "SAMEORIGIN",
+                        "x-content-type-options": "nosniff",
+                        "content-encoding": "gzip"
+                    },
+                    "error": null
                 }
             }
         ],
@@ -11150,7 +11197,7 @@
         "parser": false,
         "javascript_render": false,
         "meta": null,
-        "description": "RAAS - Ransomware int\u00e9gr\u00e9 \u00e0 un fichier PDF, \u00e0 faire ouvrir \u00e0 vos victimes ou \u00e0 ins\u00e9rer vous-m\u00eame, Windows et Mac, ne fonctionne pas sur Linux. Tableau de vitcimes et r\u00e9cup\u00e9ration de donn\u00e9es possible depuis votre espace abonn\u00e9. Configuration de votre ransomware \u00e0 votre premi\u00e8re connexion, puis modification possible selon votre formule.",
+        "description": "RAAS - Ransomware intégré à un fichier PDF, à faire ouvrir à vos victimes ou à insérer vous-même, Windows et Mac, ne fonctionne pas sur Linux. Tableau de vitcimes et récupération de données possible depuis votre espace abonné. Configuration de votre ransomware à votre première connexion, puis modification possible selon votre formule.",
         "locations": [
             {
                 "fqdn": "zprxx7sfc26rufggreanowmme5qqouqegr2efnko6erycquwvpq5egid.onion",
@@ -11585,11 +11632,11 @@
                 "slug": "http://hellcatj6xgvho4qxnr2nbzzthsqel577i5wvzcpfjgavbo3d5l657id.onion",
                 "available": false,
                 "updated": null,
-                "lastscrape": "2025-08-26 14:01:17.294941",
+                "lastscrape": "2025-08-26 14:30:14.823089",
                 "enabled": true,
                 "type": "DLS",
                 "http": {
-                    "fetched_at": "2025-08-26T14:01:17+00:00",
+                    "fetched_at": "2025-08-26T14:30:14+00:00",
                     "start_url": "http://hellcatj6xgvho4qxnr2nbzzthsqel577i5wvzcpfjgavbo3d5l657id.onion",
                     "final_url": null,
                     "status": null,
@@ -12201,11 +12248,11 @@
                 "slug": "http://izsp6ipui4ctgxfugbgtu65kzefrucltyfpbxplmfybl5swiadpljmyd.onion",
                 "available": false,
                 "updated": "2025-08-03 02:01:13.190210",
-                "lastscrape": "2025-08-26 14:00:38.330435",
+                "lastscrape": "2025-08-26 14:30:17.100301",
                 "enabled": true,
                 "type": "DLS",
                 "http": {
-                    "fetched_at": "2025-08-26T14:00:38+00:00",
+                    "fetched_at": "2025-08-26T14:30:17+00:00",
                     "start_url": "http://izsp6ipui4ctgxfugbgtu65kzefrucltyfpbxplmfybl5swiadpljmyd.onion",
                     "final_url": null,
                     "status": null,
@@ -13180,11 +13227,11 @@
                 "slug": "http://34o4m3f26ucyeddzpf53bksy76wd737nf2fytslovwd3viac3by5chad.onion/leaks",
                 "available": false,
                 "updated": "2025-08-24 12:31:44.374266",
-                "lastscrape": "2025-08-26 14:00:38.046332",
+                "lastscrape": "2025-08-26 14:30:17.369745",
                 "enabled": true,
                 "type": "DLS",
                 "http": {
-                    "fetched_at": "2025-08-26T14:00:38+00:00",
+                    "fetched_at": "2025-08-26T14:30:17+00:00",
                     "start_url": "http://34o4m3f26ucyeddzpf53bksy76wd737nf2fytslovwd3viac3by5chad.onion/leaks",
                     "final_url": null,
                     "status": null,
@@ -13488,11 +13535,11 @@
                 "slug": "http://bertblogsoqmm4ow7nqyh5ik7etsmefdbf25stauecytvwy7tkgizhad.onion",
                 "available": false,
                 "updated": "2025-08-02 18:31:20.075425",
-                "lastscrape": "2025-08-26 14:00:40.387412",
+                "lastscrape": "2025-08-26 14:30:15.440500",
                 "enabled": true,
                 "type": "DLS",
                 "http": {
-                    "fetched_at": "2025-08-26T14:00:40+00:00",
+                    "fetched_at": "2025-08-26T14:30:15+00:00",
                     "start_url": "http://bertblogsoqmm4ow7nqyh5ik7etsmefdbf25stauecytvwy7tkgizhad.onion",
                     "final_url": null,
                     "status": null,
@@ -13533,11 +13580,11 @@
                 "slug": "http://wugurgyscp5rxpihef5vl6b6m5ont3b6sezhl7boboso2enib2k3q6qd.onion",
                 "available": false,
                 "updated": "2025-08-06 01:31:14.515160",
-                "lastscrape": "2025-08-26 14:00:41.853956",
+                "lastscrape": "2025-08-26 14:30:19.420579",
                 "enabled": true,
                 "type": "DLS",
                 "http": {
-                    "fetched_at": "2025-08-26T14:00:41+00:00",
+                    "fetched_at": "2025-08-26T14:30:19+00:00",
                     "start_url": "http://wugurgyscp5rxpihef5vl6b6m5ont3b6sezhl7boboso2enib2k3q6qd.onion",
                     "final_url": null,
                     "status": null,
@@ -13617,7 +13664,7 @@
         "altname": "",
         "date": "2025-04-23",
         "meta": null,
-        "description": "Unlike many other groups, Silent claims to operate with a high level of anonymity and discretion. According to their own statement, they avoid public negotiations and encrypt minimal data. Instead, their focus is on stealing valuable confidential corporate information \u2014 and either selling it to competitors, on the dark web, or publishing it selectively.",
+        "description": "Unlike many other groups, Silent claims to operate with a high level of anonymity and discretion. According to their own statement, they avoid public negotiations and encrypt minimal data. Instead, their focus is on stealing valuable confidential corporate information — and either selling it to competitors, on the dark web, or publishing it selectively.",
         "contact": null,
         "locations": [
             {
@@ -14115,11 +14162,11 @@
                 "slug": "http://imncrewwfkbjkhr2oylerfm5qtbzfphhmpcfag43xc2kfgvluqtlgoid.onion",
                 "available": false,
                 "updated": "2025-08-05 12:31:10.628228",
-                "lastscrape": "2025-08-26 14:00:45.283391",
+                "lastscrape": "2025-08-26 14:30:13.036162",
                 "enabled": true,
                 "type": "DLS",
                 "http": {
-                    "fetched_at": "2025-08-26T14:00:45+00:00",
+                    "fetched_at": "2025-08-26T14:30:13+00:00",
                     "start_url": "http://imncrewwfkbjkhr2oylerfm5qtbzfphhmpcfag43xc2kfgvluqtlgoid.onion",
                     "final_url": null,
                     "status": null,
@@ -14167,13 +14214,13 @@
                 "fqdn": "business-data-leaks.com",
                 "title": "",
                 "slug": "https://business-data-leaks.com/about",
-                "available": true,
+                "available": false,
                 "updated": "2025-08-26 13:01:15.841176",
-                "lastscrape": "2025-08-26 13:01:15.841176",
+                "lastscrape": "2025-08-26 14:30:16.293653",
                 "enabled": true,
                 "type": "DLS",
                 "http": {
-                    "fetched_at": "2025-08-26T13:01:17+00:00",
+                    "fetched_at": "2025-08-26T14:30:16+00:00",
                     "start_url": "https://business-data-leaks.com/about",
                     "final_url": null,
                     "status": null,
@@ -14223,11 +14270,11 @@
                 "slug": "http://zdkexsh2e7yihw5uhg5hpsgq3dois2m5je7lzfagij2y6iw5ptl35gyd.onion",
                 "available": false,
                 "updated": "2025-08-25 08:01:51.951723",
-                "lastscrape": "2025-08-26 14:00:52.042704",
+                "lastscrape": "2025-08-26 14:30:18.475429",
                 "enabled": true,
                 "type": "DLS",
                 "http": {
-                    "fetched_at": "2025-08-26T14:00:52+00:00",
+                    "fetched_at": "2025-08-26T14:30:18+00:00",
                     "start_url": "http://zdkexsh2e7yihw5uhg5hpsgq3dois2m5je7lzfagij2y6iw5ptl35gyd.onion",
                     "final_url": null,
                     "status": null,
@@ -14548,11 +14595,11 @@
                 "slug": "http://weepangrbqjfsxd2noz4bmolztnqsma3vw4c6qfnbfusadzd2m26emqd.onion",
                 "available": false,
                 "updated": "2025-08-22 06:01:29.313669",
-                "lastscrape": "2025-08-26 14:00:51.320381",
+                "lastscrape": "2025-08-26 14:30:19.220759",
                 "enabled": true,
                 "type": "DLS",
                 "http": {
-                    "fetched_at": "2025-08-26T14:00:51+00:00",
+                    "fetched_at": "2025-08-26T14:30:19+00:00",
                     "start_url": "http://weepangrbqjfsxd2noz4bmolztnqsma3vw4c6qfnbfusadzd2m26emqd.onion",
                     "final_url": null,
                     "status": null,
@@ -14727,11 +14774,11 @@
                 "slug": "http://kawasa2qo7345dt7ogxmx7qmn6z2hnwaoi3h5aeosupozkddqwp6lqqd.onion",
                 "available": false,
                 "updated": "2025-08-16 05:02:10.258673",
-                "lastscrape": "2025-08-26 14:00:56.565636",
+                "lastscrape": "2025-08-26 14:30:22.802239",
                 "enabled": true,
                 "type": "DLS",
                 "http": {
-                    "fetched_at": "2025-08-26T14:00:56+00:00",
+                    "fetched_at": "2025-08-26T14:30:22+00:00",
                     "start_url": "http://kawasa2qo7345dt7ogxmx7qmn6z2hnwaoi3h5aeosupozkddqwp6lqqd.onion",
                     "final_url": null,
                     "status": null,
@@ -15156,11 +15203,11 @@
                 "slug": "http://sinobi6ywgmmvg2gj2yygkb2hxbimaxpqkyk27wti5zjwhfcldhackid.onion",
                 "available": false,
                 "updated": "2025-08-24 17:06:50.630157",
-                "lastscrape": "2025-08-26 14:02:05.783230",
+                "lastscrape": "2025-08-26 14:30:16.584902",
                 "enabled": true,
                 "type": "DLS",
                 "http": {
-                    "fetched_at": "2025-08-26T14:02:05+00:00",
+                    "fetched_at": "2025-08-26T14:30:16+00:00",
                     "start_url": "http://sinobi6ywgmmvg2gj2yygkb2hxbimaxpqkyk27wti5zjwhfcldhackid.onion",
                     "final_url": null,
                     "status": null,
@@ -15333,11 +15380,11 @@
                 "slug": "http://sinobi6ywgmmvg2gj2yygkb2hxbimaxpqkyk27wti5zjwhfcldhackid.onion/leaks",
                 "available": false,
                 "updated": "2025-08-24 17:12:07.063776",
-                "lastscrape": "2025-08-26 14:02:56.467896",
+                "lastscrape": "2025-08-26 14:30:38.019827",
                 "enabled": true,
                 "type": "DLS",
                 "http": {
-                    "fetched_at": "2025-08-26T14:02:56+00:00",
+                    "fetched_at": "2025-08-26T14:30:38+00:00",
                     "start_url": "http://sinobi6ywgmmvg2gj2yygkb2hxbimaxpqkyk27wti5zjwhfcldhackid.onion/leaks",
                     "final_url": null,
                     "status": null,
@@ -15421,7 +15468,7 @@
         "locations": [
             {
                 "fqdn": "d4rkd2fybtclo44hss2dpqpw7gmofboxhruax2az3uejw7puxxbpkvqd.onion",
-                "title": "D4RK4RMY \u2013 \u5171\u4ea7\u4e3b\u4e49\u52d2\u7d22\u8f6f\u4ef6\u515a",
+                "title": "D4RK4RMY – 共产主义勒索软件党",
                 "slug": "http://d4rkd2fybtclo44hss2dpqpw7gmofboxhruax2az3uejw7puxxbpkvqd.onion",
                 "available": true,
                 "updated": "2025-08-26 13:31:59.201745",
@@ -15519,13 +15566,13 @@
                 "fqdn": "ransomed.biz",
                 "title": "RansomedVC | Blog",
                 "slug": "http://ransomed.biz",
-                "available": true,
+                "available": false,
                 "updated": "2025-08-26 13:01:18.917334",
-                "lastscrape": "2025-08-26 13:01:18.917334",
+                "lastscrape": "2025-08-26 14:30:16.260322",
                 "enabled": true,
                 "type": "DLS",
                 "http": {
-                    "fetched_at": "2025-08-26T13:01:18+00:00",
+                    "fetched_at": "2025-08-26T14:30:16+00:00",
                     "start_url": "http://ransomed.biz",
                     "final_url": null,
                     "status": null,
@@ -15648,11 +15695,11 @@
                 "slug": "http://ooie6tet7ggcmlgvtmyvok4s6vha6ecwczssbchbyxrg2r6v2m6zkkad.onion/",
                 "available": false,
                 "updated": "2025-08-15 02:03:24.064114",
-                "lastscrape": "2025-08-26 14:00:55.131828",
+                "lastscrape": "2025-08-26 14:30:18.507940",
                 "enabled": true,
                 "type": "Files",
                 "http": {
-                    "fetched_at": "2025-08-26T14:00:55+00:00",
+                    "fetched_at": "2025-08-26T14:30:18+00:00",
                     "start_url": "http://ooie6tet7ggcmlgvtmyvok4s6vha6ecwczssbchbyxrg2r6v2m6zkkad.onion/",
                     "final_url": null,
                     "status": null,
@@ -15682,11 +15729,11 @@
                 "slug": "http://yywhylvqeqynzik6ibocb53o2nat7lmzn5ynjpar3stndzcgmy6dkgid.onion",
                 "available": false,
                 "updated": "2025-08-21 17:01:41.050900",
-                "lastscrape": "2025-08-26 14:00:56.372256",
+                "lastscrape": "2025-08-26 14:30:19.311161",
                 "enabled": true,
                 "type": "DLS",
                 "http": {
-                    "fetched_at": "2025-08-26T14:00:56+00:00",
+                    "fetched_at": "2025-08-26T14:30:19+00:00",
                     "start_url": "http://yywhylvqeqynzik6ibocb53o2nat7lmzn5ynjpar3stndzcgmy6dkgid.onion",
                     "final_url": null,
                     "status": null,
@@ -15888,10 +15935,35 @@
         "name": "bluelocker",
         "date": "2025-08-19",
         "meta": null,
-        "description": "Blue Locker targets Pakistan\u2019s vital energy sector, particularly Pakistan Petroleum",
+        "description": "Blue Locker targets Pakistan’s vital energy sector, particularly Pakistan Petroleum",
         "contact": null,
         "locations": [],
         "profile": "https://www.resecurity.com/blog/article/blue-locker-analysis-ransomware-targeting-oil-gas-sector-in-pakistan",
         "parser": false
+    },
+    {
+        "name": "cephalus",
+        "altname": null,
+        "lineage": null,
+        "date": "2025-08-26",
+        "meta": null,
+        "description": null,
+        "extensions ": null,
+        "type": {
+            "raas": false
+        },
+        "locations": [
+            {
+                "fqdn": "cephalus6oiypuwumqlwurvbmwsfglg424zjdmywfgqm4iehkqivsjyd.onion",
+                "title": null,
+                "slug": "http://cephalus6oiypuwumqlwurvbmwsfglg424zjdmywfgqm4iehkqivsjyd.onion",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-01-01 00:00:00.000000",
+                "enabled": true,
+                "type": "DLS"
+            }
+        ],
+        "profile": []
     }
 ]

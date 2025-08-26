@@ -4,8 +4,43 @@
     "month": null,
     "country": null
   },
-  "count": 2601,
+  "count": 2603,
   "results": [
+    {
+      "date": "2025-08-25",
+      "victim": "Nevada State Offices",
+      "domain": "nv.gov",
+      "country": "US",
+      "summary": "Les bureaux de l'État du Nevada ont suspendu certains services en personne après un incident de cybersécurité qui a perturbé les systèmes des agences locales. Les services d'urgence et le 911 sont restés pleinement opérationnels, mais la perturbation a privé l'accès à certains sites Web de l'État, portails en ligne et lignes téléphoniques de bureau. Les équipes de sécurité ont détecté l'incident dimanche matin et ont lancé des efforts de récupération.",
+      "title": "Nevada State Offices Halts Services After Cyber Incident",
+      "url": "https://www.govinfosecurity.com/nevada-state-offices-halts-services-after-cyber-incident-a-29290",
+      "added": "2025-08-26",
+      "infostealer": {
+        "update": "2025-08-26 07:38:34",
+        "employees": 3,
+        "users": 3605,
+        "thirdparties_domain": 3,
+        "employees_url": 2,
+        "users_url": 100,
+        "thirdparties": 7,
+        "infostealer_stats": {
+          "RedLine": 1157,
+          "Generic Stealer": 788,
+          "Lumma": 663,
+          "Azorult": 365,
+          "Raccoon": 239,
+          "Vidar": 115,
+          "UNKNOWN": 57,
+          "StealC": 53,
+          "CRYPTBOT": 6,
+          "DarkCrystal": 5,
+          "Atomic": 4,
+          "Taurus": 1,
+          "Mystic": 1
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2025-08-25",
       "victim": "Maryland Transit Administration (MTA)",
@@ -101,6 +136,35 @@
           "StealC": 4,
           "UNKNOWN": 2,
           "Mystic": 2
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-08-19",
+      "victim": "Salesian Pontifical University (UPS)",
+      "domain": "unisal.it",
+      "country": "IT",
+      "summary": "La Salesian Pontifical University a été victime d'une attaque cybernétique grave le 19 août, rendant son site web et ses services numériques temporairement inaccessibles. Les autorités compétentes et les techniciens de l'université travaillent pour comprendre l'ampleur de l'attaque et assurer la sécurité des infrastructures numériques. Les services en ligne de l'université, y compris l'adresse e-mail institutionnelle, sont actuellement indisponibles.",
+      "title": "No Miracle! The Pontifical Salesian University falls victim to ransomware.",
+      "url": "https://www.redhotcyber.com/en/post/no-miracle-the-pontifical-salesian-university-falls-victim-to-ransomware/",
+      "added": "2025-08-26",
+      "infostealer": {
+        "update": "2025-08-26 07:38:17",
+        "employees": 14,
+        "users": 48,
+        "thirdparties_domain": 9,
+        "employees_url": 11,
+        "users_url": 33,
+        "thirdparties": 16,
+        "infostealer_stats": {
+          "Lumma": 28,
+          "RedLine": 26,
+          "Raccoon": 14,
+          "Vidar": 12,
+          "StealC": 8,
+          "UNKNOWN": 6,
+          "Azorult": 4
         }
       },
       "ransomware": null

@@ -288,6 +288,7 @@
     },
     {
         "name": "akira",
+        "extensions": [".akira", ".arika" ],
         "captcha": false,
         "parser": true,
         "javascript_render": false,

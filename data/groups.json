@@ -587,6 +587,7 @@
     {
         "name": "apt73",
         "altname": "bashe",
+        "type": { "raas": true },   
         "captcha": false,
         "parser": true,
         "javascript_render": false,
@@ -1151,6 +1152,7 @@
     },
     {
         "name": "blackbasta",
+        "type": { "raas": true },  
         "captcha": false,
         "parser": true,
         "javascript_render": true,
@@ -1203,6 +1205,7 @@
     },
     {
         "name": "blackbyte",
+        "type": { "raas": true },  
         "captcha": false,
         "parser": true,
         "javascript_render": false,
@@ -3490,6 +3493,7 @@
     {
         "name": "flocker",
         "captcha": false,
+        "type": { "raas": true },   
         "parser": true,
         "javascript_render": false,
         "meta": null,
@@ -9035,6 +9039,8 @@
     },
     {
         "name": "raworld",
+        "altname": "ragroup",
+        "extensions": [".GAGUP", ".RAWLD"],
         "captcha": false,
         "parser": false,
         "javascript_render": false,
@@ -12214,6 +12220,7 @@
     },
     {
         "name": "GDLockerSec",
+        "type": { "raas": true },   
         "date": "2025-01-24",
         "meta": null,
         "description": "Our team members are from different countries and we are not interested in anything else, we are only interested in dollars. We do not allow CIS, Cuba, North Korea and China to be targeted. Re-attacks are not allowed for target companies that have already made payments. We do not allow non-profit hospitals and some non-profit organizations be targeted.",
@@ -13080,6 +13087,8 @@
     },
     {
         "name": "VanHelsing",
+        "type": { "raas": true },
+        "extensions": [".vanhelsing", ".vanlocker"],
         "date": "2025-03-17",
         "meta": null,
         "description": null,
@@ -13156,7 +13165,7 @@
                 "type": "Chat"
             }
         ],
-        "profile": [],
+        "profile": ["https://research.checkpoint.com/2025/vanhelsing-new-raas-in-town/"],
         "parser": true
     },
     {
@@ -13225,6 +13234,8 @@
     {
         "name": "ralord",
         "date": "2025-03-26",
+        "lineage": "raworld",
+        "type": { "raas": true },   
         "meta": null,
         "description": null,
         "contact": null,
@@ -13504,6 +13515,7 @@
     {
         "name": "devman",
         "altname": "Devman 2.0",
+        "type": { "raas": true },   
         "date": "2025-04-06",
         "meta": null,
         "description": "Former RansomHub and INC Ransom affiliate.",
@@ -13606,6 +13618,7 @@
     },
     {
         "name": "silent",
+        "type": { "raas": true },   
         "altname": "",
         "date": "2025-04-23",
         "meta": null,
@@ -13706,6 +13719,8 @@
     {
         "name": "nova",
         "date": "2025-04-28",
+        "type": { "raas": true },   
+        "lineage": "ralord",
         "meta": null,
         "description": "Rebrand of RALord",
         "contact": null,
@@ -14096,6 +14111,7 @@
     },
     {
         "name": "IMNCrew",
+        "extensions": [ ".imn" ],
         "date": "2025-05-05",
         "meta": null,
         "description": null,
@@ -14334,6 +14350,7 @@
     },
     {
         "name": "worldleaks",
+        "lineage": "hunters",
         "date": "2025-05-16",
         "meta": null,
         "description": "World Leaks emerged in January 2025 as a rebrand of the Hunters International ransomware operation, shifting its focus from file encryption to solely stealing sensitive data and threatening to leak it unless a ransom is paid",
@@ -14534,6 +14551,10 @@
     {
         "name": "global",
         "date": "2025-06-04",
+        "type": {                               
+        "raas": true                          
+        },
+        "lineage": "blacklock",
         "meta": null,
         "description": null,
         "contact": null,
@@ -15677,6 +15698,7 @@
     },
     {
         "name": "beast",
+        "altname": "GIGAKICK",
         "date": "2025-07-29",
         "meta": null,
         "description": "Beast is a Ransomware-as-a-service (RaaS) product which provides functionality such as SMB scanning, file encryption, service and process starting and stopping, and geographic identification to avoid encryption in CIS countries.",
@@ -15763,6 +15785,7 @@
         "name": "bqtlock",
         "date": "2025-07-31",
         "meta": null,
+        "type": { "raas": true },
         "description": null,
         "contact": null,
         "locations": [

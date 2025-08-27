@@ -1,6 +1,6 @@
 {
   "filter_type": null,
-  "count": 49,
+  "count": 56,
   "groups": [
     {
       "group": "Ailock",
@@ -21,7 +21,14 @@
       "group": "Anubis",
       "ioc_types": {
         "md5": 25,
+        "twitter": 1,
         "ip": 4
+      }
+    },
+    {
+      "group": "Arkana",
+      "ioc_types": {
+        "session": 1
       }
     },
     {
@@ -66,6 +73,13 @@
       }
     },
     {
+      "group": "Bluebox",
+      "ioc_types": {
+        "email": 1,
+        "tox": 1
+      }
+    },
+    {
       "group": "Bluelocker",
       "ioc_types": {
         "sha256": 4,
@@ -107,8 +121,16 @@
       }
     },
     {
+      "group": "Crazyhunter",
+      "ioc_types": {
+        "telegram": 2,
+        "tox": 1
+      }
+    },
+    {
       "group": "Crypto24",
       "ioc_types": {
+        "email": 1,
         "ip": 1
       }
     },
@@ -132,6 +154,7 @@
       "group": "Devman",
       "ioc_types": {
         "tox": 1,
+        "twitter": 1,
         "ip": 3
       }
     },
@@ -147,6 +170,19 @@
       "group": "Fog",
       "ioc_types": {
         "md5": 54
+      }
+    },
+    {
+      "group": "Frag",
+      "ioc_types": {
+        "email": 2
+      }
+    },
+    {
+      "group": "GDLockrSec",
+      "ioc_types": {
+        "tox": 1,
+        "twitter": 1
       }
     },
     {
@@ -229,6 +265,13 @@
       }
     },
     {
+      "group": "Nightspire",
+      "ioc_types": {
+        "telegram": 1,
+        "email": 3
+      }
+    },
+    {
       "group": "Nitrogen",
       "ioc_types": {
         "md5": 6,
@@ -304,6 +347,12 @@
       }
     },
     {
+      "group": "Skira",
+      "ioc_types": {
+        "session": 1
+      }
+    },
+    {
       "group": "Teamxxx",
       "ioc_types": {
         "ip": 1
@@ -327,7 +376,7 @@
     {
       "group": "VanHelsing",
       "ioc_types": {
-        "btc": 1,
+        "btc": 2,
         "md5": 7,
         "tox": 1,
         "ip": 2

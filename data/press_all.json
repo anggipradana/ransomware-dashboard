@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2608,
+  "count": 2609,
   "results": [
     {
       "date": "2025-08-25",
@@ -8286,6 +8286,27 @@
         "group": "qilin",
         "permalink": "https://www.ransomware.live/id/T3B0aW1heCBUZWNobm9sb2d5QHFpbGlu"
       }
+    },
+    {
+      "date": "2025-04-04",
+      "victim": "Statesman Business Advisors, LLC",
+      "domain": "statesmanbusinessadvisors.com",
+      "country": "US",
+      "summary": "Statesman Business Advisors, LLC experienced unauthorized access to their network on or about April 4, 2025, potentially exposing certain files containing personal information. An investigation revealed that between March 26, 2025, and April 4, 2025, certain files containing personal information were stored in the impacted systems and may have been subject to unauthorized access or acquisition. The attack was claimed by DragonForce on May 11th.",
+      "title": "2025-08-19 Statesman Business Advisors Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-08-19-statesman-business-advisors-data-breach-notice-consumers",
+      "added": "2025-08-27",
+      "infostealer": {
+        "update": "2025-08-27 12:52:48",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
     },
     {
       "date": "2025-04-04",

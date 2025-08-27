@@ -4,8 +4,29 @@
     "month": null,
     "country": null
   },
-  "count": 2606,
+  "count": 2608,
   "results": [
+    {
+      "date": "2025-08-25",
+      "victim": "West Chester Township",
+      "domain": "westchesteroh.org",
+      "country": "US",
+      "summary": "La commune de West Chester a été victime d'une faille de sécurité potentielle, un groupe de pirates malveillants a visé son serveur de messagerie électronique central. Il s'agit de la deuxième fois que le même groupe cible la commune en un mois, les autorités n'ont pas trouvé de preuve que des données ont été volées. La commune travaille avec le FBI et des experts en cybersécurité pour enquêter sur l'incident et renforcer ses défenses.",
+      "title": "West Chester notified of potential cybersecurity breach, township officials say",
+      "url": "https://www.wcpo.com/news/local-news/butler-county/west-chester/west-chester-notified-of-potential-cybersecurity-breach-township-officials-say",
+      "added": "2025-08-27",
+      "infostealer": {
+        "update": "2025-08-27 07:36:45",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2025-08-25",
       "victim": "Nevada State Offices",
@@ -812,6 +833,27 @@
           "Taurus": 1,
           "Atomic": 1
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-08-05",
+      "victim": "Greenville, Texas",
+      "domain": "greenville.tx.us",
+      "country": "US",
+      "summary": "La ville de Greenville a subi une attaque de ransomware le 5 août, affectant l'accès aux dossiers de police et autres. Les services d'urgence 911 ne sont pas touchés, mais certains services en ligne sont actuellement indisponibles. Aucune preuve n'a été trouvée que des informations personnelles ont été compromises.",
+      "title": "Ransomware attack on Greenville affects city services, 911 remains intact",
+      "url": "https://www.keranews.org/news/2025-08-26/ransomware-attack-city-greenville-texas-records",
+      "added": "2025-08-27",
+      "infostealer": {
+        "update": "2025-08-27 07:37:06",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },

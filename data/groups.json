@@ -13719,10 +13719,11 @@
     {
         "name": "nova",
         "date": "2025-04-28",
-        "type": { "raas": true },   
+        "type": { "raas": true },
+        "extensions": [ ".ralord"],
         "lineage": "ralord",
         "meta": null,
-        "description": "Rebrand of RALord",
+        "description": "Nova (formerly RALord) is a ransomware-as-a-service (RaaS) group that encrypts victims’files and uses double-extortion tactics to pressure organizations into paying for decryption and data non-disclosure.",
         "contact": null,
         "locations": [
             {
@@ -14731,7 +14732,7 @@
     {
         "name": "warlock",
         "extensions": [
-            "x2anylock"
+            ".x2anylock"
         ],
         "date": "2025-06-10",
         "meta": null,

@@ -1,6 +1,6 @@
 {
   "filter_type": null,
-  "count": 56,
+  "count": 57,
   "groups": [
     {
       "group": "Ailock",
@@ -105,6 +105,12 @@
       "group": "Cactus",
       "ioc_types": {
         "md5": 51
+      }
+    },
+    {
+      "group": "Cephalus",
+      "ioc_types": {
+        "ip": 1
       }
     },
     {

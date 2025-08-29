@@ -328,7 +328,10 @@
         "thirdparties": 0,
         "infostealer_stats": {}
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "lynx",
+        "permalink": "https://www.ransomware.live/id/QsOcQ0hORVIgQkFSRUxMQSBIb2xkaW5nQGx5bng="
+      }
     },
     {
       "date": "2025-08-17",

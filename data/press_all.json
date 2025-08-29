@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2618,
+  "count": 2626,
   "results": [
     {
       "date": "2025-08-25",
@@ -469,6 +469,30 @@
         "users_url": 0,
         "thirdparties": 0,
         "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-08-12",
+      "victim": "Lycoming County",
+      "domain": "lyco.org",
+      "country": "US",
+      "summary": "Le département de la sécurité publique du comté de Lycoming a détecté un logiciel de rançon sur son réseau informatique, ce qui pourrait avoir compromis les données, notamment les numéros de permis de conduire. L'enquête est en cours et les autorités ont sécurisé le réseau. Le comté prend des mesures pour renforcer la sécurité et protéger les informations des citoyens.",
+      "title": "Cyber incident impacts data held by public safety department in Pa. county",
+      "url": "https://www.pennlive.com/news/2025/08/cyber-incident-impacts-data-held-by-public-safety-department-in-pa-county.html",
+      "added": "2025-08-29",
+      "infostealer": {
+        "update": "2025-08-29 10:02:50",
+        "employees": 0,
+        "users": 3,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 5,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "RedLine": 4,
+          "Lumma": 2
+        }
       },
       "ransomware": null
     },
@@ -2011,6 +2035,43 @@
         }
       },
       "ransomware": null
+    },
+    {
+      "date": "2025-07-06",
+      "victim": "Prince George County Public Schools",
+      "domain": "pgcps.org",
+      "country": "US",
+      "summary": "Prince George County Public Schools suffered a ransomware attack on or around July 6, 2025, which may have exposed employee and dependent personal information, including names, addresses, dates of birth, driver's license numbers, Social Security numbers, and benefits enrollment information. A cyberattack against PGCPS had already been claimed by Rhysida on August 25, 2023.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/1a81abab-ef65-456c-9d7a-53837cdb2464.html",
+      "added": "2025-08-29",
+      "infostealer": {
+        "update": "2025-08-29 10:02:11",
+        "employees": 1925,
+        "users": 531,
+        "thirdparties_domain": 215,
+        "employees_url": 33,
+        "users_url": 100,
+        "thirdparties": 1278,
+        "infostealer_stats": {
+          "RedLine": 2087,
+          "Lumma": 989,
+          "Generic Stealer": 306,
+          "Azorult": 288,
+          "Raccoon": 206,
+          "Vidar": 146,
+          "UNKNOWN": 98,
+          "StealC": 40,
+          "Taurus": 12,
+          "Atomic": 4,
+          "CRYPTBOT": 4,
+          "DarkCrystal": 1
+        }
+      },
+      "ransomware": {
+        "group": "rhysida",
+        "permalink": "https://www.ransomware.live/id/UHJpbmNlIEdlb3JnZSdzIENvdW50eSBQdWJsaWMgU2Nob29sc0ByaHlzaWRh"
+      }
     },
     {
       "date": "2025-07-04",
@@ -4498,6 +4559,36 @@
     },
     {
       "date": "2025-05-24",
+      "victim": "The Salvation Army, A New York Corporation",
+      "domain": "salvationarmy.org",
+      "country": "US",
+      "summary": "The Salvation Army experienced a data security incident where an unauthorized third-party accessed their network environment, potentially exposing personal information such as names, social security numbers, and driver's license numbers. The incident occurred on or about May 24, 2025, and was claimed by Chaos on May 27.",
+      "title": "2025-08-27 The Salvation Army Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-08-27-salvation-army-data-breach-notice-consumers",
+      "added": "2025-08-29",
+      "infostealer": {
+        "update": "2025-05-27 21:52:48",
+        "employees": 28,
+        "users": 47,
+        "thirdparties_domain": 102,
+        "employees_url": 29,
+        "users_url": 38,
+        "thirdparties": 101,
+        "infostealer_stats": {
+          "Azorult": 14,
+          "RedLine": 32,
+          "Redline": 3,
+          "UNKNOWN": 4,
+          "Raccoon": 7,
+          "Vidar": 2,
+          "Lumma": 14,
+          "StealC": 5
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-05-24",
       "victim": "Arcona-Hotels",
       "domain": "arcona.de",
       "country": "DE",
@@ -6853,6 +6944,27 @@
     },
     {
       "date": "2025-04-23",
+      "victim": "Gorham Sand & Gravel",
+      "domain": "gsgravel.com",
+      "country": "US",
+      "summary": "Gorham Sand & Gravel, Inc. suffered a data breach on April 23, 2025, where an unauthorized actor gained access to their network and acquired certain files. The breach may have impacted personal information including names, driver's license numbers, Social Security numbers, financial account information, and payment card information. The attack was claimed by Play on April 29.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/f18c22ae-8a36-4340-9854-eb8bf5cb122b.html",
+      "added": "2025-08-29",
+      "infostealer": {
+        "update": "2025-04-29 20:08:45",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-04-23",
       "victim": "Lewy Body Dementia Association, Inc.",
       "domain": "lbda.org",
       "country": "US",
@@ -6977,6 +7089,27 @@
       "added": "2025-04-25",
       "infostealer": {
         "update": "2025-04-25 09:54:09",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-04-21",
+      "victim": "Burke Blue Hutchinson Smith Zimmerman Burke & Masters PA dba Burke Blue",
+      "domain": "burkeblue.com",
+      "country": "US",
+      "summary": "Burke Blue experienced a data security event on April 21, 2025, where suspicious activity was detected on their network. An investigation revealed that certain files may have been accessed without authorization, potentially exposing personal information of approximately one Maine resident. Burke Blue has no evidence of the misuse or attempted misuse of any accessible information.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/58a6de92-d66b-49c6-a573-4aa32e10d4ab.html",
+      "added": "2025-08-29",
+      "infostealer": {
+        "update": "2025-08-29 10:01:49",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,
@@ -15049,6 +15182,30 @@
     },
     {
       "date": "2025-01-08",
+      "victim": "Black Hills Regional Eye Institute",
+      "domain": "blackhillseyes.com",
+      "country": "US",
+      "summary": "Black Hills Regional Eye Institute LLP experienced a data breach where an unauthorized party accessed and acquired protected health information on or around July 30, 2025. The breach occurred after suspicious activity was observed on January 8, 2025. The attack has been claimed by Qilin on January 23.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/3129a464-ce0a-4dc7-baee-2eb1ca83a42f.html",
+      "added": "2025-08-29",
+      "infostealer": {
+        "update": "2025-01-23 07:59:37",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "qilin",
+        "permalink": "https://www.ransomware.live/id/QmxhY2sgSGlsbHMgUmVnaW9uYWwgRXllIEluc3RpdHV0ZUBxaWxpbg=="
+      }
+    },
+    {
+      "date": "2025-01-08",
       "victim": "Welts, White & Fontaine, P.C.",
       "domain": "lawyersnh.com",
       "country": "US",
@@ -15245,6 +15402,30 @@
       "ransomware": {
         "group": "threeam",
         "permalink": "https://www.ransomware.live/id/YW53c2Qub3JnQHRocmVlYW0="
+      }
+    },
+    {
+      "date": "2025-01-06",
+      "victim": "New Horizons Baking",
+      "domain": "newhorizonsbaking.com",
+      "country": "US",
+      "summary": "New Horizons Baking Company, LLC, and its subsidiaries suffered a data breach between January 6, 2025, and January 10, 2025, resulting in unauthorized access to certain files containing names and Social Security numbers. The breach was discovered on January 11, 2025, and claimed by Cactus on Frebruary 20.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/c25d7355-f5b6-4438-9d7e-610440d53c6a.html",
+      "added": "2025-08-29",
+      "infostealer": {
+        "update": "2025-02-20 19:24:32",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "cactus",
+        "permalink": "https://www.ransomware.live/id/bmV3aG9yaXpvbnNiYWtpbmcuY29tQGNhY3R1cw=="
       }
     },
     {
@@ -15499,6 +15680,27 @@
         "group": "akira",
         "permalink": "https://www.ransomware.live/id/UGVpa2tvQGFraXJh"
       }
+    },
+    {
+      "date": "2024-12-28",
+      "victim": "The Children's Center of Hamden",
+      "domain": "thechildrenscenterofhamden.org",
+      "country": "US",
+      "summary": "The Children's Center of Hamden, Inc. suffered a data security incident where personal and protected health information may have been acquired without authorization. The incident occurred on December 28, 2024, and was claimed by INC Ransom on February 11, 2025.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/dce291ae-3215-418f-9d5f-fd5018617929.html",
+      "added": "2025-08-29",
+      "infostealer": {
+        "update": "2025-08-29 10:02:29",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
     },
     {
       "date": "2024-12-28",
@@ -45489,7 +45691,29 @@
       "summary": "Lundi matin, les écoles publiques du comté de Prince George ont été victimes d'une cyberattaque. Selon PGCPS, l'attaque a affecté 4 500 comptes utilisateurs sur 180 000, principalement des comptes de personnel. Les principaux systèmes d'information pour les entreprises et les étudiants, Oracle et SchoolMAX, ne semblent pas avoir été touchés. Bien que de nombreux systèmes réseau aient été restaurés, tous les utilisateurs devront réinitialiser leurs mots de passe le 15 août. PGCPS contactera les utilisateurs affectés par l'attaque dans les prochains jours avec plus d'informations concernant leurs comptes, en attente d'un examen plus approfondi par une équipe d'experts en cybers",
       "title": "Prince George's County Public Schools impacted by cyberattack",
       "url": "https://www.wmar2news.com/local/prince-georges-county-public-schools-impacted-by-cyberattack",
-      "infostealer": "",
+      "infostealer": {
+        "update": "2025-08-29 10:02:11",
+        "employees": 1925,
+        "users": 531,
+        "thirdparties_domain": 215,
+        "employees_url": 33,
+        "users_url": 100,
+        "thirdparties": 1278,
+        "infostealer_stats": {
+          "RedLine": 2087,
+          "Lumma": 989,
+          "Generic Stealer": 306,
+          "Azorult": 288,
+          "Raccoon": 206,
+          "Vidar": 146,
+          "UNKNOWN": 98,
+          "StealC": 40,
+          "Taurus": 12,
+          "Atomic": 4,
+          "CRYPTBOT": 4,
+          "DarkCrystal": 1
+        }
+      },
       "ransomware": {
         "group": "rhysida",
         "permalink": "https://www.ransomware.live/id/UHJpbmNlIEdlb3JnZSdzIENvdW50eSBQdWJsaWMgU2Nob29sc0ByaHlzaWRh"

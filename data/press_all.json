@@ -4,8 +4,32 @@
     "month": null,
     "country": null
   },
-  "count": 2626,
+  "count": 2627,
   "results": [
+    {
+      "date": "2025-08-28",
+      "victim": "Landkreises Schmalkalden-Meiningen",
+      "domain": "lra-sm.de",
+      "country": "DE",
+      "summary": "Le site internet du Landkreis Schmalkalden-Meiningen a été victime d'une attaque informatique, la page est actuellement hors ligne. Les autorités travaillent à la création d'une page internet provisoire pour offrir les services essentiels. Les autres systèmes et données du Landratsamt ne sont pas affectés.",
+      "title": "Cybervorfall: Internetseite von Landkreis abgeschaltet",
+      "url": "https://www.mz.de/panorama/cybervorfall-internetseite-von-landkreis-abgeschaltet-4106008",
+      "added": "2025-08-29",
+      "infostealer": {
+        "update": "2025-08-29 10:47:10",
+        "employees": 3,
+        "users": 2,
+        "thirdparties_domain": 2,
+        "employees_url": 1,
+        "users_url": 4,
+        "thirdparties": 2,
+        "infostealer_stats": {
+          "Lumma": 6,
+          "Raccoon": 4
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2025-08-25",
       "victim": "Conseil régional de Solsonès",

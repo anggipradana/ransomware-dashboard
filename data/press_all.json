@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2633,
+  "count": 2634,
   "results": [
     {
       "date": "2025-08-28",
@@ -26,6 +26,39 @@
         "infostealer_stats": {
           "Lumma": 6,
           "Raccoon": 4
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-08-26",
+      "victim": "Lotte Card",
+      "domain": "lottecard.co.kr",
+      "country": "KR",
+      "summary": "Lotte Card a signalé une cyberattaque après avoir détecté des signes de violation dans ses serveurs internes à la fin du mois dernier. L'entreprise a découvert du code malveillant sur l'un de ses serveurs et a ensuite effectué un examen approfondi de ses systèmes. Aucune fuite de données sensibles des clients n'a été confirmée jusqu'à présent.",
+      "title": "Lotte Card reports cyberattack after malware found on internal servers last month",
+      "url": "https://koreajoongangdaily.joins.com/news/2025-09-01/business/industry/Lotte-Card-reports-cyberattack-after-malware-found-on-internal-servers-last-month/2388889",
+      "added": "2025-09-01",
+      "infostealer": {
+        "update": "2025-09-01 15:16:52",
+        "employees": 60,
+        "users": 2967,
+        "thirdparties_domain": 2,
+        "employees_url": 12,
+        "users_url": 100,
+        "thirdparties": 3,
+        "infostealer_stats": {
+          "RedLine": 1998,
+          "Lumma": 1156,
+          "Raccoon": 468,
+          "StealC": 424,
+          "Vidar": 238,
+          "Azorult": 126,
+          "UNKNOWN": 72,
+          "CRYPTBOT": 34,
+          "Ficker": 32,
+          "Mystic": 10,
+          "Atomic": 6
         }
       },
       "ransomware": null

@@ -4,8 +4,56 @@
     "month": null,
     "country": null
   },
-  "count": 2634,
+  "count": 2637,
   "results": [
+    {
+      "date": "2025-08-31",
+      "victim": "AWO Karlsruhe-Land",
+      "domain": "awo-ka-land.de",
+      "country": "DE",
+      "summary": "Une cyberattaque a paralysé les systèmes informatiques de l'AWO Karlsruhe-Land, et les investigations suggèrent que la responsabilité pourrait incomber à un groupe criminel issu du milieu russe. L'AWO Karlsruhe-Land a confirmé que les systèmes étaient hors service. Les autorités enquêtent sur l'incident pour identifier les auteurs.",
+      "title": "Cyberangriff legt IT-Systeme der AWO Karlsruhe-Land lahm",
+      "url": "https://bnn.de/kraichgau/bruchsal/cyberangriff-legt-it-systeme-der-awo-karlsruhe-land-lahm",
+      "added": "2025-09-01",
+      "infostealer": {
+        "update": "2025-09-01 16:11:25",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-08-29",
+      "victim": "Ordre des journalistes de Rome et du Lazio",
+      "domain": "odg.roma.it",
+      "country": "IT",
+      "summary": "L'Ordine dei Giornalisti di Roma e del Lazio a été victime d'une attaque informatique qui pourrait avoir compromis les données personnelles de milliers de professionnels, un collettif de pirates informatiques de l'Est de l'Europe a revendiqué l'attaque et a exigé un ransom, mais l'Ordine refuse de payer. L'attaque a eu lieu entre le 8 et le 28 août et a été découverte à la réouverture de la sede de l'Ordine. Les autorités compétentes ont été informées et une enquête est en cours.",
+      "title": "ODG Lazio, attacco hacker: sottratti dati di migliaia di giornalisti, chiesto un riscatto",
+      "url": "https://www.hdblog.it/sicurezza/articoli/n630138/odg-lazio-segnalato-attacco-hacker/",
+      "added": "2025-09-01",
+      "infostealer": {
+        "update": "2025-09-01 16:11:48",
+        "employees": 4,
+        "users": 28,
+        "thirdparties_domain": 3,
+        "employees_url": 1,
+        "users_url": 7,
+        "thirdparties": 11,
+        "infostealer_stats": {
+          "RedLine": 26,
+          "Lumma": 14,
+          "Vidar": 2,
+          "Atomic": 2,
+          "StealC": 2
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2025-08-28",
       "victim": "Landkreises Schmalkalden-Meiningen",
@@ -27741,6 +27789,27 @@
         "thirdparties": 2,
         "employees_url": 0,
         "users_url": 0
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2024-07-01",
+      "victim": "Hôpital privé de la Loire (HPL)",
+      "domain": "hopital-prive-de-la-loire-saint-etienne.ramsaysante.fr",
+      "country": "FR",
+      "summary": "Les données personnelles de plus de 126 000 patients ont été volées lors d'une cyberattaque sur une clinique privée à Saint-Etienne, les données volées sont presque exclusivement administratives et n'ont eu aucune incidence sur la prise en charge des patients. Le groupe Ramsay Santé a déclaré avoir fait cesser l'intrusion dès que ses services l'ont découverte. Une enquête a été confiée à l'Office anticybercriminalité de la police judiciaire.",
+      "title": "Les données personnelles de plus de 126 000 patients volées lors d'une cyberattaque sur une clinique privée à Saint-Etienne",
+      "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/les-donnees-personnelles-de-plus-de-126-000-patients-volees-lors-d-une-cyberattaque-sur-une-clinique-privee-a-saint-etienne_7370827.html",
+      "added": "2025-09-01",
+      "infostealer": {
+        "update": "2025-09-01 16:49:45",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },

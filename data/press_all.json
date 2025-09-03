@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2640,
+  "count": 2642,
   "results": [
     {
       "date": "2025-08-31",
@@ -4174,6 +4174,37 @@
         }
       },
       "ransomware": null
+    },
+    {
+      "date": "2025-06-03",
+      "victim": "Lexington & Richland County School District Five",
+      "domain": "lexrich5.org",
+      "country": "US",
+      "summary": "District Five of Lexington and Richland Counties suffered a data security incident where an external unauthorized individual took some files from their computer network, potentially exposing personal information. The incident occurred on June 3, 2025, and the district is unaware of any misuse of the impacted information. The attack was claimed by Interlock on Jun 24.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/88e67f8a-0f2c-4fd9-a09d-b97a909b9254.html",
+      "added": "2025-09-03",
+      "infostealer": {
+        "update": "2025-06-06 17:06:32",
+        "employees": 0,
+        "users": 52,
+        "thirdparties_domain": 72,
+        "employees_url": 0,
+        "users_url": 35,
+        "thirdparties": 60,
+        "infostealer_stats": {
+          "RedLine": 40,
+          "Azorult": 22,
+          "Generic Stealer": 10,
+          "Lumma": 14,
+          "Raccoon": 4,
+          "Vidar": 2
+        }
+      },
+      "ransomware": {
+        "group": "interlock",
+        "permalink": "https://www.ransomware.live/id/TGV4aW5ndG9uICYgUmljaGxhbmQgQ291bnR5IFNjaG9vbCBEaXN0cmljdCBGaXZlQGludGVybG9jaw=="
+      }
     },
     {
       "date": "2025-06-03",
@@ -12000,6 +12031,27 @@
           "Vidar": 2,
           "Azorult": 2
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-02-23",
+      "victim": "Risk Management Services, LLC",
+      "domain": "rmsla.com",
+      "country": "US",
+      "summary": "Risk Management Services, L.L.C. suffered a data security incident due to a subcontractor's failure to follow established security protocols. The incident may have involved personal information such as full name, residential address, social security number, date of birth, and medical information. The company has taken steps to contain the breach and prevent future incidents.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/81818e6d-ed0f-45ab-83d7-16f60c9052e0.html",
+      "added": "2025-09-03",
+      "infostealer": {
+        "update": "2025-09-03 13:26:04",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },

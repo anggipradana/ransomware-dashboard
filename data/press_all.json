@@ -4,8 +4,29 @@
     "month": null,
     "country": null
   },
-  "count": 2642,
+  "count": 2643,
   "results": [
+    {
+      "date": "2025-09-01",
+      "victim": "Mecklenburg County Public Schools",
+      "domain": "mcpsweb.org",
+      "country": "US",
+      "summary": "Mecklenburg County Public Schools est victime d'une faille de sécurité informatique, ce qui a entraîné une interruption de ses infrastructures numériques. L'école a activé ses protocoles de réponse et a fait appel à des experts en cybersécurité pour enquêter sur l'incident. Les enseignants ont été invités à utiliser des méthodes traditionnelles pour les cours en classe en attendant la résolution de la situation.",
+      "title": "MCPS hit with cyber security breach - SoVaNOW: Home of The News & Record and The Mecklenburg Sun",
+      "url": "https://www.sovanow.com/articles/mcps-hit-with-cyber-security-breach/",
+      "added": "2025-09-03",
+      "infostealer": {
+        "update": "2025-09-03 17:21:30",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2025-08-31",
       "victim": "Bridgestone",
@@ -625,7 +646,10 @@
           "UNKNOWN": 2
         }
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "incransom",
+        "permalink": "https://www.ransomware.live/id/c3R0aG9tLmVkdUBpbmNyYW5zb20="
+      }
     },
     {
       "date": "2025-08-13",

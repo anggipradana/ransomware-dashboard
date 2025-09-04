@@ -4,8 +4,29 @@
     "month": null,
     "country": null
   },
-  "count": 2644,
+  "count": 2647,
   "results": [
+    {
+      "date": "2025-09-04",
+      "victim": "Orleans Parish Sheriff's Office",
+      "domain": "opso.us",
+      "country": "US",
+      "summary": "Le bureau du shérif d'Orleans Parish a été victime d'une cyberattaque par rançongiciel, les employés ont rencontré des difficultés pour accéder à leurs ordinateurs, mais le système informatique de la prison n'a pas été compromis. L'équipe de technologie de l'information du bureau du shérif répond à la cyberattaque. L'incident a été détecté à 8 heures du matin.",
+      "title": "Orleans Parish Sheriff's Office is under a cyberattack. Here's what we know",
+      "url": "https://www.wdsu.com/article/orleans-parish-sheriff-cyberattack/65982528",
+      "added": "2025-09-04",
+      "infostealer": {
+        "update": "2025-09-04 18:15:05",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2025-09-01",
       "victim": "Mecklenburg County Public Schools",
@@ -16892,6 +16913,30 @@
       "ransomware": null
     },
     {
+      "date": "2024-12-14",
+      "victim": "Wong Fleming P.C.",
+      "domain": "wongfleming.com",
+      "country": "US",
+      "summary": "Wong Fleming P.C. suffered a data breach where an unauthorized actor accessed their computer network and potentially copied certain files between December 13, 2024, and December 14, 2024. The breach may have involved the copying of sensitive information, including names and other personal details. The attack was claimed by RansomHub on February 3, 2025.",
+      "title": "2025-08-29 Wong Fleming Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-08-29-wong-fleming-data-breach-notice-consumers",
+      "added": "2025-09-04",
+      "infostealer": {
+        "update": "2025-02-03 14:46:22",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "ransomhub",
+        "permalink": "https://www.ransomware.live/id/d3d3LndvbmdmbGVtaW5nLmNvbUByYW5zb21odWI="
+      }
+    },
+    {
       "date": "2024-12-13",
       "victim": "VectraRx Mail Pharmacy Services LLC",
       "domain": "vectrapharmacy.com",
@@ -32660,6 +32705,29 @@
         "group": "ransomexx",
         "permalink": "https://www.ransomware.live/id/VHlsZXIgVGVjaG5vbG9naWVzQHJhbnNvbWV4eA=="
       }
+    },
+    {
+      "date": "2024-04-12",
+      "victim": "Hacienda La Puente Unified School District",
+      "domain": "hlpschools.org",
+      "country": "US",
+      "summary": "Hacienda La Puente Unified School District experienced a sophisticated ransomware attack that may have involved unauthorized access to certain files from February 9, 2024, to April 12, 2024. The incident was discovered on April 12, 2024, and a comprehensive review process was completed on July 31, 2025. The district is notifying individuals whose information may have been potentially impacted.",
+      "title": "2025-08-29 Hacienda La Puente Unified School District Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-08-29-hacienda-la-puente-unified-school-district-data-breach-notice-consumers",
+      "added": "2025-09-04",
+      "infostealer": {
+        "update": "2025-09-04 18:14:46",
+        "employees": 0,
+        "users": 2,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 2,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "Lumma": 2
+        }
+      },
+      "ransomware": null
     },
     {
       "date": "2024-04-12",

@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2643,
+  "count": 2644,
   "results": [
     {
       "date": "2025-09-01",
@@ -164,6 +164,27 @@
           "Lumma": 6,
           "Raccoon": 4
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-08-27",
+      "victim": "Centre de services scolaire des Appalaches",
+      "domain": "cssa.gouv.qc.ca",
+      "country": "CA",
+      "summary": "Le Centre de services scolaire des Appalaches a été victime d'une attaque par rançongiciel, les pirates revendiquant avoir obtenu 180 Go de données de l'organisation, dont des informations personnelles sur les élèves et les employés. L'organisation a repris le contrôle de ses serveurs et travaille avec des experts pour évaluer les impacts de l'attaque. Des analyses sont en cours pour vérifier les affirmations des pirates et évaluer les conséquences potentielles.",
+      "title": "Le Centre de services scolaire des Appalaches ciblé par un rançongiciel - Courrier Frontenac",
+      "url": "https://www.courrierfrontenac.qc.ca/infolettre/le-centre-de-services-scolaire-des-appalaches-cible-par-un-rancongiciel/",
+      "added": "2025-09-04",
+      "infostealer": {
+        "update": "2025-09-04 14:29:15",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },

@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2647,
+  "count": 2652,
   "results": [
     {
       "date": "2025-09-04",
@@ -1266,6 +1266,27 @@
       "ransomware": null
     },
     {
+      "date": "2025-08-01",
+      "victim": "Teamsters Union 25 Health Services & Insurance Plan",
+      "domain": "teamsterscare.com",
+      "country": "US",
+      "summary": "HSIP experienced unauthorized access to its network, resulting in potential data exposure. The breach affected 13 Maine residents and 106 Rhode Island residents. HSIP provided notification and offered identity monitoring services.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/641687af-85e1-4a3e-98c4-3258a192c637.html",
+      "added": "2025-09-04",
+      "infostealer": {
+        "update": "2025-09-05 09:24:26",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
       "date": "2025-07-31",
       "victim": "Town of Bar Harbor",
       "domain": "barharbormaine.gov",
@@ -2236,6 +2257,27 @@
       "added": "2025-07-09",
       "infostealer": {
         "update": "2025-07-09 18:31:39",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-07-07",
+      "victim": "EMPIRE Distribution Inc.",
+      "domain": "empiredist.com",
+      "country": "US",
+      "summary": "EMPIRE Distribution Inc. suffered a cyber incident where an unknown third party accessed internal systems and data, potentially exposing names, Social Security numbers, and bank account numbers. The incident occurred on July 7, 2025. EMPIRE has taken steps to investigate, assess, and improve the security of its systems.",
+      "title": "2025-08-29 EMPIRE Distribution Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-08-29-empire-distribution-data-breach-notice-consumers",
+      "added": "2025-09-04",
+      "infostealer": {
+        "update": "2025-09-05 09:24:47",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,
@@ -5571,6 +5613,27 @@
         "group": "interlock",
         "permalink": "https://www.ransomware.live/id/Q2VudHJhbCBQb2ludCBTY2hvb2wgRGlzdHJpY3QgNkBpbnRlcmxvY2s="
       }
+    },
+    {
+      "date": "2025-05-13",
+      "victim": "Georgetown Preparatory School",
+      "domain": "gprep.org",
+      "country": "US",
+      "summary": "Georgetown Preparatory School suffered a data breach where an unauthorized party gained access to certain systems on their network, copying files that contained personal information. The breach occurred on May 13, 2025, and was discovered on the same date. The school is offering identity monitoring services to affected individuals.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/e3cafdce-1dfa-41ce-a443-71828c86275b.html",
+      "added": "2025-09-04",
+      "infostealer": {
+        "update": "2025-09-05 09:25:07",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
     },
     {
       "date": "2025-05-13",
@@ -11734,6 +11797,39 @@
         }
       },
       "ransomware": null
+    },
+    {
+      "date": "2025-02-28",
+      "victim": "The LoveSac Company",
+      "domain": "lovesac.com",
+      "country": "US",
+      "summary": "LoveSac suffered a data breach between February 12, 2025, and March 3, 2025, where an unauthorized actor accessed certain systems and copied files containing name and Social Security number information. Although there is no evidence of identity theft or fraud, LoveSac is offering 24 months of complimentary access to credit monitoring services through Experian. The breach was discovered on or around February 28, 2025. The attack was claimed by RansomHub on March 6.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/151529d0-c371-4158-80ce-8b8fd781bf5c.html",
+      "added": "2025-09-05",
+      "infostealer": {
+        "update": "2025-03-06 16:32:07",
+        "employees": 0,
+        "users": 106,
+        "thirdparties_domain": 5,
+        "employees_url": 0,
+        "users_url": 33,
+        "thirdparties": 2,
+        "infostealer_stats": {
+          "RedLine": 64,
+          "Lumma": 44,
+          "Azorult": 26,
+          "Raccoon": 16,
+          "Vidar": 6,
+          "UNKNOWN": 4,
+          "Atomic": 2,
+          "StealC": 2
+        }
+      },
+      "ransomware": {
+        "group": "ransomhub",
+        "permalink": "https://www.ransomware.live/id/bG92ZXNhYy5jb21AcmFuc29taHVi"
+      }
     },
     {
       "date": "2025-02-28",
@@ -21537,6 +21633,27 @@
         "employees_url": 0,
         "users_url": 0,
         "thirdparties": 0
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2024-10-12",
+      "victim": "S.V.D.P. Management, Inc.",
+      "domain": "fatherjoesvillages.org",
+      "country": "US",
+      "summary": "S.V.D.P. Management, Inc. notified individuals whose personal information may have been involved in a data breach that occurred between September 26, 2024, and October 12, 2024. The breach involved unauthorized access or acquisition of personal information, including names and other data elements. The company is offering complimentary credit monitoring and identity restoration services to affected individuals.",
+      "title": "2025-08-29 S.V.D.P. Management Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-08-29-svdp-management-data-breach-notice-consumers",
+      "added": "2025-09-04",
+      "infostealer": {
+        "update": "2025-09-05 09:25:27",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },

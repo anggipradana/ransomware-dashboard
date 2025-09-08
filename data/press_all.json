@@ -4,8 +4,57 @@
     "month": null,
     "country": null
   },
-  "count": 2652,
+  "count": 2654,
   "results": [
+    {
+      "date": "2025-09-07",
+      "victim": "Banco Triângulo S.A.",
+      "domain": "tribanco.com.br",
+      "country": "BR",
+      "summary": "Le Banco Central a confirmé un attaque cibernétique contre le Banco Triângulo S.A., entraînant une subtração de valeurs financières. L'institution a recommandé un renforcement du contrôle des transactions. C'est le deuxième avertissement en moins de 48 heures après un incident similaire impliquant l'entreprise E2 Pay.",
+      "title": "Banco Central confirma ataque cibernético ao Tribanco",
+      "url": "https://veronoticias.com/economia/banco-central-confirma-ataque-cibernetico-ao-tribanco/",
+      "added": "2025-09-08",
+      "infostealer": {
+        "update": "2025-09-08 07:48:46",
+        "employees": 28,
+        "users": 44,
+        "thirdparties_domain": 24,
+        "employees_url": 20,
+        "users_url": 45,
+        "thirdparties": 15,
+        "infostealer_stats": {
+          "RedLine": 56,
+          "Raccoon": 19,
+          "Vidar": 6,
+          "Lumma": 13,
+          "StealC": 5,
+          "CRYPTBOT": 2
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-09-04",
+      "victim": "Loterie Nationale",
+      "domain": "loteriesport.lu",
+      "country": "LU",
+      "summary": "Un sous-traitant de la Loterie Nationale a été victime d'une attaque informatique, entraînant le vol de données. Les données des clients, telles que les noms, adresses, numéros de téléphone et coordonnées bancaires, ont été volées. La plateforme loteriesport.lu reste accessible et les clients ont été informés.",
+      "title": "Cyber attack: Loterie Nationale reports data breach",
+      "url": "https://today.rtl.lu/news/luxembourg/a/2334234.html",
+      "added": "2025-09-08",
+      "infostealer": {
+        "update": "2025-09-08 07:49:04",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2025-09-04",
       "victim": "Orleans Parish Sheriff's Office",

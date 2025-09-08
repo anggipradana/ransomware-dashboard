@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2660,
+  "count": 2661,
   "results": [
     {
       "date": "2025-09-07",
@@ -31,6 +31,27 @@
           "StealC": 5,
           "CRYPTBOT": 2
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-09-05",
+      "victim": "Agence régionale de santé (ARS) des Hauts-de-France",
+      "domain": "hauts-de-france.ars.sante.fr",
+      "country": "FR",
+      "summary": "Une cyberattaque a ciblé les hôpitaux publics de la région des Hauts-de-France, concernant les données d'identité des patients, mais pas les données de santé. L'intrusion a été constatée en fin de semaine dernière et des mesures de sécurité renforcées ont été mises en œuvre. L'ARS estime que le principal risque lié à cette cyberattaque concerne les pratiques d'hameçonnage.",
+      "title": "Les hôpitaux des Hauts-de-France victimes d'une cyberattaque contre les serveurs hébergeant les données d’identité de patients",
+      "url": "https://france3-regions.franceinfo.fr/hauts-de-france/nord-0/les-hopitaux-des-hauts-de-france-victimes-d-une-cyberattaque-contre-les-serveurs-hebergeant-les-donnees-d-identite-de-patients-3213338.html",
+      "added": "2025-09-08",
+      "infostealer": {
+        "update": "2025-09-08 13:47:56",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },
@@ -106,7 +127,16 @@
       "title": "Cyber Attack Disrupts K Club Systems, Ransom Demanded",
       "url": "https://www.kfmradio.com/news/localnews/cyber-attack-disrupts-k-club-systems-ransom-demanded/#",
       "added": "2025-09-08",
-      "infostealer": "",
+      "infostealer": {
+        "update": "2025-09-08 13:21:29",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
       "ransomware": null
     },
     {
@@ -5119,7 +5149,16 @@
       "title": "Data Breach Notification",
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/10f64bc9-fe12-496b-ad2b-5517fd8a821c.html",
       "added": "2025-09-06",
-      "infostealer": "",
+      "infostealer": {
+        "update": "2025-09-08 13:21:08",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
       "ransomware": null
     },
     {

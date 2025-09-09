@@ -4,8 +4,29 @@
     "month": null,
     "country": null
   },
-  "count": 2661,
+  "count": 2662,
   "results": [
+    {
+      "date": "2025-09-08",
+      "victim": "Transart Graphics Co., Ltd.",
+      "domain": "transart.com.tw",
+      "country": "TW",
+      "summary": "Transart Graphics a subi une attaque de hackers, mais grâce à son système de détection et à l'intervention rapide de son département IT, l'impact a été minimisé et les opérations de l'entreprise n'ont pas été affectées de manière significative. L'entreprise va continuer à renforcer la sécurité de son réseau et de son infrastructure. Les opérations de l'entreprise restent normales sans impact financier ni opérationnel notable.",
+      "title": "Today's Information",
+      "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=115636&spoke_date=20250908&co_id=8481",
+      "added": "2025-09-09",
+      "infostealer": {
+        "update": "2025-09-09 08:11:40",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2025-09-07",
       "victim": "Banco Triângulo S.A.",

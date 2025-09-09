@@ -1,6 +1,6 @@
 {
   "filter_type": null,
-  "count": 59,
+  "count": 60,
   "groups": [
     {
       "group": "Ailock",
@@ -378,6 +378,12 @@
         "sha-256": 2,
         "sha-1": 2,
         "ip": 2
+      }
+    },
+    {
+      "group": "TheGentlemen",
+      "ioc_types": {
+        "tox": 1
       }
     },
     {

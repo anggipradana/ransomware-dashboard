@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2662,
+  "count": 2663,
   "results": [
     {
       "date": "2025-09-08",
@@ -3933,6 +3933,27 @@
         "employees_url": 0,
         "users_url": 3,
         "thirdparties": 14,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-06-09",
+      "victim": "City of St. Joseph",
+      "domain": "stjosephmo.gov",
+      "country": "US",
+      "summary": "La ville de St. Joseph a subi une attaque informatique importante en juin, qui a entraîné la fermeture de ses services réseau pendant une période prolongée et potentiellement exposé les données personnelles de milliers de résidents. La ville a dépensé plus d'un million de dollars pour améliorer sa cybersécurité et ses infrastructures technologiques. Les résidents touchés recevront des lettres avec des ressources pour protéger leurs informations et des instructions pour s'inscrire à des services de surveillance de crédit et de protection contre la fraude.",
+      "title": "City of St. Joseph hit by cyberattack, data potentially acquired in breach",
+      "url": "https://www.newspressnow.com/news/top-stories/2025/09/08/city-of-st-joseph-hit-by-cyberattack-data-potentially-acquired/",
+      "added": "2025-09-09",
+      "infostealer": {
+        "update": "2025-09-09 09:17:00",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
         "infostealer_stats": {}
       },
       "ransomware": null

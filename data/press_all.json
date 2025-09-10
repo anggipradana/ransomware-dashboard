@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2666,
+  "count": 2668,
   "results": [
     {
       "date": "2025-09-08",
@@ -10790,6 +10790,33 @@
         "users_url": 0,
         "thirdparties": 0,
         "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-03-14",
+      "victim": "Farmer Brothers Company",
+      "domain": "farmerbros.com",
+      "country": "US",
+      "summary": "Farmer Brothers Company suffered a data breach where an unknown actor gained access to certain archived files and folders between March 6, 2025, and March 14, 2025, potentially exposing personal information including name, Social Security number, and driver's license. The attack was claimed by Chaos on April 8.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/f692b8e2-726b-434d-a3fb-644bfff90272.html",
+      "added": "2025-09-10",
+      "infostealer": {
+        "update": "2025-09-10 08:45:10",
+        "employees": 0,
+        "users": 16,
+        "thirdparties_domain": 12,
+        "employees_url": 0,
+        "users_url": 7,
+        "thirdparties": 6,
+        "infostealer_stats": {
+          "Generic Stealer": 6,
+          "Lumma": 9,
+          "Raccoon": 4,
+          "Azorult": 2,
+          "RedLine": 2
+        }
       },
       "ransomware": null
     },
@@ -29000,6 +29027,28 @@
         "users_url": 0
       },
       "ransomware": null
+    },
+    {
+      "date": "2024-06-22",
+      "victim": "Conference USA",
+      "domain": "conferenceusa.com",
+      "country": "US",
+      "summary": "Conference USA suffered a data security incident where an unauthorized party gained access to parts of their network, potentially accessing personal information. The incident occurred on June 22, 2024. The attack was claimed by Abyss on June 27, 2024.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/5bab1842-0f41-4494-a44f-b21db5f72a49.html",
+      "added": "2025-09-10",
+      "infostealer": {
+        "update": "2024-03-16 16:20:11",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 0
+      },
+      "ransomware": {
+        "group": "payloadbin",
+        "permalink": "https://www.ransomware.live/id/Y29uZmVyZW5jZXVzYS5jb21AcGF5bG9hZGJpbg=="
+      }
     },
     {
       "date": "2024-06-22",

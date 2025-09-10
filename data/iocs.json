@@ -1,6 +1,6 @@
 {
   "filter_type": null,
-  "count": 60,
+  "count": 61,
   "groups": [
     {
       "group": "Ailock",
@@ -323,6 +323,13 @@
         "ftp": 2,
         "md5": 60,
         "ip": 8
+      }
+    },
+    {
+      "group": "Radar",
+      "ioc_types": {
+        "session": 1,
+        "tox": 1
       }
     },
     {

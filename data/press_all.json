@@ -792,7 +792,10 @@
           "Vidar": 2
         }
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "radar",
+        "permalink": "https://www.ransomware.live/id/Q29tcGFnbmllIGRlcyBHdWlkZXMgZGUgQ2hhbW9uaXhAcmFkYXI="
+      }
     },
     {
       "date": "2025-08-14",

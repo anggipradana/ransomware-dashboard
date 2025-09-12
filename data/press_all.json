@@ -701,7 +701,10 @@
           "Azorult": 4
         }
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "safepay",
+        "permalink": "https://www.ransomware.live/id/Y2l0eW9mbWlkZGxldG93bi5vcmdAc2FmZXBheQ=="
+      }
     },
     {
       "date": "2025-08-16",

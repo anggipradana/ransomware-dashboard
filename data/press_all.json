@@ -394,7 +394,10 @@
         "thirdparties": 0,
         "infostealer_stats": {}
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "pear",
+        "permalink": "https://www.ransomware.live/id/V2VzdCBDaGVzdGVyQHBlYXI="
+      }
     },
     {
       "date": "2025-08-25",

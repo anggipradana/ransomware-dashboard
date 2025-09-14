@@ -4,8 +4,31 @@
     "month": null,
     "country": null
   },
-  "count": 2674,
+  "count": 2675,
   "results": [
+    {
+      "date": "2025-09-13",
+      "victim": "Uvalde Consolidated Independent School District",
+      "domain": "ucisd.net",
+      "country": "US",
+      "summary": "Le district scolaire Uvalde Consolidated Independent School District fermera pendant la semaine prochaine en raison d'une attaque de ransomware qui affecte plusieurs systèmes essentiels en ligne. L'attaque n'a pas encore été revendiquée par un groupe. Les systèmes affectés incluent les téléphones, les thermostats, la surveillance des caméras et les systèmes de gestion des visiteurs.",
+      "title": "Uvalde CISD to close most of next week due to ransomware issue – DataBreaches.Net",
+      "url": "https://databreaches.net/2025/09/14/uvalde-cisd-to-close-most-of-next-week-due-to-ransomware-issue/",
+      "added": "2025-09-14",
+      "infostealer": {
+        "update": "2025-09-14 14:58:21",
+        "employees": 0,
+        "users": 1,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 1,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "RedLine": 2
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2025-09-08",
       "victim": "Transart Graphics Co., Ltd.",

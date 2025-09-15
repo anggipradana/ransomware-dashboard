@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2675,
+  "count": 2676,
   "results": [
     {
       "date": "2025-09-13",
@@ -26,6 +26,27 @@
         "infostealer_stats": {
           "RedLine": 2
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-09-12",
+      "victim": "Town of Waxhaw",
+      "domain": "waxhaw.com",
+      "country": "US",
+      "summary": "La ville de Waxhaw a subi une attaque de cybercriminels qui a touché les serveurs de la ville, mais les services de sécurité n'ont pas été affectés. Les experts en cybersécurité ont lancé une enquête pour sécuriser les serveurs. Les professionnels de l'informatique travaillent toujours pour rétablir les systèmes gouvernementaux de la ville.",
+      "title": "Town of Waxhaw servers impacted by cyberattack",
+      "url": "https://www.qcnews.com/news/u-s/north-carolina/union-county/waxhaw/town-of-waxhaw-servers-impacted-by-cyberattack/",
+      "added": "2025-09-15",
+      "infostealer": {
+        "update": "2025-09-15 11:52:45",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },

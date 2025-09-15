@@ -8081,7 +8081,10 @@
           "Taurus": 2
         }
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "coinbasecartel",
+        "permalink": "https://www.ransomware.live/id/U0sgVGVsZWNvbUBjb2luYmFzZWNhcnRlbA=="
+      }
     },
     {
       "date": "2025-04-18",

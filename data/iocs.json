@@ -1,6 +1,6 @@
 {
   "filter_type": null,
-  "count": 61,
+  "count": 62,
   "groups": [
     {
       "group": "Ailock",
@@ -247,6 +247,12 @@
       "ioc_types": {
         "md5": 16,
         "ip": 10
+      }
+    },
+    {
+      "group": "Lunalock",
+      "ioc_types": {
+        "email": 1
       }
     },
     {

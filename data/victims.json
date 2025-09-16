@@ -271714,7 +271714,7 @@
         "website": "laperouse.us",
         "published": "2025-08-08 10:21:42.927461",
         "post_url": "http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/news",
-        "country": "us",
+        "country": "US",
         "activity": "Not Found",
         "duplicates": [],
         "extrainfos": []
@@ -279928,7 +279928,7 @@
         "website": "acceleratedacademy.us",
         "published": "2025-09-10 14:15:32.484219",
         "post_url": "http://ks5424y3wpr5zlug5c7i6svvxweinhbdcqcfnptkfcutrncfazzgz5id.onion/posts.php?pid=Co0evNkBcdasxk5bbPIAiNAs",
-        "country": "",
+        "country": "US",
         "activity": "Education",
         "duplicates": [],
         "extrainfos": []
@@ -281102,7 +281102,7 @@
         "website": "apexam.co.kr",
         "published": "2025-09-14 00:00:00.000000",
         "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=115f1d75-fc67-3aeb-82fc-a1500658c49c",
-        "country": "NL",
+        "country": "KR",
         "activity": "Financial Services",
         "duplicates": [],
         "extrainfos": []
@@ -281777,7 +281777,7 @@
         "website": "",
         "published": "2025-09-15 21:51:02.935542",
         "post_url": "http://wugurgyscp5rxpihef5vl6b6m5ont3b6sezhl7boboso2enib2k3q6qd.onion#wwwpeuhus",
-        "country": "",
+        "country": "US",
         "activity": "Not Found",
         "duplicates": [],
         "extrainfos": []
@@ -281991,5 +281991,18 @@
         "extrainfos": {
             "data_size": "400Gb"
         }
+    },
+    {
+        "post_title": "JAFICA Telecomunicaciones",
+        "group_name": "lunalock",
+        "discovered": "2025-09-16 15:48:42.353659",
+        "description": "JAFICA Telecomunicaciones is a Mexican internet service provider.",
+        "website": "jafica.com",
+        "published": "2025-09-13 00:00:00.000000",
+        "post_url": "http://lunalockcccxzkpfovwzifwxcytqkiuak6wzybnniqwxcmpsetpbetid.onion/victim/jafica/",
+        "country": "MX",
+        "activity": "Telecommunication",
+        "duplicates": [],
+        "extrainfos": []
     }
 ]

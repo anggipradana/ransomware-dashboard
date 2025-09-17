@@ -1,6 +1,6 @@
 {
   "filter_type": null,
-  "count": 62,
+  "count": 63,
   "groups": [
     {
       "group": "Ailock",
@@ -65,6 +65,12 @@
       "group": "Blacknevas",
       "ioc_types": {
         "sha256": 28
+      }
+    },
+    {
+      "group": "BlackShrantac",
+      "ioc_types": {
+        "tox": 1
       }
     },
     {

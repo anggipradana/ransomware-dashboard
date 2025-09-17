@@ -282147,5 +282147,35 @@
         "activity": "Not Found",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "alt******.tr",
+        "group_name": "blackshrantac",
+        "discovered": "2025-09-17 06:05:54.947693",
+        "description": "DATA SIZE : 600GB",
+        "website": "",
+        "published": "2025-09-17 06:05:40.528660",
+        "post_url": "http://b2ykcy2gcug4gnccm6hnrb5xapnresmyjjqgvhafaypppwgo4feixwyd.onion/books/2",
+        "country": "TR",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "600 GB"
+        }
+    },
+    {
+        "post_title": "kli******erg.in",
+        "group_name": "blackshrantac",
+        "discovered": "2025-09-17 06:06:49.259330",
+        "description": "DATA SIZE : 2TB",
+        "website": "",
+        "published": "2025-09-17 06:05:57.461787",
+        "post_url": "http://b2ykcy2gcug4gnccm6hnrb5xapnresmyjjqgvhafaypppwgo4feixwyd.onion/books/3",
+        "country": "IN",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "2 TB"
+        }
     }
 ]

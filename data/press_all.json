@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2688,
+  "count": 2693,
   "results": [
     {
       "date": "2025-09-14",
@@ -103,6 +103,27 @@
       "added": "2025-09-15",
       "infostealer": {
         "update": "2025-09-15 11:52:45",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-09-11",
+      "victim": "Prefeitura Municipal de São João",
+      "domain": "saojao.pr.gov.br",
+      "country": "BR",
+      "summary": "La Prefeitura Municipal de São João a été victime d'une attaque cibernétique le 11 septembre 2025, qui a compromis une partie des systèmes administratifs. Les autorités ont pris des mesures immédiates pour contenir les effets et préserver les données. L'enquête est en cours pour identifier les responsables de l'attaque.",
+      "title": "Prefeitura de São João confirma ataque cibernético a sistemas municipais",
+      "url": "https://www.midiasudoeste.com.br/n/noticia/prefeitura-de-sao-joao-confirma-ataque-cibernetico-a-sistemas-municipais",
+      "added": "2025-09-17",
+      "infostealer": {
+        "update": "2025-09-17 15:49:28",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,
@@ -2039,6 +2060,42 @@
       "ransomware": {
         "group": "akira",
         "permalink": "https://www.ransomware.live/id/Q29sYWJvckBha2lyYQ=="
+      }
+    },
+    {
+      "date": "2025-07-18",
+      "victim": "HEM expert",
+      "domain": "expert.de",
+      "country": "DE",
+      "summary": "Le détaillant d'équipements électriques HEM expert a été victime d'une cyberattaque qui a entraîné la fuite de données de clients et d'employés. L'attaque a touché les dix filiales de l'entreprise en Allemagne du Sud. Les données volées pourraient inclure des informations personnelles et financières.",
+      "title": "Hackerangriff auf HEM expert",
+      "url": "https://www.csoonline.com/article/4058587/hackerangriff-auf-hem-expert.html",
+      "added": "2025-09-17",
+      "infostealer": {
+        "update": "2025-08-20 13:38:27",
+        "employees": 1,
+        "users": 1853,
+        "thirdparties_domain": 15,
+        "employees_url": 1,
+        "users_url": 59,
+        "thirdparties": 13,
+        "infostealer_stats": {
+          "Lumma": 1088,
+          "RedLine": 1074,
+          "Raccoon": 382,
+          "Vidar": 152,
+          "Azorult": 78,
+          "StealC": 56,
+          "UNKNOWN": 52,
+          "Atomic": 18,
+          "CRYPTBOT": 6,
+          "Taurus": 4,
+          "Mystic": 4
+        }
+      },
+      "ransomware": {
+        "group": "medusa",
+        "permalink": "https://www.ransomware.live/id/RXhwZXJ0IEUtY29tbWVyY2UgR21iSEBtZWR1c2E="
       }
     },
     {
@@ -5831,6 +5888,27 @@
         "group": "akira",
         "permalink": "https://www.ransomware.live/id/RWxpdGUgQWR2YW5jZWQgTGFzZXIgQ29ycG9yYXRpb25AYWtpcmE="
       }
+    },
+    {
+      "date": "2025-05-15",
+      "victim": "Pollard & Associates",
+      "domain": "pollardandassociates.ca",
+      "country": "CA",
+      "summary": "Pollard & Associates suffered a data breach where certain files in their network were copied without authorization, potentially exposing personal information of clients. The breach occurred on or around April 8, 2025, and was discovered on May 15, 2025. Pollard is offering credit monitoring services to affected individuals.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/2ebef11f-d73a-431c-8d11-44a74afd1ce4.html",
+      "added": "2025-09-17",
+      "infostealer": {
+        "update": "2025-09-17 15:49:08",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
     },
     {
       "date": "2025-05-15",
@@ -18754,6 +18832,27 @@
     },
     {
       "date": "2024-11-29",
+      "victim": "Hicks Thomas, LLP",
+      "domain": "hicks-thomas.com",
+      "country": "US",
+      "summary": "Hicks Thomas, LLP experienced a ransomware incident on November 20, 2024, which may have affected personal information, including date of birth, Social Security Number, and medical information. The incident occurred between November 20, 2024, and November 30, 2024. The organization is offering complimentary credit monitoring services to affected individuals.",
+      "title": "2025-09-12 Hicks Thomas Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-09-12-hicks-thomas-data-breach-notice-consumers",
+      "added": "2025-09-17",
+      "infostealer": {
+        "update": "2025-09-17 15:48:29",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2024-11-29",
       "victim": "Stevens & Day, LLP",
       "domain": "stevensdaylaw.com",
       "country": "US",
@@ -20093,6 +20192,27 @@
         "group": "everest",
         "permalink": "https://www.ransomware.live/id/U1RJSUlaWUBldmVyZXN0"
       }
+    },
+    {
+      "date": "2024-11-09",
+      "victim": "Retina Florida MSO, LLC d/b/a Retina Group of Florida",
+      "domain": "retinagroupflorida.com",
+      "country": "US",
+      "summary": "Retina Group of Florida suffered a data breach where unauthorized access to a portion of their network occurred between November 6, 2024, and November 9, 2024. The breach may have resulted in the theft of certain information, including names and one or more of the following: [data elements]. The organization is providing free credit monitoring and identity protection services to affected individuals.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/361c1196-d713-41fc-b9db-7c6c63e7da3d.html",
+      "added": "2025-09-17",
+      "infostealer": {
+        "update": "2025-09-17 15:48:50",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
     },
     {
       "date": "2024-11-09",

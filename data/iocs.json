@@ -1,6 +1,6 @@
 {
   "filter_type": null,
-  "count": 63,
+  "count": 64,
   "groups": [
     {
       "group": "Ailock",
@@ -59,6 +59,12 @@
       "ioc_types": {
         "md5": 8,
         "ip": 191
+      }
+    },
+    {
+      "group": "Blacklock",
+      "ioc_types": {
+        "md5": 1
       }
     },
     {

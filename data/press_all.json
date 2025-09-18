@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2697,
+  "count": 2698,
   "results": [
     {
       "date": "2025-09-17",
@@ -152,6 +152,27 @@
       "added": "2025-09-17",
       "infostealer": {
         "update": "2025-09-17 15:49:28",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-09-08",
+      "victim": "GJ텍",
+      "domain": "gjtec.co.kr",
+      "country": "KR",
+      "summary": "La société GJ텍, spécialisée dans les services de gestion de systèmes informatiques pour les sociétés de gestion de patrimoine en Corée du Sud, a été victime d'une attaque de ransomware. Les grandes sociétés de gestion de patrimoine, telles que Mirae Asset et KB Asset, n'ont pas été affectées car elles gèrent leurs propres serveurs. Cependant, les petites et moyennes sociétés de gestion de patrimoine sont inquiètes pour la sécurité des informations personnelles de leurs clients. (via eCrime.ch)",
+      "title": "[단독] GJ텍, 랜섬웨어 감염···미래에셋-KB-한화운용 등은? : 네이트 뉴스",
+      "url": "https://news.nate.com/view/20250916n20028",
+      "added": "2025-09-18",
+      "infostealer": {
+        "update": "2025-09-18 14:59:22",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,

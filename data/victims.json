@@ -282502,5 +282502,35 @@
         "activity": "Not Found",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "altas.com.tr",
+        "group_name": "blackshrantac",
+        "discovered": "2025-09-18 01:40:22.726808",
+        "description": "DATA SIZE : 600GB",
+        "website": "altas.com.tr",
+        "published": "2025-09-18 01:40:09.012618",
+        "post_url": "http://b2ykcy2gcug4gnccm6hnrb5xapnresmyjjqgvhafaypppwgo4feixwyd.onion/books/2",
+        "country": "TR",
+        "activity": "Technology",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "600 GB"
+        }
+    },
+    {
+        "post_title": "klingLnberg.in",
+        "group_name": "blackshrantac",
+        "discovered": "2025-09-18 01:41:00.251594",
+        "description": "DATA SIZE : 2TB",
+        "website": "klingLnberg.in",
+        "published": "2025-09-18 01:40:44.701842",
+        "post_url": "http://b2ykcy2gcug4gnccm6hnrb5xapnresmyjjqgvhafaypppwgo4feixwyd.onion/books/3",
+        "country": "IN",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "2 TB"
+        }
     }
 ]

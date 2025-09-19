@@ -4,8 +4,29 @@
     "month": null,
     "country": null
   },
-  "count": 2699,
+  "count": 2700,
   "results": [
+    {
+      "date": "2025-09-17",
+      "victim": "Morrisroe Ltd",
+      "domain": "morrisroe.co.uk",
+      "country": "GB",
+      "summary": "Morrisroe Ltd a subi une attaque informatique, les données personnelles de ses employés, y compris les informations financières et bancaires, pourraient avoir été compromises. L'entreprise a pris des mesures pour contenir l'attaque et avertit ses employés de rester vigilants. L'attaque a été découverte le dimanche et la récupération est presque complète.",
+      "title": "Morrisroe suffers cyber-attack | Construction News",
+      "url": "https://www.constructionnews.co.uk/tech/morrisroe-suffers-cyber-attack-19-09-2025/",
+      "added": "2025-09-19",
+      "infostealer": {
+        "update": "2025-09-19 13:28:34",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2025-09-17",
       "victim": "Chroma ATE Inc.",

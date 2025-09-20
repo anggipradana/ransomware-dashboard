@@ -283093,5 +283093,25 @@
         "activity": "Not Found",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "goodcents.com",
+        "group_name": "qilin",
+        "discovered": "2025-09-20 22:13:43.597733",
+        "description": "Goodcents, USA - Cheap food outlets are part of Custom Foods Inc., a company that produces frozen dough. The company manufactures a wide range of products, including dough for pizza, bread, cookies, and much more. The company supplies its pro            ...",
+        "website": " https://customfoodsinc.com",
+        "published": "2024-06-05 19:14:43.138048",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=20934d60-3d66-369e-9667-6ed16007302d",
+        "country": "US",
+        "activity": "Consumer Services",
+        "duplicates": [
+            {
+                "date": "2025-09-20 22:13:43.638110",
+                "group": "daixin",
+                "link": "https://www.ransomware.live/id/RHViYWkgTXVuaWNpcGFsaXR5QGRhaXhpbg==",
+                "attackdate": "2024-06-05 19:14:43.138048"
+            }
+        ],
+        "extrainfos": []
     }
 ]

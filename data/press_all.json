@@ -4,8 +4,37 @@
     "month": null,
     "country": null
   },
-  "count": 2700,
+  "count": 2701,
   "results": [
+    {
+      "date": "2025-09-19",
+      "victim": "Collins Aerospace",
+      "domain": "collinsaerospace.com",
+      "country": "US",
+      "summary": "Un attaque informatico contre Collins Aerospace, un fournisseur de services aeroportuels, cause des perturbations dans plusieurs aeroports europeens, notamment Heathrow, Berlino et Bruxelles. Les passagers sont invités à vérifier l'état de leur vol avec leur compagnie aérienne avant de se rendre à l'aeroport. L'attaque a déjà causé des retards et des annulations de vols.",
+      "title": "Trasporti, cyberattacco contro diversi aeroporti europei: ritardi e cancellazioni",
+      "url": "https://www.tgcom24.mediaset.it/mondo/attacco-informatico-cyberattacco-aeroporti_103713280-202502k.shtml",
+      "added": "2025-09-21",
+      "infostealer": {
+        "update": "2025-09-21 12:25:44",
+        "employees": 0,
+        "users": 53,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 4,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "Lumma": 30,
+          "RedLine": 18,
+          "Generic Stealer": 2,
+          "Raccoon": 2
+        }
+      },
+      "ransomware": {
+        "group": "bianlian",
+        "permalink": "https://www.ransomware.live/id/Q29sbGlucyBBZXJvc3BhY2UgKEFuIFJUWCBCdXNpbmVzcylAYmlhbmxpYW4="
+      }
+    },
     {
       "date": "2025-09-17",
       "victim": "Morrisroe Ltd",

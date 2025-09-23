@@ -4,8 +4,36 @@
     "month": null,
     "country": null
   },
-  "count": 2708,
+  "count": 2709,
   "results": [
+    {
+      "date": "2025-09-23",
+      "victim": "Forlì",
+      "domain": "forli.fc.it",
+      "country": "IT",
+      "summary": "Le systèmes informatiques du Comune di Forlì ont été victimes d'une attaque non autorisée, mais aucune preuve de fuite de données personnelles n'a été trouvée pour le moment. Les procédures de sécurité ont été activées et des vérifications techniques sont en cours. Certains systèmes et services numériques resteront temporairement hors ligne pour permettre ces vérifications.",
+      "title": "Attacco hacker al Comune di ForlÃ¬: âAttivate le procedure di sicurezzaâ",
+      "url": "https://www.corriereromagna.it/forli/attacco-hacker-al-comune-di-forli-attivate-le-procedure-di-sicurezza-LJ1649782",
+      "added": "2025-09-23",
+      "infostealer": {
+        "update": "2025-09-23 15:29:14",
+        "employees": 3,
+        "users": 18,
+        "thirdparties_domain": 5,
+        "employees_url": 3,
+        "users_url": 20,
+        "thirdparties": 5,
+        "infostealer_stats": {
+          "Lumma": 10,
+          "RedLine": 8,
+          "Raccoon": 8,
+          "CRYPTBOT": 4,
+          "Vidar": 2,
+          "StealC": 2
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2025-09-19",
       "victim": "Collins Aerospace",

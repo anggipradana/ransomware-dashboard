@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2713,
+  "count": 2716,
   "results": [
     {
       "date": "2025-09-23",
@@ -31,6 +31,79 @@
           "Vidar": 2,
           "StealC": 2
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-09-21",
+      "victim": "United Group",
+      "domain": "united.group",
+      "country": "BG",
+      "summary": "United Group a subi une attaque cybernétique visant ses filiales Vivacom et Mainstream Bulgaria en Bulgarie, mais les mesures de confinement ont permis de limiter l'impact. Les services de base de Vivacom, tels que la connectivité mobile et fixe, restent opérationnels. L'entreprise a condamné ces actes criminels et continue d'investir dans la sécurité de ses réseaux.",
+      "title": "United Group Subsidiaries Vivacom & Mainstream Bulgaria Hit by Cyberattack",
+      "url": "https://www.thefastmode.com/technology-solutions/44820-united-group-subsidiaries-vivacom-mainstream-bulgaria-hit-by-cyberattack",
+      "added": "2025-09-24",
+      "infostealer": {
+        "update": "2025-09-24 12:29:47",
+        "employees": 0,
+        "users": 2,
+        "thirdparties_domain": 7,
+        "employees_url": 0,
+        "users_url": 2,
+        "thirdparties": 1,
+        "infostealer_stats": {
+          "StealC": 1,
+          "Lumma": 1
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-09-20",
+      "victim": "Boyd Gaming Corporation",
+      "domain": "boydgaming.com",
+      "country": "US",
+      "summary": "Boyd Gaming Corporation a subi une faille de sécurité informatique, une partie non autorisée a accédé à son système informatique interne, mais cela n'a pas eu d'impact sur les propriétés ou les opérations commerciales de l'entreprise. La société a pris des mesures pour répondre à l'incident et avertit les personnes touchées. L'incident ne devrait pas avoir d'effet négatif important sur la situation financière ou les résultats d'exploitation de l'entreprise.",
+      "title": "8-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/906553/000119312525213546/d20726d8k.htm",
+      "added": "2025-09-24",
+      "infostealer": {
+        "update": "2025-09-24 12:30:29",
+        "employees": 0,
+        "users": 115,
+        "thirdparties_domain": 8,
+        "employees_url": 0,
+        "users_url": 25,
+        "thirdparties": 3,
+        "infostealer_stats": {
+          "Lumma": 53,
+          "RedLine": 28,
+          "Vidar": 8,
+          "Azorult": 6,
+          "Raccoon": 10,
+          "StealC": 1
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-09-19",
+      "victim": "Circle K (OK便利店)",
+      "domain": "circlek.hk",
+      "country": "HK",
+      "summary": "Le réseau de Circle K (OK便利店) a été touché par une panne de réseau, ce qui a affecté les systèmes de paiement, les e-mails et les plans de récompense pour les membres, les magasins fonctionnent normalement mais ne acceptent que les paiements en espèces et par Octopus. L'entreprise enquête sur l'incident et prend des mesures pour protéger les données de ses clients, employés et fournisseurs. Les clients sont invités à rester vigilants et à ne pas partager leurs informations sensibles.",
+      "title": "網絡中斷｜OK便利店近日停電子支付 只收現金八達通 不排除遭網絡攻擊 - wepro180",
+      "url": "https://www.wepro180.com/ok便利店不排除遭網絡攻擊/",
+      "added": "2025-09-24",
+      "infostealer": {
+        "update": "2025-09-24 12:30:10",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },

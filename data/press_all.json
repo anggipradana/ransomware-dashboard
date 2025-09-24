@@ -602,7 +602,10 @@
         "thirdparties": 0,
         "infostealer_stats": {}
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "incransom",
+        "permalink": "https://www.ransomware.live/id/YXdvLWthLWxhbmQuZGVAaW5jcmFuc29t"
+      }
     },
     {
       "date": "2025-08-29",

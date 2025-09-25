@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2726,
+  "count": 2727,
   "results": [
     {
       "date": "2025-09-23",
@@ -559,6 +559,34 @@
         "users_url": 0,
         "thirdparties": 0,
         "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-08-31",
+      "victim": "Inovie Labosud",
+      "domain": "inovie.fr",
+      "country": "FR",
+      "summary": "Le groupe de biologie médicale Inovie Labosud a été victime d’une cyberattaque début août, entraînant l’exfiltration de données personnelles et médicales de plusieurs millions de patients. Les données concernées sont de nature administrative et médicale, mais aucun mot de passe ou coordonnée bancaire n’a été compromis. Le groupe a déposé plainte et pris des mesures pour circonscrire l’incident.",
+      "title": "Hérault : le laboratoire médical Inovie Labosud frappé par une cyberattaque - Hérault Tribune",
+      "url": "https://www.herault-tribune.com/articles/herault-le-laboratoire-medical-inovie-labosud-frappe-par-une-cyberattaque/",
+      "added": "2025-09-25",
+      "infostealer": {
+        "update": "2025-09-25 14:23:52",
+        "employees": 2,
+        "users": 42,
+        "thirdparties_domain": 4,
+        "employees_url": 1,
+        "users_url": 6,
+        "thirdparties": 6,
+        "infostealer_stats": {
+          "RedLine": 28,
+          "Lumma": 25,
+          "Raccoon": 10,
+          "Generic Stealer": 5,
+          "StealC": 8,
+          "Vidar": 2
+        }
       },
       "ransomware": null
     },

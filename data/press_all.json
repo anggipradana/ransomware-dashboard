@@ -4,8 +4,29 @@
     "month": null,
     "country": null
   },
-  "count": 2727,
+  "count": 2728,
   "results": [
+    {
+      "date": "2025-09-24",
+      "victim": "Refresco",
+      "domain": "refresco.de",
+      "country": "DE",
+      "summary": "Refresco, un fabricant de boissons, a été victime d'une attaque cybernétique en Allemagne, ce qui a affecté sa production. L'entreprise doit maintenant gérer les conséquences de cette attaque. Les détails de l'incident ne sont pas encore précisés.",
+      "title": "Cybersecurity: Refresco kämpft mit Hacker-Attacke",
+      "url": "https://www.lebensmittelzeitung.net/tech-logistik/nachrichten/cybersecurity-refresco-kaempft-mit-hacker-attacke-186845",
+      "added": "2025-09-25",
+      "infostealer": {
+        "update": "2025-09-25 16:22:46",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2025-09-23",
       "victim": "Okuma Europe GmbH",

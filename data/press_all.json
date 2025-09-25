@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2716,
+  "count": 2722,
   "results": [
     {
       "date": "2025-09-23",
@@ -3637,6 +3637,50 @@
     },
     {
       "date": "2025-06-26",
+      "victim": "Achen-Gardner Construction",
+      "domain": "achen.com",
+      "country": "US",
+      "summary": "L'attaque n'a pas été revendiquée, mais l'enseigne Qilin divulgue des données présentées comme issues des systèmes d'Achen-Gardner Construction.",
+      "title": "none",
+      "url": "none",
+      "added": "2025-09-25",
+      "infostealer": {
+        "update": "2025-09-25 09:36:12",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-06-26",
+      "victim": "Airbus SLC México",
+      "domain": "airbus-slc.com.mx",
+      "country": "MX",
+      "summary": "L'attaque n'a pas été revendiquée, mais l'enseigne Qilin divulgue des données présentées comme issues des systèmes d'Airbus SLC México.",
+      "title": "none",
+      "url": "none",
+      "added": "2025-09-25",
+      "infostealer": {
+        "update": "2025-09-25 09:36:33",
+        "employees": 0,
+        "users": 1,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 1,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "Raccoon": 2
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-06-26",
       "victim": "Assisted Living Pharmacy Service LLC",
       "domain": "alpsrx.com",
       "country": "US",
@@ -6099,6 +6143,27 @@
     },
     {
       "date": "2025-05-18",
+      "victim": "Union County, Ohio",
+      "domain": "unioncountyohio.gov",
+      "country": "US",
+      "summary": "Union County, Ohio, suffered a ransomware attack on May 18, 2025, which exposed personal information of residents. The incident occurred between May 6 and May 18, 2025. The county is offering complimentary identity monitoring services to affected individuals.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/f7a9a409-190a-4ab4-b1df-cafd3eafefe0.html",
+      "added": "2025-09-25",
+      "infostealer": {
+        "update": "2025-09-25 09:58:42",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-05-18",
       "victim": "ENILV",
       "domain": "enilv-alpes.fr",
       "country": "FR",
@@ -6231,6 +6296,27 @@
         "group": "akira",
         "permalink": "https://www.ransomware.live/id/RWxpdGUgQWR2YW5jZWQgTGFzZXIgQ29ycG9yYXRpb25AYWtpcmE="
       }
+    },
+    {
+      "date": "2025-05-15",
+      "victim": "Alten Sakai & Company LLP",
+      "domain": "altensakai.cpa",
+      "country": "US",
+      "summary": "L'attaque n'a pas été revendiquée, mais l'enseigne Qilin divulgue des données présentées comme issues des systèmes d'Alten Sakai.",
+      "title": "none",
+      "url": "none",
+      "added": "2025-09-25",
+      "infostealer": {
+        "update": "2025-06-12 12:12:20",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
     },
     {
       "date": "2025-05-15",
@@ -17815,6 +17901,30 @@
     },
     {
       "date": "2024-12-19",
+      "victim": "Gaylord Specialty Healthcare",
+      "domain": "gaylord.org",
+      "country": "US",
+      "summary": "Gaylord Specialty Healthcare experienced a cybersecurity incident that impacted connectivity to their network, potentially exposing personal data between December 16, 2024, and December 19, 2024. The attack was claimed by Safepay on January 22, 2025.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/2e786885-9812-4314-a1e4-341bdf8a82eb.html",
+      "added": "2025-09-25",
+      "infostealer": {
+        "update": "2025-01-22 21:08:34",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "safepay",
+        "permalink": "https://www.ransomware.live/id/Z2F5bG9yZC5vcmdAc2FmZXBheQ=="
+      }
+    },
+    {
+      "date": "2024-12-19",
       "victim": "Miedema Produce, Inc.",
       "domain": "miedemaproduce.com",
       "country": "US",
@@ -18818,6 +18928,29 @@
       "ransomware": {
         "group": "lynx",
         "permalink": "https://www.ransomware.live/id/U29jaWV0YXRlYSBFbmVyZ2V0aWNhIEVsZWN0cmljYSBTLkEuQGx5bng="
+      }
+    },
+    {
+      "date": "2024-12-07",
+      "victim": "Tekni-Plex, Inc.",
+      "domain": "tekni-plex.com",
+      "country": "US",
+      "summary": "Tekni-Plex, Inc. suffered a data breach between October 25, 2024, and December 7, 2024, where an unauthorized actor accessed their network and accessed or copied certain files without authorization. The attack was claimed by Ransomhub on December 13.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/eca02689-62c4-4a59-9e9f-242da5b5874f.html",
+      "added": "2025-09-25",
+      "infostealer": {
+        "update": "2024-12-13 21:24:35",
+        "employees": 4,
+        "users": 4,
+        "thirdparties_domain": 2,
+        "employees_url": 4,
+        "users_url": 0,
+        "thirdparties": 5
+      },
+      "ransomware": {
+        "group": "ransomhub",
+        "permalink": "https://www.ransomware.live/id/dGVrbmktcGxleC5jb21AcmFuc29taHVi"
       }
     },
     {

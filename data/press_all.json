@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2731,
+  "count": 2732,
   "results": [
     {
       "date": "2025-09-24",
@@ -27281,6 +27281,27 @@
         "group": "ransomhouse",
         "permalink": "https://www.ransomware.live/id/VW5pdmVyc2l0ZSBQYXJpcyBTdWRAcmFuc29taG91c2U="
       }
+    },
+    {
+      "date": "2024-08-10",
+      "victim": "National Molding LLC",
+      "domain": "nationalmolding.com",
+      "country": "US",
+      "summary": "National Molding LLC suffered a data breach, prompting the company to offer credit monitoring and identity protection services to affected individuals. The breach led to the exposure of sensitive information, and the company is taking steps to protect consumers' personal data. Affected individuals are being notified and offered assistance to prevent potential identity theft.",
+      "title": "2025-09-19 National Molding Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-09-19-national-molding-data-breach-notice-consumers",
+      "added": "2025-09-26",
+      "infostealer": {
+        "update": "2025-09-26 12:31:42",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
     },
     {
       "date": "2024-08-10",

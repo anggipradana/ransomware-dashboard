@@ -4,8 +4,31 @@
     "month": null,
     "country": null
   },
-  "count": 2728,
+  "count": 2731,
   "results": [
+    {
+      "date": "2025-09-24",
+      "victim": "Burrillville School Department",
+      "domain": "bsd-ri.net",
+      "country": "US",
+      "summary": "Le département scolaire de Burrillville enquête sur une cyberattaque visant le lycée de Burrillville, mais aucune information sur les Chromebooks des élèves ou du personnel n'a été compromise. L'équipe informatique a pris des mesures pour arrêter l'attaque et les opérations scolaires se déroulent normalement. L'enquête se poursuit pour déterminer la cause de l'attaque.",
+      "title": "Burrillville schools confirm cyberattack on high school",
+      "url": "https://turnto10.com/news/local/burrillville-schools-confirm-cyberattack-on-high-school-sept-25-2025",
+      "added": "2025-09-26",
+      "infostealer": {
+        "update": "2025-09-26 07:57:51",
+        "employees": 0,
+        "users": 1,
+        "thirdparties_domain": 8,
+        "employees_url": 0,
+        "users_url": 5,
+        "thirdparties": 13,
+        "infostealer_stats": {
+          "Azorult": 2
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2025-09-24",
       "victim": "Refresco",
@@ -24,6 +47,32 @@
         "users_url": 0,
         "thirdparties": 0,
         "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-09-23",
+      "victim": "Thermofin",
+      "domain": "thermofin.de",
+      "country": "DE",
+      "summary": "La société Thermofin a été victime d'une attaque cybernétique massive, entraînant des fuites de données, y compris des informations sur les employés. L'entreprise est actuellement seulement accessible de manière limitée via une hotline. Les filiales en Chine et en Pologne sont également touchées.",
+      "title": "Vogtländisches Unternehmen Opfer von Cyberangriff: „Wir kämpfen, um die Produktion am Laufen zu halten“",
+      "url": "https://www.freiepresse.de/vogtland/reichenbach/vogtlaendisches-unternehmen-opfer-von-cyberangriff-wir-kaempfen-um-die-produktion-am-laufen-zu-halten-artikel13970410",
+      "added": "2025-09-26",
+      "infostealer": {
+        "update": "2025-09-26 07:57:30",
+        "employees": 1,
+        "users": 8,
+        "thirdparties_domain": 1,
+        "employees_url": 1,
+        "users_url": 5,
+        "thirdparties": 1,
+        "infostealer_stats": {
+          "RedLine": 10,
+          "Raccoon": 4,
+          "Vidar": 2,
+          "Generic Stealer": 1
+        }
       },
       "ransomware": null
     },
@@ -373,6 +422,36 @@
         "users_url": 0,
         "thirdparties": 0,
         "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-09-11",
+      "victim": "Elmar",
+      "domain": "elmar.aw",
+      "country": "AW",
+      "summary": "Le fournisseur d'électricité Elmar a été victime d'une attaque par ransomware, mais a réussi à résoudre le problème sans interruption de la fourniture d'électricité. L'attaque a eu lieu le 11 septembre et les systèmes ont été rétablis en quelques jours. Elmar travaille avec des experts en cybersécurité pour renforcer sa protection et informe ses clients et la communauté de l'incident.",
+      "title": "Arubaanse bedrijf Elmar bevestigt cyberaanval",
+      "url": "https://antilliaansdagblad.com/nieuws-menu/aruba/31756-arubaanse-bedrijf-elmar-bevestigt-cyberaanval",
+      "added": "2025-09-26",
+      "infostealer": {
+        "update": "2025-09-20 19:07:35",
+        "employees": 0,
+        "users": 171,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 12,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "RedLine": 128,
+          "Lumma": 72,
+          "StealC": 26,
+          "Raccoon": 16,
+          "Azorult": 12,
+          "Vidar": 8,
+          "UNKNOWN": 8,
+          "Predator": 2
+        }
       },
       "ransomware": null
     },

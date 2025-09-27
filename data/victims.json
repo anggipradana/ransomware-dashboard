@@ -284491,5 +284491,77 @@
         "activity": "Manufacturing",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Steve Basso Plumbing Heating",
+        "group_name": "play",
+        "discovered": "2025-09-27 21:08:33.654375",
+        "description": "United States",
+        "website": "www.bassophac.com",
+        "published": "2025-09-27 21:08:03.107184",
+        "post_url": "http://k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion/topic.php?id=QWkH3jptJtt65E",
+        "country": "US",
+        "activity": "Construction",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Earthadelic",
+        "group_name": "play",
+        "discovered": "2025-09-27 21:09:14.026268",
+        "description": "United States",
+        "website": "www.earthadelic.com",
+        "published": "2025-09-27 21:08:35.633713",
+        "post_url": "http://k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion/topic.php?id=13w2vENVDrwFZ",
+        "country": "US",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "ComTec Systems",
+        "group_name": "play",
+        "discovered": "2025-09-27 21:09:33.905127",
+        "description": "United States",
+        "website": "www.comtecsystems.net",
+        "published": "2025-09-23 00:00:00.000000",
+        "post_url": "http://k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion/topic.php?id=nEW0froEI59WlN",
+        "country": "",
+        "activity": "Technology",
+        "duplicates": [
+            {
+                "date": "2025-09-27 21:09:34.008354",
+                "group": "pear",
+                "link": "https://www.ransomware.live/id/Q29tVGVjIFN5c3RlbXNAcGVhcg==",
+                "attackdate": "2025-09-23 00:00:00.000000"
+            }
+        ],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Pangborn",
+        "group_name": "play",
+        "discovered": "2025-09-27 21:10:18.110538",
+        "description": "United States",
+        "website": "www.pangborngroup.com",
+        "published": "2025-09-27 21:09:35.551578",
+        "post_url": "http://k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion/topic.php?id=aGdYOPS8A0zMso",
+        "country": "US",
+        "activity": "Manufacturing",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Amelia Overhead Doors",
+        "group_name": "play",
+        "discovered": "2025-09-27 21:10:56.692896",
+        "description": "United States",
+        "website": "www.ameliadoor.com",
+        "published": "2025-09-27 21:10:19.860432",
+        "post_url": "http://k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion/topic.php?id=X82O7MAtkwUeK2",
+        "country": "US",
+        "activity": "Construction",
+        "duplicates": [],
+        "extrainfos": []
     }
 ]

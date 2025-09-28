@@ -4,8 +4,29 @@
     "month": null,
     "country": null
   },
-  "count": 2733,
+  "count": 2734,
   "results": [
+    {
+      "date": "2025-09-27",
+      "victim": "Comune di Forio",
+      "domain": "forio.na.it",
+      "country": "IT",
+      "summary": "Le Comune de Forio a été victime d'une attaque informatique, entraînant la perte de documents et de données. L'Ente a décidé de prendre des mesures pour récupérer les données perdues et se protéger contre de futures attaques. Un service de support a été confié à la société ArtenSys pour analyser et récupérer les éléments publiés en ligne.",
+      "title": "Un attacco informatico ha cancellato documenti e atti. Forio, supporto esterno per la protezione dagli hacker",
+      "url": "https://www.ildispariquotidiano.it/it/un-attacco-informatico-ha-cancellato-documenti-e-atti-forio-supporto-esterno-per-la-protezione-dagli-hacker/",
+      "added": "2025-09-28",
+      "infostealer": {
+        "update": "2025-09-28 13:26:39",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2025-09-24",
       "victim": "Burrillville School Department",

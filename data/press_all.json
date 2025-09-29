@@ -4,8 +4,32 @@
     "month": null,
     "country": null
   },
-  "count": 2734,
+  "count": 2736,
   "results": [
+    {
+      "date": "2025-09-28",
+      "victim": "Asahi Group Holdings, Ltd.",
+      "domain": "asahigroup-holdings.com",
+      "country": "JP",
+      "summary": "Asahi Group Holdings, Ltd. a subi une attaque informatique qui a provoqué une panne de système, affectant ses opérations au Japon. Les opérations de commande et d'expédition ainsi que les centres d'appel ont été suspendus. L'entreprise enquête actuellement sur la cause et travaille à rétablir les opérations.",
+      "title": "Notice of System Failure Due to Cyberattack | Newsroom｜ASAHI GROUP HOLDINGS",
+      "url": "https://www.asahigroup-holdings.com/en/newsroom/detail/20250929-0202.html",
+      "added": "2025-09-29",
+      "infostealer": {
+        "update": "2025-09-29 13:18:31",
+        "employees": 1,
+        "users": 1,
+        "thirdparties_domain": 0,
+        "employees_url": 1,
+        "users_url": 1,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "Raccoon": 2,
+          "Lumma": 1
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2025-09-27",
       "victim": "Comune di Forio",
@@ -329,6 +353,27 @@
       "added": "2025-09-23",
       "infostealer": {
         "update": "2025-09-23 09:33:26",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-09-15",
+      "victim": "Gemeinde Glatten",
+      "domain": "glatten.de",
+      "country": "DE",
+      "summary": "La commune de Glatten a été victime d'une cyberattaque, ce qui a entraîné des perturbations dans les communications téléphoniques et par e-mail. Les autorités ont découvert que l'attaque a été perpétrée par un groupe de hackers connu de la police. La commune est actuellement en train de rénover son infrastructure informatique pour éviter de nouvelles attaques.",
+      "title": "Cyber-Angriff in Glatten: Hackergruppe schickt Erpresserschreiben ans Rathaus",
+      "url": "https://www.schwarzwaelder-bote.de/inhalt.cyber-angriff-in-glatten-hackergruppe-schickt-erpresserschreiben-ans-rathaus.ca0e0f93-24e9-49b2-810b-7728eba82081.html",
+      "added": "2025-09-29",
+      "infostealer": {
+        "update": "2025-09-29 13:18:09",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,

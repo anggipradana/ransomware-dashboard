@@ -3849,29 +3849,6 @@
     },
     {
       "date": "2025-06-26",
-      "victim": "Airbus SLC México",
-      "domain": "airbus-slc.com.mx",
-      "country": "MX",
-      "summary": "L'attaque n'a pas été revendiquée, mais l'enseigne Qilin divulgue des données présentées comme issues des systèmes d'Airbus SLC México.",
-      "title": "none",
-      "url": "none",
-      "added": "2025-09-25",
-      "infostealer": {
-        "update": "2025-09-25 09:36:33",
-        "employees": 0,
-        "users": 1,
-        "thirdparties_domain": 0,
-        "employees_url": 0,
-        "users_url": 1,
-        "thirdparties": 0,
-        "infostealer_stats": {
-          "Raccoon": 2
-        }
-      },
-      "ransomware": null
-    },
-    {
-      "date": "2025-06-26",
       "victim": "Assisted Living Pharmacy Service LLC",
       "domain": "alpsrx.com",
       "country": "US",
@@ -7259,6 +7236,29 @@
           "CRYPTBOT": 22,
           "Predator": 8,
           "Mystic": 4
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-05-06",
+      "victim": "Airbus Public Safety and Security",
+      "domain": "airbus-slc.com.mx",
+      "country": "MX",
+      "summary": "La division Public Safety and Security d'Airbus au Mexique a été victime d'une cyberattaque avec rançongiciel début mai, mais aucune rançon n'a été payée. L'incident a été maîtrisé grâce à la mobilisation des équipes de sécurité et aucun système utilisé par les clients n'a été affecté. L'incident fait l'objet d'une enquête judiciaire au Mexique.",
+      "title": "Mexique : Airbus Public Safety and Security victime de ransomware début mai | LeMagIT",
+      "url": "https://www.lemagit.fr/actualites/366632099/Mexique-Airbus-Public-Safety-and-Security-victime-de-ransomware-debut-mai",
+      "added": "2025-09-29",
+      "infostealer": {
+        "update": "2025-09-25 09:36:33",
+        "employees": 0,
+        "users": 1,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 1,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "Raccoon": 2
         }
       },
       "ransomware": null

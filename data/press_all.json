@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2739,
+  "count": 2741,
   "results": [
     {
       "date": "2025-09-29",
@@ -1256,6 +1256,27 @@
       "added": "2025-08-25",
       "infostealer": {
         "update": "2025-08-25 07:53:02",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-08-22",
+      "victim": "Georgetown Brewing Company",
+      "domain": "georgetownbeer.com",
+      "country": "US",
+      "summary": "A data security event resulted in unauthorized access to personal identifying information, including names and driver's license numbers. The incident occurred on August 22, 2025, and was discovered on the same day. There is no evidence of misuse of the information.",
+      "title": "2025-09-26 Georgetown Brewing Company Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-09-26-georgetown-brewing-company-data-breach-notice-consumers",
+      "added": "2025-09-30",
+      "infostealer": {
+        "update": "2025-09-30 13:26:33",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,
@@ -8624,34 +8645,35 @@
     {
       "date": "2025-04-25",
       "victim": "MTN Group",
-      "domain": "mtn.com",
+      "domain": "mtn.co.za",
       "country": "ZA",
       "summary": "MTN Group a confirmé avoir été victime d'une attaque de cybersécurité, mais a insisté sur le fait que ses systèmes principaux, y compris son réseau et ses plateformes de services financiers, n'ont pas été compromis. L'entreprise a activé ses protocoles de réponse à la cybersécurité et a informé les autorités compétentes. Les opérations de MTN au Nigéria n'ont pas été affectées par l'incident.",
       "title": "JUST-IN: MTN Confirms Cyber Attack, Says Core Systems Unaffected",
       "url": "https://leadership.ng/just-in-mtn-confirms-cyber-attack-says-core-systems-unaffected/",
       "added": "2025-04-25",
       "infostealer": {
-        "update": "2025-04-25 09:26:23",
-        "employees": 105,
-        "users": 1995,
-        "thirdparties_domain": 220,
-        "employees_url": 35,
+        "update": "2025-09-30 13:27:37",
+        "employees": 81,
+        "users": 6875,
+        "thirdparties_domain": 30,
+        "employees_url": 44,
         "users_url": 100,
-        "thirdparties": 640,
+        "thirdparties": 23,
         "infostealer_stats": {
-          "RedLine": 696,
-          "Lumma": 588,
-          "Generic Stealer": 364,
-          "Raccoon": 193,
-          "StealC": 117,
-          "Vidar": 59,
-          "UNKNOWN": 21,
-          "Azorult": 17,
-          "CRYPTBOT": 7,
-          "Mystic": 4,
-          "Taurus": 3,
-          "DarkCrystal": 1,
-          "Predator": 1
+          "RedLine": 4554,
+          "Lumma": 3195,
+          "Generic Stealer": 1295,
+          "Raccoon": 1216,
+          "StealC": 931,
+          "Vidar": 453,
+          "UNKNOWN": 138,
+          "Azorult": 134,
+          "Ficker": 12,
+          "Atomic": 17,
+          "CRYPTBOT": 12,
+          "DarkCrystal": 5,
+          "Mystic": 6,
+          "Predator": 6
         }
       },
       "ransomware": null
@@ -8839,21 +8861,25 @@
     {
       "date": "2025-04-22",
       "victim": "Oettinger",
-      "domain": "oettinger1731.de",
+      "domain": "oettinger-bier.de",
       "country": "DE",
       "summary": "La brasserie traditionnelle allemande Oettinger a été victime d'une attaque de hackers, mais la production et la logistique ne sont pas affectées. Les détails de l'attaque ne sont pas encore connus, mais l'entreprise travaille à la restauration des systèmes touchés. Les fans de la bière peuvent être rassurés, car la production continue sans interruption.",
       "title": "\"Oettinger\" im Visier von Hackern: Cyberangriff auf Traditionsbrauerei",
       "url": "https://www.tag24.de/nachrichten/wirtschaft/unternehmen/oettinger-im-visier-von-hackern-cyberangriff-auf-traditionsbrauerei-3380219",
       "added": "2025-04-25",
       "infostealer": {
-        "update": "2025-04-25 09:54:09",
+        "update": "2025-05-05 13:46:39",
         "employees": 0,
-        "users": 0,
+        "users": 9,
         "thirdparties_domain": 0,
         "employees_url": 0,
-        "users_url": 0,
+        "users_url": 3,
         "thirdparties": 0,
-        "infostealer_stats": {}
+        "infostealer_stats": {
+          "Raccoon": 12,
+          "Azorult": 6,
+          "Lumma": 2
+        }
       },
       "ransomware": null
     },
@@ -26450,6 +26476,27 @@
         "employees_url": 1,
         "users_url": 100,
         "thirdparties": 422
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2024-08-25",
+      "victim": "RiteCheck Cashing Inc.",
+      "domain": "ritecheck.com",
+      "country": "US",
+      "summary": "RiteCheck Cashing Inc. suffered a data security incident where an unauthorized user accessed their system, potentially exposing customer information. The incident occurred on August 25th, 2024, and was discovered on June 23rd, 2025. The affected information includes date of birth, social security number, and other personal identifiable information.",
+      "title": "2025-09-26 RiteCheck Cashing Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-09-26-ritecheck-cashing-data-breach-notice-consumers",
+      "added": "2025-09-30",
+      "infostealer": {
+        "update": "2025-09-30 13:26:54",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },

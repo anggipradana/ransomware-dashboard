@@ -4,8 +4,29 @@
     "month": null,
     "country": null
   },
-  "count": 2736,
+  "count": 2739,
   "results": [
+    {
+      "date": "2025-09-29",
+      "victim": "DeKalb county government",
+      "domain": "co.dekalb.in.us",
+      "country": "US",
+      "summary": "Un incident de cybersécurité a touché le système informatique du gouvernement du comté de DeKalb. Les détails de l'incident ne sont pas précisés, mais il est actuellement en cours d'investigation. Le comté de DeKalb est situé dans l'Indiana, aux États-Unis.",
+      "title": "Cyber incident impacts DeKalb county government computer system",
+      "url": "https://www.wfft.com/video/cyber-incident-impacts-dekalb-county-government-computer-system/video_1f1f52f1-c70a-5a98-9741-84f5b205a98b.html",
+      "added": "2025-09-30",
+      "infostealer": {
+        "update": "2025-09-30 08:29:16",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2025-09-28",
       "victim": "Asahi Group Holdings, Ltd.",
@@ -48,6 +69,61 @@
         "users_url": 0,
         "thirdparties": 0,
         "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-09-26",
+      "victim": "MPDV Mikrolab GmbH",
+      "domain": "mpdv.com",
+      "country": "DE",
+      "summary": "Le spécialiste en logiciels MPDV Mikrolab GmbH a été victime d'une attaque informatique, mais grâce à une intervention rapide, aucun dommage n'a été causé et les données des clients sont sécurisées. Les autorités ont été informées et les traces sécurisées ont été transmises pour une enquête plus approfondie. L'entreprise a déclaré que les processus internes fonctionnent à nouveau normalement depuis le début de la semaine.",
+      "title": "Diedesheim: Cyberangriff auf MPDV",
+      "url": "https://www.rnz.de/region/neckartal-odenwald_artikel,-Diedesheim-Cyberangriff-auf-MPDV-_arid,1665007.html",
+      "added": "2025-09-30",
+      "infostealer": {
+        "update": "2025-09-30 08:29:37",
+        "employees": 0,
+        "users": 1,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 3,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "RedLine": 1
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-09-25",
+      "victim": "Direction générale des impôts et domaines (Dgid)",
+      "domain": "dgid.sn",
+      "country": "SN",
+      "summary": "La Direction générale des impôts et domaines a été victime d'une cyberattaque, selon Bachir Fofana, ce qui a mis hors service le service informatique. Les agents ont reçu un message les avertissant de ne pas allumer leurs machines en raison de l'attaque. Cette cyberattaque intervient dans un contexte de difficultés financières et de dettes supposées cachées.",
+      "title": "Urgent : « La Dgid victime d’une cyber @ttaque », selon Bachir Fofana",
+      "url": "https://senegal7.com/urgent-la-dgid-victime-dune-cyber-ttaque-selon-bachir-fofana/",
+      "added": "2025-09-30",
+      "infostealer": {
+        "update": "2025-09-30 08:29:59",
+        "employees": 30,
+        "users": 442,
+        "thirdparties_domain": 1,
+        "employees_url": 3,
+        "users_url": 56,
+        "thirdparties": 1,
+        "infostealer_stats": {
+          "RedLine": 189,
+          "Generic Stealer": 127,
+          "Lumma": 85,
+          "StealC": 21,
+          "Raccoon": 21,
+          "Vidar": 6,
+          "UNKNOWN": 3,
+          "Acreed": 1,
+          "Azorult": 1,
+          "CRYPTBOT": 1
+        }
       },
       "ransomware": null
     },

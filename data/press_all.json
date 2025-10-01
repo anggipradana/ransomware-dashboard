@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2745,
+  "count": 2746,
   "results": [
     {
       "date": "2025-09-29",
@@ -339,6 +339,27 @@
           "StealC": 1,
           "Lumma": 1
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-09-20",
+      "victim": "Jenz",
+      "domain": "jenz.de",
+      "country": "DE",
+      "summary": "L'entreprise Jenz a été victime d'une cyberattaque qui a exploité une faille de sécurité dans leur pare-feu, entraînant une interruption de leur activité pendant environ dix jours. L'attaque a eu un impact significatif sur l'entreprise, qui réalise un chiffre d'affaires de 115 millions d'euros. Les détails de l'attaque sont encore peu clairs, mais il semblerait que l'entreprise ait été choisie au hasard par les attaquants.",
+      "title": "Minden-Lübbecker Familienunternehmen erholt sich von Hacker-Angriff",
+      "url": "https://www.nw.de/lokal/kreis_minden_luebbecke/petershagen/24185751_Minden-Luebbecker-Familienunternehmen-erholt-sich-von-Hacker-Angriff.html",
+      "added": "2025-10-01",
+      "infostealer": {
+        "update": "2025-10-01 15:20:31",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },

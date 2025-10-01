@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2746,
+  "count": 2750,
   "results": [
     {
       "date": "2025-09-29",
@@ -2297,6 +2297,27 @@
     },
     {
       "date": "2025-08-04",
+      "victim": "Bricotech",
+      "domain": "esd-bricotech.fr",
+      "country": "FR",
+      "summary": "L'attaque n'a pas été revendiquée, mais l'enseigne Qilin divulgue des données présentées comme issues des systèmes de Bricotech.",
+      "title": "none",
+      "url": "none",
+      "added": "2025-10-01",
+      "infostealer": {
+        "update": "2025-10-01 20:23:23",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-08-04",
       "victim": "Single Central Record",
       "domain": "onlinescr.co.uk",
       "country": "GB",
@@ -2480,6 +2501,35 @@
         "users_url": 0,
         "thirdparties": 0,
         "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-07-29",
+      "victim": "Connex Credit Union",
+      "domain": "connexcu.org",
+      "country": "US",
+      "summary": "L'attaque n'a pas été revendiquée, mais l'enseigne Qilin divulgue des données présentées comme issues des systèmes de Connex Credit Union.",
+      "title": "none",
+      "url": "none",
+      "added": "2025-10-01",
+      "infostealer": {
+        "update": "2025-08-18 12:49:48",
+        "employees": 0,
+        "users": 32,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 12,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "RedLine": 20,
+          "Lumma": 14,
+          "Generic Stealer": 4,
+          "Azorult": 8,
+          "Raccoon": 4,
+          "Vidar": 4,
+          "UNKNOWN": 2
+        }
       },
       "ransomware": null
     },
@@ -4053,6 +4103,31 @@
           "Mystic": 5,
           "CRYPTBOT": 2,
           "Ficker": 1
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-06-28",
+      "victim": "Consorzio di Bonifica Adige Po",
+      "domain": "adigepo.it",
+      "country": "IT",
+      "summary": "L'attaque n'a pas été revendiquée, mais l'enseigne Qilin divulgue des données présentées comme issues des systèmes de Consorzio di Bonifica Adige Po.",
+      "title": "none",
+      "url": "none",
+      "added": "2025-10-01",
+      "infostealer": {
+        "update": "2025-10-01 20:23:45",
+        "employees": 0,
+        "users": 8,
+        "thirdparties_domain": 2,
+        "employees_url": 0,
+        "users_url": 4,
+        "thirdparties": 4,
+        "infostealer_stats": {
+          "Generic Stealer": 4,
+          "Lumma": 5,
+          "Raccoon": 2
         }
       },
       "ransomware": null
@@ -6512,6 +6587,27 @@
           "CRYPTBOT": 4,
           "Mystic": 2
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-05-19",
+      "victim": "Eaton Babb & Smith",
+      "domain": "ebs-cpa.com",
+      "country": "US",
+      "summary": "L'attaque n'a pas été revendiquée, mais l'enseigne Qilin divulgue des données présentées comme issues des systèmes d'Eaton Babb & Smith",
+      "title": "none",
+      "url": "none",
+      "added": "2025-10-01",
+      "infostealer": {
+        "update": "2025-10-01 20:24:06",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },

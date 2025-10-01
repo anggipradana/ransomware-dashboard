@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2742,
+  "count": 2745,
   "results": [
     {
       "date": "2025-09-29",
@@ -74,6 +74,30 @@
         "infostealer_stats": {
           "Raccoon": 2,
           "Lumma": 1
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-09-27",
+      "victim": "Al-Babtain Power and Telecommunications Co.",
+      "domain": "albabtain-egypt.com",
+      "country": "SA",
+      "summary": "Al-Babtain Power and Telecommunications Co. a annoncé que son équipe de cybersécurité a détecté une tentative de violation de la sécurité sur un serveur appartenant à l'une de ses filiales en Égypte, mais l'incident n'a eu aucun impact sur les données ou les opérations de l'entreprise. La société a immédiatement mis en œuvre ses protocoles et mesures de sécurité approuvés sur tous les serveurs de la société mère et de ses filiales. Le serveur visé était un serveur de base de données de sauvegarde non principal.",
+      "title": "Al-Babtain: Cyberattack targets subsidiary in Egypt; no impact on Saudi operations",
+      "url": "https://www.argaam.com/en/article/articledetail/id/1846766",
+      "added": "2025-10-01",
+      "infostealer": {
+        "update": "2025-10-01 08:22:30",
+        "employees": 18,
+        "users": 0,
+        "thirdparties_domain": 3,
+        "employees_url": 2,
+        "users_url": 4,
+        "thirdparties": 18,
+        "infostealer_stats": {
+          "RedLine": 22,
+          "Lumma": 2
         }
       },
       "ransomware": null
@@ -270,6 +294,27 @@
           "Vidar": 2,
           "StealC": 2
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-09-22",
+      "victim": "TENRYU AMERICA, INC.",
+      "domain": "tenryu-saw.com",
+      "country": "US",
+      "summary": "Le fabricant de outils de coupe TENRYU AMERICA, INC. a été victime d'une attaque de ransomware, ce qui a entraîné la cryptage de données sur son serveur. L'entreprise a isolé le serveur et travaille avec des experts en sécurité pour résoudre le problème. Aucune fuite de données de clients ou de partenaires n'a été confirmée pour le moment. (via eCrime.ch)",
+      "title": "老舗切削工具メーカーにランサムウェア サーバー暗号化被害",
+      "url": "https://cybersecurity-info.com/news/tenryu-saw-manufacturing-ransomware-damage/",
+      "added": "2025-10-01",
+      "infostealer": {
+        "update": "2025-10-01 08:22:47",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },
@@ -1360,6 +1405,27 @@
           "UNKNOWN": 2,
           "Mystic": 2
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-08-19",
+      "victim": "Motility Software Solutions",
+      "domain": "motilitysoftwaresolutions.com",
+      "country": "US",
+      "summary": "Motility Software Solutions suffered a data security incident where an unauthorized actor deployed malware that encrypted a portion of their systems, potentially exposing customers' personal data.",
+      "title": "Data Breach Notification",
+      "url": "https://agportal-s3bucket.s3.amazonaws.com/databreach/BreachA34789.pdf",
+      "added": "2025-10-01",
+      "infostealer": {
+        "update": "2025-10-01 08:23:06",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },

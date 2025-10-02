@@ -286336,5 +286336,51 @@
         "activity": "Manufacturing",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "wilsenergy.com/USA/77.1GB",
+        "group_name": "kairos",
+        "discovered": "2025-10-02 17:27:52.622184",
+        "description": "Unknown - Wilsenergy",
+        "website": "wilsenergy.com/USA/77.1GB",
+        "published": "2025-10-02 17:27:11.758930",
+        "post_url": "http://nerqnacjmdy3obvevyol7qhazkwkv57dwqvye5v46k5bcujtfa6sduad.onion/detail?code=wilsenergy-com-usa-77-1gb",
+        "country": "",
+        "activity": "Energy",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Mitchell Industries",
+        "group_name": "qilin",
+        "discovered": "2025-10-02 17:50:02.524568",
+        "description": "Mitchell Industries, USA - like sand through one's fingers. The company manufactures Accu-Weld¢ wedge wire screens for applications in both the petroleum and refining industries. The family-owned company has been in business for many years a            ...",
+        "website": " https://mitchellind.com",
+        "published": "2024-06-05 19:14:43.138048",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=83c659b1-b351-303f-a633-92081b019901",
+        "country": "",
+        "activity": "Not Found",
+        "duplicates": [
+            {
+                "date": "2025-10-02 17:50:02.560794",
+                "group": "daixin",
+                "link": "https://www.ransomware.live/id/RHViYWkgTXVuaWNpcGFsaXR5QGRhaXhpbg==",
+                "attackdate": "2024-06-05 19:14:43.138048"
+            }
+        ],
+        "extrainfos": []
+    },
+    {
+        "post_title": "sagchip.org",
+        "group_name": "qilin",
+        "discovered": "2025-10-02 17:50:49.816439",
+        "description": "the Saginaw Chippewa Indian Tribe of Michigan, USA - It's impossible to keep a poker face now. This small community of about 3,000 people is located in Isabella County, near Mount Pleasant. The tribe owns gas stations, a water park, a hotel,             ...",
+        "website": "sagchip.org",
+        "published": "2025-10-02 00:00:00.000000",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=2d26a17f-2c7a-3549-8faa-909f1ab8f327",
+        "country": "US",
+        "activity": "Public Sector",
+        "duplicates": [],
+        "extrainfos": []
     }
 ]

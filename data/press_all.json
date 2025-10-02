@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2750,
+  "count": 2751,
   "results": [
     {
       "date": "2025-09-29",
@@ -461,6 +461,27 @@
         "group": "bianlian",
         "permalink": "https://www.ransomware.live/id/Q29sbGlucyBBZXJvc3BhY2UgKEFuIFJUWCBCdXNpbmVzcylAYmlhbmxpYW4="
       }
+    },
+    {
+      "date": "2025-09-18",
+      "victim": "Patrick Kunz",
+      "domain": "patrickkunzmdl.de",
+      "country": "DE",
+      "summary": "Le bureau de Patrick Kunz, député du parti FREIE-WÄHLER, a été victime d'une cyberattaque qui a bloqué son système de messagerie électronique pendant une semaine. Les rendez-vous n'ont pas pu être consultés et les demandes des citoyens n'ont pas pu être répondues. La coopération avec des experts en sécurité informatique a permis de rétablir le système.",
+      "title": "Schifferstadt: Cyberangriff legt Wahlkreisbüro von Patrick Kunz lahm – Metropoljournal.com",
+      "url": "https://www.metropoljournal.com/lokales/rheinland-pfalz/rhein-pfalz-kreis/35777-schifferstadt-cyberangriff-legt-wahlkreisbüro-von-patrick-kunz-lahm.html",
+      "added": "2025-10-02",
+      "infostealer": {
+        "update": "2025-10-02 12:14:51",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
     },
     {
       "date": "2025-09-17",

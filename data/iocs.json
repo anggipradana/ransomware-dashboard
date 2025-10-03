@@ -1,6 +1,6 @@
 {
   "filter_type": null,
-  "count": 64,
+  "count": 65,
   "groups": [
     {
       "group": "Ailock",
@@ -382,6 +382,13 @@
       "group": "Securotrop",
       "ioc_types": {
         "tox": 1
+      }
+    },
+    {
+      "group": "shinyhunters",
+      "ioc_types": {
+        "telegram": 4,
+        "email": 1
       }
     },
     {

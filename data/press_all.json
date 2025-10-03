@@ -4,8 +4,59 @@
     "month": null,
     "country": null
   },
-  "count": 2751,
+  "count": 2756,
   "results": [
+    {
+      "date": "2025-10-03",
+      "victim": "Ville de Fumel",
+      "domain": "mairiedefumel.fr",
+      "country": "FR",
+      "summary": "La ville de Fumel a été victime d'une cyberattaque avec demande de rançon, ce qui a bloqué certains services à la population. Les agents de la ville ont trouvé un message d'erreur en anglais demandant le paiement d'une rançon pour débloquer la situation. Le maire a indiqué que la ville avait pris une assurance contre ce type d'attaque et sera aidée par une société pour résoudre le problème.",
+      "title": "\"C'est le bordel\" : cette petite ville du Lot-et-Garonne victime d'une cyber attaque \"avec demande de rançon\"",
+      "url": "https://actu.fr/nouvelle-aquitaine/fumel_47106/c-est-le-bordel-cette-petite-ville-du-lot-et-garonne-victime-d-une-cyber-attaque-avec-demande-de-rancon_63249599.html",
+      "added": "2025-10-03",
+      "infostealer": {
+        "update": "2025-10-03 09:53:40",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-10-02",
+      "victim": "Shamir Medical Center",
+      "domain": "shamir.org",
+      "country": "IL",
+      "summary": "Le centre médical a été victime d'une attaque informatique impliquant Qilin. Les opérations ont continué normalement, mais les experts examinent si des données sensibles ont été compromises. Le centre médical Shamir a été touché, mais aucune information n'a été divulguée sur les conséquences de l'attaque. Les experts sont en train d'examiner l'incident pour déterminer si des données de patients ont été compromises.",
+      "title": "Attempted cyber attack leaves Israeli patient data at risk | The Jerusalem Post",
+      "url": "https://www.jpost.com/health-and-wellness/article-869266",
+      "added": "2025-10-03",
+      "infostealer": {
+        "update": "2025-10-02 14:49:12",
+        "employees": 7,
+        "users": 34,
+        "thirdparties_domain": 0,
+        "employees_url": 1,
+        "users_url": 9,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "RedLine": 32,
+          "Lumma": 20,
+          "Raccoon": 10,
+          "StealC": 8,
+          "Vidar": 2
+        }
+      },
+      "ransomware": {
+        "group": "qilin",
+        "permalink": "https://www.ransomware.live/id/U2hhbWlyIE1lZGljYWwgQ2VudGVyQHFpbGlu"
+      }
+    },
     {
       "date": "2025-09-29",
       "victim": "LG Balakrishnan & Bros Ltd",
@@ -174,6 +225,33 @@
           "Acreed": 1,
           "Azorult": 1,
           "CRYPTBOT": 1
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-09-24",
+      "victim": "Bugnard SA",
+      "domain": "bugnard.ch",
+      "country": "CH",
+      "summary": "La PME vaudoise Bugnard SA a été victime d'une attaque par ransomware détectée le 24 septembre, l'entreprise reste à l'arrêt et l'hypothèse d'un paiement est envisagée. Les serveurs ainsi que le site internet ont été immédiatement mis hors ligne à titre de précaution. Le montant de la rançon initialement exigée par les cybercriminels s'élèverait à 450'000 dollars.",
+      "title": "La PME vaudoise Bugnard SA victime d’un ransomware",
+      "url": "https://www.ictjournal.ch/news/2025-10-03/la-pme-vaudoise-bugnard-sa-victime-dun-ransomware",
+      "added": "2025-10-03",
+      "infostealer": {
+        "update": "2025-10-03 09:54:19",
+        "employees": 0,
+        "users": 21,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 7,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "RedLine": 8,
+          "Generic Stealer": 4,
+          "Lumma": 4,
+          "Raccoon": 3,
+          "Vidar": 1
         }
       },
       "ransomware": null
@@ -27079,6 +27157,27 @@
     },
     {
       "date": "2024-08-19",
+      "victim": "DelBello Donnellan Weingarten Wise & Wiederkehr, LLP",
+      "domain": "ddw-law.com",
+      "country": "US",
+      "summary": "DelBello Donnellan Weingarten Wise & Wiederkehr, LLP experienced a data security incident where unauthorized parties may have acquired personal information, including names, Social Security numbers, and payment card numbers. The incident was discovered on August 19, 2024, and the firm notified affected individuals on September 11, 2025. The firm is offering complimentary credit monitoring and identity protection services to affected individuals.",
+      "title": "2025-10-01 DelBello Donnellan Weingarten Wise & Wiederkehr Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-10-01-delbello-donnellan-weingarten-wise-wiederkehr-data-breach-notice-consumers",
+      "added": "2025-10-03",
+      "infostealer": {
+        "update": "2025-10-03 09:54:00",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2024-08-19",
       "victim": "BVI Electricity Corporation (BVIEC)",
       "domain": "bvielectricity.com",
       "country": "VG",
@@ -33460,6 +33559,28 @@
         "users_url": 0
       },
       "ransomware": null
+    },
+    {
+      "date": "2024-05-08",
+      "victim": "Glenwood Management",
+      "domain": "glenwoodnyc.com",
+      "country": "US",
+      "summary": "Glenwood Management suffered a cyber-attack that may have exposed personal information. The attackers likely targeted the company for financial gain. A cyberattack against Glenwood Management was claimed by Dan0n on May 8, 2024.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/38e34dc2-5f41-4cd5-b68d-864a98dd84e4.html",
+      "added": "2025-10-03",
+      "infostealer": {
+        "update": "2024-05-28 21:28:49",
+        "employees": 0,
+        "users": 1,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 0
+      },
+      "ransomware": {
+        "group": "dAn0n",
+        "permalink": "https://www.ransomware.live/id/Z2xlbndvb2RueWMuY29tQGRBbjBu"
+      }
     },
     {
       "date": "2024-05-08",

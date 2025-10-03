@@ -286475,5 +286475,20 @@
         "activity": "Agriculture and Food Production",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Banco Hipotecario del Uruguay",
+        "group_name": "crypto24",
+        "discovered": "2025-10-03 09:12:18.989659",
+        "description": "We have exfiltrated over 700GB of most sensitive highly sensitive customer PII, financial/accounting records, legal/contracts, property/title documents, credit and risk files, market/trading operations data, and IT/security configuration information.",
+        "website": "www.bhu.net",
+        "published": "2025-10-03 09:12:17.484263",
+        "post_url": "",
+        "country": "UY",
+        "activity": "Financial Services",
+        "duplicates": [],
+        "extrainfos": {
+            "size": "700GB"
+        }
     }
 ]

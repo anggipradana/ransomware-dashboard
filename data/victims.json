@@ -286434,5 +286434,20 @@
         "activity": "Manufacturing",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Structural Component Systems",
+        "group_name": "securotrop",
+        "discovered": "2025-10-02 23:54:09.708322",
+        "description": "Status: AWAITING\nSize: 1219 GB",
+        "website": "www.scstruss.com",
+        "published": "2025-10-02 23:53:57.206788",
+        "post_url": "http://securo45z554mw7rgrt7wcgv5eenj2xmxyrsdj3fcjsvindu63s4bsid.onion",
+        "country": "US",
+        "activity": "Construction",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "1219 GB"
+        }
     }
 ]

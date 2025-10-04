@@ -287349,5 +287349,20 @@
         "activity": "Financial Services",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Mill Bay Marine Group",
+        "group_name": "securotrop",
+        "discovered": "2025-10-04 21:18:22.151944",
+        "description": "Status: AWAITING\nSize: 536 GB",
+        "website": "www.mbmg.ca",
+        "published": "2025-10-04 21:18:08.959910",
+        "post_url": "http://securo45z554mw7rgrt7wcgv5eenj2xmxyrsdj3fcjsvindu63s4bsid.onion",
+        "country": "CA",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "536 GB"
+        }
     }
 ]

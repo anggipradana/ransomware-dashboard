@@ -4,8 +4,36 @@
     "month": null,
     "country": null
   },
-  "count": 2756,
+  "count": 2757,
   "results": [
+    {
+      "date": "2025-10-03",
+      "victim": "Affärsverken",
+      "domain": "affarsverken.se",
+      "country": "SE",
+      "summary": "Le kraftvärmeverk Mältan en Suède a été victime d'une cyberattaque, mais selon la police, il n'y a pas de danger pour le public et la production n'est pas affectée. Une équipe d'intervention interne a été mise en place pour enquêter sur l'incident. Les autorités suédoises sont en train d'enquêter sur l'attaque.",
+      "title": "Cyberangrepp mot kraftvärmeverket Mältan utanför Karlskrona",
+      "url": "https://www.tv4.se/artikel/4I6faZHKLktyBeZmiNyGfL/cyberangrepp-mot-kraftvaermeverk",
+      "added": "2025-10-04",
+      "infostealer": {
+        "update": "2025-10-04 14:18:27",
+        "employees": 0,
+        "users": 8,
+        "thirdparties_domain": 1,
+        "employees_url": 0,
+        "users_url": 11,
+        "thirdparties": 1,
+        "infostealer_stats": {
+          "Raccoon": 6,
+          "RedLine": 4,
+          "Azorult": 2,
+          "Vidar": 2,
+          "Generic Stealer": 1,
+          "Lumma": 1
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2025-10-03",
       "victim": "Ville de Fumel",

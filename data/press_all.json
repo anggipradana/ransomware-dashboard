@@ -4,8 +4,39 @@
     "month": null,
     "country": null
   },
-  "count": 2757,
+  "count": 2758,
   "results": [
+    {
+      "date": "2025-10-03",
+      "victim": "Administration nationale de l'éducation publique",
+      "domain": "anep.edu.uy",
+      "country": "UY",
+      "summary": "Un incidente de ciberseguridad a affecté la plateforme GURI, qui restera hors service pendant les prochaines heures. L'incident est actuellement en cours d'investigation. Les détails de l'incident seront communiqués dès que possible.",
+      "title": "Incidente de ciberseguridad que afecta a plataforma GURI",
+      "url": "https://www.anep.edu.uy/incidente-de-ciberseguridad-que-afecta-plataforma-guri",
+      "added": "2025-10-04",
+      "infostealer": {
+        "update": "2025-10-04 15:21:05",
+        "employees": 40,
+        "users": 685,
+        "thirdparties_domain": 10,
+        "employees_url": 16,
+        "users_url": 100,
+        "thirdparties": 9,
+        "infostealer_stats": {
+          "RedLine": 334,
+          "Lumma": 120,
+          "Generic Stealer": 117,
+          "Raccoon": 44,
+          "StealC": 39,
+          "Vidar": 30,
+          "UNKNOWN": 17,
+          "Azorult": 6,
+          "Ficker": 1
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2025-10-03",
       "victim": "Affärsverken",

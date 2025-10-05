@@ -287494,5 +287494,18 @@
         "activity": "Manufacturing",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Red Hat, Inc.",
+        "group_name": "shinyhunters",
+        "discovered": "2025-10-05 19:21:37.562380",
+        "description": "[AI generated] Red Hat, Inc. is a leading American multinational software company that provides open-source software products to businesses. It became a subsidiary of IBM in 2019. The company is best known for Red Hat Enterprise Linux, a top-level operating system. Other notable offering includes its architecture service, cloud computing (virtualization), and storage solutions.",
+        "website": "",
+        "published": "2025-09-13 00:00:00.000000",
+        "post_url": "https://breachforums.hn/rhel.html",
+        "country": "US",
+        "activity": "Technology",
+        "duplicates": [],
+        "extrainfos": []
     }
 ]

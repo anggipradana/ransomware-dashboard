@@ -4,8 +4,32 @@
     "month": null,
     "country": null
   },
-  "count": 2762,
+  "count": 2763,
   "results": [
+    {
+      "date": "2025-10-03",
+      "victim": "Commune de Saint-Claude",
+      "domain": "ville-saintclaude.fr",
+      "country": "FR",
+      "summary": "La commune de Saint-Claude a été victime d'une cyber-attaque, paralysant les services communaux depuis vendredi en fin d'après-midi. Le maire Lucy Weck-Mirre a mis en place une cellule de crise pour gérer la situation. Les détails de l'attaque et les mesures prises pour y remédier n'ont pas été précisés.",
+      "title": "La commune de Saint-Claude victime d'une cyber-attaque",
+      "url": "https://www.guadeloupe.franceantilles.fr/actualite/faits-divers/la-commune-victime-dune-cyber-attaque-1052732.php",
+      "added": "2025-10-05",
+      "infostealer": {
+        "update": "2025-10-05 11:53:49",
+        "employees": 0,
+        "users": 5,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 2,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "Lumma": 8,
+          "RedLine": 2
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2025-10-03",
       "victim": "Administration nationale de l'éducation publique",

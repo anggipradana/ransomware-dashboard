@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2764,
+  "count": 2767,
   "results": [
     {
       "date": "2025-10-07",
@@ -510,6 +510,27 @@
     },
     {
       "date": "2025-09-22",
+      "victim": "Healthy Living",
+      "domain": "healthylivingmarket.com",
+      "country": "US",
+      "summary": "Healthy Living suffered a ransomware attack on 9/22/2025, potentially accessing files containing personally identifiable information. The organization has seen no evidence of misuse, but is notifying staff in an abundance of caution. Staff are advised to monitor their credit reports and account statements for suspicious activity.",
+      "title": "2025-10-03 Road To Hana dba Healthy Living Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-10-03-road-hana-dba-healthy-living-data-breach-notice-consumers",
+      "added": "2025-10-07",
+      "infostealer": {
+        "update": "2025-10-07 10:33:28",
+        "employees": 0,
+        "users": 1,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 1,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-09-22",
       "victim": "TENRYU AMERICA, INC.",
       "domain": "tenryu-saw.com",
       "country": "US",
@@ -845,6 +866,41 @@
         "users_url": 0,
         "thirdparties": 0,
         "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-09-13",
+      "victim": "Sorgenia",
+      "domain": "sorgenia.it",
+      "country": "IT",
+      "summary": "Un attaque hacker a visé un fournisseur de Sorgenia, entraînant la fuite de données personnelles de certains clients, notamment ceux ayant un contrat de service à tarifs graduels pour les micro-entreprises. L'attaque a eu lieu le 13 septembre 2025 et Sorgenia a informé le Garante de la protection des données personnelles dans les délais prévus par le GDPR. Les communications supplémentaires aux personnes concernées sont en cours d'envoi.",
+      "title": "Sorgenia, attacco hacker: la società conferma l’accesso illecito. Ecco la tipologia di clienti colpita",
+      "url": "https://www.dday.it/redazione/54779/sorgenia-attacco-hacker-la-societa-conferma-laccesso-illecito-ecco-la-tipologia-di-clienti-colpita",
+      "added": "2025-10-07",
+      "infostealer": {
+        "update": "2025-10-07 10:32:51",
+        "employees": 9,
+        "users": 2918,
+        "thirdparties_domain": 5,
+        "employees_url": 4,
+        "users_url": 100,
+        "thirdparties": 8,
+        "infostealer_stats": {
+          "RedLine": 1449,
+          "Lumma": 1293,
+          "Generic Stealer": 390,
+          "Raccoon": 728,
+          "Vidar": 257,
+          "StealC": 210,
+          "UNKNOWN": 92,
+          "Azorult": 76,
+          "Atomic": 30,
+          "CRYPTBOT": 16,
+          "DarkCrystal": 6,
+          "Taurus": 10,
+          "Mystic": 4
+        }
       },
       "ransomware": null
     },
@@ -1862,7 +1918,7 @@
     },
     {
       "date": "2025-08-15",
-      "victim": "Moore & Van Allen PLLC",
+      "victim": "Moore & Van Allen",
       "domain": "mvalaw.com",
       "country": "US",
       "summary": "An unauthorized actor accessed Moore & Van Allen PLLC's systems for approximately twenty minutes on August 15, 2025, and acquired copies of certain files containing the name and Social Security number of four Maine residents. The attack was claimed by Silentransomgroup on September 3.",
@@ -16210,6 +16266,27 @@
         "thirdparties": 0,
         "employees_url": 0,
         "users_url": 0
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-02-01",
+      "victim": "Rogers Mechanical Contractors, LLC",
+      "domain": "rmciga.com",
+      "country": "US",
+      "summary": "Rogers Mechanical Contractors, LLC experienced a network disruption that led to unauthorized access to certain information within their systems. The breach occurred on or around January 31, 2025, and was discovered on July 21, 2025. The affected information may have included first and last names in combination with other data.",
+      "title": "2025-10-02 Rogers Mechanical Contractors Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-10-02-rogers-mechanical-contractors-data-breach-notice-consumers",
+      "added": "2025-10-07",
+      "infostealer": {
+        "update": "2025-10-07 10:33:07",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },

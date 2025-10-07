@@ -288399,5 +288399,42 @@
         "activity": "Manufacturing",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "indiesemi.com",
+        "group_name": "chaos",
+        "discovered": "2025-10-07 19:51:06.189793",
+        "description": "indie offers highly innovative automotive semiconductors and software solutions for Advanced Driver Assistance Systems (ADAS), including LiDAR, connected car, user experience and electrification applications.",
+        "website": "www.indiesemi.com",
+        "published": "2025-10-07 19:50:53.188903",
+        "post_url": "http://hptqq2o2qjva7lcaaq67w36jihzivkaitkexorauw7b2yul2z6zozpqd.onion/post/QHU4zM1ELStrkhq4mfE8vlydMRNGq4UF",
+        "country": "US",
+        "activity": "Technology",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "100 GB"
+        }
+    },
+    {
+        "post_title": "www.rocketstores.com",
+        "group_name": "chaos",
+        "discovered": "2025-10-07 19:51:25.176219",
+        "description": "$738.9 Million | Gas Stations, Convenience & Liquor Stores Retail",
+        "website": "www.rocketstores.com",
+        "published": "2025-02-26 00:00:00.000000",
+        "post_url": "http://hptqq2o2qjva7lcaaq67w36jihzivkaitkexorauw7b2yul2z6zozpqd.onion/post/dGMSUMVDjUW1WYDk173ywKODNDG89sQe",
+        "country": "",
+        "activity": "Not Found",
+        "duplicates": [
+            {
+                "date": "2025-10-07 19:51:25.227346",
+                "group": "cactus",
+                "link": "https://www.ransomware.live/id/cm9ja2V0c3RvcmVzLmNvbUBjYWN0dXM=",
+                "attackdate": "2025-02-26 00:00:00.000000"
+            }
+        ],
+        "extrainfos": {
+            "data_size": "400 GB"
+        }
     }
 ]

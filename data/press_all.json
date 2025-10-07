@@ -4,8 +4,37 @@
     "month": null,
     "country": null
   },
-  "count": 2763,
+  "count": 2764,
   "results": [
+    {
+      "date": "2025-10-07",
+      "victim": "Prince Housing & Development Corp.",
+      "domain": "prince.com.tw",
+      "country": "TW",
+      "summary": "La compagnie a subi une attaque de hackers sur ses systèmes d'information, mais a activé des mesures de protection et n'a pas subi de pertes significatives. Les systèmes sont en cours de scan et de test pour assurer la sécurité. La compagnie renforce ses mesures de protection pour prévenir de futures attaques.",
+      "title": "Today's Information",
+      "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=133522&spoke_date=20251007&co_id=2511",
+      "added": "2025-10-07",
+      "infostealer": {
+        "update": "2025-10-07 09:38:01",
+        "employees": 0,
+        "users": 105,
+        "thirdparties_domain": 1,
+        "employees_url": 0,
+        "users_url": 15,
+        "thirdparties": 2,
+        "infostealer_stats": {
+          "RedLine": 56,
+          "Lumma": 52,
+          "StealC": 36,
+          "Raccoon": 22,
+          "Vidar": 8,
+          "Atomic": 4,
+          "UNKNOWN": 2
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2025-10-03",
       "victim": "Commune de Saint-Claude",

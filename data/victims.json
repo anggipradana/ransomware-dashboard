@@ -288436,5 +288436,40 @@
         "extrainfos": {
             "data_size": "400 GB"
         }
+    },
+    {
+        "post_title": "ebaengineering.com",
+        "group_name": "chaos",
+        "discovered": "2025-10-07 21:20:41.907764",
+        "description": "EBA Engineering is a multidisciplinary engineering firm focused on providing exceptional, client-centered experiences with a commitment to delivering results. They offer a wide range of services including construction management, civil site engineering, geotechnical engineering, and asset management…",
+        "website": "www.ebaengineering.com",
+        "published": "2025-10-07 21:20:28.210251",
+        "post_url": "http://hptqq2o2qjva7lcaaq67w36jihzivkaitkexorauw7b2yul2z6zozpqd.onion/post/OVsE8XTrZxDuO2GaH6AbnrdTxK2EUqM2",
+        "country": "US",
+        "activity": "Construction",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "450 GB"
+        }
+    },
+    {
+        "post_title": "Seguros la Cmara",
+        "group_name": "thegentlemen",
+        "discovered": "2025-10-07 21:58:38.809708",
+        "description": "https://www.zoominfo.com/c/seguros-la-cmara/450079802 www.seguroslacamara.cl Corredora de Seguros La Cámara offers a wide range of insurance products, including construction insurance, life insurance, personal insurance, and general insurance. The company serves a diverse clientele, including individuals and businesses, with services tailored to personal and commercial needs. They provide additional support in areas such as medical expenses, home insurance, and travel assistance. The company emphasizes customer safety and security, ensuring clients feel secure from the first day.",
+        "website": "www.zoominfo.com",
+        "published": "2025-02-19 00:00:00.000000",
+        "post_url": "http://tezwsse5czllksjb7cwp65rvnk4oobmzti2znn42i43bjdfd2prqqkad.onion",
+        "country": "AR",
+        "activity": "Financial Services",
+        "duplicates": [
+            {
+                "date": "2025-10-07 21:58:38.874583",
+                "group": "chaos",
+                "link": "https://www.ransomware.live/id/QmFybmhhcnRjcmFuZS5jb21AY2hhb3M=",
+                "attackdate": "2025-02-19 00:00:00.000000"
+            }
+        ],
+        "extrainfos": []
     }
 ]

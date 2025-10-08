@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2771,
+  "count": 2776,
   "results": [
     {
       "date": "2025-10-07",
@@ -282,6 +282,29 @@
         "users_url": 0,
         "thirdparties": 0,
         "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-09-30",
+      "victim": "Halifax County Public Schools",
+      "domain": "halifax.k12.va.us",
+      "country": "US",
+      "summary": "Les écoles du comté de Halifax, en Virginie, ont enquêté sur un incident de cybersécurité et ont coupé l'accès à Internet en guise de précaution. L'incident a été détecté par l'équipe informatique et les autorités ont été informées. Les bâtiments scolaires sont restés ouverts et la sécurité physique n'a pas été affectée.",
+      "title": "Halifax, VA schools probe cyber incident",
+      "url": "https://dysruptionhub.com/halifax-va-schools-cyber-incident/",
+      "added": "2025-10-08",
+      "infostealer": {
+        "update": "2025-10-08 12:25:54",
+        "employees": 0,
+        "users": 1,
+        "thirdparties_domain": 14,
+        "employees_url": 0,
+        "users_url": 1,
+        "thirdparties": 14,
+        "infostealer_stats": {
+          "RedLine": 2
+        }
       },
       "ransomware": null
     },
@@ -855,6 +878,32 @@
           "Vidar": 14,
           "StealC": 14,
           "Azorult": 2
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-09-16",
+      "victim": "Chester County Library System",
+      "domain": "ccls.org",
+      "country": "US",
+      "summary": "Le système de bibliothèque du comté de Chester en Pennsylvanie a subi une panne de plusieurs jours en raison d'une attaque de ransomware, affectant les 18 succursales et perturbant les services publics. Les services de téléphone et d'internet ont été rétablis le 25 septembre, mais des problèmes d'e-mail persistaient dans certains sites. Les services ont été pleinement rétablis le 6 octobre.",
+      "title": "Chester County libraries restore after outage",
+      "url": "https://dysruptionhub.com/chester-county-libraries-ransomware-outage/",
+      "added": "2025-10-08",
+      "infostealer": {
+        "update": "2025-10-08 12:26:14",
+        "employees": 0,
+        "users": 24,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 8,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "Azorult": 14,
+          "RedLine": 12,
+          "Lumma": 8,
+          "Raccoon": 4
         }
       },
       "ransomware": null
@@ -8206,6 +8255,37 @@
     },
     {
       "date": "2025-05-05",
+      "victim": "The Institute of Culinary Education",
+      "domain": "ice.edu",
+      "country": "US",
+      "summary": "The Institute of Culinary Education suffered a data breach where an unauthorized actor gained access to certain systems and copied files, potentially exposing personal information of some individuals. The incident occurred on or around May 5, 2025. The attack was claimed by Payoutsking, and discovered on July 7.",
+      "title": "2025-10-06 The Institute of Culinary Education Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-10-06-institute-culinary-education-data-breach-notice-consumers",
+      "added": "2025-10-08",
+      "infostealer": {
+        "update": "2025-07-07 22:15:16",
+        "employees": 0,
+        "users": 67,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 12,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "Lumma": 30,
+          "RedLine": 28,
+          "Azorult": 22,
+          "Raccoon": 18,
+          "Vidar": 6,
+          "Predator": 2
+        }
+      },
+      "ransomware": {
+        "group": "payoutsking",
+        "permalink": "https://www.ransomware.live/id/SW5zdGl0dXRlIG9mIEN1bGluYXJ5IEVkdWNhdGlvbkBwYXlvdXRza2luZw=="
+      }
+    },
+    {
+      "date": "2025-05-05",
       "victim": "Infinite Services",
       "domain": "infiniteservices.org",
       "country": "US",
@@ -14288,6 +14368,27 @@
         "group": "incransom",
         "permalink": "https://www.ransomware.live/id/Q2l0eSBvZiBGb3J0IFN0LiBKb2huIChjaXR5LmNpdHlmc2oubG9jYWwpQGluY3JhbnNvbQ=="
       }
+    },
+    {
+      "date": "2025-02-24",
+      "victim": "Wear, Howell, Strickland, Quinn and Law, CPAs",
+      "domain": "whsq.com",
+      "country": "US",
+      "summary": "Wear, Howell, Strickland, Quinn and Law, CPAs experienced a data breach after an unknown actor gained unauthorized access to their network between February 11 and 19, 2025. The breach may have involved personal information, including names and other data elements. The organization is offering complimentary credit monitoring and identity theft protection services.",
+      "title": "2025-10-06 Wear, Howell, Strickland, Quinn and Law Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-10-06-wear-howell-strickland-quinn-and-law-data-breach-notice-consumers",
+      "added": "2025-10-08",
+      "infostealer": {
+        "update": "2025-10-08 12:25:33",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
     },
     {
       "date": "2025-02-24",
@@ -24067,6 +24168,27 @@
         "employees_url": 0,
         "users_url": 0,
         "thirdparties": 0
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2024-10-14",
+      "victim": "Methodist Homes of Alabama & Northwest Florida",
+      "domain": "methodisthomes.org",
+      "country": "US",
+      "summary": "Methodist Homes of Alabama & Northwest Florida suffered a data breach due to suspicious activity in their network. The breach occurred between October 2, 2024, and October 14, 2024, and affected certain personal information of individuals. The organization is offering complimentary credit monitoring and identity protection services.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/9dfaa9ab-b710-4823-ad0d-6397bb624e2c.html",
+      "added": "2025-10-08",
+      "infostealer": {
+        "update": "2025-10-08 12:25:11",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },

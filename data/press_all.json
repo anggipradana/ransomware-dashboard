@@ -4,8 +4,29 @@
     "month": null,
     "country": null
   },
-  "count": 2770,
+  "count": 2771,
   "results": [
+    {
+      "date": "2025-10-07",
+      "victim": "Bristol Broadcasting",
+      "domain": "bristolbroadcasting.com",
+      "country": "US",
+      "summary": "Bristol Broadcasting a signalé des problèmes techniques après la mention d'un ransomware à l'antenne, les émissions en ligne de certaines stations étant affectées. Les causes de l'incident sont encore en cours d'évaluation. Les émissions en direct ont continué, mais les flux en ligne ont été interrompus.",
+      "title": "Charleston W.Va. radio disruption after 'ransomware'",
+      "url": "https://dysruptionhub.com/charleston-wv-radio-disruption-ransomware/",
+      "added": "2025-10-08",
+      "infostealer": {
+        "update": "2025-10-08 11:28:09",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2025-10-07",
       "victim": "Alfred-Wegener-Institut für Polar- und Meeresforschung (AWI)",

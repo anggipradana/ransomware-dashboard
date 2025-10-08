@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2777,
+  "count": 2778,
   "results": [
     {
       "date": "2025-10-07",
@@ -327,6 +327,37 @@
         "thirdparties": 14,
         "infostealer_stats": {
           "RedLine": 2
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-09-29",
+      "victim": "Engel & Völkers",
+      "domain": "engelvoelkers.com",
+      "country": "DE",
+      "summary": "Le groupe immobilier Engel & Völkers a été victime d'une attaque informatique à la fin septembre 2025, entraînant la fuite de données personnelles de clients. Les données compromises incluent des noms, des adresses, des coordonnées et des informations liées à des transactions immobilières. L'entreprise a informé les autorités compétentes et a pris des mesures pour renforcer la sécurité de ses systèmes.",
+      "title": "Engel & Völkers: Cybervorfall mit Datenabfluss im September",
+      "url": "https://www.borncity.com/blog/2025/10/08/engel-voelkers-cybervorfall-mit-datenabfluss-im-september/",
+      "added": "2025-10-08",
+      "infostealer": {
+        "update": "2025-10-08 18:22:55",
+        "employees": 6,
+        "users": 222,
+        "thirdparties_domain": 215,
+        "employees_url": 7,
+        "users_url": 35,
+        "thirdparties": 149,
+        "infostealer_stats": {
+          "RedLine": 137,
+          "Lumma": 125,
+          "Generic Stealer": 42,
+          "Raccoon": 40,
+          "Azorult": 16,
+          "Vidar": 12,
+          "StealC": 12,
+          "UNKNOWN": 4,
+          "Atomic": 2
         }
       },
       "ransomware": null

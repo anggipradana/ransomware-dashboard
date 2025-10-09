@@ -1,5 +1,5 @@
 {
-  "count": 190,
+  "count": 191,
   "groups": [
     {
       "group": ".git",
@@ -675,6 +675,10 @@
     },
     {
       "group": "targetcompany",
+      "ransomnotes_count": 1
+    },
+    {
+      "group": "tengu",
       "ransomnotes_count": 1
     },
     {

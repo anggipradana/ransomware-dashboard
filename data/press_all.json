@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2782,
+  "count": 2783,
   "results": [
     {
       "date": "2025-10-08",
@@ -796,6 +796,29 @@
         "infostealer_stats": {
           "StealC": 1,
           "Lumma": 1
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-09-20",
+      "victim": "BK Technologies Corporation",
+      "domain": "bktechnologies.com",
+      "country": "US",
+      "summary": "BK Technologies Corporation a détecté une activité suspecte dans ses systèmes d'information, une enquête a été lancée et les systèmes affectés ont été isolés. L'incident a eu un impact mineur sur les opérations de l'entreprise et une partie des coûts devraient être remboursés par les assurances. L'entreprise continue d'enquêter sur la portée de l'accès non autorisé.",
+      "title": "bkti20251006_8k.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/2186/000143774925030540/bkti20251006_8k.htm",
+      "added": "2025-10-09",
+      "infostealer": {
+        "update": "2025-10-09 14:27:47",
+        "employees": 1,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 6,
+        "users_url": 10,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "StealC": 2
         }
       },
       "ransomware": null

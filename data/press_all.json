@@ -4,8 +4,68 @@
     "month": null,
     "country": null
   },
-  "count": 2787,
+  "count": 2789,
   "results": [
+    {
+      "date": "2025-10-10",
+      "victim": "Lycées de la région des Hauts-de-France",
+      "domain": "hautsdefrance.fr",
+      "country": "FR",
+      "summary": "Une attaque de rançongiciel impliquant l'enseigne Qilin a touché près de 80% des lycées publics de la région des Hauts-de-France, mais les cours continuent malgré la suspension temporaire de l'accès à Internet. Les équipes techniques travaillent à contenir l'attaque et à sécuriser les infrastructures. Une cellule de crise a été mise en place pour coordonner la réponse à l'incident.",
+      "title": "Près de 80 % des lycées des Hauts-de-France touchés par une cyberattaque",
+      "url": "https://www.horizonactu.fr/actualite-45201-pres-de-80-des-lycees-des-hauts-de-france-touches-par-une-cyberattaque",
+      "added": "2025-10-10",
+      "infostealer": {
+        "update": "2025-10-10 14:45:07",
+        "employees": 53,
+        "users": 5631,
+        "thirdparties_domain": 20,
+        "employees_url": 18,
+        "users_url": 100,
+        "thirdparties": 16,
+        "infostealer_stats": {
+          "RedLine": 3666,
+          "Lumma": 2918,
+          "Raccoon": 1304,
+          "Azorult": 536,
+          "Vidar": 430,
+          "StealC": 278,
+          "UNKNOWN": 164,
+          "CRYPTBOT": 24,
+          "Mystic": 20,
+          "Taurus": 14,
+          "Atomic": 14
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-10-09",
+      "victim": "Ville de Sugar Land",
+      "domain": "sugarlandtx.gov",
+      "country": "US",
+      "summary": "La ville de Sugar Land, au Texas, a subi une atteinte à la sécurité de son réseau interne, ce qui perturbe certains services en ligne, mais les systèmes d'urgence tels que le 911 restent opérationnels. La police travaille avec les autorités étatiques et fédérales pour enquêter sur cet événement cybernétique. Les fonctionnaires n'ont pas précisé comment la faille de sécurité s'est produite ni si des données ont été compromises.",
+      "title": "Sugar Land cyber event disrupts some services; 911 OK",
+      "url": "https://dysruptionhub.com/sugar-land-cyber-event-services-911/",
+      "added": "2025-10-10",
+      "infostealer": {
+        "update": "2025-10-10 14:44:45",
+        "employees": 2,
+        "users": 46,
+        "thirdparties_domain": 4,
+        "employees_url": 5,
+        "users_url": 21,
+        "thirdparties": 2,
+        "infostealer_stats": {
+          "Azorult": 24,
+          "Lumma": 20,
+          "RedLine": 14,
+          "Raccoon": 4,
+          "StealC": 2
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2025-10-08",
       "victim": "Pro-Partner",

@@ -288786,7 +288786,14 @@
         "country": "AU",
         "activity": "Telecommunication",
         "duplicates": [],
-        "extrainfos": []
+        "extrainfos": [],
+        "updates": [
+            {
+                "date": "2025-10-09 00:00:00.000000",
+                "description": "Telstra denies being hacked in cyber extortion bid",
+                "link": "https://www.afr.com/technology/telstra-also-targeted-by-hackers-who-extorted-qantas-20251009-p5n18w"
+            }
+        ]
     },
     {
         "post_title": "Desert Plastering",

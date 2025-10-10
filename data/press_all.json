@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2783,
+  "count": 2787,
   "results": [
     {
       "date": "2025-10-08",
@@ -1050,6 +1050,27 @@
       "added": "2025-09-23",
       "infostealer": {
         "update": "2025-09-23 09:33:26",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-09-15",
+      "victim": "Legacy5 Corporate Services, LLC",
+      "domain": "legacy5.com",
+      "country": "US",
+      "summary": "A security incident occurred involving unauthorized access to a limited portion of the companies' network, resulting in potential exposure of personal data, including names, Social Security numbers, and financial account information.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/2479471b-bb6b-4f2f-b41f-94740c0fcc3b.html",
+      "added": "2025-10-10",
+      "infostealer": {
+        "update": "2025-10-10 08:25:27",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,
@@ -3999,6 +4020,30 @@
         }
       },
       "ransomware": null
+    },
+    {
+      "date": "2025-07-09",
+      "victim": "Coos County Family Health Services",
+      "domain": "coosfamilyhealth.org",
+      "country": "US",
+      "summary": "The attack was claimed by Runsomewares on August 13.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/8a78e41b-2bf3-4afc-b10a-5079c8849885.html",
+      "added": "2025-10-10",
+      "infostealer": {
+        "update": "2025-08-13 12:49:07",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "RunSomeWares",
+        "permalink": "https://www.ransomware.live/id/Q2/DtnMgQ291bnR5IEZhbWlseSBIZWFsdGhAUnVuU29tZVdhcmVz"
+      }
     },
     {
       "date": "2025-07-09",
@@ -14178,6 +14223,30 @@
     },
     {
       "date": "2025-02-28",
+      "victim": "Montgomery Little & Soran, PC",
+      "domain": "montgomerylittle.com",
+      "country": "US",
+      "summary": "Montgomery Little & Soran, PC experienced a data security incident that may have included personal information. An unknown actor potentially acquired certain files from their network. The attack was claimed by Weyhro on March 25th..",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/248cad14-7656-4ac8-9da8-ed99123c523b.html",
+      "added": "2025-10-10",
+      "infostealer": {
+        "update": "2025-03-25 06:26:04",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "weyhro",
+        "permalink": "https://www.ransomware.live/id/TW9udGdvbWVyeSBMaXR0bGUgJiBTb3JhbiwgUENAd2V5aHJv"
+      }
+    },
+    {
+      "date": "2025-02-28",
       "victim": "The LoveSac Company",
       "domain": "lovesac.com",
       "country": "US",
@@ -18019,6 +18088,27 @@
         "group": "safepay",
         "permalink": "https://www.ransomware.live/id/Y29uZHVlbnQuY29tQHNhZmVwYXk="
       }
+    },
+    {
+      "date": "2025-01-14",
+      "victim": "Ellis Early Learning, Inc.",
+      "domain": "ellisearlylearning.org",
+      "country": "US",
+      "summary": "Ellis Early Learning, Inc experienced a network disruption that led to unauthorized access to certain information stored on their network between January 10, 2025 to January 14, 2025. The affected information includes first and last name, in combination with other data. The incident was discovered on January 14, 2025.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/b4c86435-437a-4b12-b514-f4e791bf164a.html",
+      "added": "2025-10-10",
+      "infostealer": {
+        "update": "2025-10-10 08:25:48",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
     },
     {
       "date": "2025-01-13",

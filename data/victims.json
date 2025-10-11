@@ -289843,5 +289843,61 @@
         "activity": "Manufacturing",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "EPS FUJ Private School UAE",
+        "group_name": "bqtlock",
+        "discovered": "2025-10-11 20:27:35.043646",
+        "description": "epsfuj.com www.epsfuj.com",
+        "website": "epsfuj.comw",
+        "published": "2025-10-11 20:27:08.384900",
+        "post_url": "http://yywhylvqeqynzik6ibocb53o2nat7lmzn5ynjpar3stndzcgmy6dkgid.onion",
+        "country": "AE",
+        "activity": "Education",
+        "duplicates": [],
+        "extrainfos": {
+            "ransom": "50 XMR"
+        }
+    },
+    {
+        "post_title": "Adore UAE",
+        "group_name": "bqtlock",
+        "discovered": "2025-10-11 20:28:01.448672",
+        "description": "adoreuae.com www.adoreuae.com",
+        "website": "adoreuae.com",
+        "published": "2025-10-11 20:27:37.310939",
+        "post_url": "http://yywhylvqeqynzik6ibocb53o2nat7lmzn5ynjpar3stndzcgmy6dkgid.onion",
+        "country": "AE",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": {
+            "ransom": "66 XMR"
+        }
+    },
+    {
+        "post_title": "Citizens' Committee for Children of New York",
+        "group_name": "brotherhood",
+        "discovered": "2025-10-11 20:32:17.059792",
+        "description": "Contains: 45 Gb compressed Files",
+        "website": "www.cccnewyork.org",
+        "published": "2025-10-11 20:32:15.903706",
+        "post_url": "",
+        "country": "US",
+        "activity": "Public Sector",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Integlia",
+        "group_name": "brotherhood",
+        "discovered": "2025-10-11 20:32:39.960493",
+        "description": "Contains: 66 Gb compressed Files",
+        "website": "integlia.ca",
+        "published": "2025-10-11 20:32:39.152280",
+        "post_url": "",
+        "country": "CA",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": []
     }
 ]

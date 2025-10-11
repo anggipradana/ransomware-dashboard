@@ -8398,12 +8398,12 @@
                 "slug": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion",
                 "available": true,
                 "delay": null,
-                "updated": "2025-10-11 19:01:23.786106",
-                "lastscrape": "2025-10-11 19:01:23.786106",
+                "updated": "2025-10-11 20:34:31.741530",
+                "lastscrape": "2025-10-11 20:34:31.741530",
                 "enabled": true,
                 "type": "DLS",
                 "http": {
-                    "fetched_at": "2025-10-11T19:01:23+00:00",
+                    "fetched_at": "2025-10-11T20:34:31+00:00",
                     "start_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion",
                     "final_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion",
                     "status": 200,
@@ -8420,9 +8420,9 @@
                         "security_headers": {}
                     },
                     "headers": {
-                        "date": "Sat, 11 Oct 2025 19:01:24 GMT",
+                        "date": "Sat, 11 Oct 2025 20:34:33 GMT",
                         "server": "Apache",
-                        "set-cookie": "advanced-blog=dl67efl6rujqs1iktg0j3h532j; path=/; HttpOnly, _csrf-blog=221a9434011042752b73e3aacb7be2a45749d174207a282b43b11a6f719ef01ba%3A2%3A%7Bi%3A0%3Bs%3A10%3A%22_csrf-blog%22%3Bi%3A1%3Bs%3A32%3A%229bUzzZpacW2fX2F9f9C3W3qdVi-SeGNe%22%3B%7D; path=/; HttpOnly; SameSite=Lax",
+                        "set-cookie": "advanced-blog=2ogknu21umainc702l5j4ah26g; path=/; HttpOnly, _csrf-blog=35c9497b989d8ae2ff268b4b2fe21dafdc3950acf571871463909fbc82fd5b24a%3A2%3A%7Bi%3A0%3Bs%3A10%3A%22_csrf-blog%22%3Bi%3A1%3Bs%3A32%3A%22cYhpKJwabNgVkL0q4RbmQZ9jo7699qK6%22%3B%7D; path=/; HttpOnly; SameSite=Lax",
                         "expires": "Thu, 19 Nov 1981 08:52:00 GMT",
                         "cache-control": "no-store, no-cache, must-revalidate",
                         "pragma": "no-cache",

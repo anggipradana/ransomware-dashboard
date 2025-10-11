@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2789,
+  "count": 2790,
   "results": [
     {
       "date": "2025-10-10",
@@ -25894,6 +25894,27 @@
         "employees_url": 9,
         "users_url": 100,
         "thirdparties": 47
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2024-09-23",
+      "victim": "The City of Michigan City",
+      "domain": "michigancityin.gov",
+      "country": "US",
+      "summary": "La ville de Michigan City a confirmé que la perturbation de son réseau en septembre était due à un incident de ransomware qui a affecté une partie de ses données et a impacté l'accès en ligne et téléphonique des employés municipaux. La ville se concentre sur la restauration sécurisée de ses systèmes et la poursuite des opérations critiques. Une enquête forensique est toujours en cours pour déterminer l'ampleur et l'impact de l'incident.",
+      "title": "City of Michigan City confirms network disruption was ransomware incident",
+      "url": "https://wimsradio.com/2025/10/11/update-on-michigan-city-network-disruption/",
+      "added": "2025-10-11",
+      "infostealer": {
+        "update": "2025-10-11 10:38:33",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },

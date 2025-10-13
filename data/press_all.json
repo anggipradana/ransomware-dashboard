@@ -4,8 +4,31 @@
     "month": null,
     "country": null
   },
-  "count": 2795,
+  "count": 2796,
   "results": [
+    {
+      "date": "2025-10-12",
+      "victim": "Omrin",
+      "domain": "omrin.nl",
+      "country": "NL",
+      "summary": "Omrin said to be experiencing a technical malfunction due to a ransomware attack, and working hard to find a solution. It cannot be reached by telephone, but can be contacted by email. Omrin will honor existing appointments (bulky waste) as much as possible.",
+      "title": "Cyberaanval bij Omrin: Estafettewinkels dicht, milieustraten open",
+      "url": "https://lc.nl/friesland/cyberaanval-bij-omrin-estafettewinkels-dicht-milieustraten-open-47525893.html",
+      "added": "2025-10-13",
+      "infostealer": {
+        "update": "2025-10-13 10:44:31",
+        "employees": 1,
+        "users": 1,
+        "thirdparties_domain": 0,
+        "employees_url": 1,
+        "users_url": 1,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "Lumma": 2
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2025-10-11",
       "victim": "Kearney Public Schools",

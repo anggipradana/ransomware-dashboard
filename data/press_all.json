@@ -4,8 +4,29 @@
     "month": null,
     "country": null
   },
-  "count": 2790,
+  "count": 2791,
   "results": [
+    {
+      "date": "2025-10-11",
+      "victim": "Kearney Public Schools",
+      "domain": "kearneypublicschools.org",
+      "country": "US",
+      "summary": "Kearney Public Schools a été victime d'une attaque de cybersécurité qui a compromis son réseau technologique, les écoles resteront ouvertes mais les téléphones et les emails ne seront pas opérationnels jusqu'à la restauration du réseau. Les systèmes basés sur le cloud, y compris les informations sur les étudiants, n'ont pas été violés. L'école espère retrouver une fonctionnalité normale d'ici mardi.",
+      "title": "Kearney Public Schools hit by a cybersecurity attack",
+      "url": "https://www.ksnblocal4.com/2025/10/12/kearney-public-schools-hit-by-cybersecurity-attack/",
+      "added": "2025-10-13",
+      "infostealer": {
+        "update": "2025-10-13 07:41:09",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2025-10-10",
       "victim": "Lycées de la région des Hauts-de-France",

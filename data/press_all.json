@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2791,
+  "count": 2795,
   "results": [
     {
       "date": "2025-10-11",
@@ -10701,6 +10701,27 @@
     },
     {
       "date": "2025-04-13",
+      "victim": "Chalmers Insurance Group",
+      "domain": "chalmersinsurancegroup.com",
+      "country": "US",
+      "summary": "Chalmers Insurance Group suffered a data security incident where personal information for 98 Maine residents may have been involved. The incident occurred between April 8, 2025, and April 10, 2025, when certain files may have been acquired without authorization. Chalmers has taken measures to enhance security and provide identity monitoring services to affected individuals.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/b7011e1e-1009-4276-a6d5-0f8943e4247c.html",
+      "added": "2025-10-11",
+      "infostealer": {
+        "update": "2025-10-13 08:22:13",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-04-13",
       "victim": "Western New Mexico University",
       "domain": "wnmu.edu",
       "country": "US",
@@ -11235,6 +11256,33 @@
           "Azorult": 2,
           "Lumma": 18,
           "StealC": 6
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-04-06",
+      "victim": "Action Property Management, Inc.",
+      "domain": "actionlife.com",
+      "country": "US",
+      "summary": "Action Property Management, Inc. experienced unauthorized access to their network between March 8, 2025, and April 6, 2025, potentially exposing personal information. The breach was discovered on September 10, 2025. The company is offering complimentary credit monitoring and other precautionary measures to affected individuals.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/4bdaadf8-f8d1-46a4-a407-0f2d65b2b8bd.html",
+      "added": "2025-10-11",
+      "infostealer": {
+        "update": "2025-10-13 08:22:35",
+        "employees": 2,
+        "users": 18,
+        "thirdparties_domain": 0,
+        "employees_url": 2,
+        "users_url": 6,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "Lumma": 14,
+          "RedLine": 6,
+          "Vidar": 2,
+          "UNKNOWN": 2,
+          "Raccoon": 2
         }
       },
       "ransomware": null
@@ -13179,6 +13227,37 @@
         }
       },
       "ransomware": null
+    },
+    {
+      "date": "2025-03-13",
+      "victim": "Goosehead Insurance Agency, LLC",
+      "domain": "goosehead.com",
+      "country": "US",
+      "summary": "Goosehead Insurance Agency, LLC suffered a data breach between March 6, 2025, and March 13, 2025, where an unauthorized actor accessed certain systems and downloaded files containing sensitive information. The attack was claimed by Chaos on March 31.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/e0fcde3b-4f4f-4c5a-9397-2291f8fa6fa9.html",
+      "added": "2025-10-11",
+      "infostealer": {
+        "update": "2025-03-31 18:36:41",
+        "employees": 0,
+        "users": 39,
+        "thirdparties_domain": 169,
+        "employees_url": 0,
+        "users_url": 6,
+        "thirdparties": 7,
+        "infostealer_stats": {
+          "RedLine": 42,
+          "Lumma": 16,
+          "Vidar": 6,
+          "Raccoon": 6,
+          "Atomic": 2,
+          "StealC": 2
+        }
+      },
+      "ransomware": {
+        "group": "chaos",
+        "permalink": "https://www.ransomware.live/id/Z29vc2VoZWFkLmNvbUBjaGFvcw=="
+      }
     },
     {
       "date": "2025-03-13",
@@ -17167,6 +17246,35 @@
         "employees_url": 6,
         "users_url": 19,
         "thirdparties": 5
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-01-27",
+      "victim": "SimonMed Imaging",
+      "domain": "simonmed.com",
+      "country": "US",
+      "summary": "SimonMed Imaging experienced a data incident that may have impacted personal information, with unauthorized access to files containing names and other data elements between January 21, 2025, and February 5, 2025. The attack was claimed by Medusa on February 10.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/db44458c-e230-4f17-88b4-0513fc890cc6.html",
+      "added": "2025-10-11",
+      "infostealer": {
+        "update": "2025-03-31 09:26:08",
+        "employees": 13,
+        "users": 61,
+        "thirdparties_domain": 21,
+        "employees_url": 7,
+        "users_url": 28,
+        "thirdparties": 11,
+        "infostealer_stats": {
+          "RedLine": 48,
+          "Lumma": 36,
+          "Azorult": 16,
+          "StealC": 8,
+          "UNKNOWN": 4,
+          "Vidar": 2,
+          "Raccoon": 2
+        }
       },
       "ransomware": null
     },

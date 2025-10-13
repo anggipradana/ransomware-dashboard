@@ -26068,7 +26068,10 @@
         "thirdparties": 0,
         "infostealer_stats": {}
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "obscura",
+        "permalink": "https://www.ransomware.live/id/bWljaGlnYW5jaXR5aW4uZ292QG9ic2N1cmE="
+      }
     },
     {
       "date": "2024-09-23",

@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2796,
+  "count": 2798,
   "results": [
     {
       "date": "2025-10-12",
@@ -2555,6 +2555,27 @@
         "group": "warlock",
         "permalink": "https://www.ransomware.live/id/Y29sdC5uZXRAd2FybG9jaw=="
       }
+    },
+    {
+      "date": "2025-08-11",
+      "victim": "Wellborn & Company, LLC",
+      "domain": "wellborncpa.com",
+      "country": "US",
+      "summary": "Wellborn & Company, LLC experienced a ransomware event on August 11, 2025, which resulted in unauthorized access to certain data. The affected data may include names and other types of information. The company is providing complimentary identity monitoring services to affected individuals.",
+      "title": "2025-10-10 Wellborn & Company Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-10-10-wellborn-company-data-breach-notice-consumers",
+      "added": "2025-10-14",
+      "infostealer": {
+        "update": "2025-10-14 09:19:17",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
     },
     {
       "date": "2025-08-11",
@@ -16319,6 +16340,27 @@
         "group": "ransomhub",
         "permalink": "https://www.ransomware.live/id/d3d3LnRyYW5zY2VuZC1pbmZvLmNvbUByYW5zb21odWI="
       }
+    },
+    {
+      "date": "2025-02-06",
+      "victim": "Strategic Retail Partners",
+      "domain": "strategicretailpartners.com",
+      "country": "US",
+      "summary": "Strategic Retail Partners experienced unauthorized access to their network between February 3, 2025, and February 6, 2025, resulting in the access and/or copying of sensitive information. The affected information includes names, driver's licenses, Social Security numbers, and other personal data. The organization is offering credit monitoring services to affected individuals.",
+      "title": "2025-10-08 Strategic Retail Partners Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-10-08-strategic-retail-partners-data-breach-notice-consumers",
+      "added": "2025-10-14",
+      "infostealer": {
+        "update": "2025-10-14 09:18:55",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
     },
     {
       "date": "2025-02-06",

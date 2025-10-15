@@ -69,7 +69,10 @@
         "thirdparties": 0,
         "infostealer_stats": {}
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "interlock",
+        "permalink": "https://www.ransomware.live/id/S2Vhcm5leSBQdWJsaWMgU2Nob29sc0BpbnRlcmxvY2s="
+      }
     },
     {
       "date": "2025-10-10",

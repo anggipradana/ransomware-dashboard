@@ -4,8 +4,29 @@
     "month": null,
     "country": null
   },
-  "count": 2798,
+  "count": 2800,
   "results": [
+    {
+      "date": "2025-10-15",
+      "victim": "Shelbyville Police",
+      "domain": "shelbyvillekypd.com",
+      "country": "US",
+      "summary": "La police de Shelbyville, dans l'État du Kentucky, est victime d'une cyberattaque qui perturbe ses systèmes informatiques, une enquête a été lancée pour déterminer la cause de l'incident. Les systèmes de dépôt de rapports d'accidents ou d'incidents sont toujours accessibles. La police demande de la patience pendant qu'ils travaillent à restaurer leurs systèmes.",
+      "title": "Shelbyville Police dealing with cyberattack, disrupted computer systems",
+      "url": "https://www.wave3.com/2025/10/15/shelbyville-police-dealing-with-cyberattack-disrupting-computer-systems/",
+      "added": "2025-10-15",
+      "infostealer": {
+        "update": "2025-10-15 11:45:55",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2025-10-12",
       "victim": "Omrin",
@@ -31837,6 +31858,27 @@
         "group": "dragonforce",
         "permalink": "https://www.ransomware.live/id/RWxpdGUgRml0bmVzc0BkcmFnb25mb3JjZQ=="
       }
+    },
+    {
+      "date": "2024-06-25",
+      "victim": "Dulcich, Inc.",
+      "domain": "dulcich.com",
+      "country": "US",
+      "summary": "Dulcich, Inc. detected unauthorized access to its network between June 24, 2024, and June 25, 2024, potentially exposing personal information. The incident was discovered on September 29, 2025. The company is offering complimentary identity monitoring services to affected individuals.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/9307125c-b215-441d-825b-3687e2758021.html",
+      "added": "2025-10-15",
+      "infostealer": {
+        "update": "2025-10-15 11:46:17",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
     },
     {
       "date": "2024-06-25",

@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2805,
+  "count": 2811,
   "results": [
     {
       "date": "2025-10-15",
@@ -51,6 +51,37 @@
         "users_url": 0,
         "thirdparties": 0,
         "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-10-12",
+      "victim": "DLSI",
+      "domain": "groupedlsi.com",
+      "country": "FR",
+      "summary": "Le groupe DLSI a subi une cyberattaque sur deux de ses filiales, PRESTIM et ML Intérim, mais a pu récupérer toutes ses données sans altération. Les autres sociétés du groupe n'ont pas été impactées. Un dépôt de plainte et une notification à la CNIL ont été effectués.",
+      "title": "Signalement d'une cyberattaque sur les filiales PRESTIM et ML Intéri",
+      "url": "https://bourse.fortuneo.fr/actualites/signalement-d-une-cyberattaque-sur-les-filiales-prestim-et-ml-interi-1525434",
+      "added": "2025-10-16",
+      "infostealer": {
+        "update": "2025-10-16 10:49:59",
+        "employees": 0,
+        "users": 828,
+        "thirdparties_domain": 1,
+        "employees_url": 0,
+        "users_url": 100,
+        "thirdparties": 1,
+        "infostealer_stats": {
+          "RedLine": 590,
+          "Lumma": 322,
+          "Raccoon": 218,
+          "Vidar": 76,
+          "Azorult": 76,
+          "StealC": 40,
+          "UNKNOWN": 30,
+          "CRYPTBOT": 12,
+          "Taurus": 8
+        }
       },
       "ransomware": null
     },
@@ -3544,6 +3575,40 @@
     },
     {
       "date": "2025-07-24",
+      "victim": "Sotheby's",
+      "domain": "sothebys.com",
+      "country": "US",
+      "summary": "Sotheby's experienced a data breach where an unknown actor removed certain data from their environment. The breach was discovered on July 24, 2025, and affected two Maine residents. The stolen data included names, Social Security numbers, and financial account information.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/2e46843d-f16d-489d-905a-efee2175e06b.html",
+      "added": "2025-10-16",
+      "infostealer": {
+        "update": "2025-10-16 10:48:58",
+        "employees": 4,
+        "users": 1533,
+        "thirdparties_domain": 4,
+        "employees_url": 2,
+        "users_url": 16,
+        "thirdparties": 3,
+        "infostealer_stats": {
+          "RedLine": 889,
+          "Lumma": 817,
+          "Generic Stealer": 273,
+          "Raccoon": 226,
+          "StealC": 206,
+          "Vidar": 80,
+          "Azorult": 60,
+          "UNKNOWN": 24,
+          "Atomic": 20,
+          "Acreed": 1,
+          "Mystic": 2,
+          "Ficker": 2
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-07-24",
       "victim": "Ridgefield Public Schools",
       "domain": "ridgefield.org",
       "country": "US",
@@ -5771,6 +5836,32 @@
     },
     {
       "date": "2025-06-13",
+      "victim": "Dairy Farmers of America",
+      "domain": "dfamilk.com",
+      "country": "US",
+      "summary": "Dairy Farmers of America suffered a data breach that exposed personally identifiable information (PII) of its employees. The incident was claimed by Play on June 22.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/2cfd6e28-48de-4768-b94d-1725af2ff5b6.html",
+      "added": "2025-10-16",
+      "infostealer": {
+        "update": "2025-06-22 21:21:18",
+        "employees": 2,
+        "users": 13,
+        "thirdparties_domain": 9,
+        "employees_url": 2,
+        "users_url": 7,
+        "thirdparties": 7,
+        "infostealer_stats": {
+          "RedLine": 18,
+          "Lumma": 6,
+          "Vidar": 2,
+          "Azorult": 2
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-06-13",
       "victim": "The Hiller Companies LLC",
       "domain": "hillerfire.com",
       "country": "US",
@@ -7261,6 +7352,27 @@
       "added": "2025-06-02",
       "infostealer": {
         "update": "2025-06-02 16:30:00",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-05-22",
+      "victim": "Cutcliffe Archetto & Santilli",
+      "domain": "caslawri.com",
+      "country": "US",
+      "summary": "Cutcliffe Archetto & Santilli suffered a data security incident that may have exposed personal information, including names, addresses, dates of birth, and Social Security Numbers. The incident occurred on or around May 22, 2025 and was claimed under the Akira brand on June 26.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/9c17b9f1-2303-47fe-baae-7101706d4061.html",
+      "added": "2025-10-16",
+      "infostealer": {
+        "update": "2025-10-16 10:49:35",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,
@@ -18482,6 +18594,30 @@
       "ransomware": {
         "group": "safepay",
         "permalink": "https://www.ransomware.live/id/Y29uZHVlbnQuY29tQHNhZmVwYXk="
+      }
+    },
+    {
+      "date": "2025-01-14",
+      "victim": "The Branch Group, Inc.",
+      "domain": "branchgroup.com",
+      "country": "US",
+      "summary": "The Branch Group, Inc. experienced a data security incident where an unauthorized third-party attempted to access their network environment, potentially exposing personal information of employees. The incident was claimed by Cactus on February 24.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/431002be-ffe0-48ae-9479-71c41fb9eb3a.html",
+      "added": "2025-10-16",
+      "infostealer": {
+        "update": "2025-02-24 11:57:04",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "cactus",
+        "permalink": "https://www.ransomware.live/id/YnJhbmNoZ3JvdXAuY29tQGNhY3R1cw=="
       }
     },
     {
@@ -32889,6 +33025,27 @@
         "thirdparties": 0,
         "employees_url": 0,
         "users_url": 0
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2024-06-12",
+      "victim": "Grand Traverse County, Michigan",
+      "domain": "gtcountymi.gov",
+      "country": "US",
+      "summary": "Grand Traverse County, Michigan suffered a data security incident that may have affected personal information, including names and Social Security numbers. The incident occurred due to unauthorized system activity in the county's network environment. The county has taken measures to strengthen its systems' security and is providing credit monitoring services to affected individuals.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/fd2aaad2-a700-4e53-aaad-dc4d037b38e5.html",
+      "added": "2025-10-16",
+      "infostealer": {
+        "update": "2025-10-16 10:49:15",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },
@@ -51820,7 +51977,16 @@
       "title": "Grand Traverse Co. confirms their network was hit with a ransomware cyberattack - 9&10 News",
       "url": "https://www.9and10news.com/2024/06/12/grand-traverse-co-traverse-city-governments-go-offline-due-to-network-irregularity/",
       "added": "2024-06-13",
-      "infostealer": "",
+      "infostealer": {
+        "update": "2025-10-16 10:49:15",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
       "ransomware": null
     },
     {

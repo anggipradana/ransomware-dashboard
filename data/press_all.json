@@ -4,8 +4,33 @@
     "month": null,
     "country": null
   },
-  "count": 2811,
+  "count": 2812,
   "results": [
+    {
+      "date": "2025-10-16",
+      "victim": "MuniOS",
+      "domain": "munios.com",
+      "country": "US",
+      "summary": "Un site web clé du marché obligataire municipal de 4 300 milliards de dollars a été victime d'une attaque de ransomware, empêchant les emprunteurs de l'État et des collectivités locales de publier des documents de dette. Le site MuniOS, exploité par la société de technologie ImageMaster LLC, est hors service depuis plusieurs jours en raison de l'attaque. Cette attaque perturbe la capacité des emprunteurs à accéder au marché.",
+      "title": "Ransomware Attack Ensnares $4.3 Trillion Muni Market’s Key Site",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-15/ransomware-attack-ensnares-4-3-trillion-muni-market-s-key-site",
+      "added": "2025-10-16",
+      "infostealer": {
+        "update": "2025-10-16 13:50:38",
+        "employees": 0,
+        "users": 7,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 2,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "RedLine": 6,
+          "Lumma": 4,
+          "StealC": 2
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2025-10-15",
       "victim": "TONG YANG INDUSTRY CO.,LTD",

@@ -4,8 +4,44 @@
     "month": null,
     "country": null
   },
-  "count": 2813,
+  "count": 2814,
   "results": [
+    {
+      "date": "2025-10-16",
+      "victim": "Verisure",
+      "domain": "verisure.com",
+      "country": "SE",
+      "summary": "Le groupe suédois Verisure a été victime d'une attaque informatique, les détails de l'incident sont encore en cours d'investigation. L'entreprise a indiqué que des données liées à son service Alert Alarm avaient été compromises. Les autorités suédoises ont ouvert une enquête pour utpressning et grovt dataintrång.",
+      "title": "Hackerattack mot larmföretaget Verisure – utsätts för utpressning",
+      "url": "https://www.svt.se/nyheter/inrikes/larmforetaget-verisure-utsatt-for-hackerattack-utsatts-for-utpressning",
+      "added": "2025-10-17",
+      "infostealer": {
+        "update": "2025-10-17 12:24:32",
+        "employees": 13,
+        "users": 2556,
+        "thirdparties_domain": 5,
+        "employees_url": 5,
+        "users_url": 100,
+        "thirdparties": 11,
+        "infostealer_stats": {
+          "RedLine": 1735,
+          "Lumma": 1123,
+          "Generic Stealer": 340,
+          "Raccoon": 448,
+          "StealC": 232,
+          "Vidar": 168,
+          "Azorult": 110,
+          "UNKNOWN": 54,
+          "CRYPTBOT": 14,
+          "Taurus": 6,
+          "Mystic": 6,
+          "Ficker": 6,
+          "Atomic": 7,
+          "DarkCrystal": 2
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2025-10-16",
       "victim": "MuniOS",

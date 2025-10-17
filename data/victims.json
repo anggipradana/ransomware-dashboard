@@ -293223,5 +293223,90 @@
         "activity": "Not Found",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Desjardin Bank / Group",
+        "group_name": "coinbasecartel",
+        "discovered": "2025-10-17 20:17:32.230979",
+        "description": "They did not want to pay",
+        "website": "desjardins.com",
+        "published": "2025-10-17 20:17:09.607373",
+        "post_url": "http://fjg4zi4opkxkvdz7mvwp7h6goe4tcby3hhkrz43pht4j3vakhy75znyd.onion/companies/desjardin",
+        "country": "CA",
+        "activity": "Financial Services",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "MUSE-INSECURE: Inside Colins Aerospaces Security Failure",
+        "group_name": "everest",
+        "discovered": "2025-10-17 20:19:48.783151",
+        "description": "[AI generated] N/A",
+        "website": "",
+        "published": "2025-10-17 20:19:08.092753",
+        "post_url": "http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/news/rtx",
+        "country": "US",
+        "activity": "Technology",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Colins Aerospace / RTX.com",
+        "group_name": "everest",
+        "discovered": "2025-10-17 20:20:12.034848",
+        "description": "[AI generated] N/A",
+        "website": "",
+        "published": "2025-10-17 20:19:51.104314",
+        "post_url": "http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/news/colinsaerospace",
+        "country": "US",
+        "activity": "Manufacturing",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Cottage",
+        "group_name": "play",
+        "discovered": "2025-10-17 20:45:08.896454",
+        "description": "United States",
+        "website": "www.cottagecorp.com",
+        "published": "2025-10-15 20:44:27.606751",
+        "post_url": "http://k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion/topic.php?id=U5GnJ7BFvO7fy",
+        "country": "",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Hematology Oncology Consultants",
+        "group_name": "rhysida",
+        "discovered": "2025-10-17 20:47:31.393354",
+        "description": "Hematology Oncology Consultants Michigan Hematology Oncology is a private practice dedicated to providing the highest level of quality care in a healing environment for the mind, body and spirit of patients dealing with cancer and blood disorders.",
+        "website": "",
+        "published": "2025-10-17 20:47:29.609664",
+        "post_url": "",
+        "country": "US",
+        "activity": "Healthcare",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Madagascar Airlines",
+        "group_name": "thegentlemen",
+        "discovered": "2025-10-17 20:51:25.625704",
+        "description": "https://www.zoominfo.com/c/madagascar-airlines/1311973684 www.madagascarairlines.com Madagascar Airlines offers regular flights to major cities in Madagascar from Antananarivo, providing an online booking platform for travelers. The airline features a range of services including real-time flight schedules, special offers, and additional travel options such as cargo transport. Their clientele includes both local and international travelers looking to explore Madagascar and its surrounding regions. With a focus on customer service and travel comfort, Madagascar Airlines aims to deliver an unforgettable travel experience.",
+        "website": "www.zoominfo.com",
+        "published": "2025-02-19 00:00:00.000000",
+        "post_url": "http://tezwsse5czllksjb7cwp65rvnk4oobmzti2znn42i43bjdfd2prqqkad.onion",
+        "country": "MG",
+        "activity": "Transportation/Logistics",
+        "duplicates": [
+            {
+                "date": "2025-10-17 20:51:25.723750",
+                "group": "chaos",
+                "link": "https://www.ransomware.live/id/d3d3Lm1zc3NvbHV0aW9ucy5jb21AY2hhb3M=",
+                "attackdate": "2025-02-19 00:00:00.000000"
+            }
+        ],
+        "extrainfos": []
     }
 ]

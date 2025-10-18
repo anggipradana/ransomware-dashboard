@@ -1,5 +1,5 @@
 {
-  "count": 192,
+  "count": 193,
   "groups": [
     {
       "group": ".git",
@@ -391,6 +391,10 @@
     },
     {
       "group": "kuiper",
+      "ransomnotes_count": 1
+    },
+    {
+      "group": "kyber",
       "ransomnotes_count": 1
     },
     {

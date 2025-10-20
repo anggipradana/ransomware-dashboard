@@ -649,7 +649,10 @@
           "Raccoon": 7
         }
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "lynx",
+        "permalink": "https://www.ransomware.live/id/c2FhY2tlLmNvbUBseW54"
+      }
     },
     {
       "date": "2025-09-30",

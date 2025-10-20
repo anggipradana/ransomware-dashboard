@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2815,
+  "count": 2819,
   "results": [
     {
       "date": "2025-10-19",
@@ -800,6 +800,27 @@
     },
     {
       "date": "2025-09-27",
+      "victim": "INSTITUTE FOR HUMAN RESOURCES AND SERVICES",
+      "domain": "ihrserwpcomstaging.com",
+      "country": "US",
+      "summary": "L'attaque n'a pas été revendiquée, mais l'enseigne Qilin divulgue des données présentées comme issues des systèmes de Ihrser.",
+      "title": "none",
+      "url": "none",
+      "added": "2025-10-20",
+      "infostealer": {
+        "update": "2025-10-20 09:27:25",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-09-27",
       "victim": "Al-Babtain Power and Telecommunications Co.",
       "domain": "albabtain-egypt.com",
       "country": "SA",
@@ -959,6 +980,27 @@
       "added": "2025-09-25",
       "infostealer": {
         "update": "2025-09-25 16:22:46",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-09-23",
+      "victim": "Herker Industries Inc.",
+      "domain": "herker.com",
+      "country": "US",
+      "summary": "L'attaque n'a pas été revendiquée, mais l'enseigne Qilin divulgue des données présentées comme issues des systèmes de Herker.",
+      "title": "none",
+      "url": "none",
+      "added": "2025-10-20",
+      "infostealer": {
+        "update": "2025-10-20 09:27:55",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,
@@ -1684,6 +1726,27 @@
     },
     {
       "date": "2025-09-07",
+      "victim": "Font-Romeu-Odeillo-Via",
+      "domain": "mairie-fontromeu.fr",
+      "country": "FR",
+      "summary": "Dans les Pyrénées-Orientales, la municipalité de Font-Romeu-Odeillo-Via a connu le même sort, le 7 septembre dernier. Les hackers ont pénétré le réseau à 2h du matin. On ignore pour l’heure si Qilin est à la manœuvre.",
+      "title": "“On a reçu une demande de rançon” : plusieurs villes des Pyrénées-Orientales attaquées par des hackers russes",
+      "url": "https://actu.fr/occitanie/elne_66065/on-a-recu-une-demande-de-rancon-des-hackers-russes-connus-attaquent-les-pyrenees-orientales_63306503.html",
+      "added": "2025-10-20",
+      "infostealer": {
+        "update": "2025-10-20 09:28:28",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-09-07",
       "victim": "Banco Triângulo S.A.",
       "domain": "tribanco.com.br",
       "country": "BR",
@@ -2235,7 +2298,7 @@
       "victim": "Elche",
       "domain": "elche.es",
       "country": "ES",
-      "summary": "La ville de Elche a subi un attaque cibernétique qui a rendu ses systèmes informatiques inopératifs, provoquant la convocation d'une réunion d'urgence du Comité de Crise. Les autorités analysent l'incident et travaillent pour rétablir la normalité. Les services municipaux sont actuellement limités, mais l'attention presenciale est toujours assurée.",
+      "summary": "La ville de Elche a subi un attaque cibernétique qui a rendu ses systèmes informatiques inopératifs, provoquant la convocation d'une réunion d'urgence du Comité de Crise. Les autorités analysent l'incident et travaillent pour rétablir la normalité. Les services municipaux sont actuellement limités, mais l'attention presenciale est toujours assurée. L'attaque a été conduite sous la bannière de Qilin.",
       "title": "Elche sufre un ataque cibernético que ha inutilizado sus sistemas informáticos",
       "url": "https://www.ondacero.es/emisoras/comunidad-valenciana/elche/noticias/elche-sufre-ataque-cibernetico-que-inutilizado-sus-sistemas-informaticos_2025082568ac5afefb354e4b3d1d8bcf.html",
       "added": "2025-08-25",
@@ -6707,6 +6770,30 @@
           "UNKNOWN": 14,
           "Mystic": 5,
           "DarkCrystal": 3
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-06-04",
+      "victim": "Magna Hospitality Group",
+      "domain": "magnahospitality.com",
+      "country": "US",
+      "summary": "L'attaque n'a pas été revendiquée, mais l'enseigne Qilin divulgue des données présentées comme issues des systèmes de Magna Hospitality Group.",
+      "title": "none",
+      "url": "none",
+      "added": "2025-10-20",
+      "infostealer": {
+        "update": "2025-10-20 09:28:10",
+        "employees": 0,
+        "users": 3,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 1,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "RedLine": 4,
+          "Lumma": 2
         }
       },
       "ransomware": null

@@ -1515,7 +1515,10 @@
         "thirdparties": 0,
         "infostealer_stats": {}
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "BrainCipher",
+        "permalink": "https://www.ransomware.live/id/b3hmb3JkY291bnR5LmNhQEJyYWluQ2lwaGVy"
+      }
     },
     {
       "date": "2025-09-15",

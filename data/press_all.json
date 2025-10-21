@@ -1207,7 +1207,10 @@
         "thirdparties": 0,
         "infostealer_stats": {}
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "genesis",
+        "permalink": "https://www.ransomware.live/id/SGVhbHRoeSBMaXZpbmcgTWFya2V0IGFuZCBDYWbDqUBnZW5lc2lz"
+      }
     },
     {
       "date": "2025-09-22",

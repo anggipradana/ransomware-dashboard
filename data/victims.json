@@ -294650,5 +294650,25 @@
         "activity": "Construction",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "PT Pupuk Iskandar Muda",
+        "group_name": "thegentlemen",
+        "discovered": "2025-10-22 06:54:27.339945",
+        "description": "www.pim.co.id https://www.zoominfo.com/c/pt-pupuk-iskandar-muda/372769605 PT Pupuk Iskandar Muda is a chemical manufacturing company based in Lhokseumawe, Aceh. As a subsidiary of PT PIHC, they focus on producing two key agricultural products: urea and ammonia fertilizers. Their factory helps farmers across Indonesia grow better crops by creating high-quality chemical fertilizers that improve soil nutrition and support agricultural productivity.",
+        "website": "www.pim.co.id",
+        "published": "2024-04-03 00:00:00.000000",
+        "post_url": "http://tezwsse5czllksjb7cwp65rvnk4oobmzti2znn42i43bjdfd2prqqkad.onion",
+        "country": "ID",
+        "activity": "Manufacturing",
+        "duplicates": [
+            {
+                "date": "2025-10-22 06:54:27.367838",
+                "group": "8base",
+                "link": "https://www.ransomware.live/id/UGltQDhiYXNl",
+                "attackdate": "2024-04-03 00:00:00.000000"
+            }
+        ],
+        "extrainfos": []
     }
 ]

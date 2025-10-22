@@ -294856,5 +294856,77 @@
         "activity": "Manufacturing",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Grupo Promasa",
+        "group_name": "qilin",
+        "discovered": "2025-10-22 22:08:30.612942",
+        "description": "Grupo Promasa is a company that operates in the Building Materials industry. It employs 250to499 people and has 10Mto25M of revenue. The company is headquartered in San Pedro Sula, Cortes, Honduras. The amount of downloaded data is unknown at            ...",
+        "website": "www.promasa.hn",
+        "published": "2025-10-22 00:00:00.000000",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=4e3651f1-3e84-3e70-8508-f1e4622e2ac9",
+        "country": "MX",
+        "activity": "Manufacturing",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "All Truck Transportation",
+        "group_name": "qilin",
+        "discovered": "2025-10-22 22:08:52.834601",
+        "description": "All Truck Transportation Co., Inc. is an asset-based carrier offering local and regional truckload transportation solutions. We are headquartered in Chicago, Illinois with a vast network of terminals throughout the Midwest. We operate within             ...",
+        "website": "www.alltruck.com",
+        "published": "2025-08-19 00:00:00.000000",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=a389c060-ba7f-3ccb-b4b0-c6955773016c",
+        "country": "US",
+        "activity": "Transportation/Logistics",
+        "duplicates": [
+            {
+                "date": "2025-10-22 22:08:52.896565",
+                "group": "spacebears",
+                "link": "https://www.ransomware.live/id/QWxsIFRydWNrIFRyYW5zcG9ydGF0aW9uIENvQHNwYWNlYmVhcnM=",
+                "attackdate": "2025-08-19 00:00:00.000000"
+            }
+        ],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Signet Armorlite, Inc.",
+        "group_name": "qilin",
+        "discovered": "2025-10-22 22:09:31.721142",
+        "description": "Founded in 1947, Signet Armorlite, Inc., an optical company, designs and manufactures glass ophthalmic lenses and molds. It also distributes lenses worldwide and adhesive optical supply products in the United States. Signet Armorlite is headq            ...",
+        "website": "www.practice-plus.net",
+        "published": "2025-10-22 00:00:00.000000",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=b7ba324e-8bb8-3811-b5d9-64fa988227dc",
+        "country": "US",
+        "activity": "Manufacturing",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Integral Networks",
+        "group_name": "qilin",
+        "discovered": "2025-10-22 22:10:10.865305",
+        "description": "Integral Networks, Inc. is a leading IT services provider in Sacramento, specializing in responsive IT support tailored to the needs of legal firms and various other industries including construction, manufacturing, and finance. They offer a             ...",
+        "website": "www.integralnetworks.com",
+        "published": "2025-10-22 00:00:00.000000",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=f69b29b6-bbd3-38bc-98bf-80eeee2416ba",
+        "country": "US",
+        "activity": "Technology",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "NurseSpring",
+        "group_name": "qilin",
+        "discovered": "2025-10-22 22:10:48.506038",
+        "description": "NurseSpring specializes in home health care, health care staffing, and nurse recruitment services. They prioritize compassion, dignity, and respect while delivering care, ensuring clients receive the right care at the right time. Their intend            ...",
+        "website": "www.nursespring.com",
+        "published": "2025-10-22 00:00:00.000000",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=e23f4a42-d27c-3df4-ae9f-4fe8e183ed4c",
+        "country": "US",
+        "activity": "Healthcare",
+        "duplicates": [],
+        "extrainfos": []
     }
 ]

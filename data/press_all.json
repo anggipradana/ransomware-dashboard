@@ -4,8 +4,29 @@
     "month": null,
     "country": null
   },
-  "count": 2833,
+  "count": 2835,
   "results": [
+    {
+      "date": "2025-10-22",
+      "victim": "Yunex GmbH",
+      "domain": "yunextraffic.com",
+      "country": "DE",
+      "summary": "Yunex Traffic a récemment pris des mesures pour gérer un accès non autorisé à certaines parties de ses systèmes internes de développement de produits. Les systèmes et les services de l'entreprise sont toujours opérationnels. Une enquête approfondie a été lancée avec le soutien d'experts externes. (via eCrime.ch)",
+      "title": "Information about IT Incident - Yunex Traffic Global | EN",
+      "url": "https://www.yunextraffic.com/newsroom/it-incident/",
+      "added": "2025-10-22",
+      "infostealer": {
+        "update": "2025-10-22 09:54:29",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2025-10-20",
       "victim": "Gemeindeverwaltung Untereisesheim",
@@ -705,6 +726,31 @@
         "group": "qilin",
         "permalink": "https://www.ransomware.live/id/U2hhbWlyIE1lZGljYWwgQ2VudGVyQHFpbGlu"
       }
+    },
+    {
+      "date": "2025-10-01",
+      "victim": "Jewett-Cameron Trading Co. Ltd.",
+      "domain": "jewettcameron.com",
+      "country": "US",
+      "summary": "La Jewett-Cameron Trading Co. Ltd. a subi une faille de sécurité informatique, un accès non autorisé à ses systèmes IT a été détecté, entraînant des perturbations opérationnelles et une possible fuite de données sensibles, notamment des informations financières et des enregistrements de réunions en visioconférence.",
+      "title": "Jewett-Cameron Trading meldet Cyberangriff auf IT-Systeme Von Investing.com",
+      "url": "https://de.investing.com/news/sec-filings/jewettcameron-trading-meldet-cyberangriff-auf-itsysteme-93CH-3193706",
+      "added": "2025-10-22",
+      "infostealer": {
+        "update": "2025-10-22 09:54:49",
+        "employees": 0,
+        "users": 9,
+        "thirdparties_domain": 10,
+        "employees_url": 0,
+        "users_url": 5,
+        "thirdparties": 1,
+        "infostealer_stats": {
+          "Generic Stealer": 5,
+          "Raccoon": 2,
+          "RedLine": 1
+        }
+      },
+      "ransomware": null
     },
     {
       "date": "2025-10-01",

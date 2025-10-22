@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2825,
+  "count": 2833,
   "results": [
     {
       "date": "2025-10-20",
@@ -1804,6 +1804,27 @@
       "added": "2025-09-17",
       "infostealer": {
         "update": "2025-09-17 15:49:28",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-09-09",
+      "victim": "Abhe & Svoboda",
+      "domain": "abheonline.com",
+      "country": "US",
+      "summary": "Abhe & Svoboda, Inc. suffered a data breach resulting in the unauthorized acquisition of personal information of one resident of Maine. The impacted information included the individuals' name and Social Security number. Abhe & Svoboda is offering twelve months of credit monitoring and proactive fraud assistance services through TransUnion.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/42031b0e-d9de-4b94-b042-91b391a2b0e7.html",
+      "added": "2025-10-22",
+      "infostealer": {
+        "update": "2025-10-22 08:47:59",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,
@@ -4036,6 +4057,31 @@
         "thirdparties": 0,
         "infostealer_stats": {
           "Lumma": 2
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-07-21",
+      "victim": "Modernizing Medicine, Inc. (“ModMed”)",
+      "domain": "modmed.com",
+      "country": "US",
+      "summary": "On July 21, 2025, ModMed became aware of potential unauthorized activity in certain computer servers, which ModMed subsequently determined involved servers containing limited data from some of our podiatry customers. We immediately took steps to prevent any further unauthorized activity and began an investigation, including engaging a leading forensic firm. We also contacted law enforcement. Based on our review, we learned on July 29, 2025, that an unauthorized third party was able to see and take copies of some information in the podiatry computer servers between July 9, 2025, and July 10, 2025.",
+      "title": "2025-10-17 Modernizing Medicine Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-10-17-modernizing-medicine-data-breach-notice-consumers",
+      "added": "2025-10-21",
+      "infostealer": {
+        "update": "2025-10-22 08:45:59",
+        "employees": 4,
+        "users": 9,
+        "thirdparties_domain": 11,
+        "employees_url": 3,
+        "users_url": 5,
+        "thirdparties": 14,
+        "infostealer_stats": {
+          "Lumma": 10,
+          "RedLine": 8,
+          "Azorult": 4
         }
       },
       "ransomware": null
@@ -6440,6 +6486,27 @@
     },
     {
       "date": "2025-06-10",
+      "victim": "Worcester Regional Retirement System",
+      "domain": "wrrboard.org",
+      "country": "US",
+      "summary": "The Worcester Regional Retirement System experienced a network disruption on June 10, 2025, which led to a data security incident involving the unauthorized access and acquisition of certain information. The incident affected approximately 150 Maine residents. The system has taken steps to enhance security and is offering complimentary identity protection services to affected individuals.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/1fb275e4-dd21-4a2b-a4ab-d4a631732a65.html",
+      "added": "2025-10-21",
+      "infostealer": {
+        "update": "2025-10-22 08:46:57",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-06-10",
       "victim": "Albemarle County",
       "domain": "albemarle.org",
       "country": "US",
@@ -7838,6 +7905,29 @@
     },
     {
       "date": "2025-05-20",
+      "victim": "DALB",
+      "domain": "dalb.com",
+      "country": "US",
+      "summary": "DALB, Inc. experienced a data security incident where certain files may have been accessed or acquired without authorization on May 20, 2025. The incident involved personal information including names, Social Security numbers, passport numbers, medical information, and health insurance policy numbers. The company has taken steps to enhance security and provide complimentary services to affected individuals.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/6cbd569e-0a0c-4767-a026-bae9e0e37cd4.html",
+      "added": "2025-10-22",
+      "infostealer": {
+        "update": "2025-10-22 08:47:39",
+        "employees": 0,
+        "users": 1,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 1,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "Lumma": 2
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-05-20",
       "victim": "Bruckner's Truck & Equipment",
       "domain": "brucknertruck.com",
       "country": "US",
@@ -8192,6 +8282,27 @@
         "group": "akira",
         "permalink": "https://www.ransomware.live/id/RWxpdGUgQWR2YW5jZWQgTGFzZXIgQ29ycG9yYXRpb25AYWtpcmE="
       }
+    },
+    {
+      "date": "2025-05-15",
+      "victim": "Patron Insurance Services",
+      "domain": "patroninsurance.com",
+      "country": "US",
+      "summary": "Patron Insurance Services a subi une violation de données en mai 2025, lorsqu'un groupe de ransomware a accédé à des informations sensibles sur ses clients. L'attaque a été revendiquée par Akira, le 12 juin.",
+      "title": "Patron Insurance Data Breach Lawsuit Investigation",
+      "url": "https://www.claimdepot.com/investigations/patron-insurance-data-breach-2025",
+      "added": "2025-10-22",
+      "infostealer": {
+        "update": "2025-10-22 08:48:19",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
     },
     {
       "date": "2025-05-15",
@@ -14119,6 +14230,27 @@
     },
     {
       "date": "2025-03-11",
+      "victim": "Brox Industries, Inc.",
+      "domain": "broxindustries.com",
+      "country": "US",
+      "summary": "Brox Industries, Inc. experienced unauthorized access to their network, potentially exposing personal information between February 28, 2025, and March 11, 2025. An investigation revealed that an unauthorized actor may have accessed and/or acquired certain files containing personal information. The company is offering complimentary identity monitoring services to affected individuals.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/1c2364ad-b116-4550-bbfa-30af19e99d27.html",
+      "added": "2025-10-21",
+      "infostealer": {
+        "update": "2025-10-22 08:47:19",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-03-11",
       "victim": "Uncle Henry's",
       "domain": "unclehenrys.com",
       "country": "US",
@@ -14938,6 +15070,27 @@
           "StealC": 3,
           "UNKNOWN": 2
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-03-01",
+      "victim": "Wiggin and Dana LLP",
+      "domain": "wiggin.com",
+      "country": "US",
+      "summary": "Wiggin and Dana LLP experienced a data breach where an unauthorized actor gained access to an employee's workstation and accessed/copied certain files between February 28, 2025, and March 1, 2025. The breach involved the potential exposure of the victim's name and other information. There is no evidence of actual or attempted fraud or identity theft.",
+      "title": "2025-10-14 Wiggin & Dana Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-10-14-wiggin-dana-data-breach-notice-consumers",
+      "added": "2025-10-21",
+      "infostealer": {
+        "update": "2025-10-22 08:46:18",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },
@@ -23824,6 +23977,27 @@
         "employees_url": 0,
         "users_url": 1,
         "thirdparties": 20
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2024-10-31",
+      "victim": "Maatuka Al-Heeti Emkes LLC",
+      "domain": "maelaw.net",
+      "country": "US",
+      "summary": "Maatuka Al-Heeti Emkes LLC experienced a network disruption that led to unauthorized access to certain information stored on their network. The incident occurred on October 31, 2024, and affected information included first and last names in combination with other data. The organization has taken steps to address the incident and is offering complimentary credit monitoring and identity protection services.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/d9c3b367-823a-4fef-bc1a-905d4a640de6.html",
+      "added": "2025-10-21",
+      "infostealer": {
+        "update": "2025-10-22 08:46:36",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },

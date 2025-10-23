@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2839,
+  "count": 2840,
   "results": [
     {
       "date": "2025-10-22",
@@ -3353,6 +3353,27 @@
           "Lumma": 3,
           "Vidar": 1
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-08-07",
+      "victim": "Mondi Resort",
+      "domain": "mondihotels.com",
+      "country": "AT",
+      "summary": "La groupe de ransomware Lynx a lancé une attaque contre le Mondi Resort am Grundlsee, entraînant la cryptage de serveurs et une demande de rançon, avec une possible fuite de données. Le groupe Lynx est responsable de centaines d'attaques cybernétiques à travers le monde depuis mi-2024. Les cibles incluent des entreprises énergétiques aux États-Unis, un grossiste allemand de machines-outils et un conglomérat industriel suisse.",
+      "title": "International agierende Hackergruppe nahm Hotel im Ausseerland ins Visier",
+      "url": "https://www.kleinezeitung.at/steiermark/ennstal/20233551/internationale-hackergruppe-nahm-hotel-im-ausseerland-ins-visier",
+      "added": "2025-10-23",
+      "infostealer": {
+        "update": "2025-10-23 12:54:23",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },

@@ -4,8 +4,31 @@
     "month": null,
     "country": null
   },
-  "count": 2838,
+  "count": 2839,
   "results": [
+    {
+      "date": "2025-10-22",
+      "victim": "Stadtwerke Clausthal-Zellerfeld",
+      "domain": "stadtwerke-clausthal.de",
+      "country": "DE",
+      "summary": "Un hackerangriff a visé les Stadtwerke Clausthal-Zellerfeld, provoquant une panne de leurs systèmes de communication. Les téléphones et les adresses e-mail ne fonctionnent plus, ce qui a des conséquences pour la population locale. Les Stadtwerke Clausthal-Zellerfeld sont actuellement hors service en raison de cette attaque.",
+      "title": "Hackerangriff legt Stadtwerke in Clausthal-Zellerfeld lahm",
+      "url": "https://www.goslarsche.de/lokales/stadtwerke-clausthal-hackerangriff-694919.html",
+      "added": "2025-10-23",
+      "infostealer": {
+        "update": "2025-10-23 11:20:52",
+        "employees": 0,
+        "users": 3,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 1,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "RedLine": 6
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2025-10-22",
       "victim": "Yunex GmbH",

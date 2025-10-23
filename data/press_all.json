@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2840,
+  "count": 2841,
   "results": [
     {
       "date": "2025-10-22",
@@ -1481,6 +1481,30 @@
           "Azorult": 6,
           "Raccoon": 10,
           "StealC": 1
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-09-19",
+      "victim": "Catawba County government",
+      "domain": "catawbacountync.gov",
+      "country": "US",
+      "summary": "Le site web du gouvernement du comté de Catawba a été rétabli mardi après-midi après avoir été hors ligne pendant plusieurs jours. Le site web était soit hors ligne, soit en maintenance depuis vendredi. Une cyberattaque contre le gouvernement du comté a été revendiquée par Qilin le 14 octobre.",
+      "title": "Catawba County website back up after going offline for several days",
+      "url": "https://www.qcnews.com/news/u-s/north-carolina/catawba-county/catawba-county-website-offline-for-several-hours-tuesday/",
+      "added": "2025-10-23",
+      "infostealer": {
+        "update": "2025-10-14 17:22:23",
+        "employees": 0,
+        "users": 8,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 6,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "Azorult": 4,
+          "Lumma": 4
         }
       },
       "ransomware": null

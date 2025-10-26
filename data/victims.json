@@ -295630,5 +295630,38 @@
         "activity": "Transportation/Logistics",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "InfraCom Group",
+        "group_name": "qilin",
+        "discovered": "2025-10-26 18:21:44.011475",
+        "description": "InfraCom Group AB (publ) is a leading player in IT infrastructure, offering services like mobile and fixed telephony, cloud PBX, fiber internet, server hosting, and web platforms since 1999. The company serves approximately 20,000 clients, pr            ...",
+        "website": "www.infracomgroup.se",
+        "published": "2025-10-26 00:00:00.000000",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=b91da6cf-4c42-3299-a32e-623955b62fe7",
+        "country": "SE",
+        "activity": "Telecommunication",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Donacoop (VinaCapital)",
+        "group_name": "thegentlemen",
+        "discovered": "2025-10-26 18:26:53.956372",
+        "description": "https://www.zoominfo.com/c/vinacapital/345647395 DonaCoop is a major Vietnamese conglomerate based in Dong Nai province that evolved from agricultural and handicraft cooperatives into large-scale real estate and infrastructure development acting as a key investor in metro line extension projects with VinaCapital and developing major projects like Dong Nai Waterfront City in partnership with Keppel Land while also participating in philanthropic efforts such as donating.",
+        "website": "www.zoominfo.com",
+        "published": "2025-02-19 00:00:00.000000",
+        "post_url": "http://tezwsse5czllksjb7cwp65rvnk4oobmzti2znn42i43bjdfd2prqqkad.onion",
+        "country": "VN",
+        "activity": "Not Found",
+        "duplicates": [
+            {
+                "date": "2025-10-26 18:26:54.058815",
+                "group": "chaos",
+                "link": "https://www.ransomware.live/id/aGFuc29uLWluYy5jb21AY2hhb3M=",
+                "attackdate": "2025-02-19 00:00:00.000000"
+            }
+        ],
+        "extrainfos": []
     }
 ]

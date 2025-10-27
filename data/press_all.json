@@ -4,8 +4,50 @@
     "month": null,
     "country": null
   },
-  "count": 2845,
+  "count": 2849,
   "results": [
+    {
+      "date": "2025-10-24",
+      "victim": "City of Mentor",
+      "domain": "cityofmentor.com",
+      "country": "US",
+      "summary": "La ville de Mentor a subi une attaque informatique, ce qui a entraîné la mise hors ligne de ses serveurs pour protéger ses données. Les lignes téléphoniques pour les demandes de renseignements et les fins administratives générales devraient être à nouveau opérationnelles. La ville a indiqué qu'il n'y a aucune indication que des informations privées aient été divulguées ou compromises.",
+      "title": "City of Mentor takes servers down after experiencing cyberattack",
+      "url": "https://www.news5cleveland.com/news/local-news/city-of-mentor-takes-servers-down-after-experiencing-cyberattack",
+      "added": "2025-10-27",
+      "infostealer": {
+        "update": "2025-10-27 10:59:23",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-10-23",
+      "victim": "Jennings O'Donovan",
+      "domain": "jodireland.com",
+      "country": "IE",
+      "summary": "Une attaque informatique a touché Jennings O'Donovan, une entreprise qui travaille sur un programme d'aide aux personnes dont les maisons sont endommagées en République d'Irlande. Les données personnelles, y compris les adresses et les coordonnées, pourraient avoir été compromises. L'entreprise a pris des mesures pour isoler et investiguer l'incident.",
+      "title": "Defective block grant scheme firm hit by cyber attack",
+      "url": "https://www.bbc.com/news/articles/c986g2qll62o",
+      "added": "2025-10-27",
+      "infostealer": {
+        "update": "2025-10-27 11:00:24",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2025-10-23",
       "victim": "TOPCO SCIENTIFIC CO.,LTD.",
@@ -6521,6 +6563,27 @@
     },
     {
       "date": "2025-06-12",
+      "victim": "Steeplechase Tool & Die",
+      "domain": "steeplechasetool.com",
+      "country": "US",
+      "summary": "L'attaque n'a pas été revendiquée, mais l'enseigne Qilin divulgue des données présentées comme issues des systèmes de Steeplechase Tool & Die.",
+      "title": "none",
+      "url": "none",
+      "added": "2025-10-23",
+      "infostealer": {
+        "update": "2025-10-27 11:00:04",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-06-12",
       "victim": "Aflac Incorporated",
       "domain": "aflac.com",
       "country": "US",
@@ -11610,6 +11673,27 @@
       "added": "2025-04-16",
       "infostealer": {
         "update": "2025-04-16 10:30:45",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-04-14",
+      "victim": "Southeastern Food Supplies",
+      "domain": "sefoodsupplies.com",
+      "country": "US",
+      "summary": "L'attaque n'a pas été revendiquée, mais l'enseigne Qilin divulgue des données présentées comme issues des systèmes de Southeastern Food Supplies.",
+      "title": "none",
+      "url": "none",
+      "added": "2025-10-23",
+      "infostealer": {
+        "update": "2025-10-27 10:59:43",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,

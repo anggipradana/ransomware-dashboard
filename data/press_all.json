@@ -4,8 +4,32 @@
     "month": null,
     "country": null
   },
-  "count": 2849,
+  "count": 2851,
   "results": [
+    {
+      "date": "2025-10-24",
+      "victim": "Svenska kraftnät",
+      "domain": "svk.se",
+      "country": "SE",
+      "summary": "Svenska kraftnät a confirmé avoir subi une attaque informatique, mais aucune indication n'a été trouvée que le système électrique a été affecté. Les autorités compétentes ont été impliquées pour enquêter sur l'incident, revendiqué par Everest. Svenska kraftnät est responsable de l'exploitation du réseau principal et du fonctionnement du système électrique en cas de crise, de guerre ou de perturbations graves.",
+      "title": "Svenska kraftnät bekräftar att en it-attack skett",
+      "url": "https://omni.se/svenska-kraftnat-utreder-cyberattack-msb-inkopplat/a/4B60ae",
+      "added": "2025-10-27",
+      "infostealer": {
+        "update": "2025-10-27 12:37:03",
+        "employees": 1,
+        "users": 1,
+        "thirdparties_domain": 0,
+        "employees_url": 1,
+        "users_url": 1,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "Lumma": 1,
+          "Atomic": 1
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2025-10-24",
       "victim": "City of Mentor",
@@ -6249,6 +6273,27 @@
       "added": "2025-06-20",
       "infostealer": {
         "update": "2025-06-20 07:46:32",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-06-18",
+      "victim": "Schmitz Ready Mix",
+      "domain": "schmitzmix.com",
+      "country": "US",
+      "summary": "L'attaque n'a pas été revendiquée, mais l'enseigne Qilin divulgue des données présentées comme issues des systèmes de Schmitz Ready Mix.",
+      "title": "none",
+      "url": "none",
+      "added": "2025-10-27",
+      "infostealer": {
+        "update": "2025-10-27 13:02:47",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,

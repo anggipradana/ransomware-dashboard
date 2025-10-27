@@ -23549,7 +23549,10 @@
         "users_url": 20,
         "thirdparties": 25
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "clop",
+        "permalink": "https://www.ransomware.live/id/TEtRQ09SUC5DT01AY2xvcA=="
+      }
     },
     {
       "date": "2024-11-13",

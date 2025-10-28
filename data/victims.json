@@ -296835,5 +296835,53 @@
         "activity": "Consumer Services",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "DeCeTe",
+        "group_name": "chaos",
+        "discovered": "2025-10-28 02:10:34.767464",
+        "description": "DeCeTe Duisburger Container-Terminalgesellschaft mbH",
+        "website": "decete.de",
+        "published": "2025-10-28 02:10:21.608035",
+        "post_url": "http://hptqq2o2qjva7lcaaq67w36jihzivkaitkexorauw7b2yul2z6zozpqd.onion/post/FR6bO1HYJoY61qaDdLK12cqmVohNGJoN",
+        "country": "DE",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "650 GB"
+        }
+    },
+    {
+        "post_title": "Kipp & Christian",
+        "group_name": "genesis",
+        "discovered": "2025-10-28 02:13:23.929135",
+        "description": "A law firm located in Salt Lake City",
+        "website": "kippandchristian.com",
+        "published": "2025-10-26 00:00:00.000000",
+        "post_url": "http://genesis6ixpb5mcy4kudybtw5op2wqlrkocfogbnenz3c647ibqixiad.onion/b70dd25a3891a86f2354/",
+        "country": "US",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Advantage CDC",
+        "group_name": "genesis",
+        "discovered": "2025-10-28 02:13:42.475432",
+        "description": "A company that provides long-term loans",
+        "website": "advantagecdc.org",
+        "published": "2024-08-20 00:00:00.000000",
+        "post_url": "http://genesis6ixpb5mcy4kudybtw5op2wqlrkocfogbnenz3c647ibqixiad.onion/cf4ccd0aad02d49e77da/",
+        "country": "US",
+        "activity": "Not Found",
+        "duplicates": [
+            {
+                "date": "2025-10-28 02:13:42.517335",
+                "group": "ransomhub",
+                "link": "https://www.ransomware.live/id/YWR2YW50YWdlY2RjLm9yZ0ByYW5zb21odWI=",
+                "attackdate": "2024-08-20 00:00:00.000000"
+            }
+        ],
+        "extrainfos": []
     }
 ]

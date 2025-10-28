@@ -4,8 +4,29 @@
     "month": null,
     "country": null
   },
-  "count": 2852,
+  "count": 2856,
   "results": [
+    {
+      "date": "2025-10-28",
+      "victim": "Merkle",
+      "domain": "merkle.com",
+      "country": "JP",
+      "summary": "Dentsu a subi une attaque informatique, entraînant la fuite de données sensibles de son réseau Merkle, notamment des informations sur les clients, les fournisseurs et les employés actuels et anciens. L'entreprise a engagé des entreprises spécialisées dans la réponse aux incidents de cybersécurité et a informé les autorités. Les systèmes de Dentsu sont désormais de nouveau en ligne et l'entreprise offre des services de surveillance de l'identité aux employés affectés.",
+      "title": "Merkle data hit as Dentsu is rocked by 'security incident' - DecisionMarketing",
+      "url": "https://www.decisionmarketing.co.uk/top-story/merkle-data-hit-as-dentsu-is-rocked-by-security-incident",
+      "added": "2025-10-28",
+      "infostealer": {
+        "update": "2025-10-28 11:20:55",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2025-10-24",
       "victim": "Svenska kraftnät",
@@ -578,6 +599,36 @@
           "RedLine": 14,
           "Raccoon": 4,
           "StealC": 2
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-10-08",
+      "victim": "Madeira USA LLC",
+      "domain": "madeirausa.com",
+      "country": "US",
+      "summary": "Madeira USA LLC suffered a security incident involving unauthorized access to certain servers within its network, resulting in potential exposure of personal information. The incident occurred on October 8, 2025, and was discovered on the same day. Madeira has taken steps to enhance its security measures and is offering complimentary credit monitoring services to affected individuals.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/afddea80-9083-49fa-ab63-40f6f27d9108.html",
+      "added": "2025-10-28",
+      "infostealer": {
+        "update": "2025-10-28 11:20:37",
+        "employees": 0,
+        "users": 155,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 7,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "RedLine": 94,
+          "Lumma": 94,
+          "Azorult": 24,
+          "Raccoon": 14,
+          "Vidar": 8,
+          "StealC": 6,
+          "UNKNOWN": 2,
+          "Atomic": 2
         }
       },
       "ransomware": null
@@ -5194,6 +5245,29 @@
       "ransomware": {
         "group": "rhysida",
         "permalink": "https://www.ransomware.live/id/UHJpbmNlIEdlb3JnZSdzIENvdW50eSBQdWJsaWMgU2Nob29sc0ByaHlzaWRh"
+      }
+    },
+    {
+      "date": "2025-07-04",
+      "victim": "Tape Ruvicha",
+      "domain": "taperuvicha.com",
+      "country": "PY",
+      "summary": "L'attaque n'a pas été revendiquée, mais l'enseigne Qilin divulgue des données présentées comme issues des systèmes de Tape Ruvicha.",
+      "title": "none",
+      "url": "none",
+      "added": "2025-10-27",
+      "infostealer": {
+        "update": "2024-09-18 09:15:44",
+        "employees": 0,
+        "users": 5,
+        "thirdparties_domain": 1,
+        "employees_url": 0,
+        "users_url": 1,
+        "thirdparties": 1
+      },
+      "ransomware": {
+        "group": "ransomhub",
+        "permalink": "https://www.ransomware.live/id/d3d3LnRhcGVydXZpY2hhLmNvbUByYW5zb21odWI="
       }
     },
     {
@@ -24632,6 +24706,29 @@
         "thirdparties": 0
       },
       "ransomware": null
+    },
+    {
+      "date": "2024-10-28",
+      "victim": "Eastgate Auto, Inc.",
+      "domain": "eastgateauto.com",
+      "country": "US",
+      "summary": "Eastgate Auto, Inc. suffered a data breach between October 23, 2024, and October 29, 2024, resulting in unauthorized access to certain computer systems and potential data download. A cyberattack against Eastgate Auto was claimed by Blacksuit on November 18, 2024.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/94f8131a-07db-484c-a4d1-c9717938cd50.html",
+      "added": "2025-10-28",
+      "infostealer": {
+        "update": "2024-11-18 20:31:07",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0
+      },
+      "ransomware": {
+        "group": "blacksuit",
+        "permalink": "https://www.ransomware.live/id/ZWFzdGdhdGVhdXRvLmNvbUBibGFja3N1aXQ="
+      }
     },
     {
       "date": "2024-10-28",

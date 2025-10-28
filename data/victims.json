@@ -285485,12 +285485,18 @@
         "discovered": "2025-09-25 12:53:42.532715",
         "description": "SMP EUROPE, a family-owned business based in Nottingham, has been supplying engine management and ignition components to original equipment manufacturers and the aftermarket for over 50 years. We have achieved success in a competitive market             ...",
         "website": "www.smpeurope.com",
-        "published": "2025-09-25 00:00:00.000000",
+        "published": "2025-09-12 00:00:00.000000",
         "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=1e1c3cc4-7dc3-3961-9793-d8c2001e494c",
         "country": "GB",
         "activity": "Manufacturing",
         "duplicates": [],
-        "extrainfos": []
+        "extrainfos": [],
+        "modifications": [
+            {
+                "date": "2025-10-28 11:06:06.460966",
+                "description": "Update published"
+            }
+        ]
     },
     {
         "post_title": "waxhaw.com",
@@ -292031,12 +292037,18 @@
         "discovered": "2025-10-14 18:09:36.373312",
         "description": "Sistema Odontológico Privado Srl is a company that operates in the Dental Offices industry. It employs 50to99 people and has 10Mto25M of revenue. The company is headquartered in Cordoba, Cordoba Province, Argentina.\nThe amount of downloaded            ...",
         "website": "www.sopsrl.com",
-        "published": "2025-10-14 00:00:00.000000",
+        "published": "2025-09-04 00:00:00.000000",
         "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=a23c33d0-fcaf-3d71-9eaf-d04504bcb2a5",
         "country": "AR",
         "activity": "Healthcare",
         "duplicates": [],
-        "extrainfos": []
+        "extrainfos": [],
+        "modifications": [
+            {
+                "date": "2025-10-28 11:06:06.472631",
+                "description": "Update published"
+            }
+        ]
     },
     {
         "post_title": "****** embassy D.C",
@@ -292343,12 +292355,18 @@
         "discovered": "2025-10-14 21:51:34.952432",
         "description": "Rihatec specializes in the construction of control cabinets and automation solutions for machines and systems. Based in Munich, the company serves clients in the DACH region with a range of products, including standard and customizable contro            ...",
         "website": "www.rihatec.de",
-        "published": "2025-10-14 00:00:00.000000",
+        "published": "2025-10-03 00:00:00.000000",
         "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=3eaff551-5b65-3b5b-9882-94845a844fa6",
         "country": "DE",
         "activity": "Technology",
         "duplicates": [],
-        "extrainfos": []
+        "extrainfos": [],
+        "modifications": [
+            {
+                "date": "2025-10-28 11:06:06.449548",
+                "description": "Update published"
+            }
+        ]
     },
     {
         "post_title": "Prim Saveurs Import Export",
@@ -296896,5 +296914,22 @@
         "activity": "Not Found",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Riddell Law Group",
+        "group_name": "pear",
+        "discovered": "2025-10-28 11:11:14.657301",
+        "description": "Real Estate Law, Title Insurance, Probate Estate Planning, Bankruptcy, Foreclosures/Short Sales",
+        "website": "rlglawfirm.com",
+        "published": "2025-10-15 00:00:00.000000",
+        "post_url": "http://peargxn3oki34c4savcbcfqofjjwjnnyrlrbszfv6ujlx36mhrh57did.onion/Companies/rlglawfirm",
+        "country": "US",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": {
+            "Activity": "Law Firms & Legal Services",
+            "Revenue": "$5.9M",
+            "Status": "announced"
+        }
     }
 ]

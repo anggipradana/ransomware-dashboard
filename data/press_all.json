@@ -4,8 +4,32 @@
     "month": null,
     "country": null
   },
-  "count": 2858,
+  "count": 2861,
   "results": [
+    {
+      "date": "2025-10-28",
+      "victim": "Family Health West Hospital",
+      "domain": "fhw.org",
+      "country": "US",
+      "summary": "Family Health West Hospital a été victime d'une cyberattaque, mais les soins aux patients n'ont pas été impactés grâce à des opérations manuelles. L'hôpital a isolé ses systèmes pour une analyse forensique et les fera vérifier par des experts en cybersécurité avant de les remettre en ligne. L'incident est considéré comme un cas isolé et n'a pas affecté les autres hôpitaux de Mesa County.",
+      "title": "Family Health West hit by cyberattack",
+      "url": "https://www.gjsentinel.com/news/western_colorado/family-health-west-hit-by-cyberattack/article_013997d1-f7a0-4acb-90fa-024b03255a43.html",
+      "added": "2025-10-29",
+      "infostealer": {
+        "update": "2025-10-28 17:13:46",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "devman",
+        "permalink": "https://www.ransomware.live/id/Zmh3Lm9yZ0BkZXZtYW4="
+      }
+    },
     {
       "date": "2025-10-28",
       "victim": "Merkle",
@@ -2222,6 +2246,27 @@
       "added": "2025-09-09",
       "infostealer": {
         "update": "2025-09-09 08:11:40",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-09-07",
+      "victim": "Property Tax Consultants, LLC",
+      "domain": "propertytaxconsulting.com",
+      "country": "PY",
+      "summary": "L'attaque n'a pas été revendiquée, mais l'enseigne Qilin divulgue des données présentées comme issues des systèmes de Property Tax Consultants, LLC.",
+      "title": "none",
+      "url": "none",
+      "added": "2025-10-27",
+      "infostealer": {
+        "update": "2025-10-29 14:06:18",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,
@@ -6541,6 +6586,32 @@
           "Raccoon": 6,
           "Lumma": 4,
           "StealC": 2
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-06-17",
+      "victim": "Manassas Park City Schools",
+      "domain": "mpark.net",
+      "country": "PY",
+      "summary": "L'attaque n'a pas été revendiquée, mais l'enseigne Qilin divulgue des données présentées comme issues des systèmes des Manassas Park City Schools.",
+      "title": "none",
+      "url": "none",
+      "added": "2025-10-29",
+      "infostealer": {
+        "update": "2025-10-29 14:05:54",
+        "employees": 0,
+        "users": 14,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 13,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "RedLine": 10,
+          "Azorult": 6,
+          "Vidar": 4,
+          "Lumma": 4
         }
       },
       "ransomware": null

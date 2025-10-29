@@ -297687,5 +297687,110 @@
         "activity": "Financial Services",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Super Value",
+        "group_name": "qilin",
+        "discovered": "2025-10-29 15:22:24.984092",
+        "description": "N/A",
+        "website": "www.supervalue.jp",
+        "published": "2025-10-29 15:21:54.498512",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=abe224d7-988f-3a9d-9a6a-5cc91afc859a",
+        "country": "",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "tanyacreations.com",
+        "group_name": "qilin",
+        "discovered": "2025-10-29 15:23:11.146924",
+        "description": "N/A",
+        "website": "www.tanyacreations.com",
+        "published": "2024-10-04 18:00:55.414295",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=9c173832-2e3e-3b9a-b5a0-0a75a35a282b",
+        "country": "US",
+        "activity": "Consumer Services",
+        "duplicates": [
+            {
+                "date": "2025-10-29 15:23:11.185848",
+                "group": "akira",
+                "link": "https://www.ransomware.live/id/VEFOWUEgQ3JlYXRpb25zQGFraXJh",
+                "attackdate": "2024-10-04 18:00:55.414295"
+            }
+        ],
+        "extrainfos": []
+    },
+    {
+        "post_title": "southernspecialtysupply.com",
+        "group_name": "qilin",
+        "discovered": "2025-10-29 15:23:36.495885",
+        "description": "N/A",
+        "website": "www.southernspecialtysupply.com",
+        "published": "2024-05-07 08:55:00.000000",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=d88fe2e1-11b8-308d-82f3-dd8a13f61920",
+        "country": "",
+        "activity": "Not Found",
+        "duplicates": [
+            {
+                "date": "2025-10-29 15:23:36.563987",
+                "group": "genesis",
+                "link": "https://www.ransomware.live/id/U291dGhlcm4gU3BlY2lhbHR5IGFuZCBTdXBwbHlAZ2VuZXNpcw==",
+                "attackdate": "2024-05-07 08:55:00.000000"
+            }
+        ],
+        "extrainfos": []
+    },
+    {
+        "post_title": "reesegroupinc.com",
+        "group_name": "qilin",
+        "discovered": "2025-10-29 15:24:23.274876",
+        "description": "N/A",
+        "website": "reesegroupinc.com",
+        "published": "2025-10-29 15:23:58.482365",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=645106b2-d48a-37ad-95ba-99246a582403",
+        "country": "US",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Ritz Clark & Ben-Asher",
+        "group_name": "akira",
+        "discovered": "2025-10-29 15:36:44.525738",
+        "description": "Ritz Clark & Ben-Asher LLP is a nationally recognized law firm fo\ncused on representing individuals facing employment-related legal\nissues.\n\nWe will upload 109gb of corporate documents soon. Lots of clients\ndocuments (passports, driver licenses, social security numbers, \nI-9 forms, and so on), same information of employees, detailed fi\nnancial information, lots of legal documents, court cases, hearin\ngs, police reports, etc.\n",
+        "website": "",
+        "published": "2025-10-29 00:00:00.000000",
+        "post_url": "",
+        "country": "US",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Bell Engineering",
+        "group_name": "akira",
+        "discovered": "2025-10-29 15:36:50.470459",
+        "description": "Founded in Lexington, Kentucky in 1914 by Howard K. Bell, Bell En\ngineering has earned a solid reputation as a provider of solution\ns-based, innovative engineering applications that fulfill the nee\nds of communities and industries around the country.\n\nWe will upload corporate documents soon. Clients information, emp\nloyee information, detailed financial information, projects, cont\nracts and agreements, lots of specifications and drawings, etc.\n",
+        "website": "",
+        "published": "2025-10-29 00:00:00.000000",
+        "post_url": "",
+        "country": "",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Clarion Safety Systems",
+        "group_name": "akira",
+        "discovered": "2025-10-29 16:19:31.503415",
+        "description": "Clarion Safety is at the forefront of product and workplace safet\ny communication, leading the best practice ANSI and ISO standards\nin these areas for over three decades. \n\nWe will upload more than 40gb of corporate documents soon. Client\nand customers information (addresses, phones, DOB, numerous form\ns with personal information), employees information (DOB, phones,\nemails and other HR information), detailed financial information\n, confidential files, NDA, etc.\n",
+        "website": "",
+        "published": "2025-10-29 00:00:00.000000",
+        "post_url": "",
+        "country": "US",
+        "activity": "Manufacturing",
+        "duplicates": [],
+        "extrainfos": []
     }
 ]

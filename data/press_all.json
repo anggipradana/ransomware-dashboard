@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2856,
+  "count": 2858,
   "results": [
     {
       "date": "2025-10-28",
@@ -310,6 +310,31 @@
           "UNKNOWN": 8,
           "Atomic": 6,
           "Azorult": 2
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-10-17",
+      "victim": "ReadyTech Holdings Limited",
+      "domain": "readytech.io",
+      "country": "AU",
+      "summary": "ReadyTech Holdings Limited a été victime d'une attaque informatique touchant son système de gestion étudiante, VETtrak, les experts ont été dépêchés pour gérer l'incident et une enquête a été lancée. L'entreprise a isolé la plateforme pour des raisons de sécurité et travaille avec les autorités compétentes pour déterminer l'ampleur de l'incident. (via eCrime.ch)",
+      "title": "RDY:ASX Announcement - Response to cyber incident - 17 Oct 2025",
+      "url": "https://www.marketindex.com.au/asx/rdy/announcements/response-to-cyber-incident-2A1629984",
+      "added": "2025-10-29",
+      "infostealer": {
+        "update": "2025-10-29 12:58:47",
+        "employees": 0,
+        "users": 11,
+        "thirdparties_domain": 12,
+        "employees_url": 0,
+        "users_url": 5,
+        "thirdparties": 4,
+        "infostealer_stats": {
+          "Raccoon": 14,
+          "UNKNOWN": 4,
+          "Lumma": 2
         }
       },
       "ransomware": null
@@ -1800,6 +1825,27 @@
           "StealC": 14,
           "Azorult": 2
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-09-16",
+      "victim": "Form Energy",
+      "domain": "formenergy.com",
+      "country": "US",
+      "summary": "Form Energy a subi une faille de sécurité qui a exposé des informations personnelles sensibles de ses employés actuels et anciens, y compris des noms, adresses, dates de naissance et numéros de sécurité sociale. L'entreprise a détecté l'attaque le 16 septembre 2025 et a commencé à notifier les personnes touchées par la poste le 22 octobre 2025. Form Energy propose désormais une adhésion gratuite de 24 mois à Experian IdentityWorks pour les employés actuels et anciens touchés.",
+      "title": "Form Energy, Inc. Data Breach Affects 622 in MA",
+      "url": "https://www.claimdepot.com/data-breach/form-energy-2025",
+      "added": "2025-10-29",
+      "infostealer": {
+        "update": "2025-10-29 12:58:26",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },

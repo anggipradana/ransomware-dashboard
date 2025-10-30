@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2861,
+  "count": 2863,
   "results": [
     {
       "date": "2025-10-28",
@@ -3663,6 +3663,27 @@
           "Lumma": 3,
           "Vidar": 1
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-08-07",
+      "victim": "OB-GYN Associates",
+      "domain": "ob-gynassoc.com",
+      "country": "US",
+      "summary": "OB-GYN Associates experienced a data security incident where an unauthorized third-party accessed their network environment, potentially exposing personal information of patients. The incident occurred on or about August 7, 2025, and was detected on the same date. An investigation was completed on September 29, 2025.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/6d545e2f-080f-4047-b84f-731fa04d3ae4.html",
+      "added": "2025-10-30",
+      "infostealer": {
+        "update": "2025-10-30 11:58:25",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },
@@ -18657,6 +18678,30 @@
         "thirdparties": 5
       },
       "ransomware": null
+    },
+    {
+      "date": "2025-01-27",
+      "victim": "Roger Keith and Sons Insurance Agency",
+      "domain": "rogerkeith.com",
+      "country": "US",
+      "summary": "An unauthorized party gained access to an employee email account and the Roger Keith network environment via a remote desktop tool following a phishing attack, potentially exposing full names. Such an attack was claimed by Silent Ransom Group (SRG) on May 6.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/257c0455-c5f2-4635-85dd-5333b78c47b6.html",
+      "added": "2025-10-30",
+      "infostealer": {
+        "update": "2025-05-06 18:41:28",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "SilentRansomGroup",
+        "permalink": "https://www.ransomware.live/id/Um9nZXIgS2VpdGggYW5kIFNvbnMgSW5zdXJhbmNlIEFnZW5jeUBTaWxlbnRSYW5zb21Hcm91cA=="
+      }
     },
     {
       "date": "2025-01-27",

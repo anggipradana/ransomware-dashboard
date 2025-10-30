@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2865,
+  "count": 2866,
   "results": [
     {
       "date": "2025-10-28",
@@ -855,6 +855,27 @@
       "added": "2025-10-07",
       "infostealer": {
         "update": "2025-10-07 16:47:51",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-10-05",
+      "victim": "Dislog",
+      "domain": "dislogroup.com",
+      "country": "MA",
+      "summary": "Les cyberattaques se multiplient au Maroc et ciblent désormais les acteurs du secteur privé, notamment le distributeur Alpha 55, un laboratoire pharmaceutique et le groupe Dislog. Plusieurs entreprises ont été visées depuis début octobre par une série d’attaques coordonnées. Le fondateur du groupe Dislog, Moncef Belkhayat, a été contacté pour commenter ces attaques.",
+      "title": "Dislog visé par une cyberattaque : “20 % des données touchées, mais restaurées en deux semaines”",
+      "url": "https://telquel.ma/2025/10/30/dislog-vise-par-une-cyberattaque-20-des-donnees-touchees-mais-restaurees-en-deux-semaines_1958406",
+      "added": "2025-10-30",
+      "infostealer": {
+        "update": "2025-10-30 15:52:47",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,

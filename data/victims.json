@@ -298662,5 +298662,38 @@
         "activity": "Technology",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Red Phoenix Construction",
+        "group_name": "qilin",
+        "discovered": "2025-11-01 10:19:50.331439",
+        "description": "N/A",
+        "website": "www.redphoenixconstruction.com",
+        "published": "2024-11-04 09:08:25.000000",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=3bb4f15d-37b1-327d-a556-df3f43ff5d59",
+        "country": "",
+        "activity": "Construction",
+        "duplicates": [
+            {
+                "date": "2025-11-01 10:19:50.397442",
+                "group": "ransomhub",
+                "link": "https://www.ransomware.live/id/cmVkcGhvZW5peGNvbnN0cnVjdGlvbi5jb21AcmFuc29taHVi",
+                "attackdate": "2024-11-04 09:08:25.000000"
+            }
+        ],
+        "extrainfos": []
+    },
+    {
+        "post_title": "The Saturday Files",
+        "group_name": "handala",
+        "discovered": "2025-11-01 10:52:23.024933",
+        "description": "Saturdays may be ordinary on your calendar, but for us, they mark a day of revelation, a day when we shake the foundations of your artificial calm with the tremor of truth. Today, once again, we bring seven more names from your ranks out of the darkness and into the light, seven faces from the…",
+        "website": "",
+        "published": "2025-11-01 10:51:54.693961",
+        "post_url": "https://handala-hack.to/the-saturday-files/",
+        "country": "",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": []
     }
 ]

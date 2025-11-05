@@ -1,5 +1,5 @@
 {
-  "count": 193,
+  "count": 196,
   "groups": [
     {
       "group": ".git",
@@ -179,6 +179,10 @@
     },
     {
       "group": "cryptnet",
+      "ransomnotes_count": 1
+    },
+    {
+      "group": "crypto24",
       "ransomnotes_count": 1
     },
     {
@@ -546,6 +550,10 @@
       "ransomnotes_count": 1
     },
     {
+      "group": "punisher",
+      "ransomnotes_count": 1
+    },
+    {
       "group": "qilin",
       "ransomnotes_count": 3
     },
@@ -555,6 +563,10 @@
     },
     {
       "group": "quantumlocker",
+      "ransomnotes_count": 1
+    },
+    {
+      "group": "quicklock",
       "ransomnotes_count": 1
     },
     {
@@ -687,7 +699,7 @@
     },
     {
       "group": "tengu",
-      "ransomnotes_count": 1
+      "ransomnotes_count": 2
     },
     {
       "group": "teslacrypt",
@@ -739,7 +751,7 @@
     },
     {
       "group": "warlock",
-      "ransomnotes_count": 1
+      "ransomnotes_count": 2
     },
     {
       "group": "wastedlocker",

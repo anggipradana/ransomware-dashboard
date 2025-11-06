@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2872,
+  "count": 2880,
   "results": [
     {
       "date": "2025-11-03",
@@ -4469,6 +4469,27 @@
     },
     {
       "date": "2025-07-25",
+      "victim": "Philadelphia Corporation for Aging",
+      "domain": "philacca.org",
+      "country": "US",
+      "summary": "Philadelphia Corporation for Aging experienced a technology issue that may have impacted some personal information, with unauthorized access occurring between July 10, 2025, and July 25, 2025.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/d5e75827-57b8-41bb-af30-0f6f888edf1b.html",
+      "added": "2025-11-05",
+      "infostealer": {
+        "update": "2025-11-06 12:01:45",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-07-25",
       "victim": "Curaçao Tax Office",
       "domain": "belastingdienst.cw",
       "country": "CW",
@@ -5068,6 +5089,29 @@
       "ransomware": null
     },
     {
+      "date": "2025-07-15",
+      "victim": "Profitbase",
+      "domain": "profitbase.com",
+      "country": "NO",
+      "summary": "Le konsern Aneo a été victime d'une attaque informatique via son sous-traitant Profitbase, ce qui pourrait avoir compromis les informations personnelles de 450 employés. Les données concernées incluent des informations sur les salaires et pourraient contenir des noms, adresses et numéros de téléphone. L'entreprise suit de près la situation, mais n'a pas encore constaté de signes de diffusion ou d'utilisation abusive des informations.",
+      "title": "Kraftkonsern utsatt for cyberangrep - Digi.no - Nyhetsstudio",
+      "url": "https://www.digi.no/nyhetsstudio/kraftkonsern-utsatt-for-cyberangrep/94019",
+      "added": "2025-11-05",
+      "infostealer": {
+        "update": "2025-11-06 12:02:08",
+        "employees": 6,
+        "users": 1,
+        "thirdparties_domain": 0,
+        "employees_url": 1,
+        "users_url": 1,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "RedLine": 12
+        }
+      },
+      "ransomware": null
+    },
+    {
       "date": "2025-07-14",
       "victim": "Util-Assist Inc.",
       "domain": "utilassist.com",
@@ -5541,6 +5585,30 @@
       "ransomware": {
         "group": "rhysida",
         "permalink": "https://www.ransomware.live/id/UHJpbmNlIEdlb3JnZSdzIENvdW50eSBQdWJsaWMgU2Nob29sc0ByaHlzaWRh"
+      }
+    },
+    {
+      "date": "2025-07-05",
+      "victim": "Money Matters",
+      "domain": "balancedsolutions4me.com",
+      "country": "US",
+      "summary": "Money Matters / Money Coach suffered a data security incident where an unauthorized outside party accessed and obtained a copy of data on a limited part of their server. The information accessed may have included name, home address, date of birth, social security numbers, and driver's license numbers. The company is offering free identity protection services to affected individuals.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/f6ba1ad1-5770-4196-a193-3f8add244b29.html",
+      "added": "2025-11-05",
+      "infostealer": {
+        "update": "2025-08-26 14:53:13",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "cephalus",
+        "permalink": "https://www.ransomware.live/id/TFBMIEZpbmFuY2lhbEBjZXBoYWx1cw=="
       }
     },
     {
@@ -7496,6 +7564,27 @@
     },
     {
       "date": "2025-06-06",
+      "victim": "Oglethorpe, Inc.",
+      "domain": "oglethorpe.com",
+      "country": "US",
+      "summary": "Oglethorpe, Inc. experienced a data breach in which an unauthorized third-party accessed their network environment, potentially exposing personal information of approximately 239 Rhode Island residents.",
+      "title": "2025-10-31 Oglethorpe Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-10-31-oglethorpe-data-breach-notice-consumers",
+      "added": "2025-11-05",
+      "infostealer": {
+        "update": "2025-11-06 12:01:25",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-06-06",
       "victim": "British Horseracing Authority",
       "domain": "britishhorseracing.com",
       "country": "GB",
@@ -7806,6 +7895,27 @@
           "UNKNOWN": 12,
           "Predator": 2
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-06-03",
+      "victim": "David A. Nover, M.D., P.C.",
+      "domain": "bucks-psychs.com",
+      "country": "US",
+      "summary": "David A. Nover, M.D., P.C. experienced a data breach where an unauthorized individual viewed and copied certain information on June 3, 2025. The impacted information varied by individual and included personal and sensitive data. The organization is providing credit monitoring services to affected individuals.",
+      "title": "2025-11-03 David A. Nover M.D., P.C. Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-11-03-david-nover-md-pc-data-breach-notice-consumers",
+      "added": "2025-11-05",
+      "infostealer": {
+        "update": "2025-11-06 12:00:24",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },
@@ -8242,6 +8352,29 @@
         "users_url": 0,
         "thirdparties": 0,
         "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-05-28",
+      "victim": "Langdon & Emison LLC",
+      "domain": "langdonemison.com",
+      "country": "US",
+      "summary": "Langdon & Emison LLC experienced a data security event that may affect the privacy of certain individuals' data. An unauthorized actor accessed their network on May 27, 2025, and had the ability to access certain files. The accessible information may include names, Social Security numbers, dates of birth, driver's license numbers, financial account information, medical information, and/or other materials.",
+      "title": "2025-10-31 Langdon & Emison Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-10-31-langdon-emison-data-breach-notice-consumers",
+      "added": "2025-11-05",
+      "infostealer": {
+        "update": "2025-11-06 12:00:47",
+        "employees": 3,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 1,
+        "users_url": 1,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "Lumma": 2
+        }
       },
       "ransomware": null
     },
@@ -15897,6 +16030,27 @@
           "StealC": 3,
           "UNKNOWN": 2
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-03-01",
+      "victim": "Hyundai AutoEver America, LLC",
+      "domain": "haeaus.com",
+      "country": "US",
+      "summary": "Hyundai AutoEver America, LLC suffered a cyber incident that potentially involved the personal information of Maine residents. The incident occurred between February 22, 2025, and March 2, 2025. The affected data included individuals' names and Social Security numbers.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/63697d4f-d4ae-446b-9484-a7a93730d7a6.html",
+      "added": "2025-11-06",
+      "infostealer": {
+        "update": "2025-11-06 12:01:05",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },
@@ -28543,6 +28697,27 @@
       "url": "https://x.com/ValeryMarchive/status/1852296719314116870",
       "added": "2024-11-01",
       "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2024-09-12",
+      "victim": "Naval Continuing Care Retirement Foundation, Inc. d/b/a Fleet Landing",
+      "domain": "fleetlanding.com",
+      "country": "US",
+      "summary": "Fleet Landing suffered a data breach after an unauthorized actor accessed their network between September 11, 2024, and September 12, 2024, resulting in the exposure of personal information. The attack was claimed by Qilin on December 3, 2024.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/5ff62028-891d-4ee3-a418-4a56af443562.html",
+      "added": "2025-11-06",
+      "infostealer": {
+        "update": "2025-01-20 13:00:06",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
       "ransomware": null
     },
     {

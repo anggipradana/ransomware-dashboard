@@ -300115,5 +300115,50 @@
         "activity": "Energy",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Brihta",
+        "group_name": "nightspire",
+        "discovered": "2025-11-06 09:40:05.860816",
+        "description": "Brihta",
+        "website": "brihtamarketing.si",
+        "published": "2025-11-06 09:40:01.159473",
+        "post_url": "",
+        "country": "",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "1.5TB"
+        }
+    },
+    {
+        "post_title": "vratatech",
+        "group_name": "nightspire",
+        "discovered": "2025-11-06 09:40:30.774517",
+        "description": "vratatech",
+        "website": "vratatech.com",
+        "published": "2025-11-06 09:40:28.031906",
+        "post_url": "",
+        "country": "IN",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "No Data"
+        }
+    },
+    {
+        "post_title": "speedmais",
+        "group_name": "nightspire",
+        "discovered": "2025-11-06 09:40:55.681920",
+        "description": "speedmais",
+        "website": "speedmais.com.br",
+        "published": "2025-11-06 09:40:53.566951",
+        "post_url": "",
+        "country": "BR",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "2.3 GB"
+        }
     }
 ]

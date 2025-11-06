@@ -4,8 +4,33 @@
     "month": null,
     "country": null
   },
-  "count": 2883,
+  "count": 2884,
   "results": [
+    {
+      "date": "2025-11-06",
+      "victim": "RTV Noord",
+      "domain": "rtvnoord.nl",
+      "country": "NL",
+      "summary": "RTV Noord a été victime d'une attaque de hackers, ce qui a des conséquences importantes pour les émissions et les publications sur toutes les plateformes. Les employés travaillent dur pour trouver une solution. Les hackers ont laissé un message dans les systèmes de RTV Noord, mais son contenu n'a pas été divulgué. (via eCrime.ch)",
+      "title": "RTV Noord gehackt, gevolgen voor uitzendingen en alle platforms",
+      "url": "https://www.rtvnoord.nl/economie/RX-231/rtv-noord-gehackt-gevolgen-voor-uitzendingen-en-alle-platforms",
+      "added": "2025-11-06",
+      "infostealer": {
+        "update": "2025-11-06 16:51:02",
+        "employees": 0,
+        "users": 1,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 3,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "Vidar": 1,
+          "RedLine": 1,
+          "Raccoon": 1
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2025-11-05",
       "victim": "Medizinische Versorgungszentrum Nordoberpfalz",

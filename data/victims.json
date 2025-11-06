@@ -300238,5 +300238,58 @@
         "activity": "Healthcare",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "First Resources",
+        "group_name": "ransomhouse",
+        "discovered": "2025-11-06 15:43:43.480594",
+        "description": "Founded in1992 and headquartered in First Resources Limited is primarily cultivating oil palms, harvesting the fruits, and milling them into crude palm oil (CPO) and palm kernel (PK) for sale to the local and export markets. With its integrated processing facilities, the Group also processes its CPO and PK into higher value palm-based products such as biodiesel, refined, bleached, and deodorized (RBD) olein, RBD stearin, palm kernel oil, and palm kernel expeller.",
+        "website": "www.first-resources.com",
+        "published": "2023-08-24 07:41:58.338898",
+        "post_url": "http://zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion/r/de285162214ed3fb363a9ec001685c742189c29e",
+        "country": "SG",
+        "activity": "Not Found",
+        "duplicates": [
+            {
+                "date": "2025-11-06 15:43:43.505714",
+                "group": "cloak",
+                "link": "https://www.ransomware.live/id/Zmlyc3QtcmVzb3VyY2VzLWx0ZEBjbG9haw==",
+                "attackdate": "2023-08-24 07:41:58.338898"
+            }
+        ],
+        "extrainfos": []
+    },
+    {
+        "post_title": "DRD Communications",
+        "group_name": "thegentlemen",
+        "discovered": "2025-11-06 15:49:01.505081",
+        "description": "https://www.zoominfo.com/c/drd-software-and-systems-india-private-ltd/372534475 www.drd.co.in DRD India is a telecommunications and software development company with over 25 years of experience, dedicated to rejuvenating the telecommunications channel. They offer products and services such as Uboss, a cloud trading platform, and VanillaIP, a white label channel provider for the UK market. The company is committed to continuous development and innovation, ensuring high-quality solutions for their clients. DRD India caters to a wide audience, having successfully served millions of users over the years.",
+        "website": "www.zoominfo.com",
+        "published": "2025-02-19 00:00:00.000000",
+        "post_url": "http://tezwsse5czllksjb7cwp65rvnk4oobmzti2znn42i43bjdfd2prqqkad.onion",
+        "country": "US",
+        "activity": "Telecommunication",
+        "duplicates": [
+            {
+                "date": "2025-11-06 15:49:01.640401",
+                "group": "chaos",
+                "link": "https://www.ransomware.live/id/aGFuc29uLWluYy5jb21AY2hhb3M=",
+                "attackdate": "2025-02-19 00:00:00.000000"
+            }
+        ],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Everest Exclusive Interview for Dailydarkweb.net",
+        "group_name": "everest",
+        "discovered": "2025-11-06 16:11:38.632482",
+        "description": "[AI generated] N/A",
+        "website": "",
+        "published": "2025-11-06 16:11:21.687687",
+        "post_url": "http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/news/Everest_Exclusive_Interview_for_Dailydarkweb.net",
+        "country": "",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": []
     }
 ]

@@ -4,8 +4,50 @@
     "month": null,
     "country": null
   },
-  "count": 2880,
+  "count": 2883,
   "results": [
+    {
+      "date": "2025-11-05",
+      "victim": "Medizinische Versorgungszentrum Nordoberpfalz",
+      "domain": "mvz-weiden.de",
+      "country": "DE",
+      "summary": "Le Medizinische Versorgungszentrum Nordoberpfalz a subi une attaque informatique, ce qui a conduit à la fermeture temporaire de deux de ses sites à Tirschenreuth et Kemnath. Les cliniques ne sont pas affectées et le site de Weiden continue de fonctionner. Les systèmes ont été déconnectés en raison de la découverte d'un logiciel malveillant.",
+      "title": "Cyberangriff legt MVZ in Tirschenreuth und Kemnath lahm | OberpfalzECHO",
+      "url": "https://www.oberpfalzecho.de/beitrag/cyberangriff-legt-mvz-in-tirschenreuth-und-kemnath-lahm",
+      "added": "2025-11-06",
+      "infostealer": {
+        "update": "2025-11-06 12:50:21",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-11-03",
+      "victim": "Dillon County",
+      "domain": "dilloncountysc.org",
+      "country": "US",
+      "summary": "Le comté de Dillon en Caroline du Sud a détecté une perturbation de son réseau le 3 novembre et enquête sur une possible faille de sécurité avec des spécialistes forensiques tiers et les forces de l'ordre. Les responsables n'ont pas précisé quels systèmes ont été affectés. Le comté travaille avec des spécialistes externes et les forces de l'ordre pour déterminer l'ampleur de la perturbation.",
+      "title": "South Carolina’s Dillon County probes possible hack",
+      "url": "https://dysruptionhub.com/dillon-county-sc-possible-hack/",
+      "added": "2025-11-06",
+      "infostealer": {
+        "update": "2025-11-06 12:50:39",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2025-11-03",
       "victim": "Kingcan Holdings Limited , Fuzhen Group",
@@ -50,6 +92,32 @@
           "Raccoon": 6,
           "Generic Stealer": 3,
           "Vidar": 4
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-10-30",
+      "victim": "Haileybury College",
+      "domain": "haileybury.com",
+      "country": "AU",
+      "summary": "Haileybury College a été victime d'une attaque cybernétique en octobre, avec un accès limité à son réseau. L'école a contenu la violation une fois la intrusion découverte et a isolé les systèmes touchés. L'école prend la sécurité du réseau très au sérieux et la sécurité des étudiants et du personnel est sa priorité absolue.",
+      "title": "Prestigious Haileybury College confirms cyber security incident",
+      "url": "https://www.cyberdaily.au/security/12870-prestigious-haileybury-college-confirms-cyber-security-incident",
+      "added": "2025-11-06",
+      "infostealer": {
+        "update": "2025-11-06 12:50:01",
+        "employees": 6,
+        "users": 5,
+        "thirdparties_domain": 12,
+        "employees_url": 5,
+        "users_url": 8,
+        "thirdparties": 8,
+        "infostealer_stats": {
+          "RedLine": 14,
+          "Vidar": 2,
+          "Azorult": 2,
+          "Lumma": 2
         }
       },
       "ransomware": null

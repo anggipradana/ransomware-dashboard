@@ -4,8 +4,34 @@
     "month": null,
     "country": null
   },
-  "count": 2884,
+  "count": 2885,
   "results": [
+    {
+      "date": "2025-11-06",
+      "victim": "Ludwigshafen",
+      "domain": "ludwigshafen.de",
+      "country": "DE",
+      "summary": "Le réseau de la ville de Ludwigshafen a été victime d'une attaque de hackers, ce qui a entraîné une panne généralisée. Les détails de l'incident ne sont pas encore connus, mais il s'agit potentiellement du deuxième cas d'attaque de ce type dans la région après celle qui a touché la Kreisverwaltung il y a trois ans. Une conférence de presse est prévue pour fournir plus d'informations.",
+      "title": "Hackerangriff legt Netzwerk der Stadtverwaltung Ludwigshafen lahm",
+      "url": "https://www.mannheimer-morgen.de/orte/ludwigshafen_artikel,-ludwigshafen-hackerangriff-legt-netzwerk-der-stadtverwaltung-ludwigshafen-lahm-_arid,2339209.html",
+      "added": "2025-11-07",
+      "infostealer": {
+        "update": "2025-11-07 11:58:28",
+        "employees": 0,
+        "users": 20,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 6,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "RedLine": 18,
+          "Raccoon": 6,
+          "Lumma": 6,
+          "Azorult": 2
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2025-11-06",
       "victim": "RTV Noord",

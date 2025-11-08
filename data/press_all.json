@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2886,
+  "count": 2887,
   "results": [
     {
       "date": "2025-11-06",
@@ -53,6 +53,39 @@
           "Vidar": 1,
           "RedLine": 1,
           "Raccoon": 1
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-11-05",
+      "victim": "Habib Bank AG Zurich",
+      "domain": "habibbank.com",
+      "country": "PK",
+      "summary": "Le 7 novembre, Habib Bank AG Zurich a dit avoir subi un accès non autorisé à son réseau d'entreprise, mais ses services bancaires restent opérationnels. L'équipe de la banque travaille avec des experts en cybersécurité pour évaluer et atténuer l'impact de l'incident. Les autorités réglementaires ont été informées et des mesures supplémentaires ont été prises pour protéger les informations des clients. Une cyberattaque contre la banque a été revendiquée sous la bannière de Qilin le 5 novembre.",
+      "title": "Important Notice - Habib Bank AG Zurich",
+      "url": "https://habibbank.com/important-notice/",
+      "added": "2025-11-08",
+      "infostealer": {
+        "update": "2025-11-05 07:21:12",
+        "employees": 0,
+        "users": 238,
+        "thirdparties_domain": 1,
+        "employees_url": 0,
+        "users_url": 100,
+        "thirdparties": 2,
+        "infostealer_stats": {
+          "Lumma": 72,
+          "Generic Stealer": 65,
+          "RedLine": 52,
+          "Raccoon": 22,
+          "Vidar": 9,
+          "StealC": 7,
+          "Azorult": 4,
+          "UNKNOWN": 3,
+          "Predator": 1,
+          "Mystic": 1,
+          "CRYPTBOT": 1
         }
       },
       "ransomware": null

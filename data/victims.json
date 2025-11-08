@@ -300951,5 +300951,20 @@
         "activity": "Transportation/Logistics",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Pocatello Ready Mix",
+        "group_name": "securotrop",
+        "discovered": "2025-11-08 09:16:08.327666",
+        "description": "Status: AWAITING\nSize: 274 GB",
+        "website": "",
+        "published": "2025-11-07 05:00:00.000000",
+        "post_url": "http://securo45z554mw7rgrt7wcgv5eenj2xmxyrsdj3fcjsvindu63s4bsid.onion",
+        "country": "US",
+        "activity": "Construction",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "274 GB"
+        }
     }
 ]

@@ -301128,5 +301128,78 @@
         "extrainfos": {
             "ransom": 500000
         }
+    },
+    {
+        "post_title": "Instituto Nacional de Oftalmologia, Peru",
+        "group_name": "nightspire",
+        "discovered": "2025-11-09 19:46:47.791577",
+        "description": "Instituto Nacional de Oftalmologia, Peru",
+        "website": "ino.gob.pe",
+        "published": "2025-11-09 19:46:45.179243",
+        "post_url": "",
+        "country": "PE",
+        "activity": "Healthcare",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "30 GB"
+        }
+    },
+    {
+        "post_title": "Eastern Cape Department of Human Settlements, South Africa",
+        "group_name": "nightspire",
+        "discovered": "2025-11-09 19:47:12.861143",
+        "description": "Eastern Cape Department of Human Settlements, South Africa",
+        "website": "ecdhs.gov.za",
+        "published": "2025-11-09 19:47:10.401267",
+        "post_url": "",
+        "country": "ZA",
+        "activity": "Public Sector",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "20 GB"
+        }
+    },
+    {
+        "post_title": "Fidelity Pension Managers, Nigeria",
+        "group_name": "nightspire",
+        "discovered": "2025-11-09 19:47:38.394388",
+        "description": "Fidelity Pension Managers, Nigeria",
+        "website": "fidelitypensionmanagers.com",
+        "published": "2025-11-09 19:47:35.899698",
+        "post_url": "",
+        "country": "NG",
+        "activity": "Financial Services",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "5 GB"
+        }
+    },
+    {
+        "post_title": "Servicios del Valle del Fuerte, Mexico",
+        "group_name": "nightspire",
+        "discovered": "2025-11-09 19:48:04.095562",
+        "description": "Servicios del Valle del Fuerte, Mexico",
+        "website": "sevafusa.mx",
+        "published": "2025-11-09 19:48:01.141767",
+        "post_url": "",
+        "country": "MX",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "1 GB"
+        }
+    },
+    {
+        "post_title": "!",
+        "group_name": "stormous",
+        "discovered": "2025-11-09 19:54:36.575106",
+        "description": "VPN access to the company’s internal network is provided",
+        "website": "",
+        "published": "2025-11-09 19:54:34.346892",
+        "post_url": "",
+        "country": "",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": []
     }
 ]

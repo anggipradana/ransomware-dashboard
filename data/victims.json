@@ -300925,19 +300925,6 @@
         "extrainfos": []
     },
     {
-        "post_title": "!",
-        "group_name": "stormous",
-        "discovered": "2025-11-08 01:45:17.958224",
-        "description": "VPN access to the company’s internal network is provided",
-        "website": "",
-        "published": "2025-11-08 01:45:15.306700",
-        "post_url": "",
-        "country": "",
-        "activity": "Not Found",
-        "duplicates": [],
-        "extrainfos": []
-    },
-    {
         "post_title": "Scouts Canada",
         "group_name": "qilin",
         "discovered": "2025-11-08 05:50:35.305748",
@@ -301125,6 +301112,21 @@
         "duplicates": [],
         "extrainfos": {
             "data_size": "60GB"
+        }
+    },
+    {
+        "post_title": "Atrium Living Centers",
+        "group_name": "medusa",
+        "discovered": "2025-11-09 18:42:58.778387",
+        "description": "Atrium Living Centers is a 100% employee-owned company providing skilled nursing, rehabilitation, and long-term care services. The organization is dedicated to delivering compassionate, high-quality healthcare to residents while promoting dignity, respect, and community involvement. With a strong focus on personalized treatment, Atrium Living Centers offers both short-term post-acute rehabilitation and long-term nursing care. Their mission is to “be a light in the lives of our residents and families,” ensuring comfort and well-being in a supportive environment. The company operates multiple care centers across several U.S. states, including Ohio, Michigan, Kentucky, and Wisconsin.\ncompany is headquartered in Atrium Living Centers headquarters is located at 2550 Corporate Exchange Drive, Suite 200, Columbus, Ohio 43231, United States.\n2,000 Employees\n",
+        "website": "",
+        "published": "2025-11-08 15:21:05.000000",
+        "post_url": "http://xfv4jzckytb4g3ckwemcny3ihv4i5p4lqzdpi624cxisu35my5fwi5qd.onion/detail?id=67741bb987a8e3e4ab91543894e76f86",
+        "country": "US",
+        "activity": "Healthcare",
+        "duplicates": [],
+        "extrainfos": {
+            "ransom": 500000
         }
     }
 ]

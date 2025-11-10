@@ -1,6 +1,6 @@
 {
   "filter_type": null,
-  "count": 65,
+  "count": 66,
   "groups": [
     {
       "group": "Ailock",
@@ -130,6 +130,7 @@
       "group": "Chaos",
       "ioc_types": {
         "sha256": 3,
+        "md5": 3,
         "ip": 3
       }
     },
@@ -262,6 +263,12 @@
       }
     },
     {
+      "group": "Lockbit5",
+      "ioc_types": {
+        "md5": 13
+      }
+    },
+    {
       "group": "Lunalock",
       "ioc_types": {
         "email": 1
@@ -354,8 +361,9 @@
       "group": "RaLord",
       "ioc_types": {
         "session": 1,
-        "md5": 1,
-        "tox": 2
+        "md5": 2,
+        "tox": 2,
+        "ip": 1
       }
     },
     {

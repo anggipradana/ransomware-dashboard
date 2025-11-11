@@ -301652,5 +301652,79 @@
         "activity": "Not Found",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Doctor Alliance – Streamlined Document and Billing Management for Healthcare Providers",
+        "group_name": "kazu",
+        "discovered": "2025-11-11 13:19:33.950502",
+        "description": "Doctor Alliance (doctoralliance.com) is a U.S.-based healthcare technology platform that helps physicians and medical agencies manage documents, referrals, and billing in one secure online system. Headquartered in Dallas, Texas, it offers services such as electronic document signing, coordination with agencies, and billing support for programs like CPO, CCM, and TCM. The platform integrates with systems like Axxess Home Health to streamline workflow and reduce paperwork, promoting faster document turnaround and improved billing efficiency -- contact me to protect your files !!",
+        "website": "doctoralliance.com",
+        "published": "2025-11-06 00:00:00.000000",
+        "post_url": "",
+        "country": "US",
+        "activity": "Healthcare",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "353 GB",
+            "ransom": "$200 000"
+        }
+    },
+    {
+        "post_title": "Defensoría del Pueblo de Colombia – Protection and Promotion of Human Rights",
+        "group_name": "kazu",
+        "discovered": "2025-11-11 13:19:58.329159",
+        "description": "The official online portal of the Defensoría del Pueblo de Colombia, a constitutional and autonomous institution responsible for promoting, protecting, and defending human rights across the country. It serves as a public platform where citizens can access information about their rights, file complaints, seek legal guidance, and learn about the institution’s oversight and advocacy efforts. The Defensoría operates independently from other branches of government and plays a key role in ensuring that state entities respect and uphold fundamental rights, especially for vulnerable populations",
+        "website": "www.defensoria.gov.co",
+        "published": "2025-11-08 00:00:00.000000",
+        "post_url": "",
+        "country": "CO",
+        "activity": "Public Sector",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "466.2 GB",
+            "ransom": "$100 000"
+        }
+    },
+    {
+        "post_title": "National Civil Service Commission of Colombia",
+        "group_name": "kazu",
+        "discovered": "2025-11-11 13:20:23.521175",
+        "description": "The official portal of the Comisión Nacional del Servicio Civil (CNSC), Colombia’s National Civil Service Commission. This government body is responsible for overseeing the recruitment, selection, and management of public servants in the country. It ensures that hiring for government positions is fair, transparent, and based on merit. The site provides essential information about job openings in the public sector, application processes, and the regulations that govern public service employment in Colombia. It serves as a key resource for individuals seeking to apply for civil service positions or learn about public sector employment in Colombia",
+        "website": "cnsc.gov.co",
+        "published": "2025-11-10 00:00:00.000000",
+        "post_url": "",
+        "country": "CO",
+        "activity": "Public Sector",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "2.9 TB",
+            "ransom": "$300 000"
+        }
+    },
+    {
+        "post_title": "Collins Aerospace / RTX.com - Database Leaked",
+        "group_name": "everest",
+        "discovered": "2025-11-11 13:21:18.127863",
+        "description": "[AI generated] Collins Aerospace is a subsidiary of Raytheon Technologies Corporation, an aerospace and defense company. It produces solutions for aerostructures, avionics, interiors, mechanical systems, mission systems, and power & control systems. However, \"Collins Aerospace/RTX.com - Database Leaked\" seems to refer to an incident where the company’s data might have been compromised. This could potentially include sensitive information like employee data, internal communications, or proprietary information.",
+        "website": "",
+        "published": "2025-11-11 13:21:01.297206",
+        "post_url": "http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/news/collinsaerospace",
+        "country": "US",
+        "activity": "Technology",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Dublin Airport - Database Leaked",
+        "group_name": "everest",
+        "discovered": "2025-11-11 13:21:35.704857",
+        "description": "[AI generated] N/A",
+        "website": "",
+        "published": "2025-11-11 13:21:21.116745",
+        "post_url": "http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/news/dublinairport",
+        "country": "IE",
+        "activity": "Transportation/Logistics",
+        "duplicates": [],
+        "extrainfos": []
     }
 ]

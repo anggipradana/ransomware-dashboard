@@ -4,8 +4,29 @@
     "month": null,
     "country": null
   },
-  "count": 2892,
+  "count": 2897,
   "results": [
+    {
+      "date": "2025-11-09",
+      "victim": "Radio Nordseewelle",
+      "domain": "radio-nordseewelle.de",
+      "country": "DE",
+      "summary": "Radio Nordseewelle a été victime d'une attaque de piratage informatique qui a endommagé une grande partie de son infrastructure technique, mais le service a pu être rétabli grâce à l'engagement de l'équipe et à l'aide de partenaires régionaux. Les enquêtes techniques ont révélé qu'il s'agissait d'une attaque ciblée et professionnelle. Le service a été rétabli et les systèmes ont été réaménagés pour améliorer la sécurité.",
+      "title": "Hackerangriff legt Radio Nordseewelle lahm",
+      "url": "https://www.radioszene.de/207744/radio-nordseewelle-hackerangriff.html",
+      "added": "2025-11-11",
+      "infostealer": {
+        "update": "2025-11-11 12:03:20",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2025-11-06",
       "victim": "Ludwigshafen",
@@ -4278,6 +4299,32 @@
         }
       },
       "ransomware": null
+    },
+    {
+      "date": "2025-08-05",
+      "victim": "KLA Instruments",
+      "domain": "kla.com",
+      "country": "US",
+      "summary": "KLA Instruments detected an unauthorized party gained access to certain corporate systems, resulting in the exposure of personal information. A cyberattack against KLA Instruments was claimed by Meow on August 8, 2024.",
+      "title": "2025-11-07 KLA Corporation dba KLA Instruments - Filmetrics Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-11-07-kla-corporation-dba-kla-instruments-filmetrics-data-breach-notice-consumers",
+      "added": "2025-11-11",
+      "infostealer": {
+        "update": "2025-11-11 12:02:39",
+        "employees": 0,
+        "users": 1,
+        "thirdparties_domain": 6,
+        "employees_url": 0,
+        "users_url": 1,
+        "thirdparties": 11,
+        "infostealer_stats": {
+          "Generic Stealer": 1
+        }
+      },
+      "ransomware": {
+        "group": "meow",
+        "permalink": "https://www.ransomware.live/id/S0xBQG1lb3c="
+      }
     },
     {
       "date": "2025-08-05",
@@ -20108,6 +20155,30 @@
     },
     {
       "date": "2025-01-17",
+      "victim": "Wakefield & Associates, LLC",
+      "domain": "wakeassoc.com",
+      "country": "US",
+      "summary": "Wakefield & Associates, LLC experienced an unauthorized access and/or acquisition of certain files within their network, potentially exposing client information. The incident occurred on or before January 17, 2025, and was discovered earlier this year. A cyberattack against Wakefield & Associates was claimed by Akira on February 11.",
+      "title": "2025-11-07 Wakefield & Associates Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-11-07-wakefield-associates-data-breach-notice-consumers",
+      "added": "2025-11-11",
+      "infostealer": {
+        "update": "2025-09-15 20:44:38",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "knight",
+        "permalink": "https://www.ransomware.live/id/V2FrZWZpZWxkICYgQXNzb2NpYXRlc0BrbmlnaHQ="
+      }
+    },
+    {
+      "date": "2025-01-17",
       "victim": "Medical Associates of Brevard, LLC",
       "domain": "mabmd.com",
       "country": "US",
@@ -21497,6 +21568,39 @@
         "employees_url": 0,
         "users_url": 12,
         "thirdparties": 13
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2024-12-22",
+      "victim": "Graebel Companies, Inc.",
+      "domain": "graebel.com",
+      "country": "US",
+      "summary": "Graebel Companies, Inc. experienced a network disruption involving certain computer systems and services in December 2024, resulting in unauthorized access to files between December 19, 2024, and December 22, 2024. The incident was discovered in December 2024, and the company has since taken steps to secure its network and notify potentially impacted clients. No identity theft or fraud has been reported as a result of the incident.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/68640747-c6ce-4cda-88a6-c09693a359df.html",
+      "added": "2025-11-11",
+      "infostealer": {
+        "update": "2025-11-11 12:03:00",
+        "employees": 5,
+        "users": 355,
+        "thirdparties_domain": 9,
+        "employees_url": 6,
+        "users_url": 23,
+        "thirdparties": 7,
+        "infostealer_stats": {
+          "Lumma": 182,
+          "RedLine": 156,
+          "Generic Stealer": 46,
+          "Raccoon": 60,
+          "Azorult": 44,
+          "StealC": 34,
+          "Vidar": 22,
+          "Atomic": 13,
+          "Taurus": 2,
+          "UNKNOWN": 2,
+          "CRYPTBOT": 2
+        }
       },
       "ransomware": null
     },
@@ -24663,6 +24767,33 @@
         "group": "everest",
         "permalink": "https://www.ransomware.live/id/U1RJSUlaWUBldmVyZXN0"
       }
+    },
+    {
+      "date": "2024-11-09",
+      "victim": "Manassas City Public Schools",
+      "domain": "mcpsva.org",
+      "country": "US",
+      "summary": "Les écoles publiques de la ville de Manassas ont été fermées le lundi 11 novembre en raison d'une attaque informatique qui a perturbé les systèmes téléphoniques et réseaux du district. Les écoles devraient rouvrir le mercredi 13 novembre, à moins que de nouvelles informations ne changent ce plan. Les responsables du district sont déterminés à maintenir une communication ouverte et à partager des mises à jour avec les familles, les enseignants et le personnel au fur et à mesure que l'enquête progresse.",
+      "title": "Cyberattack closes Manassas City Public Schools on Monday",
+      "url": "https://www.fox5dc.com/news/cyberattack-closes-manassas-city-public-schools-monday",
+      "added": "2025-11-11",
+      "infostealer": {
+        "update": "2025-11-11 12:03:41",
+        "employees": 2,
+        "users": 27,
+        "thirdparties_domain": 13,
+        "employees_url": 1,
+        "users_url": 3,
+        "thirdparties": 38,
+        "infostealer_stats": {
+          "RedLine": 32,
+          "Lumma": 6,
+          "Vidar": 4,
+          "Raccoon": 4,
+          "Azorult": 4
+        }
+      },
+      "ransomware": null
     },
     {
       "date": "2024-11-09",

@@ -301585,5 +301585,20 @@
         "activity": "Healthcare",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Vascara, Vietnam",
+        "group_name": "nightspire",
+        "discovered": "2025-11-11 01:41:18.558176",
+        "description": "Vascara, Vietnam",
+        "website": "vascara.com",
+        "published": "2025-11-11 01:41:17.046720",
+        "post_url": "",
+        "country": "VN",
+        "activity": "Consumer Services",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "30 GB"
+        }
     }
 ]

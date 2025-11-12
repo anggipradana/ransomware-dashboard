@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2898,
+  "count": 2899,
   "results": [
     {
       "date": "2025-11-09",
@@ -7871,6 +7871,33 @@
         }
       },
       "ransomware": null
+    },
+    {
+      "date": "2025-06-07",
+      "victim": "DealMed Medical Supplies",
+      "domain": "dealmed.com",
+      "country": "US",
+      "summary": "DealMed Medical Supplies a dit avoir identifié un incident de sécurité le 7 juillet 2025, après qu'une cyberattaque contre ses système ait été revendiquée par DragonForce, le 26 juin. Les données ont été volées par l'attaquant autour du 7 juin.",
+      "title": "DealMed Medical Supplies Announces July 2025 Cyberattack",
+      "url": "https://www.hipaajournal.com/dealmed-medical-supplies-cyberattack-data-breach/",
+      "added": "2025-11-12",
+      "infostealer": {
+        "update": "2025-06-26 18:22:42",
+        "employees": 0,
+        "users": 3,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 2,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "Raccoon": 2,
+          "Azorult": 2
+        }
+      },
+      "ransomware": {
+        "group": "dragonforce",
+        "permalink": "https://www.ransomware.live/id/RGVhbG1lZCBNZWRpY2FsIFN1cHBsaWVzQGRyYWdvbmZvcmNl"
+      }
     },
     {
       "date": "2025-06-07",

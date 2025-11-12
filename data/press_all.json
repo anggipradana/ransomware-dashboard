@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2897,
+  "count": 2898,
   "results": [
     {
       "date": "2025-11-09",
@@ -3003,6 +3003,27 @@
           "Atomic": 2,
           "StealC": 2
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-08-28",
+      "victim": "Country Club Enterprises, LLC dba C2 Vehicles",
+      "domain": "c2vehicles.com",
+      "country": "US",
+      "summary": "C2 Vehicles experienced a network disruption, resulting in unauthorized access to certain files containing personal information. The affected data may have included names, Social Security numbers, and driver's license numbers. There is no evidence of misuse or attempted misuse of the impacted information.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/8f27d719-0dbf-4fa7-a03b-2cb94542220b.html",
+      "added": "2025-11-12",
+      "infostealer": {
+        "update": "2025-11-12 08:32:21",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },

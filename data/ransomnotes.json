@@ -1,5 +1,5 @@
 {
-  "count": 196,
+  "count": 197,
   "groups": [
     {
       "group": ".git",
@@ -388,6 +388,10 @@
     {
       "group": "knight",
       "ransomnotes_count": 2
+    },
+    {
+      "group": "kraken",
+      "ransomnotes_count": 1
     },
     {
       "group": "krypt",

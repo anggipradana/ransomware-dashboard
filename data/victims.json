@@ -302253,5 +302253,33 @@
         "activity": "Healthcare",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Muskoka Brewery",
+        "group_name": "qilin",
+        "discovered": "2025-11-13 13:43:20.537287",
+        "description": "N/A",
+        "website": "muskokabrewery.com",
+        "published": "2025-11-13 13:43:02.866332",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=b639b706-5627-3e05-abaa-5e150bb3a236",
+        "country": "CA",
+        "activity": "Manufacturing",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Goldhorse Capital Management",
+        "group_name": "beast",
+        "discovered": "2025-11-13 14:15:51.913713",
+        "description": "The company's customers' personal data, databases, and source code have been stolen. If the company does not respond within 24 hours, this data will be published.",
+        "website": "www.goldhorse.com.hk",
+        "published": "2025-08-24 00:00:00.000000",
+        "post_url": "http://beast6azu4f7fxjakiayhnssybibsgjnmy77a6duufqw5afjzfjhzuqd.onion/card/goldhorse_capital_management",
+        "country": "SG",
+        "activity": "Financial Services",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "550GB"
+        }
     }
 ]

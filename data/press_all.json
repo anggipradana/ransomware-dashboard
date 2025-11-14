@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2911,
+  "count": 2912,
   "results": [
     {
       "date": "2025-11-12",
@@ -151,6 +151,31 @@
         "users_url": 0,
         "thirdparties": 0,
         "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-11-07",
+      "victim": "woom GmbH",
+      "domain": "woom.com",
+      "country": "AT",
+      "summary": "La société woom GmbH a été victime d'une attaque cybernétique le 7 novembre 2025, mais a pu rapidement réagir et limiter les dégâts avec l'aide d'un expert en cybersécurité. Les informations des clients pourraient avoir été compromises, mais pas les données sensibles. L'entreprise continue d'investir dans les normes de sécurité les plus modernes pour protéger ses systèmes et données.",
+      "title": "Cyberangriff bei woom",
+      "url": "https://www.presseportal.de/pm/136027/6158820",
+      "added": "2025-11-14",
+      "infostealer": {
+        "update": "2025-11-14 14:23:06",
+        "employees": 0,
+        "users": 3,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 2,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "RedLine": 1,
+          "Raccoon": 1,
+          "Vidar": 1
+        }
       },
       "ransomware": null
     },

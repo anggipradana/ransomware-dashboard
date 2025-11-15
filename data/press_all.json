@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2913,
+  "count": 2914,
   "results": [
     {
       "date": "2025-11-12",
@@ -528,6 +528,40 @@
         "users_url": 0,
         "thirdparties": 0,
         "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-10-27",
+      "victim": "Poltronesofà",
+      "domain": "poltronesofa.com",
+      "country": "IT",
+      "summary": "Des personnes non autorisées ont compromis les serveurs du groupe Poltronesofà entraînant le chiffrement des fichiers qui y étaient stockés et l’indisponibilité des machines virtuelles hébergées.",
+      "title": "Notification conformément à l'article 34 du RGPD",
+      "url": "https://www.poltronesofa.com/",
+      "added": "2025-11-15",
+      "infostealer": {
+        "update": "2025-11-15 14:20:05",
+        "employees": 6,
+        "users": 956,
+        "thirdparties_domain": 24,
+        "employees_url": 5,
+        "users_url": 100,
+        "thirdparties": 9,
+        "infostealer_stats": {
+          "Lumma": 282,
+          "RedLine": 241,
+          "Generic Stealer": 187,
+          "Raccoon": 114,
+          "StealC": 38,
+          "Azorult": 29,
+          "Vidar": 26,
+          "UNKNOWN": 12,
+          "DarkCrystal": 9,
+          "CRYPTBOT": 3,
+          "Atomic": 3,
+          "Mystic": 1
+        }
       },
       "ransomware": null
     },

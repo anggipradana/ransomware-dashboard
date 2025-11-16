@@ -303449,5 +303449,25 @@
         "activity": "Transportation/Logistics",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "United Enterprise Fund",
+        "group_name": "thegentlemen",
+        "discovered": "2025-11-16 16:13:24.391753",
+        "description": "https://www.zoominfo.com/c/united-enterprise-fund-lp/104726614 www.unitedenterprisefund.com United Enterprise Fund is a New Yorkbased financial services firm that delivers personalized investment management and advisory solutions. The company specializes in helping clients pursue long-term financial objectives through strategic investment planning and risk management. Operating from the heart of the financial district, United Enterprise Fund combines tailored planning with market insight to support sustainable financial outcomes.",
+        "website": "www.zoominfo.com",
+        "published": "2025-02-19 00:00:00.000000",
+        "post_url": "http://tezwsse5czllksjb7cwp65rvnk4oobmzti2znn42i43bjdfd2prqqkad.onion",
+        "country": "",
+        "activity": "Not Found",
+        "duplicates": [
+            {
+                "date": "2025-11-16 16:13:24.502933",
+                "group": "chaos",
+                "link": "https://www.ransomware.live/id/aGFuc29uLWluYy5jb21AY2hhb3M=",
+                "attackdate": "2025-02-19 00:00:00.000000"
+            }
+        ],
+        "extrainfos": []
     }
 ]

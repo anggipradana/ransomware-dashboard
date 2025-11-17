@@ -4,8 +4,32 @@
     "month": null,
     "country": null
   },
-  "count": 2915,
+  "count": 2916,
   "results": [
+    {
+      "date": "2025-11-14",
+      "victim": "Living Room Theaters",
+      "domain": "livingroomtheaters.com",
+      "country": "US",
+      "summary": "Une attaque informatique a fermé les salles de cinéma Living Room Theaters à Portland et à Indianapolis, les ordinateurs de l'entreprise sont devenus inutilisables. L'entreprise travaille avec des experts en cybersécurité pour réparer les dégâts et a annoncé qu'elle allait rembourser les billets achetés. La réouverture des salles n'a pas encore de date prévue.",
+      "title": "‘Random’ cyberattack shuts down Living Room Theaters in Portland, CEO says",
+      "url": "https://www.kptv.com/2025/11/17/random-cyberattack-shuts-down-living-room-theaters-portland-ceo-says/",
+      "added": "2025-11-17",
+      "infostealer": {
+        "update": "2025-11-17 11:17:53",
+        "employees": 0,
+        "users": 4,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 3,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "Vidar": 4,
+          "Lumma": 2
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2025-11-12",
       "victim": "Sunafil",

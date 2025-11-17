@@ -273813,12 +273813,18 @@
         "discovered": "2025-08-13 12:06:49.482698",
         "description": "Founded in 1998 and headquartered in Algiers, Algeria, Cevital is\na holding company with interests in food-processing and mass dis\ntribution industry to electronics and domestic appliances, the ir\non and steel industry, the flat glass industry, industrial constr\nuction, the automobile industry, services, and the media.\n\nWe are going to upload company data soon. You will find financial\ndata (audit, invoices), project details, personal financial deta\nils of employees, accounting files.\n",
         "website": "cevital.com",
-        "published": "2025-08-13 00:00:00.000000",
+        "published": "2025-07-31 00:00:00.000000",
         "post_url": "",
         "country": "DZ",
         "activity": "Agriculture and Food Production",
         "duplicates": [],
-        "extrainfos": []
+        "extrainfos": [],
+        "modifications": [
+            {
+                "date": "2025-11-17 15:33:45.922866",
+                "description": "Update published"
+            }
+        ]
     },
     {
         "post_title": "FranceLink",
@@ -303650,6 +303656,45 @@
         "published": "2025-11-17 00:00:00.000000",
         "post_url": "",
         "country": "KR",
+        "activity": "Energy",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Charles Rutenberg Realty",
+        "group_name": "akira",
+        "discovered": "2025-11-17 16:06:45.115480",
+        "description": "Charles Rutenberg Realty, Inc., servicing Pinellas, Pasco, Hillsb\norough, & Hernando County real estate.\n\nWe will upload 91gb of corporate documents soon. Their downloads \nfolder contains so many personal docs (more than 1,5gb of just sc\nanned docs), (passports, driver licenses, SSNs, phones, addresses\n, email addresses, credit card details, employee headshots), fina\nncials, contracts and agreements, NDA, clients' information, proj\nects, etc.\n",
+        "website": "",
+        "published": "2025-11-17 00:00:00.000000",
+        "post_url": "",
+        "country": "US",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "UNDER ARMOUR",
+        "group_name": "everest",
+        "discovered": "2025-11-17 16:13:05.770408",
+        "description": "[AI generated] Under Armour, Inc. is an American multinational corporation founded in 1996 by Kevin Plank. The company specializes in manufacturing and selling branded performance apparel, footwear, and accessories. Its products are engineered with innovative technologies to mitigate the impact of environmental conditions on physical activities. Headquartered in Baltimore, Maryland, it caters extensively to the sports industry globally.",
+        "website": "",
+        "published": "2025-11-17 16:12:48.060259",
+        "post_url": "http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/news/UNDER_ARMOUR/",
+        "country": "US",
+        "activity": "Consumer Services",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Petrobras / SAExploration",
+        "group_name": "everest",
+        "discovered": "2025-11-17 16:13:25.437331",
+        "description": "[AI generated] Petrobras is a state-owned Brazilian multinational corporation involved in the oil, gas, and energy industry. The company specializes in exploration, production, and distribution of oil, gas, and derivative products. SAExploration is an American energy company that provides seismic data acquisition services for the oil and gas industry. They specialize in deep water ocean bottom projects and challenging land operations.",
+        "website": "",
+        "published": "2025-11-17 16:13:07.818832",
+        "post_url": "http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/news/petrobras/",
+        "country": "BR",
         "activity": "Energy",
         "duplicates": [],
         "extrainfos": []

@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2914,
+  "count": 2915,
   "results": [
     {
       "date": "2025-11-12",
@@ -56,6 +56,33 @@
         "infostealer_stats": {
           "Raccoon": 4,
           "StealC": 4
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-11-10",
+      "victim": "Lake Superior State University",
+      "domain": "lssu.edu",
+      "country": "US",
+      "summary": "Lake Superior State University est touchée par une attaque de ransomware qui a commencé autour du 10 novembre, affectant certains ordinateurs et serveurs du campus. L'université travaille avec des partenaires de sécurité et des forces de l'ordre pour restaurer les fichiers en toute sécurité. Les étudiants ont signalé des impacts variables sur les cours en raison de la fermeture des systèmes de laboratoire. (via DisruptionHub)",
+      "title": "Ransomware disrupts Lake Superior State University in Michigan",
+      "url": "https://dysruptionhub.com/lssu-ransomware-michigan/",
+      "added": "2025-11-17",
+      "infostealer": {
+        "update": "2025-11-17 10:26:07",
+        "employees": 2,
+        "users": 38,
+        "thirdparties_domain": 30,
+        "employees_url": 1,
+        "users_url": 20,
+        "thirdparties": 19,
+        "infostealer_stats": {
+          "RedLine": 32,
+          "Raccoon": 12,
+          "Vidar": 8,
+          "StealC": 4,
+          "Lumma": 2
         }
       },
       "ransomware": null

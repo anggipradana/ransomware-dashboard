@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2918,
+  "count": 2925,
   "results": [
     {
       "date": "2025-11-14",
@@ -1225,6 +1225,30 @@
       "ransomware": {
         "group": "interlock",
         "permalink": "https://www.ransomware.live/id/S2Vhcm5leSBQdWJsaWMgU2Nob29sc0BpbnRlcmxvY2s="
+      }
+    },
+    {
+      "date": "2025-10-10",
+      "victim": "Kelly Legal",
+      "domain": "kellylegal.com.au",
+      "country": "AU",
+      "summary": "Les hackers du groupe INC Ransom ont revendiqué avoir volé plus de 400 gigaoctets d'informations de Kelly Legal, dont des fichiers RH, après un incident de piratage en octobre. Les hackers ont publié une fuite sur leur site darknet le 13 novembre, décrivant l'entreprise et ses revenus estimés. Kelly Legal a confirmé avoir été victime d'un incident de piratage sur sa page Facebook le 10 octobre.",
+      "title": "Exclusive: Qld law firm listed by INC Ransom hacking group",
+      "url": "https://www.cyberdaily.au/security/12910-exclusive-queensland-law-firm-listed-by-inc-ransom-hacking-group",
+      "added": "2025-11-18",
+      "infostealer": {
+        "update": "2025-11-13 23:47:59",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "incransom",
+        "permalink": "https://www.ransomware.live/id/a2VsbHlsZWdhbC5jb20uYXVAaW5jcmFuc29t"
       }
     },
     {
@@ -4090,6 +4114,27 @@
     },
     {
       "date": "2025-08-14",
+      "victim": "Donelan's Supermarkets, Inc.",
+      "domain": "donelans.com",
+      "country": "US",
+      "summary": "Donelan's Supermarkets experienced a network security incident where an unauthorized third-party accessed their network environment, potentially exposing personal information of customers. The incident occurred on or about August 14, 2025, and was discovered on the same date. The company is providing identity monitoring services to affected customers.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/7eb4aa2c-384b-4a1f-b232-fb8853876ba9.html",
+      "added": "2025-11-18",
+      "infostealer": {
+        "update": "2025-11-18 11:57:25",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-08-14",
       "victim": "Orchid Island Golf and Beach Club",
       "domain": "orchidislandfl.com",
       "country": "US",
@@ -6356,6 +6401,27 @@
     },
     {
       "date": "2025-07-04",
+      "victim": "Consero Global LLC",
+      "domain": "conseroglobal.com",
+      "country": "US",
+      "summary": "Consero Global LLC suffered a data breach, providing its customers with complimentary credit monitoring services and identity protection. The breach led to the offer of free services, including credit monitoring, dark web monitoring, and identity theft insurance. Customers were required to enroll within 90 days to receive the services.",
+      "title": "2025-11-15 Consero Global Solutions Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-11-15-consero-global-solutions-data-breach-notice-consumers",
+      "added": "2025-11-18",
+      "infostealer": {
+        "update": "2025-11-18 11:56:44",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-07-04",
       "victim": "Tape Ruvicha",
       "domain": "taperuvicha.com",
       "country": "PY",
@@ -6516,6 +6582,27 @@
           "RedLine": 6,
           "Vidar": 2
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-07-02",
+      "victim": "Window to the World Communications Inc.",
+      "domain": "wttw-wfmt.com",
+      "country": "US",
+      "summary": "Window to the World Communications Inc. suffered a data breach where an unauthorized third party accessed certain systems and exfiltrated data. The breach was discovered on July 2, 2025, and the company has taken measures to contain the incident. The investigation has not identified any fraudulent use of personal information as a result of this incident.",
+      "title": "2025-11-17 Window to the World Communications Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-11-17-window-world-communications-data-breach-notice-consumers",
+      "added": "2025-11-18",
+      "infostealer": {
+        "update": "2025-11-18 11:57:05",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },
@@ -6944,6 +7031,27 @@
           "UNKNOWN": 4,
           "Lumma": 4
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-06-26",
+      "victim": "Greer Commission of Public Works",
+      "domain": "greercpw.com",
+      "country": "US",
+      "summary": "Greer CPW suffered a data breach where an unauthorized individual copied certain information from their network environment. The breach occurred on June 19, 2025, and was discovered on June 26, 2025. The potentially impacted information included personal and sensitive data.",
+      "title": "2025-11-14 Greer Commission of Public Works Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-11-14-greer-commission-public-works-data-breach-notice-consumers",
+      "added": "2025-11-18",
+      "infostealer": {
+        "update": "2025-11-18 11:56:24",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },
@@ -22945,6 +23053,29 @@
         "infostealer_stats": {}
       },
       "ransomware": null
+    },
+    {
+      "date": "2024-12-09",
+      "victim": "Drivestream",
+      "domain": "drivestream.com",
+      "country": "US",
+      "summary": "Drivestream, Inc. suffered a data breach between December 4, 2024, and December 9, 2024, where an unauthorized actor accessed certain systems and potentially exfiltrated data. The breach may have exposed name, Social Security number, and financial account information. An attack against Drivestream was claimed by Akira on January 7, 2025.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/5f5a97f0-abf7-477a-b026-67c68f617a02.html",
+      "added": "2025-11-18",
+      "infostealer": {
+        "update": "2025-01-07 14:26:53",
+        "employees": 5,
+        "users": 3,
+        "thirdparties_domain": 5,
+        "employees_url": 7,
+        "users_url": 4,
+        "thirdparties": 5
+      },
+      "ransomware": {
+        "group": "akira",
+        "permalink": "https://www.ransomware.live/id/RHJpdmVzdHJlYW1AYWtpcmE="
+      }
     },
     {
       "date": "2024-12-09",
@@ -42205,6 +42336,27 @@
         "thirdparties": 49,
         "employees_url": 4,
         "users_url": 12
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2024-02-18",
+      "victim": "Tocqueville Asset Management",
+      "domain": "tocqueville.com",
+      "country": "US",
+      "summary": "Tocqueville Asset Management suffered a data breach, resulting in the potential misuse of personal information. The breach affected 27 Rhode Island residents. The organization has taken steps to remediate the incident and provide credit monitoring services to affected individuals.",
+      "title": "2025-11-13 Tocqueville Asset Management Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-11-13-tocqueville-asset-management-data-breach-notice-consumers",
+      "added": "2025-11-18",
+      "infostealer": {
+        "update": "2025-11-18 11:56:04",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },

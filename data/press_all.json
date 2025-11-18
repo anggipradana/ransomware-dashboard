@@ -4,8 +4,33 @@
     "month": null,
     "country": null
   },
-  "count": 2925,
+  "count": 2926,
   "results": [
+    {
+      "date": "2025-11-16",
+      "victim": "Stadtwerke Detmold",
+      "domain": "stadtwerke-detmold.de",
+      "country": "DE",
+      "summary": "Les systèmes informatiques de la société de services publics Stadtwerke Detmold ont été victimes d'une cyberattaque, entraînant une panne complète de leurs services en ligne et de leurs communications téléphoniques et par e-mail. La société assure que les services de base tels que l'eau, l'électricité, le gaz et la chaleur sont toujours disponibles. Les autorités enquêtent actuellement sur l'incident pour déterminer si des données client ont été compromises.",
+      "title": "Stadtwerke Detmold von Hackerangriff betroffen",
+      "url": "https://www.csoonline.com/article/4091972/stadtwerke-detmold-von-hackerangriff-betroffen.html",
+      "added": "2025-11-18",
+      "infostealer": {
+        "update": "2025-11-18 15:37:05",
+        "employees": 0,
+        "users": 27,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 7,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "RedLine": 28,
+          "Raccoon": 12,
+          "Lumma": 10
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2025-11-14",
       "victim": "Living Room Theaters",

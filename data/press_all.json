@@ -4,8 +4,35 @@
     "month": null,
     "country": null
   },
-  "count": 2926,
+  "count": 2930,
   "results": [
+    {
+      "date": "2025-11-16",
+      "victim": "Rainbow Communications",
+      "domain": "rainbowtel.net",
+      "country": "US",
+      "summary": "Rainbow Communications, un fournisseur de services de télécommunications, a subi un événement de cybersécurité qui a perturbé ses services de téléphone et de PBX dans le nord-est du Kansas. L'entreprise travaille à restaurer les services et a mis en place une ligne d'assistance temporaire pour les clients. Les causes de l'incident et les détails sur les données compromises ne sont pas encore connus.",
+      "title": "Kansas telecom cyber event disrupts Rainbow phone lines",
+      "url": "https://dysruptionhub.com/kansas-telecom-cyber-event-disrupts-rainbow-phone-lines/",
+      "added": "2025-11-19",
+      "infostealer": {
+        "update": "2025-11-19 10:38:04",
+        "employees": 0,
+        "users": 2,
+        "thirdparties_domain": 3,
+        "employees_url": 0,
+        "users_url": 3,
+        "thirdparties": 16,
+        "infostealer_stats": {
+          "Vidar": 2,
+          "RedLine": 2,
+          "UNKNOWN": 2,
+          "Raccoon": 2,
+          "Lumma": 2
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2025-11-16",
       "victim": "Stadtwerke Detmold",
@@ -4515,6 +4542,30 @@
         }
       },
       "ransomware": null
+    },
+    {
+      "date": "2025-08-09",
+      "victim": "Plainview Volunteer Fire Department",
+      "domain": "plainviewfd.org",
+      "country": "US",
+      "summary": "Plainview Volunteer Fire Department suffered a data security incident on or about August 9, 2025. The investigation found suspicious activity within their network environment. A cyberattack against the Plainview Volunteer Fire Department was claimed by RansomHouse on October 1st.",
+      "title": "2025-11-14 Plainview Volunteer Fire Department Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-11-14-plainview-volunteer-fire-department-data-breach-notice-consumers",
+      "added": "2025-11-19",
+      "infostealer": {
+        "update": "2025-10-01 17:15:35",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "ransomhouse",
+        "permalink": "https://www.ransomware.live/id/VGhlIFBsYWludmlldyBWb2x1bnRlZXIgRkRAcmFuc29taG91c2U="
+      }
     },
     {
       "date": "2025-08-09",
@@ -13483,6 +13534,51 @@
         }
       },
       "ransomware": null
+    },
+    {
+      "date": "2025-04-10",
+      "victim": "NAHGA Claims Services",
+      "domain": "nahgaclaimservices.com",
+      "country": "US",
+      "summary": "NAHGA Claims Services experienced a data security incident involving unauthorized access to their network systems, potentially affecting personal information between April 8, 2025, and April 11, 2025. An investigation determined that certain files may have been acquired without authorization. The affected information may have included names and other data elements.",
+      "title": "2025-11-17 NAHGA Claims Services Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-11-17-nahga-claims-services-data-breach-notice-consumers",
+      "added": "2025-11-19",
+      "infostealer": {
+        "update": "2025-11-19 10:37:43",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-04-10",
+      "victim": "Murphy, Pearson, Bradley & Feeney, APC",
+      "domain": "mpbf.com",
+      "country": "US",
+      "summary": "A data security incident occurred on MPBF's network, potentially exposing personal information of certain individuals. The incident was discovered on April 10, 2025, and MPBF has no evidence of the misuse of any potentially impacted information. A cyberattack against MPBF was claimed by Akira on May 22.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/2f5a70e9-23f3-4901-bbbe-162434e795e1.html",
+      "added": "2025-11-19",
+      "infostealer": {
+        "update": "2025-05-14 16:15:25",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "akira",
+        "permalink": "https://www.ransomware.live/id/TXVycGh5IFBlYXJzb24gQnJhZGxleSAmIEZlZW5leUBha2lyYQ=="
+      }
     },
     {
       "date": "2025-04-10",

@@ -4,8 +4,43 @@
     "month": null,
     "country": null
   },
-  "count": 2933,
+  "count": 2936,
   "results": [
+    {
+      "date": "2025-11-19",
+      "victim": "Paramount Health Services & Insurance TPA Private Ltd",
+      "domain": "paramounttpa.com",
+      "country": "IN",
+      "summary": "Medi Assist Healthcare Services Ltd a signalé qu'une filiale, Paramount Health Services & Insurance TPA Private Ltd, a subi une faille de sécurité affectant certains de ses systèmes et services. L'incident a été limité à l'infrastructure de Paramount TPA et n'a pas eu d'impact sur Medi Assist ou ses autres filiales. (via eCrime.ch))",
+      "title": "Medi Assist says subsidiary Paramount TPA faced cyber incident; systems restored - CNBC TV18",
+      "url": "https://www.cnbctv18.com/market/stocks/medi-assist-healthcare-services-share-price-says-subsidiary-paramount-tpa-faced-cyber-incident-systems-restored-19767014.htm",
+      "added": "2025-11-20",
+      "infostealer": {
+        "update": "2025-11-20 10:26:42",
+        "employees": 58,
+        "users": 1810,
+        "thirdparties_domain": 21,
+        "employees_url": 18,
+        "users_url": 100,
+        "thirdparties": 12,
+        "infostealer_stats": {
+          "Lumma": 563,
+          "Generic Stealer": 410,
+          "RedLine": 409,
+          "Raccoon": 199,
+          "StealC": 131,
+          "Vidar": 64,
+          "Azorult": 20,
+          "UNKNOWN": 14,
+          "CRYPTBOT": 9,
+          "Acreed": 2,
+          "Ficker": 1,
+          "Taurus": 1,
+          "Predator": 1
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2025-11-19",
       "victim": "Tung Ho Textile Co., Ltd.",
@@ -26,6 +61,27 @@
         "infostealer_stats": {
           "Lumma": 4
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-11-18",
+      "victim": "太興集團",
+      "domain": "taihing.com",
+      "country": "HK",
+      "summary": "Le groupe Taï Hing a été victime d'une attaque de sécurité informatique, ce qui a provoqué des perturbations dans l'utilisation de son application et des coupons électroniques. L'entreprise a déclaré l'incident aux autorités et a mis en place une équipe pour enquêter et améliorer la sécurité de ses systèmes. Pour le moment, il n'y a aucune preuve de fuite de données personnelles des clients.",
+      "title": "太興遭網絡攻擊 稱已報告執法部門 暫無跡象顯示顧客資料外洩",
+      "url": "https://www.stheadline.com/realtime-finance/3519614/太興遭網絡攻擊-稱已報告執法部門-暫無跡象顯示顧客資料外洩",
+      "added": "2025-11-20",
+      "infostealer": {
+        "update": "2025-11-20 10:27:22",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },
@@ -13061,6 +13117,33 @@
           "Vidar": 4,
           "StealC": 4,
           "UNKNOWN": 2
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-04-15",
+      "victim": "Pillsbury Winthrop Shaw Pitman LLP",
+      "domain": "pillsburylaw.com",
+      "country": "US",
+      "summary": "Pillsbury Winthrop Shaw Pitman LLP a fait état d'une cyberattaque sophistiquée ayant entraîné l'accès non autorisé à des informations personnelles et financières sensibles. La faille a été découverte après une analyse approfondie plus tard dans l'année. Les personnes touchées ont reçu des lettres de notification et ont été proposées des services de surveillance de crédit et de protection contre le vol d'identité.",
+      "title": "Pillsbury Winthrop Shaw Pitman LLP Data Breach",
+      "url": "https://www.emeryreddy.com/blog/data-breach/pillsbury-winthrop-shaw-pitman-llp-data-breach",
+      "added": "2025-11-20",
+      "infostealer": {
+        "update": "2025-11-20 10:27:03",
+        "employees": 0,
+        "users": 11,
+        "thirdparties_domain": 4,
+        "employees_url": 0,
+        "users_url": 13,
+        "thirdparties": 3,
+        "infostealer_stats": {
+          "Lumma": 14,
+          "Azorult": 4,
+          "Vidar": 4,
+          "Generic Stealer": 1,
+          "Raccoon": 2
         }
       },
       "ransomware": null

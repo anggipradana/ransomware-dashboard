@@ -4,8 +4,31 @@
     "month": null,
     "country": null
   },
-  "count": 2930,
+  "count": 2933,
   "results": [
+    {
+      "date": "2025-11-19",
+      "victim": "Tung Ho Textile Co., Ltd.",
+      "domain": "tungho.com.tw",
+      "country": "TW",
+      "summary": "Tung Ho Textile Co., Ltd. a été victime d'une attaque cybernétique, mais les prévisions préliminaires indiquent que l'impact sur les opérations de l'entreprise devrait être minime, les mécanismes de défense de cybersécurité ont été activés et des experts externes sont impliqués pour gérer la situation.",
+      "title": "Today's Information",
+      "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=173241&spoke_date=20251119&co_id=1414",
+      "added": "2025-11-20",
+      "infostealer": {
+        "update": "2025-11-20 09:27:25",
+        "employees": 0,
+        "users": 2,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 1,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "Lumma": 4
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2025-11-16",
       "victim": "Rainbow Communications",
@@ -9517,6 +9540,29 @@
         "users_url": 0,
         "thirdparties": 0,
         "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-05-26",
+      "victim": "Telcom Insurance Group",
+      "domain": "telcominsgrp.com",
+      "country": "US",
+      "summary": "Telcom Insurance Group suffered a data breach, prompting the company to offer credit monitoring services to affected individuals. The breach led to the exposure of sensitive information, and the company is working to maintain protection of the affected data. The attack was claimed by Lynx on June 23.",
+      "title": "2025-11-19 Telcom Insurance Group Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-11-19-telcom-insurance-group-data-breach-notice-consumers",
+      "added": "2025-11-20",
+      "infostealer": {
+        "update": "2025-11-20 09:27:05",
+        "employees": 0,
+        "users": 1,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 1,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "Generic Stealer": 1
+        }
       },
       "ransomware": null
     },
@@ -19787,6 +19833,29 @@
       "ransomware": {
         "group": "termite",
         "permalink": "https://www.ransomware.live/id/Q0VTSUB0ZXJtaXRl"
+      }
+    },
+    {
+      "date": "2025-01-31",
+      "victim": "WEL Companies, Inc.",
+      "domain": "welcompanies.com",
+      "country": "US",
+      "summary": "WEL Companies, Inc. experienced a data security incident where certain data stored on its network may have been accessed or acquired without authorization. The incident occurred on January 31, 2025, and affected personal information of 515 Maine residents. An attack against WEL Companies was claimed by RansomHub on February 25.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/f88bb0ee-a9ad-47eb-92d8-7e0a47984cd6.html",
+      "added": "2025-11-20",
+      "infostealer": {
+        "update": "2025-02-25 22:40:24",
+        "employees": 0,
+        "users": 1,
+        "thirdparties_domain": 2,
+        "employees_url": 0,
+        "users_url": 1,
+        "thirdparties": 10
+      },
+      "ransomware": {
+        "group": "ransomhub",
+        "permalink": "https://www.ransomware.live/id/d2VsY29tcGFuaWVzLmNvbUByYW5zb21odWI="
       }
     },
     {

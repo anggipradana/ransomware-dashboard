@@ -305867,5 +305867,25 @@
         "activity": "Not Found",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Colliers",
+        "group_name": "thegentlemen",
+        "discovered": "2025-11-21 20:18:56.197751",
+        "description": "Stock Symbol CIGI Revenue $5.2 Billion colliers.com https://www.zoominfo.com/c/colliers-international-group-inc/12042840 Colliers International Group Inc. provides commercial real estate services to corporations, financial institutions, governments, and individuals worldwide. The companys Sales and Lease Brokerage division offers transaction brokerage services, including landlord representation, tenant representation, and capital markets and investment services, as well as property management, leasing, and valuations. This division provides its services for various asset classes, including office, industrial, retail, multi-family, hotel, and mixed-use properties. Its Outsourcing & Advisory Services division offers portfolio management, transaction and project management, workplace solutions, strategic consulting, property and asset management, and other corporate real estate services, as well as lease administration and facilities management systems; and valuation and appraisal review and management, portfolio or single asset valuation, arbitration and consulting, various studies, tax appeals etc.",
+        "website": "www.zoominfo.com",
+        "published": "2025-02-19 00:00:00.000000",
+        "post_url": "http://tezwsse5czllksjb7cwp65rvnk4oobmzti2znn42i43bjdfd2prqqkad.onion",
+        "country": "CA",
+        "activity": "Business Services",
+        "duplicates": [
+            {
+                "date": "2025-11-21 20:18:56.299395",
+                "group": "chaos",
+                "link": "https://www.ransomware.live/id/aGFuc29uLWluYy5jb21AY2hhb3M=",
+                "attackdate": "2025-02-19 00:00:00.000000"
+            }
+        ],
+        "extrainfos": []
     }
 ]

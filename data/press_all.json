@@ -4,8 +4,29 @@
     "month": null,
     "country": null
   },
-  "count": 2937,
+  "count": 2940,
   "results": [
+    {
+      "date": "2025-11-20",
+      "victim": "Cleveland County Sheriff's Office",
+      "domain": "cso-ok.us",
+      "country": "US",
+      "summary": "Le bureau du shérif du comté de Cleveland en Oklahoma a été victime d'une attaque de ransomware qui a touché certaines parties de son système informatique interne, mais n'a pas perturbé les services de sécurité publique. Les responsables ont indiqué que les services de sécurité publique n'ont pas été interrompus et que les députés continuent de répondre aux appels. L'incident est toujours en cours d'investigation et les responsables partageront des mises à jour lorsque plus d'informations seront disponibles.",
+      "title": "Oklahoma's Cleveland County Sheriff's Office hit by ransomware",
+      "url": "https://dysruptionhub.com/cleveland-county-sheriff-ransomware-okla/",
+      "added": "2025-11-21",
+      "infostealer": {
+        "update": "2025-11-21 10:59:27",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2025-11-20",
       "victim": "Attleboro",
@@ -3643,6 +3664,27 @@
       "added": "2025-09-04",
       "infostealer": {
         "update": "2025-09-04 14:29:15",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-08-26",
+      "victim": "Cool Wind Ventilation",
+      "domain": "coolwind.biz",
+      "country": "US",
+      "summary": "Cool Wind Ventilation Corp. experienced a network security incident in which an unauthorized third-party accessed their network environment, potentially exposing personal information. A cyberattack against Cool Wind Ventilation was claimed by Play on September 9.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/039e4b57-7329-4cb6-80d5-8f81786aaf22.html",
+      "added": "2025-11-21",
+      "infostealer": {
+        "update": "2025-09-09 22:40:54",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,
@@ -11429,6 +11471,27 @@
         "group": "incransom",
         "permalink": "https://www.ransomware.live/id/c291dGggYWZyaWNhbiBhaXJ3YXlzIChmbHlzYWEuY29tKUBpbmNyYW5zb20="
       }
+    },
+    {
+      "date": "2025-05-03",
+      "victim": "Fowler Elementary School District 45",
+      "domain": "fowlersd45.org",
+      "country": "US",
+      "summary": "Fowler Elementary School District 45 suffered a ransomware attack on its network via internet social engineering, potentially exposing affected individuals' personal information. The incident occurred on or about May 3, 2025. A cyberattack against the school district was claimed by Interlock on the same day.",
+      "title": "2025-11-18 Fowler Elementary School District #45 Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-11-18-fowler-elementary-school-district-45-data-breach-notice-consumers",
+      "added": "2025-11-21",
+      "infostealer": {
+        "update": "2025-11-21 10:59:07",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
     },
     {
       "date": "2025-05-03",

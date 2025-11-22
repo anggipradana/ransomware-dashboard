@@ -1,6 +1,6 @@
 {
   "filter_type": null,
-  "count": 66,
+  "count": 67,
   "groups": [
     {
       "group": "Ailock",
@@ -397,6 +397,12 @@
       "ioc_types": {
         "telegram": 4,
         "email": 1
+      }
+    },
+    {
+      "group": "ShinySp1d3r",
+      "ioc_types": {
+        "sha256": 3
       }
     },
     {

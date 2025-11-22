@@ -306218,5 +306218,25 @@
         "activity": "Agriculture and Food Production",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Nuclebrás Equipamentos Pesados",
+        "group_name": "worldleaks",
+        "discovered": "2025-11-22 20:11:47.978047",
+        "description": "[AI generated] \"Nuclebrás Equipamentos Pesados S.A. (NUCLEP) is a Brazilian state-owned company under the Ministry of Science, Technology, Innovation, and Communications. Founded in 1975, NUCLEP is responsible for developing and manufacturing heavy equipment, especially for nuclear power plants. Besides serving the nuclear sector, it also provides solutions for offshore oil platforms and submarine construction, acting as a key player in the Brazilian technological and industrial development.\"",
+        "website": "www.nuclep.gov.br",
+        "published": "2025-03-13 14:50:14.000000",
+        "post_url": "https://worldleaksartrjm3c6vasllvgacbi5u3mgzkluehrzhk2jz4taufuid.onion/companies/8007568416",
+        "country": "BR",
+        "activity": "Manufacturing",
+        "duplicates": [
+            {
+                "date": "2025-11-22 20:11:48.060531",
+                "group": "babuk2",
+                "link": "https://www.ransomware.live/id/bnVjbGVwLmdvdi5ici4gTnVjbGVwIEJyYXppbEBiYWJ1azI=",
+                "attackdate": "2025-03-13 14:50:14.000000"
+            }
+        ],
+        "extrainfos": []
     }
 ]

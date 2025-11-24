@@ -4,8 +4,36 @@
     "month": null,
     "country": null
   },
-  "count": 2940,
+  "count": 2946,
   "results": [
+    {
+      "date": "2025-11-21",
+      "victim": "Milwaukee Police Department",
+      "domain": "milwaukee.gov",
+      "country": "US",
+      "summary": "Le département de police de Milwaukee a subi un incident cybernétique qui a touché l'unité High Intensity Drug Trafficking Areas, une source a indiqué à la presse locale, marquant le dernier d'une décennie de problèmes de cybersécurité pour l'agence. L'incident a affecté les systèmes de l'unité, mais il n'est pas clair si du ransomware est impliqué ou si des données ont été volées. Le département de police de Milwaukee a déjà été la cible d'attaques cybernétiques par le passé, notamment en 2014 et 2015.",
+      "title": "Milwaukee police drug unit hit by cyber incident",
+      "url": "https://dysruptionhub.com/milwaukee-police-cyber-incident-2025/",
+      "added": "2025-11-24",
+      "infostealer": {
+        "update": "2025-11-24 13:08:22",
+        "employees": 5,
+        "users": 43,
+        "thirdparties_domain": 4,
+        "employees_url": 2,
+        "users_url": 16,
+        "thirdparties": 4,
+        "infostealer_stats": {
+          "Generic Stealer": 14,
+          "RedLine": 26,
+          "Azorult": 10,
+          "Lumma": 11,
+          "Raccoon": 6,
+          "Vidar": 2
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2025-11-20",
       "victim": "Cleveland County Sheriff's Office",
@@ -45,6 +73,66 @@
         "users_url": 0,
         "thirdparties": 0,
         "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-11-19",
+      "victim": "Universidad Autónoma de Campeche",
+      "domain": "uacam.mx",
+      "country": "MX",
+      "summary": "Le système institutionnel de l'Universidad Autónoma de Campeche est hors service depuis le mercredi, ce qui a suscité des inquiétudes au sein de la communauté étudiante en raison de la possibilité d'une faille de sécurité qui aurait exposé les données personnelles de milliers d'étudiants. Les autorités universitaires ont attribué la panne à des travaux de maintenance, mais des sources internes suggèrent qu'il s'agit d'une attaque cybernétique ayant causé des dommages importants. Le rétablissement du système prendra du temps en raison du niveau de dommage.",
+      "title": "SISTEMA DE LA UAC QUEDA INUTILIZADO TRAS PRESUNTO ATAQUE CIBERNÉTICO - Tribuna Campeche",
+      "url": "https://tribunacampeche.com/22/sistema-de-la-uac-queda-inutilizado-tras-presunto-ataque-cibernetico/729326/",
+      "added": "2025-11-24",
+      "infostealer": {
+        "update": "2025-11-24 13:07:44",
+        "employees": 44,
+        "users": 386,
+        "thirdparties_domain": 249,
+        "employees_url": 11,
+        "users_url": 83,
+        "thirdparties": 632,
+        "infostealer_stats": {
+          "RedLine": 332,
+          "Lumma": 156,
+          "Raccoon": 138,
+          "StealC": 34,
+          "Vidar": 24,
+          "UNKNOWN": 4,
+          "Mystic": 4,
+          "Azorult": 2
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-11-19",
+      "victim": "EMRI Green Health Services",
+      "domain": "emri.in",
+      "country": "IN",
+      "summary": "Le système d'urgence médicale de l'Uttar Pradesh a été victime d'une cyberattaque, ce qui a perturbé les services d'ambulance pendant plusieurs heures. L'attaque a été qualifiée de tentative délibérée de sabotage et une enquête a été ouverte. Les autorités ont exigé des mesures de sécurité renforcées pour prévenir de telles attaques à l'avenir.",
+      "title": "Cyberattack Cripples Lucknow’s Government Ambulance Network",
+      "url": "https://the420.in/lucknow-ambulance-network-cyberattack-emri-green-health-services-up/",
+      "added": "2025-11-24",
+      "infostealer": {
+        "update": "2025-11-24 13:09:04",
+        "employees": 25,
+        "users": 192,
+        "thirdparties_domain": 25,
+        "employees_url": 8,
+        "users_url": 47,
+        "thirdparties": 21,
+        "infostealer_stats": {
+          "Lumma": 160,
+          "Raccoon": 42,
+          "RedLine": 38,
+          "StealC": 28,
+          "Vidar": 24,
+          "Azorult": 6,
+          "UNKNOWN": 2,
+          "Ficker": 2
+        }
       },
       "ransomware": null
     },
@@ -221,6 +309,33 @@
         "users_url": 0,
         "thirdparties": 0,
         "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-11-12",
+      "victim": "SitusAMC",
+      "domain": "situsamc.com",
+      "country": "US",
+      "summary": "SitusAMC a subi une faille de sécurité le 12 novembre 2025, entraînant la compromission de certaines informations de ses systèmes, notamment des données comptables et des accords juridiques de certains de ses clients. L'incident est maintenant contenu et les services de l'entreprise sont pleinement opérationnels. Une enquête est en cours pour déterminer l'étendue de l'impact.",
+      "title": "Data Breach",
+      "url": "https://www.situsamc.com/databreach",
+      "added": "2025-11-24",
+      "infostealer": {
+        "update": "2025-11-24 13:08:01",
+        "employees": 5,
+        "users": 5,
+        "thirdparties_domain": 4,
+        "employees_url": 2,
+        "users_url": 4,
+        "thirdparties": 25,
+        "infostealer_stats": {
+          "RedLine": 4,
+          "Lumma": 3,
+          "Generic Stealer": 1,
+          "Raccoon": 1,
+          "StealC": 1
+        }
       },
       "ransomware": null
     },
@@ -704,6 +819,36 @@
         }
       },
       "ransomware": null
+    },
+    {
+      "date": "2025-11-01",
+      "victim": "OnSolve",
+      "domain": "onsolve.com",
+      "country": "US",
+      "summary": "Un cyberattaque a désactivé le système d'alerte d'urgence Code Red de OnSolve dans la région de St. Louis, laissant les villes et les comtés incapables d'envoyer des avertissements de tornade et d'autres alertes d'urgence aux résidents. Le système est principalement utilisé pour envoyer des avertissements de tornade et d'orage directement aux téléphones des gens. La société qui exploite le système Code Red travaille sur un nouveau système de notification pour remplacer l'ancien.",
+      "title": "Cyberattack disables Code Red emergency alert system across St. Louis region",
+      "url": "https://www.firstalert4.com/2025/11/22/cyberattack-disables-code-red-emergency-alert-system-across-st-louis-region/",
+      "added": "2025-11-24",
+      "infostealer": {
+        "update": "2025-11-22 11:43:12",
+        "employees": 1,
+        "users": 23,
+        "thirdparties_domain": 29,
+        "employees_url": 2,
+        "users_url": 15,
+        "thirdparties": 3,
+        "infostealer_stats": {
+          "Generic Stealer": 4,
+          "RedLine": 4,
+          "Raccoon": 4,
+          "Azorult": 4,
+          "Lumma": 3
+        }
+      },
+      "ransomware": {
+        "group": "incransom",
+        "permalink": "https://www.ransomware.live/id/b25zb2x2ZS5jb21AaW5jcmFuc29t"
+      }
     },
     {
       "date": "2025-10-30",
@@ -26487,6 +26632,27 @@
         "group": "safepay",
         "permalink": "https://www.ransomware.live/id/d3d3Lm1pY3JvbGlzZS5jb21Ac2FmZXBheQ=="
       }
+    },
+    {
+      "date": "2024-10-30",
+      "victim": "Carlsbad Municipal Schools",
+      "domain": "carlsbadschools.net",
+      "country": "US",
+      "summary": "Carlsbad Municipal Schools a subi une attaque informatique le 30 octobre, ce qui a perturbé les téléphones et l'internet avant une restauration progressive en début novembre. Les parents ont exprimé leur frustration face au manque de transparence de la part du district scolaire. Les causes de la perturbation et les conséquences sur les données personnelles restent inconnues.",
+      "title": "Carlsbad, N.M., schools hit by cyber incident in late Oct.",
+      "url": "https://dysruptionhub.com/carlsbad-nm-schools-cyber-incident/",
+      "added": "2025-11-24",
+      "infostealer": {
+        "update": "2025-11-24 13:08:41",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
     },
     {
       "date": "2024-10-30",

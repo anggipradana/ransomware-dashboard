@@ -306997,5 +306997,48 @@
         "activity": "Financial Services",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "V****l",
+        "group_name": "payoutsking",
+        "discovered": "2025-11-25 11:38:38.063965",
+        "description": "",
+        "website": "v****.com",
+        "published": "2025-11-25 10:39:00.000000",
+        "post_url": "",
+        "country": "US",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "855GB"
+        }
+    },
+    {
+        "post_title": "S****e",
+        "group_name": "payoutsking",
+        "discovered": "2025-11-25 11:38:41.109749",
+        "description": "",
+        "website": "s****.com",
+        "published": "2025-11-25 10:37:00.000000",
+        "post_url": "",
+        "country": "BE",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "1.5TB"
+        }
+    },
+    {
+        "post_title": "Schmidt's",
+        "group_name": "incransom",
+        "discovered": "2025-11-25 12:26:39.435324",
+        "description": "SCHMIDT'S is a specialized market that offers a wide array of products and services for house, garden, crafts, and industry, boasting over 130 years of tradition and quality. They cater to both private and business clients, providing expert advice and tailored solutions from their extensive product range. The company's services include workshop support, delivery, eBusiness solutions, and a strong focus on customer satisfaction and reliability. SCHMIDT'S is dedicated to maintaining long-lasting partnerships and fostering a family-oriented company culture.\r \r Over 100GB of data was extracted: contracts, clients, payment data, PII, and bank transfers.\r ",
+        "website": "",
+        "published": "2025-11-25 00:00:00.000000",
+        "post_url": "http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/692591cde1a4e4b3ffda7932",
+        "country": "AT",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": []
     }
 ]

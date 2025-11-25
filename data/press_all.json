@@ -4,8 +4,50 @@
     "month": null,
     "country": null
   },
-  "count": 2952,
+  "count": 2954,
   "results": [
+    {
+      "date": "2025-11-25",
+      "victim": "Southold Town",
+      "domain": "southoldtownny.gov",
+      "country": "US",
+      "summary": "La ville de Southold, dans l'État de New York, fait face à une incident cybernétique potentiel qui a perturbé les serveurs informatiques de la ville, mis hors service les emails et limité le traitement des dossiers, mais n'a pas affecté les lignes téléphoniques 911 ou de police. Les services de la ville sont limités, mais les résidents peuvent toujours accéder aux services par téléphone ou en personne. Les autorités enquêtent sur l'incident et n'ont pas encore divulgué ce qui a déclenché la perturbation.",
+      "title": "Southold, N.Y. probes 'potential cyber incident'",
+      "url": "https://dysruptionhub.com/southold-n-y-probes-potential-cyber-incident/",
+      "added": "2025-11-25",
+      "infostealer": {
+        "update": "2025-11-25 11:51:39",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-11-24",
+      "victim": "Hillsborough County",
+      "domain": "ncnh.org",
+      "country": "US",
+      "summary": "Une attaque de sécurité informatique a touché le comté de Hillsborough, dans le New Hampshire, dimanche matin, entraînant une panne de réseau. Les systèmes affectés ont été déconnectés pour protéger le réseau et les données. Les opérations de sécurité publique fonctionnent toujours normalement.",
+      "title": "New Hampshire county targeted in ‘cybersecurity incident,’ officials say - The Boston Globe",
+      "url": "https://www.bostonglobe.com/2025/11/24/metro/cybersecurity-incident-hillsborough-county/",
+      "added": "2025-11-25",
+      "infostealer": {
+        "update": "2025-11-25 11:51:19",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2025-11-24",
       "victim": "Win Win Precision Technology Co., Ltd",

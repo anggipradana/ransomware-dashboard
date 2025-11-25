@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2948,
+  "count": 2952,
   "results": [
     {
       "date": "2025-11-24",
@@ -5400,6 +5400,29 @@
     },
     {
       "date": "2025-08-01",
+      "victim": "Harbor",
+      "domain": "harbor.org",
+      "country": "US",
+      "summary": "Harbor suffered a data breach between July 25, 2025, and August 1, 2025, resulting in unauthorized access to sensitive information. The breach may have involved personal data such as names, addresses, dates of birth, Social Security numbers, and medical information. Harbor is providing credit monitoring services to affected individuals.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/44f9f1db-7a31-452c-8a6e-5651aa35d979.html",
+      "added": "2025-10-25",
+      "infostealer": {
+        "update": "2025-11-25 10:55:39",
+        "employees": 1,
+        "users": 0,
+        "thirdparties_domain": 13,
+        "employees_url": 1,
+        "users_url": 1,
+        "thirdparties": 3,
+        "infostealer_stats": {
+          "Raccoon": 2
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-08-01",
       "victim": "Central Boiler, Inc.",
       "domain": "centralboiler.com",
       "country": "US",
@@ -5575,6 +5598,54 @@
       "added": "2025-08-07",
       "infostealer": {
         "update": "2025-08-07 16:23:55",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-07-28",
+      "victim": "Echo",
+      "domain": "echonewyork.com",
+      "country": "US",
+      "summary": "The Echo Design Group, Inc. suffered a data breach between July 25, 2025, and July 28, 2025, resulting in unauthorized access to human resources and accounting documents. The breach was discovered on July 28, 2025. A cyberattack against Echo was claimed by Akira on August 27.",
+      "title": "2025-11-21 The Echo Design Group Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-11-21-echo-design-group-data-breach-notice-consumers",
+      "added": "2025-11-25",
+      "infostealer": {
+        "update": "2025-08-27 12:21:18",
+        "employees": 0,
+        "users": 3,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 2,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "Raccoon": 4,
+          "RedLine": 2
+        }
+      },
+      "ransomware": {
+        "group": "akira",
+        "permalink": "https://www.ransomware.live/id/RWNob0Bha2lyYQ=="
+      }
+    },
+    {
+      "date": "2025-07-28",
+      "victim": "Ahtna, Inc.",
+      "domain": "ahtna.com",
+      "country": "US",
+      "summary": "Ahtna, Inc. suffered a data breach between April 20, 2025, and June 1, 2025, resulting in unauthorized access to certain files containing personal information, including names and Social Security numbers. The breach was discovered on July 28, 2025. A cyberattack against Ahtna was claimed by Qilin on August 12.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/19faead7-93ae-4b79-a4e7-1f563623828f.html",
+      "added": "2025-11-22",
+      "infostealer": {
+        "update": "2025-08-13 11:06:03",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,
@@ -9978,6 +10049,29 @@
         "users_url": 0,
         "thirdparties": 0,
         "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-05-22",
+      "victim": "Davies, McFarland & Carroll",
+      "domain": "dmcpc.com",
+      "country": "US",
+      "summary": "Davies, McFarland & Carroll experienced a data security incident where an unauthorized party obtained access to their internal network, potentially exposing certain files containing personal information between May 19, 2025, and May 22, 2025. A cyberattack against Davies, McFarland & Carroll was claimed by Lynx on June 5.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/adab4e5e-168b-46e6-a4ed-5c6b84361810.html",
+      "added": "2025-11-25",
+      "infostealer": {
+        "update": "2025-11-25 10:55:58",
+        "employees": 2,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 1,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "RedLine": 4
+        }
       },
       "ransomware": null
     },

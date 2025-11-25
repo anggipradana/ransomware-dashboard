@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2956,
+  "count": 2957,
   "results": [
     {
       "date": "2025-11-25",
@@ -55,6 +55,40 @@
         "users_url": 0,
         "thirdparties": 0,
         "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-11-24",
+      "victim": "Milano Ristorazione",
+      "domain": "milanoristorazione.it",
+      "country": "IT",
+      "summary": "Milano Ristorazione a été victime d'une violation de son système informatique avec un programme malware, la société a pris des mesures pour protéger ses infrastructures et garantir la continuité de ses services. Les conséquences de l'attaque sont en cours d'évaluation, notamment en ce qui concerne les données traitées. La société assure que les services de restauration seront maintenus avec quelques modifications possibles.",
+      "title": "Milano Ristorazione colpita da un malware: cosa è successo e le conseguenze",
+      "url": "https://www.ilgiorno.it/milano/cronaca/ristorazione-malware-u03il66z",
+      "added": "2025-11-25",
+      "infostealer": {
+        "update": "2025-11-25 16:56:45",
+        "employees": 13,
+        "users": 314,
+        "thirdparties_domain": 13,
+        "employees_url": 3,
+        "users_url": 52,
+        "thirdparties": 14,
+        "infostealer_stats": {
+          "RedLine": 100,
+          "Generic Stealer": 60,
+          "Lumma": 57,
+          "Raccoon": 44,
+          "Vidar": 20,
+          "StealC": 15,
+          "UNKNOWN": 10,
+          "Azorult": 7,
+          "CRYPTBOT": 2,
+          "Mystic": 1,
+          "Taurus": 1,
+          "Atomic": 1
+        }
       },
       "ransomware": null
     },

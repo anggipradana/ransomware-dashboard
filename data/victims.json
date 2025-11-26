@@ -307734,5 +307734,51 @@
         "activity": "Manufacturing",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "FIT",
+        "group_name": "incransom",
+        "discovered": "2025-11-26 18:25:41.303179",
+        "description": "Foxconn Interconnect Technology Limited (FIT) focuses on the development, manufacturing, and marketing of electronic and optoelectronic connectors, antennas, acoustic components, cables, and modules for applications in computers, communication equipment, consumer electronics, automobiles, industrial and green energy field products. With offices and manufacturing sites located in Asia, the Americas, and Europe, FIT is a global leader in the supply of precision components.",
+        "website": "",
+        "published": "2025-11-26 00:00:00.000000",
+        "post_url": "http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/69273e31e1a4e4b3ffefedc1",
+        "country": "TW",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "St. Johns River Water Management District",
+        "group_name": "qilin",
+        "discovered": "2025-11-26 18:49:24.758448",
+        "description": "N/A",
+        "website": "www.sjrwmd.com",
+        "published": "2023-12-01 16:01:24.000000",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=d226d026-073f-343d-b9f7-9ae6b6ac6d92",
+        "country": "US",
+        "activity": "Public Sector",
+        "duplicates": [
+            {
+                "date": "2025-11-26 18:49:24.779827",
+                "group": "hunters",
+                "link": "https://www.ransomware.live/id/U3QuIEpvaG5zIFJpdmVyIFdhdGVyIE1hbmFnZW1lbnQgRGlzdHJpY3RAaHVudGVycw==",
+                "attackdate": "2023-12-01 16:01:24.000000"
+            }
+        ],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Secure Network Solutions",
+        "group_name": "sinobi",
+        "discovered": "2025-11-26 18:52:39.031272",
+        "description": "Secure Network Solutions specializes in providing top-notch IT consulting and network management services. Their team of experts is dedicated to ensuring businesses operate smoothly and securely in the digital landscape. They offer comprehensive IT solutions, including advanced network security, expert IT consulting, and cloud solutions. Their intended clients are businesses seeking to enhance their IT infrastructure and security.",
+        "website": "www.securenetworksolutions.com",
+        "published": "2025-11-26 18:30:27.824000",
+        "post_url": "http://sinobi6ftrg27d6g4sjdt65malds6cfptlnjyw52rskakqjda6uvb7yd.onion/leaks/6927474388b6823fa2f90d80",
+        "country": "",
+        "activity": "Technology",
+        "duplicates": [],
+        "extrainfos": []
     }
 ]

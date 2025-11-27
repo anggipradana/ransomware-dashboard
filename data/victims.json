@@ -307806,5 +307806,25 @@
         "activity": "Not Found",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "St Stephens International",
+        "group_name": "thegentlemen",
+        "discovered": "2025-11-27 01:03:26.042848",
+        "description": "https://www.zoominfo.com/c/st-stephens-international-school/1293733677 www.sis.edu St Stephens International School offers educational programs at its Bangkok and Khao Yai campuses, catering to a diverse student population. The school provides weekend schooling and various camps for groups, aiming to enhance the educational experience. It is associated with several organizations including Ocean Glass, Ocean Property, and Bandara Group. The institution focuses on fostering an international learning environment for its students",
+        "website": "www.zoominfo.com",
+        "published": "2025-02-19 00:00:00.000000",
+        "post_url": "http://tezwsse5czllksjb7cwp65rvnk4oobmzti2znn42i43bjdfd2prqqkad.onion",
+        "country": "GB",
+        "activity": "Not Found",
+        "duplicates": [
+            {
+                "date": "2025-11-27 01:03:26.110274",
+                "group": "chaos",
+                "link": "https://www.ransomware.live/id/aGFuc29uLWluYy5jb21AY2hhb3M=",
+                "attackdate": "2025-02-19 00:00:00.000000"
+            }
+        ],
+        "extrainfos": []
     }
 ]

@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2960,
+  "count": 2966,
   "results": [
     {
       "date": "2025-11-25",
@@ -2416,6 +2416,27 @@
     },
     {
       "date": "2025-09-28",
+      "victim": "Conway-Phillips Holding, LLC dba Phillips Tank & Structure",
+      "domain": "phillipstank.com",
+      "country": "US",
+      "summary": "Le 28 septembre 2025, une activité potentiellement suspecte a été détectée sur une partie limitée du réseau informatique. Une enquête avec des spécialistes externes a été immédiatement lancée. Elle a révélé que certains fichiers avaient pu être consultés sans autorisation entre le 26 et le 28 septembre 2025. Les fichiers concernés ont ensuite été examinés pour identifier les informations qu’ils contenaient et les personnes touchées.",
+      "title": "2025-11-24 Conway-Phillips Holding, LLC dba Phillips Tank & Structure Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-11-24-conway-phillips-holding-llc-dba-phillips-tank-structure-data-breach-notice-consumers",
+      "added": "2025-11-27",
+      "infostealer": {
+        "update": "2025-11-27 12:01:49",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-09-28",
       "victim": "Municipalité d'Elne",
       "domain": "ville-elne.fr",
       "country": "FR",
@@ -3462,6 +3483,27 @@
     },
     {
       "date": "2025-09-09",
+      "victim": "Trailer Transit",
+      "domain": "trailertransit.com",
+      "country": "US",
+      "summary": "Trailer Transit suffered a data breach in September 2025, where unauthorized parties accessed internal systems and stole personal information. The breach was discovered on November 21, 2025, and affected personal data including names, dates of birth, addresses, email addresses, phone numbers, and social security numbers. Trailer Transit has implemented additional security measures and is offering free credit monitoring services to affected individuals.",
+      "title": "2025-11-25 Trailer Transit Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-11-25-trailer-transit-data-breach-notice-consumers",
+      "added": "2025-11-27",
+      "infostealer": {
+        "update": "2025-11-27 12:01:29",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-09-09",
       "victim": "Abhe & Svoboda",
       "domain": "abheonline.com",
       "country": "US",
@@ -3775,6 +3817,27 @@
       "added": "2025-09-03",
       "infostealer": {
         "update": "2025-09-03 17:21:30",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-08-31",
+      "victim": "BARTEK",
+      "domain": "bartek.ca",
+      "country": "CA",
+      "summary": "BARTEK experienced a cyber security incident where a third party compromised some of their data, potentially affecting personal information including names, social security numbers, and earning statements. A cyberattack against Bartek was claimed by INC Ransom on September 2.",
+      "title": "2025-11-25 Barktek Ingredients Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-11-25-barktek-ingredients-data-breach-notice-consumers",
+      "added": "2025-11-27",
+      "infostealer": {
+        "update": "2025-11-27 12:01:07",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,
@@ -4674,6 +4737,27 @@
         "group": "radar",
         "permalink": "https://www.ransomware.live/id/Q29tcGFnbmllIGRlcyBHdWlkZXMgZGUgQ2hhbW9uaXhAcmFkYXI="
       }
+    },
+    {
+      "date": "2025-08-14",
+      "victim": "Marquis Software Solutions",
+      "domain": "gomarquis.com",
+      "country": "US",
+      "summary": "Marquis Software Solutions experienced a data security incident where an unauthorized third party accessed their network and may have accessed and acquired certain files. The incident was limited to Marquis' environment, and the company has no evidence of the misuse of personal information. The company is offering complimentary credit monitoring to affected individuals.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/8d079ab1-8c27-4b0c-abca-1bc24ece2b21.html",
+      "added": "2025-11-27",
+      "infostealer": {
+        "update": "2025-11-27 12:02:10",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
     },
     {
       "date": "2025-08-14",
@@ -6151,6 +6235,27 @@
         "infostealer_stats": {
           "Lumma": 2
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-07-21",
+      "victim": "JASCO Applied Sciences",
+      "domain": "jasco.com",
+      "country": "CA",
+      "summary": "JASCO Applied Sciences suffered a data breach after an unauthorized party gained access to their network, resulting in the acquisition of personal information. The breach was discovered on July 21, 2025, and around October 20, it was established that that some personal information had been acquired. A cyberattack against JASCO Applied Sciences was claimed by Rhysida on October 7.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/ef689f23-295d-483a-9e46-01d349345bf2.html",
+      "added": "2025-11-27",
+      "infostealer": {
+        "update": "2025-11-27 12:02:30",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },
@@ -10122,6 +10227,30 @@
         "infostealer_stats": {}
       },
       "ransomware": null
+    },
+    {
+      "date": "2025-05-26",
+      "victim": "Tami J. Dunham, CPA",
+      "domain": "tdunhamcpa.com",
+      "country": "US",
+      "summary": "Dunham CPA experienced a data breach where an unknown actor viewed and downloaded certain files between May 24, 2025, and May 26, 2025. The breach involved the viewing and downloading of files containing names and other breached elements. A cyberattack against Dunham CPA was claimed by Safepay on June 24.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/6cd240a5-1052-4a3f-b83a-a84d81f4c7b6.html",
+      "added": "2025-11-27",
+      "infostealer": {
+        "update": "2025-06-24 21:12:29",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "safepay",
+        "permalink": "https://www.ransomware.live/id/dGR1bmhhbWNwYS5jb21Ac2FmZXBheQ=="
+      }
     },
     {
       "date": "2025-05-26",

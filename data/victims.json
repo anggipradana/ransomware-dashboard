@@ -308203,5 +308203,64 @@
         "activity": "Transportation/Logistics",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Williamson County, TX",
+        "group_name": "qilin",
+        "discovered": "2025-11-28 19:15:44.703095",
+        "description": "N/A",
+        "website": "www.williamson-county.org",
+        "published": "2025-11-28 19:15:29.499545",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=bc9809f4-7c8e-342c-b3c8-63e95a60fa44",
+        "country": "US",
+        "activity": "Public Sector",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Kleber and Associates",
+        "group_name": "qilin",
+        "discovered": "2025-11-28 19:16:01.330789",
+        "description": "N/A",
+        "website": "www.kleberandassociates.com",
+        "published": "2024-10-04 12:41:31.000000",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=297dbf90-af5a-3628-8c38-6b2b195086ba",
+        "country": "US",
+        "activity": "Business Services",
+        "duplicates": [
+            {
+                "date": "2025-11-28 19:16:01.370408",
+                "group": "ransomhub",
+                "link": "https://www.ransomware.live/id/a2xlYmVyYW5kYXNzb2NpYXRlcy5jb21AcmFuc29taHVi",
+                "attackdate": "2024-10-04 12:41:31.000000"
+            }
+        ],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Weiss",
+        "group_name": "qilin",
+        "discovered": "2025-11-28 19:16:40.719236",
+        "description": "N/A",
+        "website": "www.weissandco.com",
+        "published": "2025-11-28 19:16:25.628479",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=b3f434d9-fbd3-30c7-ac83-6e458c7ef864",
+        "country": "",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Zoya",
+        "group_name": "qilin",
+        "discovered": "2025-11-28 19:17:18.309253",
+        "description": "N/A",
+        "website": "www.zoya.com",
+        "published": "2025-11-28 19:17:03.285054",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=7cdb3168-bb19-39f9-9b9a-a88df450f0a1",
+        "country": "US",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": []
     }
 ]

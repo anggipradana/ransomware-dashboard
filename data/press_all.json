@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2967,
+  "count": 2968,
   "results": [
     {
       "date": "2025-11-25",
@@ -526,6 +526,27 @@
       "added": "2025-11-17",
       "infostealer": {
         "update": "2025-11-17 13:52:22",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-11-12",
+      "victim": "Santa Paula, Californie",
+      "domain": "spcity.org",
+      "country": "US",
+      "summary": "La ville de Santa Paula en Californie a été victime d'une attaque de ransomware par le groupe Qilin, ce qui a provoqué une panne de réseau affectant les emails et les serveurs internes. L'étendue de la faille de sécurité et les données potentiellement compromises n'ont pas encore été divulguées. Le groupe Qilin est connu pour ses tactiques d'extorsion double, qui consistent à exfiltrer des informations sensibles avec la menace de les rendre publiques si une rançon n'est pas payée.",
+      "title": "US City of Santa Paula Targeted in Qilin Ransomware Attack - TechNadu",
+      "url": "https://www.technadu.com/city-of-santa-paula-hit-by-ransomware-attack-claimed-by-qilin-government-services-disrupted/614718/",
+      "added": "2025-11-28",
+      "infostealer": {
+        "update": "2025-11-27 12:57:37",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,

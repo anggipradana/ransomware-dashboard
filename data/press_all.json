@@ -726,7 +726,10 @@
         "thirdparties": 0,
         "infostealer_stats": {}
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "incransom",
+        "permalink": "https://www.ransomware.live/id/dnZpZXdpc2QubmV0QGluY3JhbnNvbQ=="
+      }
     },
     {
       "date": "2025-11-10",

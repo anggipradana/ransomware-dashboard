@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2968,
+  "count": 2969,
   "results": [
     {
       "date": "2025-11-25",
@@ -196,6 +196,27 @@
       "added": "2025-11-27",
       "infostealer": {
         "update": "2025-11-27 11:03:28",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-11-21",
+      "victim": "Enan Tech Private Limited",
+      "domain": "enantech.in",
+      "country": "IN",
+      "summary": "Enan Tech Private Limited a subi une attaque de ransomware le 21 novembre, entraînant une perte de données. La police des cybercrimes a enregistré une plainte le 26 novembre. L'attaque a été signalée par Abhishek Anigol, responsable de la protection des données de l'entreprise.",
+      "title": "Bengaluru Private Firm Hit by Ransomware Attack, Data Rendered Inaccessible",
+      "url": "https://www.deccanherald.com/india/karnataka/bengaluru/private-firm-in-bengaluru-reports-data-loss-in-ransomware-attack-3813842",
+      "added": "2025-11-30",
+      "infostealer": {
+        "update": "2025-11-30 14:33:53",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,

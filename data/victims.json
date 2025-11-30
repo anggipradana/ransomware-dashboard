@@ -236911,14 +236911,20 @@
         "discovered": "2025-03-31 18:31:23.783552",
         "description": "Goosehead Insurance, Inc. operates as a holding company for Goosehead Financial, LLC that engages in the provision of personal lines insurance agency services in the United States. The company offers homeowner's, automotive, dwelling property, flood, wind, earthquake, excess liability or umbrella, motorcycle, recreational vehicle, general liability, property, and life insurance products and services. The company was founded in 2003 and is headquartered in Westlake, Texas.",
         "website": "goosehead.com",
-        "published": "2025-03-31 18:31:23.783552",
+        "published": "2025-03-15 00:00:00.000000",
         "post_url": "http://hptqq2o2qjva7lcaaq67w36jihzivkaitkexorauw7b2yul2z6zozpqd.onion/post/iV4yhetSf8IDcFZRnvJpTJFcPKCY9Fjz",
         "country": "US",
         "activity": "Financial Services",
         "duplicates": [],
         "extrainfos": {
             "data_size": "300 GB"
-        }
+        },
+        "modifications": [
+            {
+                "date": "2025-11-30 17:54:13.138062",
+                "description": "Update published"
+            }
+        ]
     },
     {
         "post_title": "Industrial Dynamics",
@@ -304763,12 +304769,18 @@
         "discovered": "2025-11-20 18:12:26.943357",
         "description": "United States",
         "website": "www.radiosound.com",
-        "published": "2025-11-20 18:11:44.733839",
+        "published": "2025-11-17 00:00:00.000000",
         "post_url": "http://mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion/index.php?page=1/topic.php?id=xZDJb6vGdqSbzx",
         "country": "",
         "activity": "Telecommunication",
         "duplicates": [],
-        "extrainfos": []
+        "extrainfos": [],
+        "modifications": [
+            {
+                "date": "2025-11-30 17:54:13.164752",
+                "description": "Update published"
+            }
+        ]
     },
     {
         "post_title": "Fayette County",
@@ -308561,5 +308573,50 @@
         "activity": "Technology",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Concord Academy",
+        "group_name": "medusa",
+        "discovered": "2025-11-30 17:57:10.988964",
+        "description": "Concord Academy is a specialized educational institution that serves students with Autism, learning and intellectual disabilities, language processing disorders, ADD/ADHD, and other neurodiverse learning needs. The academy provides a unique learning community focused on respect and acceptance, operating within a small, structured, and secure environment. Their mission is to prepare these students for lifelong success, offering tailored educational programs and support. A significant percentage of graduates advance to post-secondary placements, reflecting the effectiveness of their individualized approach.\ncompany is headquartered in 4942 Walnut Grove Road, Memphis, TN 38117, USA.\n11-50 Employees",
+        "website": "",
+        "published": "2025-11-28 20:00:12.000000",
+        "post_url": "http://xfv4jzckytb4g3ckwemcny3ihv4i5p4lqzdpi624cxisu35my5fwi5qd.onion/detail?id=316877ccd6312bfe574f659bc5fb1771",
+        "country": "US",
+        "activity": "Education",
+        "duplicates": [],
+        "extrainfos": {
+            "ransom": 100000
+        }
+    },
+    {
+        "post_title": "WR Comercial",
+        "group_name": "medusa",
+        "discovered": "2025-11-30 17:57:30.737603",
+        "description": "WR Comercial helps businesses find great staff for important jobs like cleaning, security, and front desk work. They connect companies with skilled workers who can handle all kinds of tasks, making it easy for businesses to get the help they need quickly and reliably. Whether you run a small office or a big building, WR Comercial has people ready to support your team.\ncompany is headquartered in Rua Giancarlo Palanti 22B, Vila Ré, São Paulo, CEP 03661-050, Brazil.\n11-50 Employees",
+        "website": "",
+        "published": "2025-11-24 19:13:15.000000",
+        "post_url": "http://xfv4jzckytb4g3ckwemcny3ihv4i5p4lqzdpi624cxisu35my5fwi5qd.onion/detail?id=ddab626b0dfa3a63105df32b332fa4bb",
+        "country": "BR",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": {
+            "ransom": 100000
+        }
+    },
+    {
+        "post_title": "Universidade Municipal de São Caetano",
+        "group_name": "medusa",
+        "discovered": "2025-11-30 17:57:47.555747",
+        "description": "USCS offers a diverse range of educational programs including in-person and distance learning undergraduate degrees, technical courses, and postgraduate studies such as MBAs and doctorates. The university also provides non-degree courses aimed at skill enhancement and is equipped with facilities for secondary education. Services include free legal assistance, fiscal education, and health services, catering to both students and the community. With a focus on quality and flexibility, USCS serves a wide array of clients including students at various academic levels and professionals seeking further education.\ncompany is headquartered in Rua Santo Antônio, 50 – Centro, São Caetano do Sul, SP, CEP 09521-160.\n501-1,000 Employees,\n",
+        "website": "",
+        "published": "2025-11-24 19:10:59.000000",
+        "post_url": "http://xfv4jzckytb4g3ckwemcny3ihv4i5p4lqzdpi624cxisu35my5fwi5qd.onion/detail?id=a4f6f6bd335ab7802859759b380d03f6",
+        "country": "BR",
+        "activity": "Education",
+        "duplicates": [],
+        "extrainfos": {
+            "ransom": 250000
+        }
     }
 ]

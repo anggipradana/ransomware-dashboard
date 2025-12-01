@@ -4,8 +4,34 @@
     "month": null,
     "country": null
   },
-  "count": 2969,
+  "count": 2970,
   "results": [
+    {
+      "date": "2025-11-28",
+      "victim": "Araneta Group of Companies",
+      "domain": "aranetagroup.com",
+      "country": "PH",
+      "summary": "Le groupe Araneta a annoncé une faille de sécurité qui a touché plusieurs de ses filiales, il a activé des protocoles de réponse et engagé des experts en cybersécurité pour déterminer l'étendue de la violation et renforcer les mesures de sécurité. Le groupe a notifié les autorités compétentes et met en œuvre des mesures supplémentaires pour protéger les données. Les utilisateurs et les clients sont invités à rester vigilants en pratiquant de bonnes habitudes de sécurité de l'information.",
+      "title": "Araneta Group probes cyberattack - Manila Standard",
+      "url": "https://manilastandard.net/business/314675067/araneta-group-probes-cyberattack.html",
+      "added": "2025-12-01",
+      "infostealer": {
+        "update": "2025-12-01 11:35:26",
+        "employees": 0,
+        "users": 7,
+        "thirdparties_domain": 4,
+        "employees_url": 0,
+        "users_url": 4,
+        "thirdparties": 34,
+        "infostealer_stats": {
+          "RedLine": 4,
+          "Raccoon": 4,
+          "Azorult": 2,
+          "Lumma": 2
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2025-11-25",
       "victim": "YAC GARTER CO., LTD.",

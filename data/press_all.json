@@ -4,8 +4,42 @@
     "month": null,
     "country": null
   },
-  "count": 2972,
+  "count": 2976,
   "results": [
+    {
+      "date": "2025-12-02",
+      "victim": "Ministerstvo hospodárstva SR",
+      "domain": "gov.sk",
+      "country": "SK",
+      "summary": "La ministre Samuel Migaľ a annoncé que l'unité gouvernementale de cybersécurité CSIRT intervient au ministère de l'économie de la République slovaque en raison d'une attaque contre les serveurs. Les détails ne peuvent pas être divulgués pour ne pas compromettre l'enquête. L'unité CSIRT est une équipe de réponse aux incidents de sécurité informatique créée pour résoudre les incidents de sécurité informatique en Slovaquie.",
+      "title": "Poplach na ministerstve! Migaľ potvrdil kybernetický útok",
+      "url": "https://koktejl.azet.sk/clanok/YLgOVSc/poplach-na-ministerstve-migal-potvrdil-kyberneticky-utok/",
+      "added": "2025-12-03",
+      "infostealer": {
+        "update": "2025-12-03 10:15:17",
+        "employees": 41,
+        "users": 1159,
+        "thirdparties_domain": 23,
+        "employees_url": 24,
+        "users_url": 100,
+        "thirdparties": 15,
+        "infostealer_stats": {
+          "RedLine": 469,
+          "Lumma": 326,
+          "Generic Stealer": 204,
+          "StealC": 91,
+          "Raccoon": 85,
+          "Vidar": 48,
+          "UNKNOWN": 9,
+          "Azorult": 4,
+          "Mystic": 4,
+          "Atomic": 2,
+          "Acreed": 1,
+          "Ficker": 1
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2025-11-30",
       "victim": "GS-facket",
@@ -50,6 +84,63 @@
         "users_url": 0,
         "thirdparties": 0,
         "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-11-28",
+      "victim": "Truenorth Corporation",
+      "domain": "truenorthcorporation.com",
+      "country": "PR",
+      "summary": "Truenorth Corporation, une entreprise qui fournit des services de technologie à 14 agences gouvernementales, a subi une attaque cybernétique pendant la semaine de l'Action de Gracias, affectant le Département de l'Éducation, l'Administration des assurances de santé et la Corporation du fonds d'assurance de l'État. L'attaque n'a pas eu de conséquences majeures et les pirates n'ont pas pu accéder aux bases de données des agences affectées. Les services de l'entreprise de technologie PRITS ont aidé à stopper l'attaque.",
+      "title": "Tres agencias afectadas por ataque cibernético en semana de Acción de Gracias",
+      "url": "https://www.primerahora.com/noticias/gobierno-politica/notas/tres-agencias-afectadas-por-ataque-cibernetico-en-semana-de-accion-de-gracias/",
+      "added": "2025-12-03",
+      "infostealer": {
+        "update": "2025-12-03 10:14:38",
+        "employees": 5,
+        "users": 0,
+        "thirdparties_domain": 6,
+        "employees_url": 1,
+        "users_url": 0,
+        "thirdparties": 3,
+        "infostealer_stats": {
+          "CRYPTBOT": 2,
+          "RedLine": 2,
+          "Raccoon": 2,
+          "Lumma": 2
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-11-28",
+      "victim": "NCFE",
+      "domain": "ncfe.org.uk",
+      "country": "GB",
+      "summary": "L'organisation NCFE a subi une attaque de cybersécurité, ce qui a entraîné une interruption de ses systèmes et de ses services. Les équipes de NCFE travaillent pour résoudre le problème et rétablir les services dès que possible. Les évaluations et les résultats sont affectés, mais les équipes de NCFE s'efforcent de minimiser les retards et les inconvénients. (via eCrime.ch)",
+      "title": "What can we help you find?",
+      "url": "https://www.ncfe.org.uk/servicecontinuity/",
+      "added": "2025-12-03",
+      "infostealer": {
+        "update": "2025-12-03 10:14:57",
+        "employees": 0,
+        "users": 35,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 17,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "Generic Stealer": 12,
+          "RedLine": 12,
+          "Lumma": 5,
+          "UNKNOWN": 1,
+          "StealC": 1,
+          "Acreed": 1,
+          "Atomic": 1,
+          "Vidar": 1,
+          "Raccoon": 1
+        }
       },
       "ransomware": null
     },
@@ -1729,6 +1820,30 @@
           "RedLine": 6,
           "Lumma": 4,
           "StealC": 2
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-10-15",
+      "victim": "Rochester Philharmonic Orchestra",
+      "domain": "rpo.org",
+      "country": "US",
+      "summary": "Le Rochester Philharmonic Orchestra a subi une attaque informatique en octobre, mais les opérations normales ont repris après la résolution des problèmes de réseau. Les données de transactions des donateurs et des spectateurs n'ont pas été affectées, mais l'enquête se poursuit pour déterminer si d'autres données sensibles ont été touchées. L'orchestre a mis en place des mesures de sécurité pour limiter l'impact de l'incident, qui a été revendiqué le 25 novembre par Akira.",
+      "title": "Rochester Philharmonic Orchestra: Normal operations resumed after cyber attack",
+      "url": "https://13wham.com/news/local/rochester-philharmonic-orchestra-normal-operations-resumed-after-cyber-attack",
+      "added": "2025-12-03",
+      "infostealer": {
+        "update": "2025-12-03 10:52:31",
+        "employees": 0,
+        "users": 2,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 1,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "Generic Stealer": 1,
+          "RedLine": 1
         }
       },
       "ransomware": null

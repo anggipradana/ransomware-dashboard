@@ -309858,5 +309858,46 @@
         "activity": "Construction",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Davis Kitchens, United States",
+        "group_name": "nightspire",
+        "discovered": "2025-12-03 16:51:31.657867",
+        "description": "Davis Kitchens, United States",
+        "website": "daviskitchens.com",
+        "published": "2025-11-25 00:00:00.000000",
+        "post_url": "",
+        "country": "US",
+        "activity": "Consumer Services",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "8 GB"
+        }
+    },
+    {
+        "post_title": "CST Coal",
+        "group_name": "qilin",
+        "discovered": "2025-12-03 16:54:31.025881",
+        "description": "N/A",
+        "website": "www.cstcoal.ca",
+        "published": "2025-12-03 16:54:14.614344",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=3ab072f4-0ce1-310b-81ca-9d1a633aac40",
+        "country": "CA",
+        "activity": "Energy",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Mainetti UK",
+        "group_name": "qilin",
+        "discovered": "2025-12-03 16:54:51.610856",
+        "description": "N/A",
+        "website": "www.mainetti.com",
+        "published": "2025-12-03 16:54:33.059219",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=e8bb7a98-4398-3f42-aacb-84716a963a21",
+        "country": "UK",
+        "activity": "Manufacturing",
+        "duplicates": [],
+        "extrainfos": []
     }
 ]

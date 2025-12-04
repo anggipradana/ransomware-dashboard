@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2982,
+  "count": 2983,
   "results": [
     {
       "date": "2025-12-02",
@@ -374,6 +374,27 @@
           "UNKNOWN": 4,
           "Taurus": 2
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-11-23",
+      "victim": "Gepa",
+      "domain": "gepa.de",
+      "country": "DE",
+      "summary": "Fin novembre, l’entreprise de commerce équitable GEPA à Wuppertal a subi une cyberattaque de type ransomware qui a paralysé son entrepôt, ses livraisons et ses réseaux locaux, chiffrant des données et provoquant un quasi-arrêt d’une semaine en pleine saison de Noël. L'entreprise indique que l’attaque était motivée par l’extorsion. Elle refusé de céder et a presque rétabli la logistique à pleine capacité. Mais elle doit rattraper cinq jours ouvrés perdus, ce qui est particulièrement difficile pour des produits sensibles au temps comme les calendriers de l’Avent.",
+      "title": "Forbidden",
+      "url": "https://taz.de/Cyberangriff-auf-Gepa/",
+      "added": "2025-12-04",
+      "infostealer": {
+        "update": "2025-12-04 18:38:44",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },

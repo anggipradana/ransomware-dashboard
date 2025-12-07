@@ -303,7 +303,10 @@
           "Atomic": 1
         }
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "lockbit5",
+        "permalink": "https://www.ransomware.live/id/bWlsYW5vcmlzdG9yYXppb25lLml0QGxvY2tiaXQ1"
+      }
     },
     {
       "date": "2025-11-24",

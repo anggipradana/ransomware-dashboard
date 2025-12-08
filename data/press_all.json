@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 2988,
+  "count": 2989,
   "results": [
     {
       "date": "2025-12-06",
@@ -26,6 +26,31 @@
         "infostealer_stats": {
           "StealC": 1,
           "Generic Stealer": 1
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-12-05",
+      "victim": "Fürth, Bavière",
+      "domain": "fuerth.de",
+      "country": "DE",
+      "summary": "La ville de Fürth a subi un cyberattaque sur sa infrastructure IT, mais aucune atteinte à la sécurité des citoyens n'a été constatée. Les autorités ont lancé une enquête et la ville met en garde contre les arnaques par e-mail. Les mesures de sécurité sont renforcées pour prévenir de futures attaques.",
+      "title": "Cyberangriff auf die Stadtentwässerung in Fürth - keine akute Gefahr für die Bevölkerung - Ermittlungen laufen",
+      "url": "https://www.nordbayern.de/fuerth/nach-cyberangriff-auf-stadt-furth-eindringliche-warnung-keine-akute-gefahr-fur-bevolkerung-1.14931064",
+      "added": "2025-12-08",
+      "infostealer": {
+        "update": "2025-12-08 14:21:01",
+        "employees": 0,
+        "users": 4,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 4,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "Generic Stealer": 2,
+          "Raccoon": 1,
+          "Lumma": 1
         }
       },
       "ransomware": null

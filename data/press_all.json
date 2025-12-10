@@ -792,7 +792,10 @@
           "Lumma": 2
         }
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "incransom",
+        "permalink": "https://www.ransomware.live/id/cmFpbmJvd3RlbC5uZXRAaW5jcmFuc29t"
+      }
     },
     {
       "date": "2025-11-16",

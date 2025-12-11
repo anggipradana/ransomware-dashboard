@@ -4,8 +4,36 @@
     "month": null,
     "country": null
   },
-  "count": 2992,
+  "count": 2999,
   "results": [
+    {
+      "date": "2025-12-11",
+      "victim": "Flexium Interconnect",
+      "domain": "flexium.com.tw",
+      "country": "TW",
+      "summary": "Flexium Interconnect a subi une attaque informatique, mais grâce à ses mécanismes de défense, aucune fuite de données personnelles ou d'informations confidentielles n'a été constatée, et l'impact sur ses opérations est minime. La société continue de surveiller la situation et de renforcer la sécurité de son réseau et de ses systèmes d'information. Les détails sur le domaine et le pays d'origine de la société ne sont pas fournis.",
+      "title": "Today's Information",
+      "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=140034&spoke_date=20251211&co_id=6269",
+      "added": "2025-12-11",
+      "infostealer": {
+        "update": "2025-12-11 16:01:46",
+        "employees": 2,
+        "users": 36,
+        "thirdparties_domain": 3,
+        "employees_url": 3,
+        "users_url": 15,
+        "thirdparties": 2,
+        "infostealer_stats": {
+          "RedLine": 28,
+          "Lumma": 26,
+          "StealC": 8,
+          "UNKNOWN": 2,
+          "Raccoon": 2,
+          "Mystic": 2
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2025-12-08",
       "victim": "Ehpad de la Résidence du parc",
@@ -1714,6 +1742,35 @@
         "users_url": 0,
         "thirdparties": 0,
         "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-10-23",
+      "victim": "Wheels Up Partners LLC",
+      "domain": "wheelsup.com",
+      "country": "US",
+      "summary": "Wheels Up detected an unauthorized actor gained access to and copied certain files from its information technology systems, potentially exposing name and Social Security numbers. The incident occurred on October 20, 2025, and was discovered on October 23, 2025. Wheels Up is providing credit monitoring services to affected individuals.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/c82c216a-395a-4481-bf60-7d00953fb5bb.html",
+      "added": "2025-12-10",
+      "infostealer": {
+        "update": "2025-12-11 16:02:26",
+        "employees": 1,
+        "users": 50,
+        "thirdparties_domain": 11,
+        "employees_url": 7,
+        "users_url": 10,
+        "thirdparties": 1,
+        "infostealer_stats": {
+          "RedLine": 36,
+          "Lumma": 26,
+          "Generic Stealer": 7,
+          "StealC": 8,
+          "Raccoon": 4,
+          "Atomic": 2,
+          "Vidar": 2
+        }
       },
       "ransomware": null
     },
@@ -5031,6 +5088,27 @@
           "UNKNOWN": 2,
           "Mystic": 2
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-08-19",
+      "victim": "Volume Transportation, Inc.",
+      "domain": "volinc.com",
+      "country": "US",
+      "summary": "Volume Transportation, Inc. experienced a network disruption on August 19, 2025, which led to unauthorized access to certain files. A cyberattack against Volume Transportation was claimed by Qilin on September 15.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/aec695d9-b5cf-431b-a6e7-c4b60b7cc321.html",
+      "added": "2025-12-09",
+      "infostealer": {
+        "update": "2025-09-15 08:50:50",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },
@@ -8375,6 +8453,30 @@
     },
     {
       "date": "2025-06-29",
+      "victim": "Hertz Farm Management",
+      "domain": "hertz.ag",
+      "country": "US",
+      "summary": "Hertz Farm Management, Inc. experienced a disruption to its company network on June 29, 2025, resulting in unauthorized access to sensitive personal information. A cyberattack against Hertz Farm Management was claimed by Akira on July 29.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/28ce91a7-f6ed-4a8b-b22f-c91400a5404f.html",
+      "added": "2025-12-10",
+      "infostealer": {
+        "update": "2025-12-11 16:02:45",
+        "employees": 2,
+        "users": 0,
+        "thirdparties_domain": 27,
+        "employees_url": 5,
+        "users_url": 12,
+        "thirdparties": 3,
+        "infostealer_stats": {
+          "Generic Stealer": 1,
+          "Azorult": 2
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-06-29",
       "victim": "MPOWERHealth",
       "domain": "mpowerhealth.com",
       "country": "US",
@@ -11539,6 +11641,27 @@
         "group": "datacarry",
         "permalink": "https://www.ransomware.live/id/TGEgTWFpc29uIExpw6lnZW9pc2VAZGF0YWNhcnJ5"
       }
+    },
+    {
+      "date": "2025-05-17",
+      "victim": "CNHI, LLC",
+      "domain": "cnhi.com",
+      "country": "US",
+      "summary": "CNHI, LLC experienced a data security incident involving unauthorized access to their computer network, resulting in the theft of files containing personal information. The incident occurred between April 27, 2025, and May 17, 2025. A cyberattack against CHNI was claimed by Play on May 21.",
+      "title": "2025-12-08 CNHI Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-12-08-cnhi-data-breach-notice-consumers",
+      "added": "2025-12-10",
+      "infostealer": {
+        "update": "2025-05-21 21:40:41",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
     },
     {
       "date": "2025-05-17",
@@ -16407,6 +16530,30 @@
         "infostealer_stats": {}
       },
       "ransomware": null
+    },
+    {
+      "date": "2025-03-24",
+      "victim": "OTA Management LLC",
+      "domain": "otallc.com",
+      "country": "US",
+      "summary": "OTA Management LLC was the victim of an unknown third party gaining unauthorized access to the OTA network environment on March 23, 2025. OTA discovered the incident on March 24, 2025 and immediately severed the unauthorized activity. A cyberattack against OTA Management was claimed by Play on April 2.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/e022ff4a-e161-4705-be1f-220b46103167.html",
+      "added": "2025-12-11",
+      "infostealer": {
+        "update": "2025-04-02 21:12:19",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "play",
+        "permalink": "https://www.ransomware.live/id/T1RBIE1hbmFnZW1lbnRAcGxheQ=="
+      }
     },
     {
       "date": "2025-03-24",
@@ -21340,6 +21487,30 @@
       "ransomware": {
         "group": "hunters",
         "permalink": "https://www.ransomware.live/id/VGF0YSBUZWNobm9sb2dpZXNAaHVudGVycw=="
+      }
+    },
+    {
+      "date": "2025-01-30",
+      "victim": "Shields Facilities Maintenance, LLC.",
+      "domain": "shieldsfm.com",
+      "country": "US",
+      "summary": "Shields Facilities Maintenance, LLC. experienced a data breach where an unauthorized party accessed files on their system between January 28, 2025, to January 30, 2025, resulting in the exposure of names and Social Security numbers. A cyberattack against Shields Facilities Maintenance has been claimed by Play on February 13",
+      "title": "2025-12-09 Shields Facilities Maintenance Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-12-09-shields-facilities-maintenance-data-breach-notice-consumers",
+      "added": "2025-12-11",
+      "infostealer": {
+        "update": "2025-12-11 16:02:05",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "play",
+        "permalink": "https://www.ransomware.live/id/U2hpZWxkcyBGYWNpbGl0aWVzIE1haW50ZW5hbmNlQHBsYXk="
       }
     },
     {

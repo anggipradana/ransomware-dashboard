@@ -313648,5 +313648,44 @@
         "activity": "Technology",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Greene Metal Products",
+        "group_name": "qilin",
+        "discovered": "2025-12-12 08:48:27.265297",
+        "description": "N/A",
+        "website": "www.greenemetal.com",
+        "published": "2025-12-12 08:48:10.524757",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=49efb9a5-b40a-3fb3-af2c-dcaa11123a35",
+        "country": "US",
+        "activity": "Manufacturing",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Hopital La Rabta",
+        "group_name": "devman",
+        "discovered": "2025-12-12 09:19:17.173168",
+        "description": "[AI generated] Hopital La Rabta is a major hospital located in Tunis, Tunisia. It provides a wide array of medical services to the Tunisian population. The hospital prides itself on its team of highly skilled and dedicated medical professionals who utilize advanced medical equipment to effectively diagnose and treat diseases. It offers surgical services, specialty medicine, emergency care, and outpatient services.",
+        "website": "www.chularabta.tn",
+        "published": "2025-12-11 00:00:00.000000",
+        "post_url": "http://devmanblggk7ddrtqj3tsocnayow3bwnozab2s4yhv4shpv6ueitjzid.onion",
+        "country": "TN",
+        "activity": "Healthcare",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Quezon Power",
+        "group_name": "devman",
+        "discovered": "2025-12-12 09:20:28.190264",
+        "description": "Employee data, hr info, projects, Work logs of the power plants, Scada SRC",
+        "website": "www.qpl.com.ph",
+        "published": "2025-12-10 00:00:00.000000",
+        "post_url": "http://devmanblggk7ddrtqj3tsocnayow3bwnozab2s4yhv4shpv6ueitjzid.onion",
+        "country": "PH",
+        "activity": "Energy",
+        "duplicates": [],
+        "extrainfos": []
     }
 ]

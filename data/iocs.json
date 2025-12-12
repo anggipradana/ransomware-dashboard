@@ -330,7 +330,8 @@
     {
       "group": "Obscura",
       "ioc_types": {
-        "sha256": 1
+        "sha256": 1,
+        "tox": 1
       }
     },
     {

@@ -314076,5 +314076,77 @@
         "activity": "Transportation/Logistics",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "David M. Schwarz Architects",
+        "group_name": "minteye",
+        "discovered": "2025-12-12 22:47:27.507306",
+        "description": "Size: 1.9 TB",
+        "website": "www.dmsas.com",
+        "published": "2025-12-07 15:42:39.840115",
+        "post_url": "",
+        "country": "US",
+        "activity": "Construction",
+        "duplicates": [
+            {
+                "date": "2025-12-12 22:47:27.574888",
+                "group": "qilin",
+                "link": "https://www.ransomware.live/id/RGF2aWQgTS4gU2Nod2FyeiBBcmNoaXRlY3RzQHFpbGlu",
+                "attackdate": "2025-12-07 15:42:39.840115"
+            }
+        ],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Cranford, Buckley, Schultze, Tomchin, Allen & Buie, P.A.",
+        "group_name": "minteye",
+        "discovered": "2025-12-12 22:47:50.904174",
+        "description": "Size: 350 GB",
+        "website": "www.southcharlottelawfirm.com",
+        "published": "2025-12-12 22:47:49.579124",
+        "post_url": "",
+        "country": "US",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Sponseller Group, Inc.",
+        "group_name": "minteye",
+        "discovered": "2025-12-12 22:48:15.907889",
+        "description": "Size: 300 GB",
+        "website": "www.sponsellergroup.com",
+        "published": "2025-12-12 22:48:14.582585",
+        "post_url": "",
+        "country": "US",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Inter-American Tropical Tuna Commission (IATTC)",
+        "group_name": "minteye",
+        "discovered": "2025-12-12 22:48:40.017589",
+        "description": "Size: 2.3 TB",
+        "website": "www.iattc.org",
+        "published": "2025-12-12 22:48:38.535527",
+        "post_url": "",
+        "country": "US",
+        "activity": "Agriculture and Food Production",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Keylogistics Chile SA",
+        "group_name": "minteye",
+        "discovered": "2025-12-12 22:49:04.247176",
+        "description": "Size: 1.4 TB",
+        "website": "www.keylogistics.cl",
+        "published": "2025-12-12 22:49:02.531036",
+        "post_url": "",
+        "country": "CL",
+        "activity": "Transportation/Logistics",
+        "duplicates": [],
+        "extrainfos": []
     }
 ]

@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3000,
+  "count": 3001,
   "results": [
     {
       "date": "2025-12-11",
@@ -30,6 +30,36 @@
           "UNKNOWN": 2,
           "Raccoon": 2,
           "Mystic": 2
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-12-10",
+      "victim": "Instituto Nacional des Routes (Invías)",
+      "domain": "invias.gov.co",
+      "country": "CO",
+      "summary": "L'Instituto Nacional de Vías (Invías) en Colombie a subi un grave ataque cibernétique, ce qui a entraîné une perte d'internet pendant près de 48 heures. L'entité a déposé une plainte auprès de la Fiscalía General de la Nación. Cet incident s'ajoute à d'autres attaques que l'entité a subies ces dernières semaines, notamment un attentat sur la route nationale Los Llanos - Tarazá le 19 novembre.",
+      "title": "Grave ataque cibernético en Invías",
+      "url": "https://www.elpais.com.co/colombia/invias-sufre-grave-ataque-cibernetico-van-cerca-de-48-horas-sin-internet-1110.html",
+      "added": "2025-12-12",
+      "infostealer": {
+        "update": "2025-12-12 12:02:11",
+        "employees": 30,
+        "users": 456,
+        "thirdparties_domain": 63,
+        "employees_url": 8,
+        "users_url": 89,
+        "thirdparties": 94,
+        "infostealer_stats": {
+          "RedLine": 196,
+          "Generic Stealer": 107,
+          "Lumma": 89,
+          "StealC": 38,
+          "Raccoon": 30,
+          "Vidar": 7,
+          "UNKNOWN": 3,
+          "Mystic": 1
         }
       },
       "ransomware": null

@@ -314226,5 +314226,25 @@
         "activity": "Not Found",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Cinvestav",
+        "group_name": "qilin",
+        "discovered": "2025-12-13 15:44:14.558843",
+        "description": "N/A",
+        "website": "www.cinvestav.mx",
+        "published": "2025-11-13 14:18:39.087613",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=05f326b3-8211-32f4-8388-aae644b16c8f",
+        "country": "MX",
+        "activity": "Education",
+        "duplicates": [
+            {
+                "date": "2025-12-13 15:44:14.652653",
+                "group": "coinbasecartel",
+                "link": "https://www.ransomware.live/id/Q2ludmVzdGF2QGNvaW5iYXNlY2FydGVs",
+                "attackdate": "2025-11-13 14:18:39.087613"
+            }
+        ],
+        "extrainfos": []
     }
 ]

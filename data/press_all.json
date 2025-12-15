@@ -4,8 +4,40 @@
     "month": null,
     "country": null
   },
-  "count": 3011,
+  "count": 3012,
   "results": [
+    {
+      "date": "2025-12-14",
+      "victim": "PDVSA",
+      "domain": "pdvsa.com",
+      "country": "VE",
+      "summary": "La compagnie pétrolière nationale vénézuélienne PDVSA affirme avoir été la cible d’une cyberattaque qu’elle attribue aux États-Unis et à des complices internes, tout en assurant que ses opérations n’ont pas été affectées. Des sources anonymes indiquent cependant que des systèmes restent hors service et que des livraisons de cargaisons de pétrole ont été perturbées, contredisant la version officielle.",
+      "title": "Venezuela's PDVSA says operations unaffected by cyber attack, blames U.S.",
+      "url": "https://www.reuters.com/world/americas/venezuelas-pdvsa-says-operations-unaffected-by-cyber-attack-blames-us-2025-12-15/",
+      "added": "2025-12-15",
+      "infostealer": {
+        "update": "2025-12-15 14:51:42",
+        "employees": 150,
+        "users": 390,
+        "thirdparties_domain": 153,
+        "employees_url": 14,
+        "users_url": 100,
+        "thirdparties": 318,
+        "infostealer_stats": {
+          "RedLine": 509,
+          "Generic Stealer": 74,
+          "Lumma": 153,
+          "StealC": 62,
+          "Raccoon": 48,
+          "Vidar": 43,
+          "Mystic": 8,
+          "Azorult": 8,
+          "UNKNOWN": 2,
+          "KPOT": 2
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2025-12-12",
       "victim": "West Pierce Fire & Rescue",

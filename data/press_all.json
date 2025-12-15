@@ -4,8 +4,29 @@
     "month": null,
     "country": null
   },
-  "count": 3004,
+  "count": 3007,
   "results": [
+    {
+      "date": "2025-12-12",
+      "victim": "West Pierce Fire & Rescue",
+      "domain": "westpierce.org",
+      "country": "US",
+      "summary": "West Pierce Fire & Rescue a subi une atteinte à la sécurité de ses systèmes d'information, ce qui a perturbé ses systèmes internes, mais les services d'urgence et le système 911 restent opérationnels. L'agence travaille avec le FBI et des experts pour analyser les systèmes et restaurer l'accès. Les détails de l'incident, y compris le type d'attaque et les données compromises, n'ont pas été divulgués.",
+      "title": "Cyber incident disrupts Washington's West Pierce Fire & Rescue",
+      "url": "https://dysruptionhub.com/west-pierce-fire-cyber-incident-wa/",
+      "added": "2025-12-15",
+      "infostealer": {
+        "update": "2025-12-15 11:57:29",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2025-12-12",
       "victim": "IDEAL Gruppe",
@@ -416,6 +437,36 @@
           "Raccoon": 4,
           "Azorult": 2,
           "Lumma": 2
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-11-27",
+      "victim": "Dextra Rechtsschutz AG",
+      "domain": "dextra.ch",
+      "country": "CH",
+      "summary": "La Dextra Rechtsschutz AG a informé de la résolution d'une faille de sécurité ayant affecté 15 clients, les causes ont été identifiées et les processus ont été mis à jour pour assurer la sécurité des données. L'entreprise a contacté tous les clients touchés et a présenté ses excuses pour l'incident. Les systèmes informatiques de l'entreprise sont désormais entièrement sécurisés.",
+      "title": "Wichtiger Kundenhinweis - Dextra Rechtsschutz",
+      "url": "https://dextra.ch/blog/datenvorfall",
+      "added": "2025-12-15",
+      "infostealer": {
+        "update": "2025-12-15 11:57:09",
+        "employees": 0,
+        "users": 85,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 18,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "RedLine": 54,
+          "Lumma": 38,
+          "Generic Stealer": 15,
+          "Raccoon": 20,
+          "StealC": 10,
+          "Azorult": 10,
+          "UNKNOWN": 2,
+          "Vidar": 2
         }
       },
       "ransomware": null
@@ -25469,6 +25520,27 @@
         "employees_url": 5,
         "users_url": 76,
         "thirdparties": 10
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2024-12-04",
+      "victim": "United Keetoowah Band of Cherokee Indians",
+      "domain": "ukb-nsn.gov",
+      "country": "US",
+      "summary": "Le United Keetoowah Band of Cherokee Indians a signalé une perturbation de ses systèmes informatiques, ce qui a retardé les services dans les bureaux tribaux. La tribu a identifié la source du problème et travaille à rétablir les systèmes. Les services de santé de la tribu n'ont pas été affectés.",
+      "title": "United Keetoowah Band in Oklahoma cites IT issue as ransomware site lists tribe",
+      "url": "https://dysruptionhub.com/united-keetoowah-band-it-issues-oklahoma/",
+      "added": "2025-12-15",
+      "infostealer": {
+        "update": "2025-12-15 11:57:49",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },

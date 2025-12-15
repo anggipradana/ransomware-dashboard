@@ -1,6 +1,6 @@
 {
   "filter_type": null,
-  "count": 68,
+  "count": 69,
   "groups": [
     {
       "group": "Ailock",
@@ -303,6 +303,12 @@
       "group": "Medusalocker",
       "ioc_types": {
         "sha256": 19,
+        "tox": 1
+      }
+    },
+    {
+      "group": "Minteye",
+      "ioc_types": {
         "tox": 1
       }
     },

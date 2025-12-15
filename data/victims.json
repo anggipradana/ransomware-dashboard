@@ -314662,5 +314662,39 @@
         "activity": "Business Services",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Angstrom Automotive Group",
+        "group_name": "pear",
+        "discovered": "2025-12-15 11:43:35.169050",
+        "description": "Leading tier 1 full-service supplier for Automotive and Industrial OEMs",
+        "website": "angstrom-usa.com",
+        "published": "2025-12-01 00:00:00.000000",
+        "post_url": "http://pearsmob5sn44ismokiusuld34pnfwi6ctgin3qbvonpoob4lh3rmtqd.onion/Companies/angstrom-usa",
+        "country": "US",
+        "activity": "Manufacturing",
+        "duplicates": [],
+        "extrainfos": {
+            "Activity": "Automotive Parts",
+            "Revenue": "$500M",
+            "Status": "announced"
+        }
+    },
+    {
+        "post_title": "Gordon Clifford Properties Inc.",
+        "group_name": "pear",
+        "discovered": "2025-12-15 11:44:15.563125",
+        "description": "Property management and serving san francisco property owners",
+        "website": "gordoncliffordmanagement.com",
+        "published": "2025-12-11 00:00:00.000000",
+        "post_url": "http://pearsmob5sn44ismokiusuld34pnfwi6ctgin3qbvonpoob4lh3rmtqd.onion/Companies/gordoncliffordmanagement",
+        "country": "US",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": {
+            "Activity": "Real Estate",
+            "Revenue": "$1.75M",
+            "Status": "announced"
+        }
     }
 ]

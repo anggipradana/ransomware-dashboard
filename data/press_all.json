@@ -4,8 +4,27 @@
     "month": null,
     "country": null
   },
-  "count": 3020,
+  "count": 3021,
   "results": [
+    {
+      "date": "2025-12-15",
+      "victim": "Pocos de Caldas",
+      "domain": "pocosdecaldas.mg.gov.br",
+      "country": "BR",
+      "summary": "La municipalité a subi une tentative d'attaque cibernetique, mais les protocoles de sécurité ont été déployés et aucun compromis n'a eu lieu. Les systèmes ont été restaurés et fonctionnent normalement. Un rapport de police sera depose pour enqueter sur l'incident.",
+      "title": "Prefeitura informa: tentativa de ataque cibernético - Prefeitura de Poços de Caldas",
+      "url": "https://pocosdecaldas.mg.gov.br/noticias/prefeitura-informa-tentativa-de-ataque-cibernetico/",
+      "added": "2025-12-16",
+      "infostealer": {
+        "update": "2024-02-25 12:05:59",
+        "employees": 2,
+        "users": 135,
+        "thirdparties": 0,
+        "employees_url": 3,
+        "users_url": 18
+      },
+      "ransomware": null
+    },
     {
       "date": "2025-12-14",
       "victim": "PDVSA",

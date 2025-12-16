@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3021,
+  "count": 3022,
   "results": [
     {
       "date": "2025-12-15",
@@ -22,6 +22,27 @@
         "thirdparties": 0,
         "employees_url": 3,
         "users_url": 18
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-12-14",
+      "victim": "Minersville Area School District",
+      "domain": "battlinminers.com",
+      "country": "US",
+      "summary": "Le district scolaire de Minersville a subi une attaque de ransomware, ce qui a conduit à la fermeture de ses écoles et à la mise hors ligne de son réseau informatique. Les spécialistes en cybersécurité sont en train d'enquêter et de restaurer les systèmes. Les classes ont été annulées pour les étudiants, mais les activités parascolaires devraient continuer comme prévu.",
+      "title": "Ransomware closes Minersville Area schools in Pennsylvania",
+      "url": "https://dysruptionhub.com/minersville-ransomware-closure-pa/",
+      "added": "2025-12-16",
+      "infostealer": {
+        "update": "2025-12-16 17:37:51",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },

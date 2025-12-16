@@ -2115,7 +2115,10 @@
           "RedLine": 6
         }
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "safepay",
+        "permalink": "https://www.ransomware.live/id/c3RhZHR3ZXJrZS1jbGF1c3RoYWwuZGVAc2FmZXBheQ=="
+      }
     },
     {
       "date": "2025-10-22",

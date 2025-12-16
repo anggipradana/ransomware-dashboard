@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3012,
+  "count": 3013,
   "results": [
     {
       "date": "2025-12-14",
@@ -5340,6 +5340,27 @@
           "UNKNOWN": 2,
           "Mystic": 2
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-08-19",
+      "victim": "Fieldtex Products, Inc.",
+      "domain": "fieldtex.com",
+      "country": "US",
+      "summary": "Fieldtex Products, Inc. a signalé une faille de sécurité dans ses systèmes informatiques, ce qui a pu compromettre des informations de santé protégées, notamment des noms de patients, des adresses et des numéros d'identification d'assurance. L'entreprise a pris des mesures pour sécuriser son réseau et offre des services de surveillance de crédit gratuits aux personnes potentiellement affectées. L'attaque a été revendiquée par Akira le 6 novembre.",
+      "title": "Notification of Data Security Incident – Fieldtex Products Inc.",
+      "url": "https://fieldtex.com/notification-of-data-security-incident/",
+      "added": "2025-12-16",
+      "infostealer": {
+        "update": "2025-12-16 10:40:18",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },

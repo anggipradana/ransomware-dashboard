@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3013,
+  "count": 3020,
   "results": [
     {
       "date": "2025-12-14",
@@ -136,6 +136,27 @@
           "Raccoon": 2,
           "Mystic": 2
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-12-10",
+      "victim": "Laurentius-Apotheke",
+      "domain": "laurentius-apotheke-moenchengladbach.de",
+      "country": "DE",
+      "summary": "La Laurentius-Apotheke à Mönchengladbach a été victime d'une attaque cybernétique.",
+      "title": "Cyberangriff auf Apotheke / Inhaberin klärt MdB auf / Abda-Protest zu lasch / Fälscher gejagt | APOTHEKE ADHOC",
+      "url": "https://www.apotheke-adhoc.de/nachrichten/detail/adhoc24/cyberangriff-auf-apotheke-inhaberin-klaert-mdb-auf-abda-protest-zu-lasch-faelscher-gejagt/",
+      "added": "2025-12-16",
+      "infostealer": {
+        "update": "2025-12-16 11:43:01",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },
@@ -1150,6 +1171,31 @@
         "users_url": 0,
         "thirdparties": 0,
         "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-11-12",
+      "victim": "Victory Disability",
+      "domain": "victory-disability.com",
+      "country": "US",
+      "summary": "Victory Disability suffered a data breach in November 2025, where an unknown party accessed a portion of their environment and may have viewed or copied certain information. The information involved may include names, contact information, Social Security numbers, and medical information. The company is offering complimentary credit monitoring and identity protection services to affected individuals.",
+      "title": "2025-12-12 Catwig LLC dba Victory Disability Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-12-12-catwig-llc-dba-victory-disability-data-breach-notice-consumers",
+      "added": "2025-12-16",
+      "infostealer": {
+        "update": "2025-12-16 11:42:03",
+        "employees": 3,
+        "users": 29,
+        "thirdparties_domain": 9,
+        "employees_url": 1,
+        "users_url": 2,
+        "thirdparties": 6,
+        "infostealer_stats": {
+          "Lumma": 12,
+          "Vidar": 6,
+          "StealC": 2
+        }
       },
       "ransomware": null
     },
@@ -5437,6 +5483,41 @@
     },
     {
       "date": "2025-08-18",
+      "victim": "IGI Global Scientific Publishing",
+      "domain": "igi-global.com",
+      "country": "US",
+      "summary": "IGI Global Scientific Publishing suffered a ransomware attack on August 18, 2025, which may have exposed personal identifiable information. The impacted information may include name, date of birth, home address, phone number, and account number. IGI has not received any notice or indication of any of the information being used in a malicious way.",
+      "title": "2025-12-12 IGI Global Scientific Publishing Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-12-12-igi-global-scientific-publishing-data-breach-notice-consumers",
+      "added": "2025-12-16",
+      "infostealer": {
+        "update": "2025-12-16 11:41:07",
+        "employees": 0,
+        "users": 2912,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 62,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "RedLine": 2024,
+          "Lumma": 1270,
+          "Raccoon": 530,
+          "StealC": 312,
+          "Vidar": 156,
+          "Azorult": 106,
+          "UNKNOWN": 48,
+          "CRYPTBOT": 10,
+          "Atomic": 10,
+          "Mystic": 8,
+          "Taurus": 2,
+          "Predator": 2,
+          "Ficker": 2
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-08-18",
       "victim": "Apex Bulk Commodities",
       "domain": "apexbulk.com",
       "country": "US",
@@ -8628,6 +8709,27 @@
           "Taurus": 2,
           "Atomic": 2
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-06-30",
+      "victim": "Woodlawn Hospital",
+      "domain": "woodlawnhospital.org",
+      "country": "US",
+      "summary": "Woodlawn Hospital experienced a data breach where unauthorized access to their computer network occurred between June 25, 2025, and June 30, 2025, potentially exposing sensitive information. The breach was discovered on June 30, 2025, and an investigation was conducted to identify the type of information at risk. The hospital is offering complimentary credit monitoring and identity restoration services to affected individuals.",
+      "title": "2025-12-11 Woodlawn Hospital Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-12-11-woodlawn-hospital-data-breach-notice-consumers",
+      "added": "2025-12-16",
+      "infostealer": {
+        "update": "2025-12-16 11:41:20",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },
@@ -12030,6 +12132,27 @@
     },
     {
       "date": "2025-05-15",
+      "victim": "Tufton Capital Management",
+      "domain": "tuftoncapital.com",
+      "country": "US",
+      "summary": "Tufton Capital Management suffered a data breach after an unauthorized third party accessed a portion of their computer network from May 15, 2025, to May 16, 2025. The impacted files contained personal information, which may include names. A cyberattack against Tufton Capital Management was claimed by Akira on June 16.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/233d11bb-f713-4eb5-a8e0-195c6e7e78ee.html",
+      "added": "2025-12-16",
+      "infostealer": {
+        "update": "2025-12-16 11:42:43",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-05-15",
       "victim": "Patron Insurance Services",
       "domain": "patroninsurance.com",
       "country": "US",
@@ -13184,6 +13307,27 @@
         "group": "incransom",
         "permalink": "https://www.ransomware.live/id/c291dGggYWZyaWNhbiBhaXJ3YXlzIChmbHlzYWEuY29tKUBpbmNyYW5zb20="
       }
+    },
+    {
+      "date": "2025-05-03",
+      "victim": "Cove Risk Services, LLC",
+      "domain": "coverisk.com",
+      "country": "US",
+      "summary": "Cove Risk Services, LLC experienced a network disruption that led to unauthorized access or acquisition of certain information within their systems. The breach occurred on or around May 3, 2025, and was discovered on or around November 10, 2025. The affected information may have included first and last name, Social Security number, date of birth, and address.",
+      "title": "2025-12-12 Cove Risk Services Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-12-12-cove-risk-services-data-breach-notice-consumers",
+      "added": "2025-12-16",
+      "infostealer": {
+        "update": "2025-12-16 11:42:23",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
     },
     {
       "date": "2025-05-03",
@@ -21809,6 +21953,27 @@
         "group": "hunters",
         "permalink": "https://www.ransomware.live/id/VGF0YSBUZWNobm9sb2dpZXNAaHVudGVycw=="
       }
+    },
+    {
+      "date": "2025-01-30",
+      "victim": "James J. Lynch, MD Ltd. dba Swift Institute",
+      "domain": "theswiftinstitute.com",
+      "country": "US",
+      "summary": "The organization suffered a data breach where an unauthorized individual copied certain files containing personal and protected health information. The breach was discovered on January 30, 2025, and the organization notified potentially impacted individuals on December 10, 2025. The organization is providing credit monitoring services to affected individuals.",
+      "title": "2025-12-12 James J. Lynch, MD Ltd. DBA Swift Institute Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-12-12-james-j-lynch-md-ltd-dba-swift-institute-data-breach-notice-consumers",
+      "added": "2025-12-16",
+      "infostealer": {
+        "update": "2025-12-16 11:41:40",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
     },
     {
       "date": "2025-01-30",

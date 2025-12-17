@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3023,
+  "count": 3027,
   "results": [
     {
       "date": "2025-12-17",
@@ -33,6 +33,48 @@
           "Mystic": 10,
           "Azorult": 4
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-12-16",
+      "victim": "Office of the Ombudsman",
+      "domain": "ombudsman.ie",
+      "country": "IE",
+      "summary": "Le bureau de l'Ombudsman a subi une attaque de ransomware, les systèmes ont été désactivés pour minimiser les dommages. Une enquête forensique est en cours avec l'aide du Centre national de cybersécurité et des spécialistes externes. Le bureau travaille à rétablir les services en toute sécurité et à protéger les données des utilisateurs.",
+      "title": "Ombudsman’s office confirms it has suffered ransomware cyberattack",
+      "url": "https://www.independent.ie/irish-news/ombudsmans-office-confirms-it-has-suffered-ransomware-cyberattack/a586049366.html",
+      "added": "2025-12-17",
+      "infostealer": {
+        "update": "2025-12-17 16:27:15",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-12-15",
+      "victim": "DAINICHI COLOR VIETNAM CO., LTD.",
+      "domain": "daicolor.co.jp",
+      "country": "VN",
+      "summary": "Le 15 décembre 2025, une attaque par rançongiciel a chiffré des fichiers sur des serveurs et PC de la filiale. Les systèmes concernés ont été immédiatement isolés pour éviter toute propagation, et des équipes informatiques sont mobilisées pour le rétablissement. Une éventuelle fuite de données est en cours d’évaluation. (via eCrime.ch)",
+      "title": "Notice Concerning Ransomware Incident at Consolidated Subsidiary",
+      "url": "https://contents.xj-storage.jp/xcontents/AS03610/7f5e397c/2a50/4566/8091/b7cc4da65c66/20251217114618493s.pdf",
+      "added": "2025-12-17",
+      "infostealer": {
+        "update": "2025-12-17 16:26:57",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },
@@ -5459,6 +5501,27 @@
           "UNKNOWN": 2,
           "Mystic": 2
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-08-21",
+      "victim": "CES Group Engineers, LLP",
+      "domain": "ces-group.net",
+      "country": "US",
+      "summary": "CES Group Engineers, LLP experienced a data breach where an unauthorized actor potentially gained access to certain files within their network from August 20, 2025, to August 21, 2025. The information that could have been impacted includes name and driver's license number. CES is providing access to credit monitoring services for one year to affected individuals.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/16fa9da9-a0ed-4b2e-b4d9-f2cfd2a83c37.html",
+      "added": "2025-12-17",
+      "infostealer": {
+        "update": "2025-12-17 16:26:16",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },
@@ -15675,6 +15738,27 @@
           "Ficker": 4,
           "Taurus": 2
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-04-10",
+      "victim": "NAHGA Claim Services",
+      "domain": "nahgacclaimservices.com",
+      "country": "US",
+      "summary": "NAHGA Claim Services experienced a data security incident where unauthorized activity was detected on their network systems, potentially affecting personal information of individuals. The incident occurred between April 8, 2025, and April 11, 2025. The affected information may have included names and other personal details.",
+      "title": "2025-12-15 NAHGA Claim Services Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-12-15-nahga-claim-services-data-breach-notice-consumers",
+      "added": "2025-12-17",
+      "infostealer": {
+        "update": "2025-12-17 16:26:35",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },

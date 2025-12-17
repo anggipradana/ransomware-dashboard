@@ -4,8 +4,38 @@
     "month": null,
     "country": null
   },
-  "count": 3022,
+  "count": 3023,
   "results": [
+    {
+      "date": "2025-12-17",
+      "victim": "Secretaría de Hacienda del Gobierno de Sonora",
+      "domain": "sonora.gob.mx",
+      "country": "MX",
+      "summary": "Un cyberattaque présumée a visé le système financier du gouvernement de Sonora, provoquant la suspension temporaire des services numériques de la Secretaría de Hacienda. Les autorités ont confirmé des tentatives de piratage et ont initié une analyse pour contenir les risques. Les services ont été rétablis de manière progressive après les premières évaluations.",
+      "title": "Sonora sufre ataque cibernético - Contigo Puebla",
+      "url": "https://contigopuebla.mx/2025/66139/sonora-sufre-ataque-cibernetico/",
+      "added": "2025-12-17",
+      "infostealer": {
+        "update": "2025-12-17 15:31:26",
+        "employees": 16,
+        "users": 1493,
+        "thirdparties_domain": 32,
+        "employees_url": 13,
+        "users_url": 100,
+        "thirdparties": 70,
+        "infostealer_stats": {
+          "RedLine": 1284,
+          "Lumma": 538,
+          "Raccoon": 302,
+          "StealC": 188,
+          "Vidar": 56,
+          "UNKNOWN": 32,
+          "Mystic": 10,
+          "Azorult": 4
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2025-12-15",
       "victim": "Pocos de Caldas",

@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3027,
+  "count": 3029,
   "results": [
     {
       "date": "2025-12-17",
@@ -96,6 +96,33 @@
         "users_url": 18
       },
       "ransomware": null
+    },
+    {
+      "date": "2025-12-14",
+      "victim": "DXS International plc",
+      "domain": "dxs-systems.co.uk",
+      "country": "GB",
+      "summary": "DXS International plc annonce avoir subi un incident de sécurité informatique affectant ses serveurs, découvert le 14 décembre. La faille a été rapidement maîtrisée par ses équipes, en collaboration avec NHS England, et une société externe de cybersécurité enquête sur l’incident.",
+      "title": "London Stock Exchange",
+      "url": "https://www.londonstockexchange.com/news-article/market-news/dxs-international-plc-aqse-dxsp-notice-of-cyber-security-incident/17379494",
+      "added": "2025-12-18",
+      "infostealer": {
+        "update": "2025-12-15 09:10:27",
+        "employees": 1,
+        "users": 2,
+        "thirdparties_domain": 2,
+        "employees_url": 1,
+        "users_url": 3,
+        "thirdparties": 4,
+        "infostealer_stats": {
+          "RedLine": 4,
+          "Lumma": 2
+        }
+      },
+      "ransomware": {
+        "group": "devman",
+        "permalink": "https://www.ransomware.live/id/RFhTIFNZU1RFTVNAZGV2bWFu"
+      }
     },
     {
       "date": "2025-12-14",
@@ -27419,6 +27446,27 @@
         "employees_url": 0,
         "users_url": 0,
         "thirdparties": 0
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2024-11-15",
+      "victim": "Ungava Tulattavik Health Center",
+      "domain": "tulattavik.com",
+      "country": "CA",
+      "summary": "Le centre de santé Ungava Tulattavik a été victime d'une cyberattaque qui a compromis des informations sensibles sur les patients et les employés. Les autorités ont bloqué l'attaque dès sa détection et une enquête est en cours. Le centre a mis en place des mesures pour sécuriser les systèmes et soutenir les personnes touchées.",
+      "title": "Nunavik health centre targeted by cyberattack",
+      "url": "https://nunatsiaq.com/stories/article/nunavik-health-centre-targeted-by-cyberattack/",
+      "added": "2025-12-18",
+      "infostealer": {
+        "update": "2025-12-18 14:04:58",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },

@@ -4,8 +4,38 @@
     "month": null,
     "country": null
   },
-  "count": 3029,
+  "count": 3032,
   "results": [
+    {
+      "date": "2025-12-17",
+      "victim": "Servicio Nacional de Geología y Minería (Sernageomin)",
+      "domain": "sernageomin.cl",
+      "country": "CL",
+      "summary": "Le Servicio Nacional de Geología y Minería (Sernageomin) a été victime d'une attaque informatique, ce qui a provoqué une interruption temporaire de son portail institutionnel et de ses plateformes internes. Les protocoles d'urgence ont été activés pour protéger les opérations critiques et garantir la continuité des services essentiels. Les équipes de Sernageomin travaillent pour rétablir l'opérativité des systèmes et mettre en œuvre des mesures de cybersécurité supplémentaires.",
+      "title": "Sernageomin entrega antecedentes sobre ataque cibernético a sus servidores - Mch",
+      "url": "https://www.mch.cl/negocios-industria/sernageomin-entrega-antecedentes-sobre-ataque-cibernetico-a-sus-servidores/",
+      "added": "2025-12-18",
+      "infostealer": {
+        "update": "2025-12-18 14:58:12",
+        "employees": 4,
+        "users": 312,
+        "thirdparties_domain": 20,
+        "employees_url": 4,
+        "users_url": 71,
+        "thirdparties": 13,
+        "infostealer_stats": {
+          "RedLine": 126,
+          "Generic Stealer": 64,
+          "Lumma": 62,
+          "Raccoon": 30,
+          "StealC": 18,
+          "Vidar": 10,
+          "Azorult": 5,
+          "Acreed": 1
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2025-12-17",
       "victim": "Secretaría de Hacienda del Gobierno de Sonora",
@@ -500,6 +530,27 @@
           "Acreed": 1,
           "Ficker": 1
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-11-30",
+      "victim": "Pit River Health Service",
+      "domain": "pitriverhealthservice.org",
+      "country": "US",
+      "summary": "Pit River Health Service a subi une atteinte à la cybersécurité qui a perturbé l'accès à ses dossiers médicaux électroniques et à son logiciel dentaire, obligeant certains patients à recourir à des processus papier plus lents. La clinique a restauré l'accès à certains systèmes et continue d'enquêter sur l'incident. Les systèmes devraient être pleinement opérationnels d'ici la fin du mois.",
+      "title": "Pit River Health Service cyber incident disrupts records access in California",
+      "url": "https://dysruptionhub.com/pit-river-health-cyber-incident-ca/",
+      "added": "2025-12-18",
+      "infostealer": {
+        "update": "2025-12-18 14:57:53",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },
@@ -27865,6 +27916,29 @@
         "users_url": 0,
         "thirdparties": 0,
         "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2024-11-11",
+      "victim": "Eckerd Youth Alternatives Inc. dba Eckerd Connects",
+      "domain": "eckerd.org",
+      "country": "US",
+      "summary": "Eckerd Connects experienced a cybersecurity incident involving unauthorized access to their network, potentially exposing personal information between November 3, 2024, and November 11, 2024. The incident was discovered on November 11, 2024, and an investigation was conducted. Complimentary identity monitoring services are being offered to affected individuals.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/3feda70c-fe80-491e-accf-4857d5d95918.html",
+      "added": "2025-12-18",
+      "infostealer": {
+        "update": "2025-12-18 14:57:33",
+        "employees": 1,
+        "users": 0,
+        "thirdparties_domain": 2,
+        "employees_url": 1,
+        "users_url": 0,
+        "thirdparties": 1,
+        "infostealer_stats": {
+          "UNKNOWN": 2
+        }
       },
       "ransomware": null
     },

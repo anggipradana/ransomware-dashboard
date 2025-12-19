@@ -4,8 +4,36 @@
     "month": null,
     "country": null
   },
-  "count": 3033,
+  "count": 3036,
   "results": [
+    {
+      "date": "2025-12-18",
+      "victim": "Commission scolaire Eastern Townships",
+      "domain": "etsb.qc.ca",
+      "country": "CA",
+      "summary": "La commission scolaire Eastern Townships a détecté une attaque informatique visant ses serveurs, mais ses bases de données ne semblent pas avoir été affectées. Les équipements à l’origine de l’attaque ont été identifiés et mis hors fonction. Les services informatiques ne seront pas disponibles le lendemain et le retour à la normale pourrait nécessiter plusieurs jours.",
+      "title": "La commission scolaire Eastern Townships victime d’une cyberattaque",
+      "url": "https://www.lavoixdelest.ca/actualites/actualites-locales/2025/12/18/la-commission-scolaire-eastern-townships-victime-dune-cyberattaque-GMFVG2YBOVAVVGJN2OKX5EPCYQ/",
+      "added": "2025-12-19",
+      "infostealer": {
+        "update": "2025-12-19 12:52:56",
+        "employees": 9,
+        "users": 24,
+        "thirdparties_domain": 22,
+        "employees_url": 4,
+        "users_url": 11,
+        "thirdparties": 19,
+        "infostealer_stats": {
+          "RedLine": 30,
+          "Raccoon": 12,
+          "Lumma": 6,
+          "UNKNOWN": 4,
+          "Vidar": 2,
+          "Azorult": 2
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2025-12-17",
       "victim": "Servicio Nacional de Geología y Minería (Sernageomin)",
@@ -2311,6 +2339,37 @@
         "infostealer_stats": {}
       },
       "ransomware": null
+    },
+    {
+      "date": "2025-10-21",
+      "victim": "McIntosh Laboratory, Inc.",
+      "domain": "mcintoshlabs.com",
+      "country": "US",
+      "summary": "McIntosh Laboratory, Inc. experienced a cyber attack that may have impacted some of the affected individuals' information. The attack occurred between October 17 and 19, 2025, and the perpetrator accessed and acquired certain data. A cyberattack against McIntosh Laboratory was claimed by Safepay on November 5.",
+      "title": "2025-12-17 McIntosh Laboratory Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-12-17-mcintosh-laboratory-data-breach-notice-consumers",
+      "added": "2025-12-19",
+      "infostealer": {
+        "update": "2025-11-05 13:23:36",
+        "employees": 0,
+        "users": 30,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 6,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "RedLine": 32,
+          "Raccoon": 8,
+          "Lumma": 6,
+          "Vidar": 2,
+          "UNKNOWN": 2,
+          "StealC": 2
+        }
+      },
+      "ransomware": {
+        "group": "safepay",
+        "permalink": "https://www.ransomware.live/id/bWNpbnRvc2hsYWJzLmNvbUBzYWZlcGF5"
+      }
     },
     {
       "date": "2025-10-20",
@@ -4927,6 +4986,27 @@
       "added": "2025-10-25",
       "infostealer": {
         "update": "2025-10-27 19:19:44",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-09-01",
+      "victim": "Artivo Surfaces",
+      "domain": "artivosurfaces.com",
+      "country": "US",
+      "summary": "Artivo Surfaces detected suspicious activity on its network on September 1, 2025, and an unauthorized actor accessed or acquired certain information, including names and Social Security numbers. Artivo conducted a detailed review of the potentially impacted data and determined that information related to one Maine resident was contained in the potentially accessed or acquired files. The incident was recently completed on November 24, 2025.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/59c555d4-5513-493b-9bd1-199bdda56396.html",
+      "added": "2025-12-19",
+      "infostealer": {
+        "update": "2025-12-19 12:52:33",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,

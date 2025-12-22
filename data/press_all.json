@@ -4,8 +4,37 @@
     "month": null,
     "country": null
   },
-  "count": 3039,
+  "count": 3040,
   "results": [
+    {
+      "date": "2025-12-22",
+      "victim": "Apele Române",
+      "domain": "rowater.ro",
+      "country": "RO",
+      "summary": "Des hackers ont attaqué les systèmes informatiques de l'entreprise de distribution d'eau Apele Române, en Roumanie, en cryptant presque 1000 systèmes et en réclamant une rançon. L'approvisionnement en eau n'est pas affecté pour le moment. Les autorités sont en train d'enquêter et de prendre des mesures pour limiter les dégâts.",
+      "title": "Cyberangriff auf Rumänische Wasserwerke",
+      "url": "https://adz.news/artikel/artikel/cyberangriff-auf-rumaenische-wasserwerke",
+      "added": "2025-12-22",
+      "infostealer": {
+        "update": "2025-12-22 13:26:00",
+        "employees": 19,
+        "users": 36,
+        "thirdparties_domain": 13,
+        "employees_url": 13,
+        "users_url": 15,
+        "thirdparties": 8,
+        "infostealer_stats": {
+          "RedLine": 36,
+          "Lumma": 28,
+          "Raccoon": 8,
+          "Vidar": 2,
+          "UNKNOWN": 2,
+          "Azorult": 2,
+          "StealC": 2
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2025-12-21",
       "victim": "Supreme Electronics Co., Ltd.",

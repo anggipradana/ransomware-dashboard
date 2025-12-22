@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3040,
+  "count": 3041,
   "results": [
     {
       "date": "2025-12-22",
@@ -6168,6 +6168,30 @@
       "ransomware": {
         "group": "radar",
         "permalink": "https://www.ransomware.live/id/Q29tcGFnbmllIGRlcyBHdWlkZXMgZGUgQ2hhbW9uaXhAcmFkYXI="
+      }
+    },
+    {
+      "date": "2025-08-14",
+      "victim": "North Metro Harness Initiative, LLC dba Running Aces",
+      "domain": "runaces.com",
+      "country": "US",
+      "summary": "North Metro Harness Initiative, LLC dba Running Aces experienced a data security incident between July 27, 2025, and August 14, 2025, potentially impacting personal information of customers. A cyberattack against Running Aces was claimed by Qilin on September 8.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/aa5333da-bd27-4aaa-ab7b-57570d219755.html",
+      "added": "2025-12-22",
+      "infostealer": {
+        "update": "2025-09-08 14:45:31",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "qilin",
+        "permalink": "https://www.ransomware.live/id/cnVuYWNlcy5jb21AcWlsaW4="
       }
     },
     {

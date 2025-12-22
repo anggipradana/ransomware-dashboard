@@ -315091,12 +315091,18 @@
         "discovered": "2025-12-16 18:23:16.214994",
         "description": "United States",
         "website": "www.maypayfarms.com",
-        "published": "2025-12-16 18:22:39.668170",
+        "published": "2025-11-18 00:00:00.000000",
         "post_url": "http://k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion/topic.php?id=4AzgNVN5b2Ft0s",
         "country": "",
         "activity": "Agriculture and Food Production",
         "duplicates": [],
-        "extrainfos": []
+        "extrainfos": [],
+        "modifications": [
+            {
+                "date": "2025-12-22 15:44:35.616082",
+                "description": "Update published"
+            }
+        ]
     },
     {
         "post_title": "Fairgrove Oil",
@@ -315104,12 +315110,18 @@
         "discovered": "2025-12-16 18:23:54.567148",
         "description": "United States",
         "website": "www.fairgroveoil.com",
-        "published": "2025-12-16 18:23:17.807756",
+        "published": "2025-11-25 00:00:00.000000",
         "post_url": "http://k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion/topic.php?id=rOH9oohwbkN2V",
         "country": "",
         "activity": "Energy",
         "duplicates": [],
-        "extrainfos": []
+        "extrainfos": [],
+        "modifications": [
+            {
+                "date": "2025-12-22 15:44:35.604475",
+                "description": "Update published"
+            }
+        ]
     },
     {
         "post_title": "Allure Home Creation",
@@ -315117,12 +315129,18 @@
         "discovered": "2025-12-16 18:24:32.811241",
         "description": "United States",
         "website": "www.allurehome.com",
-        "published": "2025-12-16 18:23:56.423497",
+        "published": "2025-12-08 00:00:00.000000",
         "post_url": "http://k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion/topic.php?id=64e3ZPGBWJUTy7",
         "country": "US",
         "activity": "Consumer Services",
         "duplicates": [],
-        "extrainfos": []
+        "extrainfos": [],
+        "modifications": [
+            {
+                "date": "2025-12-22 15:44:35.592433",
+                "description": "Update published"
+            }
+        ]
     },
     {
         "post_title": "Edward J Kone",
@@ -317596,6 +317614,32 @@
         "published": "2025-12-21 00:00:00.000000",
         "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=0f5c5733-3ca2-3d6c-9f21-820fbfe71c5f",
         "country": "FR",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "k*v*.fi",
+        "group_name": "devman",
+        "discovered": "2025-12-22 15:48:44.525385",
+        "description": "HR data",
+        "website": "k*v*.fi",
+        "published": "2025-12-22 15:47:44.880737",
+        "post_url": "http://devmanblggk7ddrtqj3tsocnayow3bwnozab2s4yhv4shpv6ueitjzid.onion",
+        "country": "",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Swartz Campbell",
+        "group_name": "interlock",
+        "discovered": "2025-12-22 15:53:07.300998",
+        "description": "Swartz Campbell LLC is a law firm with multiple locations across the East Coast specializing in areas including class action, employment, medical malpractice, and divorce. The law firm was founded in 1921 and is headquartered in Philadelphia, Pennsylvania.",
+        "website": "https;www.swartzcampbell.com",
+        "published": "2025-12-22 15:52:54.314327",
+        "post_url": "http://zsjvoqymwx5gdwntsrrk3pvnkfyoxy3knhoxitpdaobxznwc5iwcj4id.onion/index.php?p=",
+        "country": "US",
         "activity": "Not Found",
         "duplicates": [],
         "extrainfos": []

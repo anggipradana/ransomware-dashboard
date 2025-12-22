@@ -317311,5 +317311,21 @@
         "activity": "Manufacturing",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "taminsho.com",
+        "group_name": "benzona",
+        "discovered": "2025-12-22 07:41:54.995816",
+        "description": "[AI generated] N/A",
+        "website": "taminsho.com",
+        "published": "2025-12-22 07:41:51.450595",
+        "post_url": "",
+        "country": "IR",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "80 GB",
+            "ransom": "$70.000"
+        }
     }
 ]

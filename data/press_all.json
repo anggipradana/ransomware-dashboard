@@ -4,8 +4,57 @@
     "month": null,
     "country": null
   },
-  "count": 3047,
+  "count": 3049,
   "results": [
+    {
+      "date": "2025-12-23",
+      "victim": "Nanyang Industries Co., Ltd.",
+      "domain": "sanyang.com.tw",
+      "country": "CN",
+      "summary": "Nanyang Industries Co., Ltd. a subi une attaque informatique, mais a activé ses mécanismes de défense et de récupération, et la situation est sous contrôle. L'entreprise a signalé l'incident à la police et renforce actuellement son infrastructure de sécurité. L'attaque n'a pas eu d'impact significatif sur les opérations de l'entreprise.",
+      "title": "Today's Information",
+      "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=193724&spoke_date=20251223&co_id=2206",
+      "added": "2025-12-23",
+      "infostealer": {
+        "update": "2025-12-22 14:45:55",
+        "employees": 0,
+        "users": 6,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 5,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "Lumma": 4,
+          "StealC": 4,
+          "RedLine": 2
+        }
+      },
+      "ransomware": {
+        "group": "direwolf",
+        "permalink": "https://www.ransomware.live/id/U2FueWFuZyBNb3RvckBkaXJld29sZg=="
+      }
+    },
+    {
+      "date": "2025-12-22",
+      "victim": "Fiorucci",
+      "domain": "fioruccifoods.com",
+      "country": "IT",
+      "summary": "L'entreprise Fiorucci a subi un attaque informatique qui a bloqué une partie significative de ses systèmes, empêchant ainsi la livraison et la prise de nouvelles commandes pendant la période des fêtes de Noël. Les équipes techniques internes et externes travaillent pour rétablir la pleine fonctionnalité des systèmes. Les données personnelles des clients n'ont pas été divulguées, mais uniquement chiffrées.",
+      "title": "ATTACCO INFORMATICO ALLA FIORUCCI: ORDINI BLOCCATI NEL PIENO DELLE FESTE - ReteAbruzzo.com",
+      "url": "https://www.reteabruzzo.com/2025/12/23/attacco-informatico-alla-fiorucci-ordini-bloccati-nel-pieno-delle-feste/",
+      "added": "2025-12-23",
+      "infostealer": {
+        "update": "2025-12-23 14:28:09",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2025-12-22",
       "victim": "Apele Române",

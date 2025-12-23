@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3041,
+  "count": 3047,
   "results": [
     {
       "date": "2025-12-22",
@@ -499,6 +499,31 @@
         "users_url": 0,
         "thirdparties": 0,
         "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-12-06",
+      "victim": "Eanes Independent School District",
+      "domain": "eanesisd.net",
+      "country": "US",
+      "summary": "Le district scolaire Eanes Independent School District a subi une panne de Wi-Fi pendant une semaine, qui a été restaurée le 12 décembre. L'enseigne Qilin a revendiqué une attaque contre ce district scolaire le 22 décembre.",
+      "title": "Eanes school district in Texas faces unverified ransomware claim after outage",
+      "url": "https://dysruptionhub.com/eanes-isd-ransomware-claim-texas/",
+      "added": "2025-12-23",
+      "infostealer": {
+        "update": "2025-12-22 15:11:23",
+        "employees": 5,
+        "users": 18,
+        "thirdparties_domain": 30,
+        "employees_url": 3,
+        "users_url": 10,
+        "thirdparties": 28,
+        "infostealer_stats": {
+          "RedLine": 12,
+          "Azorult": 8,
+          "Lumma": 4
+        }
       },
       "ransomware": null
     },
@@ -2063,6 +2088,33 @@
           "Raccoon": 6,
           "Generic Stealer": 3,
           "Vidar": 4
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-11-01",
+      "victim": "Cytek Biosciences, Inc.",
+      "domain": "cytekbio.com",
+      "country": "US",
+      "summary": "Cytek Biosciences, Inc. experienced a data security incident involving unauthorized access to certain of their systems, resulting in the potential exposure of sensitive information. The incident occurred on or around November 1, 2025, and was discovered on or around November 28, 2025. The affected information may have included names, contact information, dates of birth, Social Security numbers, and other sensitive data.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/37b0bb9e-101d-4580-a543-6d58c3cd7d40.html",
+      "added": "2025-12-23",
+      "infostealer": {
+        "update": "2025-12-23 13:28:22",
+        "employees": 0,
+        "users": 14,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 8,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "Lumma": 10,
+          "StealC": 8,
+          "Vidar": 2,
+          "RedLine": 2,
+          "Raccoon": 2
         }
       },
       "ransomware": null
@@ -7101,6 +7153,27 @@
       "added": "2025-08-08",
       "infostealer": {
         "update": "2025-08-08 16:16:27",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-08-01",
+      "victim": "Bucks County Opportunity Council, INC.",
+      "domain": "bcoc.org",
+      "country": "US",
+      "summary": "Unauthorized access to Bucks County Opportunity Council's computer network occurred in August 2025, resulting in potential unauthorized access to personal information including names and Social Security numbers. A cyberattack against Bucks County Opportunity Council was claimed by MoneyMessage on August 4.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/81ecaec5-e975-4476-b993-6dab764de8bc.html",
+      "added": "2025-12-23",
+      "infostealer": {
+        "update": "2025-12-23 13:28:42",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,
@@ -19832,6 +19905,27 @@
     },
     {
       "date": "2025-02-27",
+      "victim": "Scott & Kraus, LLC",
+      "domain": "skcounsel.com",
+      "country": "US",
+      "summary": "Scott & Kraus, LLC experienced an IT outage on February 27, 2025, which led to unauthorized access to their network and potential data breach. The breach may have involved personal information, including names and other details. A cyberattack against Scott & Kraus was claimed by Kraken on June 28.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/c599e489-1320-423c-80fb-a787d069f786.html",
+      "added": "2025-12-23",
+      "infostealer": {
+        "update": "2025-06-28 06:18:49",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-02-27",
       "victim": "Orangeville",
       "domain": "orangeville.ca",
       "country": "CA",
@@ -25067,6 +25161,34 @@
         "users_url": 0,
         "thirdparties": 0,
         "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2024-12-19",
+      "victim": "Baker University",
+      "domain": "bakeru.edu",
+      "country": "US",
+      "summary": "Baker University suffered a data breach in December 2024, resulting in unauthorized access and/or acquisition of certain files and folders within their network. The breach may have impacted sensitive information, including names and other personal data. The university is offering complimentary credit monitoring services to affected individuals.",
+      "title": "2025-12-19 Baker University Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-12-19-baker-university-data-breach-notice-consumers",
+      "added": "2025-12-23",
+      "infostealer": {
+        "update": "2025-12-23 13:29:01",
+        "employees": 12,
+        "users": 8,
+        "thirdparties_domain": 12,
+        "employees_url": 9,
+        "users_url": 15,
+        "thirdparties": 12,
+        "infostealer_stats": {
+          "Generic Stealer": 5,
+          "RedLine": 5,
+          "Azorult": 4,
+          "Taurus": 1,
+          "Acreed": 1,
+          "Lumma": 1
+        }
       },
       "ransomware": null
     },
@@ -34787,6 +34909,27 @@
         "employees_url": 0,
         "users_url": 4,
         "thirdparties": 0
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2024-08-07",
+      "victim": "Sax LLP",
+      "domain": "saxadvisorygroup.com",
+      "country": "US",
+      "summary": "Sax, LLP experienced a data security incident on August 7, 2024, where personal information may have been accessed or acquired without authorization. The potentially affected information includes date of birth, Social Security Number, driver's license or state identification number, and/or passport number. Sax notified approximately 244 Maine residents via USPS First-Class Mail on December 16, 2025.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/c5d247ed-f8ce-4344-b25d-c8b9ce9dba5a.html",
+      "added": "2025-12-23",
+      "infostealer": {
+        "update": "2025-12-23 13:27:59",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },

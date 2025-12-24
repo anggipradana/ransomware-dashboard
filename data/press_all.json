@@ -12070,7 +12070,10 @@
           "StealC": 5
         }
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "interlock",
+        "permalink": "https://www.ransomware.live/id/VGhlIFNhbHZhdGlvbiBBcm15QGludGVybG9jaw=="
+      }
     },
     {
       "date": "2025-05-24",

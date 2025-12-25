@@ -318660,5 +318660,25 @@
         "activity": "Education",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Hermes Medical Solutions",
+        "group_name": "termite",
+        "discovered": "2025-12-25 01:40:47.613830",
+        "description": "Hermes Medical Solutions is a leader in molecular imaging software, offering an innovative suite designed for faster and more personalized diagnostics and therapies in the fields of nuclear medicine and molecular imaging. Their all-in-one software, Hermia, integrates various medical imaging modalities and advanced dosimetry tools, making it suitable for diverse clinical specialties.\n",
+        "website": "www.hermesmedical.com",
+        "published": "2023-05-11 17:47:49.663378",
+        "post_url": "http://termiteuslbumdge2zmfmfcsrvmvsfe4gvyudc5j6cdnisnhtftvokid.onion/post/694c8118feb604ea6ee55c75",
+        "country": "SE",
+        "activity": "Healthcare",
+        "duplicates": [
+            {
+                "date": "2025-12-25 01:40:47.624905",
+                "group": "bianlian",
+                "link": "https://www.ransomware.live/id/SGVybWVzIE1lZGljYWwgU29sdXRpb25zQGJpYW5saWFu",
+                "attackdate": "2023-05-11 17:47:49.663378"
+            }
+        ],
+        "extrainfos": []
     }
 ]

@@ -319602,5 +319602,64 @@
         "activity": "Technology",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Hopital La Rabta",
+        "group_name": "qilin",
+        "discovered": "2025-12-26 17:53:44.529652",
+        "description": "N/A",
+        "website": "www.chularabta.tn",
+        "published": "2025-12-11 00:00:00.000000",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=2385873c-ba72-3adb-871d-cfede76c7dd5",
+        "country": "TN",
+        "activity": "Healthcare",
+        "duplicates": [
+            {
+                "date": "2025-12-26 17:53:44.618854",
+                "group": "devman",
+                "link": "https://www.ransomware.live/id/SG9waXRhbCBMYSBSYWJ0YUBkZXZtYW4=",
+                "attackdate": "2025-12-11 00:00:00.000000"
+            }
+        ],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Ortho Mattress",
+        "group_name": "qilin",
+        "discovered": "2025-12-26 17:54:21.867142",
+        "description": "N/A",
+        "website": "www.orthomattress.com",
+        "published": "2025-12-26 17:54:06.979835",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=e830f874-44aa-31a9-8ce7-621a69f5bb0a",
+        "country": "US",
+        "activity": "Consumer Services",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Georgia Dermatology & Skin Cancer Center",
+        "group_name": "qilin",
+        "discovered": "2025-12-26 17:54:59.133201",
+        "description": "N/A",
+        "website": "www.gaderm.com",
+        "published": "2025-12-26 17:54:44.139050",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=3eb0c446-bf7a-338c-b2fa-7b766ad31be0",
+        "country": "US",
+        "activity": "Healthcare",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Hometech Window",
+        "group_name": "qilin",
+        "discovered": "2025-12-26 17:55:37.527604",
+        "description": "N/A",
+        "website": "www.hometechwindow.com",
+        "published": "2025-12-26 17:55:21.443922",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=32bf6664-6ec8-318f-b14d-74e2fdce5912",
+        "country": "US",
+        "activity": "Manufacturing",
+        "duplicates": [],
+        "extrainfos": []
     }
 ]

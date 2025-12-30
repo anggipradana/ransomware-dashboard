@@ -17525,5 +17525,134 @@
             }
         ],
         "profile": []
+    },
+    {
+        "name": "sicarii",
+        "altname": null,
+        "lineage": null,
+        "date": "2025-12-30",
+        "meta": null,
+        "description": null,
+        "extensions ": null,
+        "type": {
+            "raas": false
+        },
+        "locations": [
+            {
+                "fqdn": "sicari7zpu3mtxqggde7mu3ywppntdqg22arcukvlaihjbfcb2rnktid.onion",
+                "title": "\u05d1\u05dc\u05d5\u05d2 - \u05d3\u05dc\u05d9\u05e4\u05d5\u05ea",
+                "slug": "http://sicari7zpu3mtxqggde7mu3ywppntdqg22arcukvlaihjbfcb2rnktid.onion/blog.php",
+                "available": true,
+                "updated": "2025-12-30 06:57:40.728541",
+                "lastscrape": "2025-12-30 06:57:40.728541",
+                "enabled": true,
+                "type": "DLS",
+                "http": {
+                    "fetched_at": "2025-12-30T06:57:52+00:00",
+                    "start_url": "http://sicari7zpu3mtxqggde7mu3ywppntdqg22arcukvlaihjbfcb2rnktid.onion/blog.php",
+                    "final_url": "http://sicari7zpu3mtxqggde7mu3ywppntdqg22arcukvlaihjbfcb2rnktid.onion/blog.php",
+                    "status": 200,
+                    "http_version": "HTTP/1.1",
+                    "redirect_chain": [],
+                    "fingerprint": {
+                        "server": "Apache/2.4.58 (Unix) OpenSSL/1.1.1w PHP/8.2.12 mod_perl/2.0.12 Perl/v5.34.1",
+                        "x_powered_by": null,
+                        "via": null,
+                        "cdn": null,
+                        "content_type": "text/html; charset=UTF-8",
+                        "content_length": null,
+                        "set_cookie_present": true,
+                        "security_headers": {}
+                    },
+                    "headers": {
+                        "date": "Tue, 30 Dec 2025 06:58:20 GMT",
+                        "server": "Apache/2.4.58 (Unix) OpenSSL/1.1.1w PHP/8.2.12 mod_perl/2.0.12 Perl/v5.34.1",
+                        "set-cookie": "PHPSESSID=4g8bih827psellfddgffnn9l68; path=/",
+                        "expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+                        "cache-control": "no-store, no-cache, must-revalidate",
+                        "pragma": "no-cache",
+                        "content-type": "text/html; charset=UTF-8"
+                    },
+                    "error": null
+                }
+            },
+            {
+                "fqdn": "sicari7zpu3mtxqggde7mu3ywppntdqg22arcukvlaihjbfcb2rnktid.onion",
+                "title": "\u05d3\u05e3 \u05d1\u05d9\u05ea",
+                "slug": "http://sicari7zpu3mtxqggde7mu3ywppntdqg22arcukvlaihjbfcb2rnktid.onion",
+                "available": true,
+                "updated": "2025-12-30 06:58:56.909713",
+                "lastscrape": "2025-12-30 06:58:56.909713",
+                "enabled": true,
+                "type": "DLS",
+                "http": {
+                    "fetched_at": "2025-12-30T06:59:09+00:00",
+                    "start_url": "http://sicari7zpu3mtxqggde7mu3ywppntdqg22arcukvlaihjbfcb2rnktid.onion",
+                    "final_url": "http://sicari7zpu3mtxqggde7mu3ywppntdqg22arcukvlaihjbfcb2rnktid.onion",
+                    "status": 200,
+                    "http_version": "HTTP/1.1",
+                    "redirect_chain": [],
+                    "fingerprint": {
+                        "server": "Apache/2.4.58 (Unix) OpenSSL/1.1.1w PHP/8.2.12 mod_perl/2.0.12 Perl/v5.34.1",
+                        "x_powered_by": null,
+                        "via": null,
+                        "cdn": null,
+                        "content_type": "text/html; charset=UTF-8",
+                        "content_length": null,
+                        "set_cookie_present": true,
+                        "security_headers": {}
+                    },
+                    "headers": {
+                        "date": "Tue, 30 Dec 2025 06:59:36 GMT",
+                        "server": "Apache/2.4.58 (Unix) OpenSSL/1.1.1w PHP/8.2.12 mod_perl/2.0.12 Perl/v5.34.1",
+                        "set-cookie": "PHPSESSID=if3or751i9fa2aam7ut18l1vgi; path=/",
+                        "expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+                        "cache-control": "no-store, no-cache, must-revalidate",
+                        "pragma": "no-cache",
+                        "content-type": "text/html; charset=UTF-8"
+                    },
+                    "error": null
+                }
+            },
+            {
+                "fqdn": "sicarilxx2br6esqnhad4w26bcgb5j2snbbnhyo4b6t7kby2oy4x3jad.onion",
+                "title": "\u05d1\u05dc\u05d5\u05d2 - \u05d3\u05dc\u05d9\u05e4\u05d5\u05ea",
+                "slug": "http://sicarilxx2br6esqnhad4w26bcgb5j2snbbnhyo4b6t7kby2oy4x3jad.onion/blog.php",
+                "available": true,
+                "updated": "2025-12-30 07:00:16.280433",
+                "lastscrape": "2025-12-30 07:00:16.280433",
+                "enabled": true,
+                "type": "DLS",
+                "http": {
+                    "fetched_at": "2025-12-30T07:00:32+00:00",
+                    "start_url": "http://sicarilxx2br6esqnhad4w26bcgb5j2snbbnhyo4b6t7kby2oy4x3jad.onion/blog.php",
+                    "final_url": "http://sicarilxx2br6esqnhad4w26bcgb5j2snbbnhyo4b6t7kby2oy4x3jad.onion/blog.php",
+                    "status": 200,
+                    "http_version": "HTTP/1.1",
+                    "redirect_chain": [],
+                    "fingerprint": {
+                        "server": "Apache/2.4.58 (Unix) OpenSSL/1.1.1w PHP/8.2.12 mod_perl/2.0.12 Perl/v5.34.1",
+                        "x_powered_by": null,
+                        "via": null,
+                        "cdn": null,
+                        "content_type": "text/html; charset=UTF-8",
+                        "content_length": null,
+                        "set_cookie_present": true,
+                        "security_headers": {}
+                    },
+                    "headers": {
+                        "date": "Tue, 30 Dec 2025 07:01:00 GMT",
+                        "server": "Apache/2.4.58 (Unix) OpenSSL/1.1.1w PHP/8.2.12 mod_perl/2.0.12 Perl/v5.34.1",
+                        "set-cookie": "PHPSESSID=1vpr7n7fcgq4kpbo2bpoeqbonn; path=/",
+                        "expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+                        "cache-control": "no-store, no-cache, must-revalidate",
+                        "pragma": "no-cache",
+                        "content-type": "text/html; charset=UTF-8"
+                    },
+                    "error": null
+                }
+            }
+        ],
+        "profile": []
     }
 ]

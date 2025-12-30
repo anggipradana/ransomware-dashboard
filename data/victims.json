@@ -320482,5 +320482,21 @@
         "activity": "Not Found",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "ManageMyHealth - New Zealand",
+        "group_name": "kazu",
+        "discovered": "2025-12-30 04:07:35.385060",
+        "description": "ManageMyHealth is a New Zealand-based online platform that enables individuals to conveniently manage their health and well-being by providing secure access to their medical records and communication with healthcare providers. The platform allows users to view test results, manage prescriptions, schedule appointments, and track their health history from any device. It aims to improve healthcare accessibility, streamline communication between patients and medical professionals, and enhance overall health management, all while ensuring data privacy and security. Through this service, patients can stay informed about their health, make more proactive decisions, and access necessary care with greater ease.",
+        "website": "managemyhealth.co.nz",
+        "published": "2025-12-29 00:00:00.000000",
+        "post_url": "",
+        "country": "NZ",
+        "activity": "Healthcare",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "108 GB",
+            "ransom": "$60 000"
+        }
     }
 ]

@@ -320498,5 +320498,25 @@
             "data_size": "108 GB",
             "ransom": "$60 000"
         }
+    },
+    {
+        "post_title": "BioNet-Asia",
+        "group_name": "thegentlemen",
+        "discovered": "2025-12-30 08:07:46.329484",
+        "description": "https://bionet-asia.com/ https://www.zoominfo.com/c/bionet-asia-co-ltd/346273011 BioNet is a vaccine manufacturer focused on developing recombinant and mRNA vaccines to combat respiratory diseases and other public health challenges globally. With over 25 years of experience, BioNet has successfully advanced multiple proprietary recombinant pertussis vaccines to licensure and is currently expanding its commercial operations worldwide. The company follows stringent manufacturing practices and is committed to continuous quality improvement in its vaccine production processes. BioNet aims to address critical immunization needs in regions like Southeast Asia through strategic partnerships and innovative vaccine technologies.",
+        "website": "www.zoominfo.com",
+        "published": "2025-02-19 00:00:00.000000",
+        "post_url": "http://tezwsse5czllksjb7cwp65rvnk4oobmzti2znn42i43bjdfd2prqqkad.onion",
+        "country": "TH",
+        "activity": "Healthcare",
+        "duplicates": [
+            {
+                "date": "2025-12-30 08:07:46.443664",
+                "group": "chaos",
+                "link": "https://www.ransomware.live/id/YW1zaW5vLmNvbUBjaGFvcw==",
+                "attackdate": "2025-02-19 00:00:00.000000"
+            }
+        ],
+        "extrainfos": []
     }
 ]

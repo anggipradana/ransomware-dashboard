@@ -1,6 +1,6 @@
 {
   "filter_type": null,
-  "count": 70,
+  "count": 71,
   "groups": [
     {
       "group": "Ailock",
@@ -51,7 +51,7 @@
       "group": "Benzona",
       "ioc_types": {
         "sha256": 1,
-        "pgp": 1,
+        "pgp": 9,
         "md5": 1,
         "tox": 1,
         "ip": 1
@@ -426,6 +426,13 @@
       "group": "ShinySp1d3r",
       "ioc_types": {
         "sha256": 3
+      }
+    },
+    {
+      "group": "Sicarii",
+      "ioc_types": {
+        "pgp": 18,
+        "tox": 1
       }
     },
     {

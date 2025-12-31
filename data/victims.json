@@ -320715,5 +320715,103 @@
         "activity": "Technology",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "fortishealthcare.com",
+        "group_name": "lockbit5",
+        "discovered": "2025-12-31 17:16:14.234611",
+        "description": "Fortis Hospital, Bannerghatta Road, Bengaluru, is a 284-bed hospital, well equipped with  state-of-...",
+        "website": "fortishealthcare.com",
+        "published": "2024-10-28 20:09:11.733323",
+        "post_url": "http://lockbitapt67g6rwzjbcxnww5efpg4qok6vpfeth7wx3okj52ks4wtad.onion/post/dba750d30fae5ca042557305c1741a22",
+        "country": "IN",
+        "activity": "Healthcare",
+        "duplicates": [
+            {
+                "date": "2025-12-31 17:16:14.274970",
+                "group": "killsec",
+                "link": "https://www.ransomware.live/id/Rm9ydGlzQGtpbGxzZWM=",
+                "attackdate": "2024-10-28 20:09:11.733323"
+            }
+        ],
+        "extrainfos": []
+    },
+    {
+        "post_title": "esopdirect.com",
+        "group_name": "lockbit5",
+        "discovered": "2025-12-31 17:16:41.182525",
+        "description": "ESOP Direct: ESOP Direct, focussed on the Equity compensation domain, is engaged in Plan Design, Le...",
+        "website": "esopdirect.com",
+        "published": "2025-12-30 08:59:00.000000",
+        "post_url": "http://lockbitapt67g6rwzjbcxnww5efpg4qok6vpfeth7wx3okj52ks4wtad.onion/post/2926b390527331dae263699584182b39",
+        "country": "IN",
+        "activity": "Financial Services",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "eroselevators.com",
+        "group_name": "lockbit5",
+        "discovered": "2025-12-31 17:17:14.682036",
+        "description": "Eros Elevators, established in 1947, is a pioneer in the Indian elevator industry,  offering a comp...",
+        "website": "eroselevators.com",
+        "published": "2025-12-30 08:55:00.000000",
+        "post_url": "http://lockbitapt67g6rwzjbcxnww5efpg4qok6vpfeth7wx3okj52ks4wtad.onion/post/d8ab52691aa30047f609d867264b082f",
+        "country": "IN",
+        "activity": "Manufacturing",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "drogales.com.br",
+        "group_name": "lockbit5",
+        "discovered": "2025-12-31 17:17:27.545818",
+        "description": "Drogaria Drogales Incio is a pharmacy and perfumery that offers a wide range of  personal care prod...",
+        "website": "drogales.com.br",
+        "published": "2025-12-30 08:55:00.000000",
+        "post_url": "http://lockbitapt67g6rwzjbcxnww5efpg4qok6vpfeth7wx3okj52ks4wtad.onion/post/1686be1ba8cadcb2a892f96f9d80d031",
+        "country": "BR",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "collinscomputing.com",
+        "group_name": "lockbit5",
+        "discovered": "2025-12-31 17:18:00.636756",
+        "description": "Collins Computing specializes in providing accounting software solutions, focusing on  Acumatica Cl...",
+        "website": "collinscomputing.com",
+        "published": "2025-12-30 08:54:00.000000",
+        "post_url": "http://lockbitapt67g6rwzjbcxnww5efpg4qok6vpfeth7wx3okj52ks4wtad.onion/post/0a41b4867264f7c809fd27b151066854",
+        "country": "US",
+        "activity": "Technology",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Luminex Software",
+        "group_name": "qilin",
+        "discovered": "2025-12-31 17:45:39.697949",
+        "description": "N/A",
+        "website": "www.luminex.com",
+        "published": "2025-12-31 17:45:23.120172",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=b47a5fe2-e13c-3f90-b531-01bb7f789b67",
+        "country": "US",
+        "activity": "Technology",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "KOPA Kozmetik A",
+        "group_name": "qilin",
+        "discovered": "2025-12-31 17:46:16.759824",
+        "description": "N/A",
+        "website": "www.kopas.com",
+        "published": "2025-12-31 17:46:02.067315",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=7e8b95ab-b2b8-3fa7-a22e-08cb30dc99c6",
+        "country": "TR",
+        "activity": "Consumer Services",
+        "duplicates": [],
+        "extrainfos": []
     }
 ]

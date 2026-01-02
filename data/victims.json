@@ -320826,5 +320826,44 @@
         "activity": "Manufacturing",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Sugawara Laboratories",
+        "group_name": "qilin",
+        "discovered": "2026-01-02 05:53:29.138211",
+        "description": "N/A",
+        "website": "www.sugawara-labs.co.jp",
+        "published": "2026-01-02 05:53:11.230068",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=f3980832-c0b4-31fc-8fa6-b456aef5b19f",
+        "country": "JP",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Csv Group",
+        "group_name": "qilin",
+        "discovered": "2026-01-02 05:54:06.928920",
+        "description": "N/A",
+        "website": "www.csvgroup.it",
+        "published": "2026-01-02 05:53:51.505538",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=fbc56041-e8c3-3ec3-b953-b06c78e448cc",
+        "country": "",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "SINBON Electronics Co., Ltd",
+        "group_name": "dragonforce",
+        "discovered": "2026-01-02 06:24:56.732530",
+        "description": "SINBON Electronics, a leading Taiwanese maker of electronic components that partners with firms such as ASML Holding N.V. and trades under the ticker 3023.TW, posted a notice on the Taiwan Stock Exchange about a cyber-attack on its network. The statement claimed an unknown group carried out the attack, that it was quickly detected and blocked, that a specialized organization would successfully decrypt the files, and that no data were taken. In fact, none of that is accurate. The breach was not anonymous. We always disclose that we performed the intrusion and include our contact information. It’s well known that no one can decrypt what we encrypt without our assistance. Any claim to the contrary has resulted in multi-billion-dollar losses for those who believed it. The incident was not resolved quickly. It unfolded over several weeks and impacted both the headquarters and the U.S. subsidiary. During our operation we exfiltrated a massive volume of company data, including executive-level information. We have now assembled a package of roughly 650,000 files for publication. The collection contains, as usual, financial and accounting records, reports, client data, and personal information. It also includes documentation of the collaboration with ASML Holding N.V., production records, and detailed evidence of product defects and the company’s financial condition. It appears the IT staff tried to conceal the scale of the breach from senior management and regulators to limit personal repercussions. That decision forced us to go public with the incident and its magnitude. We have already sent our contact details to the executives’ email addresses. Please use those details to reach out to us so we can discuss how to keep the data from being released while your company continues to grow and thrive. (The list of files prepared now isn’t final. If needed, we can expand it considerably by adding mail files and other data.)",
+        "website": "sinbon.com",
+        "published": "2026-01-02 05:45:29.654215",
+        "post_url": "http://z3wqggtxft7id3ibr7srivv5gjof5fwg76slewnzwwakjuf3nlhukdid.onion/blog/?post_uuid=8bf25b2f-9d42-40d3-ad5a-0e4b162b3bcd",
+        "country": "TW",
+        "activity": "Technology",
+        "duplicates": [],
+        "extrainfos": []
     }
 ]

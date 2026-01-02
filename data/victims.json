@@ -321034,5 +321034,51 @@
         "activity": "Healthcare",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Jing Cheng Enterprise Co., Ltd.",
+        "group_name": "qilin",
+        "discovered": "2026-01-02 19:06:16.254175",
+        "description": "N/A",
+        "website": "www.jcec.com.tw",
+        "published": "2026-01-02 00:00:00.000000",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=e59c5487-b277-3b8f-a2ea-faac1dc452f5",
+        "country": "TW",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Farmacia San Pablo",
+        "group_name": "qilin",
+        "discovered": "2026-01-02 19:06:54.344956",
+        "description": "N/A",
+        "website": "www.farmaciasanpablo.com.mx",
+        "published": "2026-01-02 19:06:38.460067",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=d0d00442-a75e-3086-9182-7d91dd31e943",
+        "country": "MX",
+        "activity": "Healthcare",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Ellison Educational Equipment",
+        "group_name": "qilin",
+        "discovered": "2026-01-02 19:07:11.082976",
+        "description": "N/A",
+        "website": "www.ellisoneducation.com",
+        "published": "2025-12-24 09:28:02.000000",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=c5bd195c-868d-3759-9b44-74e118f9a248",
+        "country": "US",
+        "activity": "Education",
+        "duplicates": [
+            {
+                "date": "2026-01-02 19:07:11.172123",
+                "group": "worldleaks",
+                "link": "https://www.ransomware.live/id/RWxsaXNvbiBFZHVjYXRpb25hbCBFcXVpcG1lbnQsIEluY0B3b3JsZGxlYWtz",
+                "attackdate": "2025-12-24 09:28:02.000000"
+            }
+        ],
+        "extrainfos": []
     }
 ]

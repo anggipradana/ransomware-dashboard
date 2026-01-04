@@ -321223,5 +321223,80 @@
         "activity": "Not Found",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Varimed Medikal",
+        "group_name": "direwolf",
+        "discovered": "2026-01-04 05:52:16.331028",
+        "description": "Manufacturing",
+        "website": "varimed.com.tr",
+        "published": "2026-01-04 05:38:58.441923",
+        "post_url": "http://direwolfcdkv5whaz2spehizdg22jsuf5aeje4asmetpbt6ri4jnd4qd.onion/api/public/articles/59",
+        "country": "TR",
+        "activity": "Healthcare",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "2GB"
+        }
+    },
+    {
+        "post_title": "Sunzen Biotech Berhad",
+        "group_name": "direwolf",
+        "discovered": "2026-01-04 05:52:50.429938",
+        "description": "Manufacturing",
+        "website": "sunzengroup.com",
+        "published": "2026-01-04 05:37:25.406959",
+        "post_url": "http://direwolfcdkv5whaz2spehizdg22jsuf5aeje4asmetpbt6ri4jnd4qd.onion/api/public/articles/58",
+        "country": "MY",
+        "activity": "Healthcare",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "108GB"
+        }
+    },
+    {
+        "post_title": "Laurenzano Logistics",
+        "group_name": "direwolf",
+        "discovered": "2026-01-04 05:53:23.598973",
+        "description": "Logistics Services",
+        "website": "laurenzanologistica.com.ar",
+        "published": "2026-01-04 05:35:16.685351",
+        "post_url": "http://direwolfcdkv5whaz2spehizdg22jsuf5aeje4asmetpbt6ri4jnd4qd.onion/api/public/articles/57",
+        "country": "US",
+        "activity": "Transportation/Logistics",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "100GB"
+        }
+    },
+    {
+        "post_title": "KwikLedgers",
+        "group_name": "direwolf",
+        "discovered": "2026-01-04 05:53:57.254160",
+        "description": "Finance",
+        "website": "kwikledgers.com",
+        "published": "2026-01-04 05:33:18.096965",
+        "post_url": "http://direwolfcdkv5whaz2spehizdg22jsuf5aeje4asmetpbt6ri4jnd4qd.onion/api/public/articles/56",
+        "country": "US",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "31GB"
+        }
+    },
+    {
+        "post_title": "PernelMedia",
+        "group_name": "direwolf",
+        "discovered": "2026-01-04 05:54:30.444524",
+        "description": "Media",
+        "website": "pernelmedia.com",
+        "published": "2026-01-04 05:28:41.643905",
+        "post_url": "http://direwolfcdkv5whaz2spehizdg22jsuf5aeje4asmetpbt6ri4jnd4qd.onion/api/public/articles/55",
+        "country": "FR",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "500GB"
+        }
     }
 ]

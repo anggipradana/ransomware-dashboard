@@ -4,8 +4,31 @@
     "month": null,
     "country": null
   },
-  "count": 3050,
+  "count": 3051,
   "results": [
+    {
+      "date": "2026-01-02",
+      "victim": "Longchen Paper & Packaging Co., Ltd.",
+      "domain": "longchenpaper.com",
+      "country": "TW",
+      "summary": "La société a été victime d'une attaque de ransomware contre son système informatique, mais a pris des mesures pour se défendre et récupérer son système. L'impact actuel est minime et l'entreprise continuera à renforcer la sécurité de son réseau et de ses infrastructures d'information.",
+      "title": "Today's Information",
+      "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=2&spoke_time=170351&spoke_date=20260102&co_id=1909",
+      "added": "2026-01-04",
+      "infostealer": {
+        "update": "2026-01-04 15:35:13",
+        "employees": 5,
+        "users": 1,
+        "thirdparties_domain": 0,
+        "employees_url": 1,
+        "users_url": 1,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "Lumma": 6
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2025-12-23",
       "victim": "Nanyang Industries Co., Ltd.",

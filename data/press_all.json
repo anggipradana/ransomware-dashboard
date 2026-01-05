@@ -4,8 +4,56 @@
     "month": null,
     "country": null
   },
-  "count": 3053,
+  "count": 3059,
   "results": [
+    {
+      "date": "2026-01-04",
+      "victim": "Higham Lane School",
+      "domain": "highamlaneschool.co.uk",
+      "country": "GB",
+      "summary": "Une école de Nuneaton a été forcée de fermer en raison d'une attaque cybernétique qui a pris en charge l'ensemble du système informatique de l'école. Les élèves devaient retourner en classe ce jour-là, mais l'école restera fermée jusqu'à ce que la situation soit résolue de manière sûre et contrôlée. L'école s'excuse pour les désagréments causés aux parents et aux tuteurs qui doivent organiser des arrangements de garde d'enfants.",
+      "title": "Cyber attack forces Nuneaton school to close as whole IT system 'taken down'",
+      "url": "https://www.coventrytelegraph.net/news/local-news/cyber-attack-forces-nuneaton-school-33165492",
+      "added": "2026-01-05",
+      "infostealer": {
+        "update": "2026-01-05 09:49:11",
+        "employees": 4,
+        "users": 7,
+        "thirdparties_domain": 8,
+        "employees_url": 2,
+        "users_url": 6,
+        "thirdparties": 14,
+        "infostealer_stats": {
+          "RedLine": 4,
+          "Azorult": 4,
+          "StealC": 4,
+          "UNKNOWN": 2,
+          "Lumma": 2
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-01-03",
+      "victim": "Constantia Pharmacy",
+      "domain": "constantiapharmacy.co.za",
+      "country": "ZA",
+      "summary": "Un hacker a sauvé une pharmacie de Cape Town d'une attaque de ransomware en découvrant un serveur vulnérable et en alertant la société de gestion de la pharmacie, ProPharm, qui a pris des mesures pour sauver les données de la pharmacie. L'attaque a été attribuée au groupe Want_to_cry, qui utilise des attaques de force brute pour compromettre les serveurs avec des mots de passe faibles. La pharmacie a été informée à temps et les données ont été sauvegardées, évitant ainsi une interruption coûteuse due à l'attaque de ransomware.",
+      "title": "Hacker rescues South African pharmacy from cyber attack",
+      "url": "https://mybroadband.co.za/news/security/623956-hacker-rescues-south-african-pharmacy-from-cyber-attack.html",
+      "added": "2026-01-05",
+      "infostealer": {
+        "update": "2026-01-05 08:37:12",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-01-02",
       "victim": "Longchen Paper & Packaging Co., Ltd.",
@@ -25,6 +73,93 @@
         "thirdparties": 0,
         "infostealer_stats": {
           "Lumma": 6
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-12-31",
+      "victim": "Aurora College",
+      "domain": "auroracollege.nt.ca",
+      "country": "CA",
+      "summary": "Aurora College a suspendu les cours pour au moins une semaine après une attaque informatique pendant les vacances. Les classes en personne et en ligne sont suspendues pour la semaine du 5 au 9 janvier. Le collège travaille à la remédiation et à la récupération de ses systèmes.",
+      "title": "Aurora College suspends classes over cyber attack",
+      "url": "https://cabinradio.ca/273959/news/education/aurora-college-suspends-classes-over-cyber-attack/",
+      "added": "2026-01-05",
+      "infostealer": {
+        "update": "2026-01-05 08:37:35",
+        "employees": 2,
+        "users": 12,
+        "thirdparties_domain": 15,
+        "employees_url": 4,
+        "users_url": 5,
+        "thirdparties": 1,
+        "infostealer_stats": {
+          "Lumma": 8,
+          "StealC": 4,
+          "Vidar": 2,
+          "RedLine": 2,
+          "Raccoon": 2,
+          "Azorult": 2
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-12-30",
+      "victim": "Manage My Health",
+      "domain": "managemyhealth.co.nz",
+      "country": "NZ",
+      "summary": "Des hackers ont attaqué le portail de santé Manage My Health le 30 décembre, accédant aux données médicales personnelles de 120 000 personnes et exigeant une rançon de 60 000 $ US. Initialement fixée au 15 janvier, la date limite de paiement a été réduite à 48 heures, et des fichiers très sensibles ont déjà commencé à être publiés sur le dark web. Utilisé par 1,8 million de Néo-Zélandais, le portail a recommandé à ses utilisateurs de réinitialiser leurs mots de passe ou d’activer l’authentification à deux facteurs, tandis que l’entreprise coopère avec la police et engage des actions légales.",
+      "title": "Hackers drastically shorten deadline for Manage My Health to pay ransom",
+      "url": "https://www.stuff.co.nz/nz-news/360920634/hackers-drastically-shorten-deadline-manage-my-health-pay-ransom",
+      "added": "2026-01-05",
+      "infostealer": {
+        "update": "2025-12-30 04:07:20",
+        "employees": 0,
+        "users": 2010,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 100,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "RedLine": 1022,
+          "Lumma": 1002,
+          "Raccoon": 302,
+          "StealC": 302,
+          "Vidar": 122,
+          "Azorult": 58,
+          "UNKNOWN": 40,
+          "Atomic": 20,
+          "CRYPTBOT": 12,
+          "Mystic": 4
+        }
+      },
+      "ransomware": {
+        "group": "kazu",
+        "permalink": "https://www.ransomware.live/id/TWFuYWdlTXlIZWFsdGggLSBOZXcgWmVhbGFuZEBrYXp1"
+      }
+    },
+    {
+      "date": "2025-12-27",
+      "victim": "Prefeitura de Serra Talhada",
+      "domain": "serratalhada.pe.gov.br",
+      "country": "BR",
+      "summary": "La Prefeitura de Serra Talhada a subi un ataque cibernétique, ce qui a empêché le paiement des salaires des employés de l'éducation. Les paiements devraient être effectués le jour même après la résolution du problème. Les employés ont exprimé leur mécontentement en raison du retard de paiement pendant la période de Réveillon.",
+      "title": "Secretário diz que Prefeitura de ST sofreu ataque cibernético",
+      "url": "https://faroldenoticias.com.br/salarios-educacao-sofreu-ataque-cibernetico/",
+      "added": "2026-01-05",
+      "infostealer": {
+        "update": "2026-01-05 09:48:51",
+        "employees": 0,
+        "users": 9,
+        "thirdparties_domain": 3,
+        "employees_url": 0,
+        "users_url": 4,
+        "thirdparties": 9,
+        "infostealer_stats": {
+          "RedLine": 10,
+          "Raccoon": 4
         }
       },
       "ransomware": null
@@ -304,6 +439,27 @@
       "added": "2025-12-17",
       "infostealer": {
         "update": "2025-12-17 16:27:15",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-12-15",
+      "victim": "Snyderville Basin Water Reclamation District",
+      "domain": "sbwrd.org",
+      "country": "US",
+      "summary": "Le district de Snyderville Basin Water Reclamation a été victime d'une attaque cybernétique internationale, probablement originaire de Chine, qui a compromis son serveur ArcGIS, mais les défenses de sécurité ont isolé l'attaque et récupéré les fichiers chiffrés. Le district a signalé l'attaque au FBI et à l'agence de cybersécurité, et travaille avec des fournisseurs de logiciels pour améliorer sa sécurité. Les autorités fédérales mènent des tests de pénétration pour renforcer la sécurité du district.",
+      "title": "Reclamation District says it fended off an international cyber attack - Park Record",
+      "url": "https://www.parkrecord.com/2025/12/26/reclamation-district-says-it-fended-off-an-international-cyber-attack/",
+      "added": "2026-01-05",
+      "infostealer": {
+        "update": "2026-01-05 09:48:30",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,

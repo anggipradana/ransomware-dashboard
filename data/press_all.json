@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3051,
+  "count": 3053,
   "results": [
     {
       "date": "2026-01-02",
@@ -25,6 +25,34 @@
         "thirdparties": 0,
         "infostealer_stats": {
           "Lumma": 6
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-12-26",
+      "victim": "Oltenia Energy Complex",
+      "domain": "ceoltenia.ro",
+      "country": "RO",
+      "summary": "L'Oltenia Energy Complex, le plus grand producteur d'énergie au charbon de Roumanie, a subi une attaque de ransomware qui a perturbé ses systèmes informatiques. L'attaque a eu lieu le 26 décembre 2025 et a entraîné l'encryption de documents et la perturbation de systèmes clés. Les opérations de l'entreprise ont été partiellement affectées, mais l'approvisionnement énergétique national est resté sécurisé.",
+      "title": "Romania’s Oltenia Energy Complex suffers major ransomware attack",
+      "url": "https://securityaffairs.com/186290/cyber-crime/romanias-oltenia-energy-complex-suffers-major-ransomware-attack.html",
+      "added": "2026-01-05",
+      "infostealer": {
+        "update": "2026-01-05 07:45:02",
+        "employees": 18,
+        "users": 34,
+        "thirdparties_domain": 6,
+        "employees_url": 5,
+        "users_url": 4,
+        "thirdparties": 5,
+        "infostealer_stats": {
+          "RedLine": 32,
+          "Raccoon": 16,
+          "Vidar": 9,
+          "Lumma": 8,
+          "UNKNOWN": 2,
+          "Azorult": 2
         }
       },
       "ransomware": null
@@ -153,6 +181,27 @@
         "infostealer_stats": {
           "Lumma": 1
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-12-20",
+      "victim": "Lepido Rocco",
+      "domain": "lepidorocco.it",
+      "country": "IT",
+      "summary": "Le centre de formation professionnelle Lepido Rocco de Villorba a subi une attaque hacker, les données personnelles des étudiants ont disparu. L'attaque a eu lieu entre le 20 et le 21 décembre 2025. Les investigations sont en cours pour déterminer l'ampleur de la fuite de données.",
+      "title": "Attacco hacker a una scuola di Treviso: registro elettronico inaccessibile, dati e valutazioni \"spariti nel nulla\"",
+      "url": "https://www.tecnicadellascuola.it/attacco-hacker-a-una-scuola-di-treviso-registro-elettronico-inaccessibile-dati-e-valutazioni-spariti-nel-nulla",
+      "added": "2026-01-05",
+      "infostealer": {
+        "update": "2026-01-05 07:45:20",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },

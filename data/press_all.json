@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3063,
+  "count": 3076,
   "results": [
     {
       "date": "2026-01-04",
@@ -2158,6 +2158,27 @@
     },
     {
       "date": "2025-11-07",
+      "victim": "Mercadien PC Certified Public Accountants",
+      "domain": "mercadien.com",
+      "country": "US",
+      "summary": "The breach details are unclear, but it appears to be a data breach involving multiple entities and domains. The exact nature and scope of the breach are unknown. Further investigation is required to determine the extent of the breach.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/4d8d003f-1b63-4f61-8564-32582d217590.html",
+      "added": "2026-01-01",
+      "infostealer": {
+        "update": "2025-08-18 13:49:29",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-11-07",
       "victim": "woom GmbH",
       "domain": "woom.com",
       "country": "AT",
@@ -3024,6 +3045,30 @@
     },
     {
       "date": "2025-10-17",
+      "victim": "Medical Center, LLP",
+      "domain": "dublinmedicalcenter.com",
+      "country": "US",
+      "summary": "Medical Center, LLP suffered a data breach after an unauthorized third party gained access to a portion of their computer network, potentially exposing protected health information of patients. The breach was detected on October 17, 2025, and the organization has since worked to secure their systems and notify impacted individuals. An attack was claimed by Paar on November 22.",
+      "title": "2026-01-02 Medical Center, LLP Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2026-01-02-medical-center-llp-data-breach-notice-consumers",
+      "added": "2026-01-06",
+      "infostealer": {
+        "update": "2025-11-22 08:15:49",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "pear",
+        "permalink": "https://www.ransomware.live/id/TWVkaWNhbCBDZW50ZXIsIExMUEBwZWFy"
+      }
+    },
+    {
+      "date": "2025-10-17",
       "victim": "ReadyTech Holdings Limited",
       "domain": "readytech.io",
       "country": "AU",
@@ -3199,6 +3244,18 @@
         "thirdparties": 0,
         "infostealer_stats": {}
       },
+      "ransomware": null
+    },
+    {
+      "date": "2025-10-14",
+      "victim": "Ellafi Federal Credit Union",
+      "domain": "ellafifcu.org",
+      "country": "US",
+      "summary": "Ellafi Federal Credit Union experienced a network disruption on October 14, 2025, which may have involved unauthorized access to personal information. An investigation revealed that certain files may have been accessed and/or acquired without authorization. The affected data included names, Social Security numbers, and credit/debit card numbers.",
+      "title": "2025-12-27 Ellafi Federal Credit Union Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-12-27-ellafi-federal-credit-union-data-breach-notice-consumers",
+      "added": "2025-12-30",
+      "infostealer": "",
       "ransomware": null
     },
     {
@@ -3490,6 +3547,32 @@
           "Mystic": 4,
           "CRYPTBOT": 2,
           "UNKNOWN": 2
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-10-07",
+      "victim": "Appalachian Community Federal Credit Union",
+      "domain": "myacfcu.org",
+      "country": "US",
+      "summary": "A data breach occurred at Appalachian Community Federal Credit Union, resulting in the theft of sensitive personal information, including names, Social Security numbers, and financial account information. The breach was discovered on October 7, 2025, and the affected individuals were notified on December 30, 2025. The credit union has taken steps to protect the affected individuals, including offering credit monitoring services.",
+      "title": "2025-12-30 Appalachian Community Federal Credit Union Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-12-30-appalachian-community-federal-credit-union-data-breach-notice-consumers",
+      "added": "2026-01-06",
+      "infostealer": {
+        "update": "2026-01-06 13:36:49",
+        "employees": 0,
+        "users": 9,
+        "thirdparties_domain": 1,
+        "employees_url": 0,
+        "users_url": 7,
+        "thirdparties": 1,
+        "infostealer_stats": {
+          "Lumma": 4,
+          "RedLine": 2,
+          "Raccoon": 2,
+          "Azorult": 2
         }
       },
       "ransomware": null
@@ -5055,6 +5138,27 @@
       "added": "2025-09-15",
       "infostealer": {
         "update": "2025-09-15 11:52:45",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-09-11",
+      "victim": "Sasserath & Co.",
+      "domain": "sasscpas.com",
+      "country": "US",
+      "summary": "Sasserath & Co. experienced a data security incident where unauthorized access to a single workstation resulted in access to a small number of draft tax returns, exposing personal information of affected individuals.",
+      "title": "2025-12-30 Sasserath & Co Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-12-30-sasserath-co-data-breach-notice-consumers",
+      "added": "2026-01-06",
+      "infostealer": {
+        "update": "2026-01-06 13:36:27",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,
@@ -6821,6 +6925,30 @@
       "ransomware": {
         "group": "warlock",
         "permalink": "https://www.ransomware.live/id/Y29sdC5uZXRAd2FybG9jaw=="
+      }
+    },
+    {
+      "date": "2025-08-11",
+      "victim": "Washington Prime Group Holdings L.P.",
+      "domain": "wpgus.com",
+      "country": "US",
+      "summary": "Washington Prime Group Holdings L.P. suffered a cyber security event where an unauthorized third party gained access to certain systems within their network, potentially viewing or taking personal information between July 30, 2025, and August 9, 2025. An attack was claimed by Worldleaks on September 23.",
+      "title": "2025-12-23 Washington Prime Group Holdings Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-12-23-washington-prime-group-holdings-data-breach-notice-consumers",
+      "added": "2025-12-30",
+      "infostealer": {
+        "update": "2025-09-23 19:17:30",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "worldleaks",
+        "permalink": "https://www.ransomware.live/id/V2FzaGluZ3RvbiBQcmltZSBHcm91cCBJbmNAd29ybGRsZWFrcw=="
       }
     },
     {
@@ -11913,6 +12041,27 @@
     },
     {
       "date": "2025-05-31",
+      "victim": "Artemis Healthcare, Inc.",
+      "domain": "arianadx.com",
+      "country": "US",
+      "summary": "Artemis Healthcare, Inc. suffered a ransomware attack between May 5, 2025, and May 31, 2025, resulting in unauthorized access to their network. The breach may have involved sensitive information, including names and other data elements. An attack was claimed by Crypto24 on July 16.",
+      "title": "2025-12-23 Artemis Healthcare Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-12-23-artemis-healthcare-data-breach-notice-consumers",
+      "added": "2025-12-30",
+      "infostealer": {
+        "update": "2025-07-16 16:28:08",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-05-31",
       "victim": "Gemeindeverwaltung Ostercappeln",
       "domain": "ostercappeln.de",
       "country": "DE",
@@ -12353,6 +12502,18 @@
         "group": "direwolf",
         "permalink": "https://www.ransomware.live/id/RGF0YVBvc3RAZGlyZXdvbGY="
       }
+    },
+    {
+      "date": "2025-05-24",
+      "victim": "Apro, LLC d/b/a United Pacific (Apro)",
+      "domain": "unitedpacific.com",
+      "country": "US",
+      "summary": "Apro suffered a data breach where an unauthorized third-party accessed certain Apro systems from May 23, 2025 to May 24, 2025, obtaining certain files containing personal information. The breach was discovered on December 18, 2025. Apro is offering complimentary Experian IdentityWorks memberships to affected individuals.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/c6a3f003-9238-4c70-9fb8-f25d655ee495.html",
+      "added": "2025-12-30",
+      "infostealer": "",
+      "ransomware": null
     },
     {
       "date": "2025-05-24",
@@ -14679,6 +14840,18 @@
         "thirdparties": 0,
         "infostealer_stats": {}
       },
+      "ransomware": null
+    },
+    {
+      "date": "2025-04-28",
+      "victim": "Foley & Lardner LLP",
+      "domain": "foley.com",
+      "country": "US",
+      "summary": "Foley & Lardner LLP experienced a data security incident involving potential unauthorized access to certain data, resulting in the exposure of personal information. The incident occurred on April 28, 2025, and was discovered on December 18, 2025. The affected information included names and other personal data elements.",
+      "title": "2025-12-23 Foley & Lardner Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-12-23-foley-lardner-data-breach-notice-consumers",
+      "added": "2025-12-30",
+      "infostealer": "",
       "ransomware": null
     },
     {
@@ -18351,6 +18524,18 @@
     },
     {
       "date": "2025-03-18",
+      "victim": "CoMark Equity Alliance",
+      "domain": "ceagrain.com",
+      "country": "US",
+      "summary": "CoMark Equity Alliance suffered a security incident where unauthorized access to their network occurred on or around March 18, 2025, potentially exposing full names and Social Security numbers. The incident was discovered on December 17, 2025, after a comprehensive investigation. The company is offering complimentary credit monitoring and identity theft protection services to affected individuals.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/d3bb6273-a7a5-4f52-b0cf-bb8942012720.html",
+      "added": "2025-12-28",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2025-03-18",
       "victim": "Hardman Johnston Global Advisors LLC",
       "domain": "hardmanjohnstonglobaladvisors.com",
       "country": "US",
@@ -18360,6 +18545,27 @@
       "added": "2025-07-09",
       "infostealer": {
         "update": "2025-07-09 07:55:15",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-03-17",
+      "victim": "Austin Associates, P.A.",
+      "domain": "austinpa.com",
+      "country": "US",
+      "summary": "Austin Associates, P.A. experienced a data breach from February 26, 2025, to March 17, 2025, resulting in unauthorized access to personal information. The investigation determined that an unknown third party obtained access to data stored in their environment. The breach affected certain individuals whose information was contained in the accessed data.",
+      "title": "2025-12-31 BDMPA LLC dba Austin Associates Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-12-31-bdmpa-llc-dba-austin-associates-data-breach-notice-consumers",
+      "added": "2026-01-06",
+      "infostealer": {
+        "update": "2026-01-06 13:37:09",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,
@@ -32125,6 +32331,18 @@
     },
     {
       "date": "2024-09-26",
+      "victim": "Barton Gilman LLP",
+      "domain": "bglaw.com",
+      "country": "US",
+      "summary": "Barton Gilman LLP suffered a data breach where personal information of a limited number of individuals was removed from their network due to unauthorized access between September 13, 2024, and September 26, 2024. The types of information involved include names and other personal data. The breach occurred between September 13, 2024, and September 26, 2024.",
+      "title": "2025-12-23 Barton Gilman Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-12-23-barton-gilman-data-breach-notice-consumers",
+      "added": "2025-12-30",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2024-09-26",
       "victim": "American Addiction Centers",
       "domain": "americanaddictioncenters.org",
       "country": "US",
@@ -35146,6 +35364,29 @@
         "thirdparties": 0
       },
       "ransomware": null
+    },
+    {
+      "date": "2024-08-09",
+      "victim": "Chesapeake Bay Maritime Museum, Inc.",
+      "domain": "cbmm.org",
+      "country": "US",
+      "summary": "An unauthorized actor gained access to certain CBMM IT systems between August 8, 2024, and August 9, 2024, and copied certain files stored on those systems. The affected files contained information related to individuals, including their names and other personal data. An attack was claimed by Helldown on August 13, 2024.",
+      "title": "2025-12-30 Chesapeake Bay Maritime Museum Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2025-12-30-chesapeake-bay-maritime-museum-data-breach-notice-consumers",
+      "added": "2026-01-06",
+      "infostealer": {
+        "update": "2024-08-13 07:32:12",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0
+      },
+      "ransomware": {
+        "group": "helldown",
+        "permalink": "https://www.ransomware.live/id/Y2JtbUBoZWxsZG93bg=="
+      }
     },
     {
       "date": "2024-08-09",

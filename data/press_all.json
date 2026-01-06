@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3059,
+  "count": 3063,
   "results": [
     {
       "date": "2026-01-04",
@@ -141,6 +141,27 @@
       }
     },
     {
+      "date": "2025-12-29",
+      "victim": "L'Épi du Rouergue",
+      "domain": "epidurouergue.fr",
+      "country": "FR",
+      "summary": "L'Épi du Rouergue a été victime d'une cyberattaque qui a paralysé ses moyens de communication externes, mais l'entreprise assure le maintien de son activité de production et la continuité du fonctionnement de ses magasins. La situation est exceptionnelle et une cellule de crise a été mise en place pour coordonner les efforts. L'entreprise basée à Lioujas est une importante boulangerie industrielle aveyronnaise.",
+      "title": "Cyberattaque à L’Épi du Rouergue : l’entreprise aveyronnaise perturbée mais ses magasins restent ouverts",
+      "url": "https://www.leprogresstaffricain.fr/actualite-14607-cyberattaque-a-l-epi-du-rouergue-l-entreprise-aveyronnaise-perturbee-mais-ses-magasins-restent-ouverts",
+      "added": "2026-01-06",
+      "infostealer": {
+        "update": "2026-01-06 11:03:09",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
       "date": "2025-12-27",
       "victim": "Prefeitura de Serra Talhada",
       "domain": "serratalhada.pe.gov.br",
@@ -188,6 +209,31 @@
           "Lumma": 8,
           "UNKNOWN": 2,
           "Azorult": 2
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-12-25",
+      "victim": "Leduc County",
+      "domain": "leduc-county.com",
+      "country": "CA",
+      "summary": "Le comté de Leduc a été la cible d’une cyberattaque délibérée de type rançongiciel, détectée le 25 décembre, qui a entraîné la désactivation de plusieurs systèmes informatiques. Certains services, dont les courriels, les portails de permis et les formulaires en ligne, sont indisponibles, tandis qu’une enquête médico-légale est en cours avec l’appui de la GRC et d’experts en cybersécurité. Selon les autorités, l’attaque a été rapidement contenue, l’impact sur les données serait minime et le comté travaille à rétablir ses opérations sans pouvoir encore préciser de calendrier.",
+      "title": "Leduc County target of Christmas Day cybersecurity attack",
+      "url": "https://www.ctvnews.ca/edmonton/article/leduc-county-target-of-christmas-day-cybersecurity-attack/",
+      "added": "2026-01-05",
+      "infostealer": {
+        "update": "2026-01-06 11:03:50",
+        "employees": 0,
+        "users": 4,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 2,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "Lumma": 6,
+          "Azorult": 2,
+          "StealC": 2
         }
       },
       "ransomware": null
@@ -6776,6 +6822,18 @@
         "group": "warlock",
         "permalink": "https://www.ransomware.live/id/Y29sdC5uZXRAd2FybG9jaw=="
       }
+    },
+    {
+      "date": "2025-08-11",
+      "victim": "BTU International",
+      "domain": "btu.com",
+      "country": "US",
+      "summary": "BTU International experienced a ransomware attack in August 2025, resulting in unauthorized access to its IT systems and potential exposure of personal information. The affected information may have included individuals' names, Social Security numbers, and financial account numbers. BTU is providing complimentary credit protection and monitoring services to potentially affected individuals.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/577bc65b-57fc-4b25-9f34-a636f45f3e33.html",
+      "added": "2025-12-27",
+      "infostealer": "",
+      "ransomware": null
     },
     {
       "date": "2025-08-11",
@@ -48541,6 +48599,27 @@
         "group": "lockbit3",
         "permalink": "https://www.ransomware.live/id/aXBzLXNlY3VyZXguY29tQGxvY2tiaXQz"
       }
+    },
+    {
+      "date": "2023-12-30",
+      "victim": "Sedgwick Government Solutions Inc.",
+      "domain": "sedgwickgovernment.com",
+      "country": "US",
+      "summary": "Sedgwick a confirmé qu'une cyberattaque a touché l'une de ses filiales, Sedgwick Government Solutions Inc., après que le groupe de ransomware TridentLocker a revendiqué le vol de données sensibles. L'attaque a eu lieu le 30 décembre et a touché un système de transfert de fichiers isolé. L'entreprise a isolé les systèmes, employé des experts en cybersécurité et informé les autorités et les parties prenantes.",
+      "title": "Sedgwick confirms cyberattack on subsidiary after TridentLocker claims data theft - SiliconANGLE",
+      "url": "https://siliconangle.com/2026/01/05/sedgwick-confirms-cyberattack-subsidiary-tridentlocker-claims-data-theft/",
+      "added": "2026-01-06",
+      "infostealer": {
+        "update": "2026-01-06 11:03:28",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
     },
     {
       "date": "2023-12-30",

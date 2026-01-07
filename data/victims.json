@@ -322229,5 +322229,51 @@
         "activity": "Not Found",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Hart",
+        "group_name": "thegentlemen",
+        "discovered": "2026-01-07 12:00:34.306333",
+        "description": "https://hartphp.com.pl https://www.zoominfo.com/c/hart-sp-zoo/469629635 HART was founded in 1990 specialize in the wholesale of parts and accessories for passenger cars, vans and motorcycles, also offering workshop equipment and electric scooters. In addition to goods from renowned suppliers, HART also offers of equally high quality, including in particular private label products: HART, HART Premium, M.Line, e-HART, Presspower and Sigert. HART Sp. z o.o.",
+        "website": "www.zoominfo.com",
+        "published": "2025-02-19 00:00:00.000000",
+        "post_url": "http://tezwsse5czllksjb7cwp65rvnk4oobmzti2znn42i43bjdfd2prqqkad.onion",
+        "country": "",
+        "activity": "Not Found",
+        "duplicates": [
+            {
+                "date": "2026-01-07 12:00:34.448708",
+                "group": "chaos",
+                "link": "https://www.ransomware.live/id/YW1zaW5vLmNvbUBjaGFvcw==",
+                "attackdate": "2025-02-19 00:00:00.000000"
+            }
+        ],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Systherm Grupa",
+        "group_name": "thegentlemen",
+        "discovered": "2026-01-07 12:01:52.915118",
+        "description": "https://www.systherm.pl https://www.emis.com/php/company-profile/PL/Systherm_Danuta_Gazinska_sp_j_en_3366600.html SYSTHERM Chłodnictwo i Klimatyzacja sp  SYSTHERM Technik sp  SYSTHERM Danuta Gazińska sp. Export and import of components for refrigeration and air conditioning, publishing activities, installation and service of refrigeration and air conditioning equipment.",
+        "website": "www.systherm.pl",
+        "published": "2026-01-07 11:50:26.000000",
+        "post_url": "http://tezwsse5czllksjb7cwp65rvnk4oobmzti2znn42i43bjdfd2prqqkad.onion",
+        "country": "PL",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Wamtechnik",
+        "group_name": "thegentlemen",
+        "discovered": "2026-01-07 12:03:02.525050",
+        "description": "www.wamtechnik.pl https://www.zoominfo.com/c/wamtechnik-ltd/398138337  Wamtechnik specializes in the production and distribution of batteries and accumulator packs, focusing on lithium-ion technology and other battery types for industrial applications. The company offers tailored battery solutions and professional consulting services for various sectors, including automotive, medical, and industrial electronics. With over 30 years of experience, Wamtechnik has established itself as a leading manufacturer in the battery systems industry, collaborating with global leaders like Panasonic and LG Chem. Their commitment to quality and safety ensures reliable power solutions for a wide range of devices.",
+        "website": "www.wamtechnik.pl",
+        "published": "2026-01-07 11:33:34.000000",
+        "post_url": "http://tezwsse5czllksjb7cwp65rvnk4oobmzti2znn42i43bjdfd2prqqkad.onion",
+        "country": "PL",
+        "activity": "Technology",
+        "duplicates": [],
+        "extrainfos": []
     }
 ]

@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3082,
+  "count": 3084,
   "results": [
     {
       "date": "2026-01-06",
@@ -4855,6 +4855,27 @@
           "Raccoon": 10,
           "StealC": 1
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-09-19",
+      "victim": "Johnson, Webbert, & Beard, LLP",
+      "domain": "johnsonwebbert.com",
+      "country": "US",
+      "summary": "Unauthorized access to Johnson, Webbert, & Beard, LLP's network occurred between September 15, 2025, and September 19, 2025, potentially exposing personal information. The incident was discovered on September 19, 2025, and an investigation was conducted. The organization is offering complimentary identity protection services to affected individuals.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/2849eb54-b409-450a-9c3c-64030c5278e6.html",
+      "added": "2026-01-08",
+      "infostealer": {
+        "update": "2026-01-08 14:59:09",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },
@@ -15678,6 +15699,30 @@
         }
       },
       "ransomware": null
+    },
+    {
+      "date": "2025-04-21",
+      "victim": "Brett Robinson Vacation Rental",
+      "domain": "brett-robinson.com",
+      "country": "US",
+      "summary": "On or about April 21, 2025, Brett Robinson experienced a data security incident. A cyberattack was claimed by Worldleaks on June 14.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/8ea28854-a8cb-4104-ba5c-5eaf3b414097.html",
+      "added": "2026-01-08",
+      "infostealer": {
+        "update": "2025-06-14 22:12:45",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "abyss",
+        "permalink": "https://www.ransomware.live/id/YnJldHQtcm9iaW5zb24uY29tQGFieXNz"
+      }
     },
     {
       "date": "2025-04-21",

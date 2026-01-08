@@ -4,8 +4,29 @@
     "month": null,
     "country": null
   },
-  "count": 3081,
+  "count": 3082,
   "results": [
+    {
+      "date": "2026-01-06",
+      "victim": "Metro Pet/Manheim Pike Veterinary Hospital",
+      "domain": "familyvet.net",
+      "country": "US",
+      "summary": "Un hôpital vétérinaire de Lancaster a été victime d'une cyberattaque, ce qui a affecté l'accès aux dossiers médicaux. Les cliniques ne traitent que les cas d'urgence et les rendez-vous déjà prévus. Les changements temporaires seront en vigueur jusqu'à la fin de la semaine.",
+      "title": "Lancaster vet clinic hit by cyberattack",
+      "url": "https://www.fox43.com/article/news/local/manheim-pike-veterinary-hospital-lancaster-county-cyberattack/521-2bcae288-2dce-4244-bd33-9ca18272a04c",
+      "added": "2026-01-08",
+      "infostealer": {
+        "update": "2026-01-08 07:32:52",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-01-04",
       "victim": "Higham Lane School",

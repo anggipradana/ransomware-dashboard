@@ -1,5 +1,5 @@
 {
-  "count": 200,
+  "count": 201,
   "groups": [
     {
       "group": ".git",
@@ -323,6 +323,10 @@
     },
     {
       "group": "grief",
+      "ransomnotes_count": 1
+    },
+    {
+      "group": "gunra",
       "ransomnotes_count": 1
     },
     {

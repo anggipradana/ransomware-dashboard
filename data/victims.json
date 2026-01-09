@@ -322837,5 +322837,35 @@
         "activity": "Business Services",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Mohammad Omar Bin Haider Holding Group",
+        "group_name": "direwolf",
+        "discovered": "2026-01-09 19:22:45.757902",
+        "description": "Business Services",
+        "website": "mobhholding.com",
+        "published": "2026-01-09 18:24:10.730691",
+        "post_url": "http://direwolfcdkv5whaz2spehizdg22jsuf5aeje4asmetpbt6ri4jnd4qd.onion/api/public/articles/63",
+        "country": "AE",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "125GB"
+        }
+    },
+    {
+        "post_title": "Bauerfeind",
+        "group_name": "direwolf",
+        "discovered": "2026-01-09 19:23:20.264953",
+        "description": "Manufacturing",
+        "website": "bauerfeind.ca",
+        "published": "2026-01-09 18:17:54.965276",
+        "post_url": "http://direwolfcdkv5whaz2spehizdg22jsuf5aeje4asmetpbt6ri4jnd4qd.onion/api/public/articles/62",
+        "country": "DE",
+        "activity": "Healthcare",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "43GB"
+        }
     }
 ]

@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3086,
+  "count": 3087,
   "results": [
     {
       "date": "2026-01-06",
@@ -10935,6 +10935,27 @@
       "added": "2025-06-20",
       "infostealer": {
         "update": "2025-06-20 07:45:50",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-06-15",
+      "victim": "City of Inman",
+      "domain": "cityofinman.org",
+      "country": "US",
+      "summary": "La ville d'Inman a confirmé avoir été victime d'une attaque informatique en juin, les autorités sont toujours en train d'enquêter sur l'incident. Les détails sur les pertes financières éventuelles ne sont pas divulgués en raison de l'enquête en cours. L'affaire est traitée par le bureau du shérif du comté de Spartanburg et le FBI.",
+      "title": "Inman city officials confirm cyber attack",
+      "url": "https://www.foxcarolina.com/2026/01/09/inman-city-officials-confirm-cyber-attack/",
+      "added": "2026-01-11",
+      "infostealer": {
+        "update": "2026-01-11 10:04:20",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,

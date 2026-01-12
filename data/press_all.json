@@ -4,8 +4,71 @@
     "month": null,
     "country": null
   },
-  "count": 3090,
+  "count": 3095,
   "results": [
+    {
+      "date": "2026-01-11",
+      "victim": "Kyowon Group",
+      "domain": "kyowon.co.kr",
+      "country": "KR",
+      "summary": "Le groupe Kyowon a fermé son réseau interne après avoir détecté une attaque de ransomware présumée, il enquête actuellement sur les conséquences de cette attaque. Plusieurs sites web exploités par les filiales de Kyowon Group sont actuellement indisponibles. L'entreprise a signalé la faille de sécurité suspectée à l'agence coréenne de sécurité internet et aux autorités compétentes.",
+      "title": "Kyowon Group shuts down internal network after suspected ransomware attack",
+      "url": "https://koreajoongangdaily.joins.com/news/2026-01-12/business/tech/Kyowon-Group-shuts-down-internal-network-after-suspected-ransomware-attack/2498111",
+      "added": "2026-01-12",
+      "infostealer": {
+        "update": "2026-01-12 07:53:13",
+        "employees": 0,
+        "users": 236,
+        "thirdparties_domain": 1,
+        "employees_url": 0,
+        "users_url": 85,
+        "thirdparties": 7,
+        "infostealer_stats": {
+          "RedLine": 184,
+          "Lumma": 76,
+          "Raccoon": 28,
+          "StealC": 22,
+          "Vidar": 18,
+          "UNKNOWN": 6,
+          "Azorult": 4,
+          "Mystic": 4,
+          "CRYPTBOT": 2,
+          "Ficker": 2
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-01-10",
+      "victim": "Taiwan Fire & Marine Insurance Co., Ltd.",
+      "domain": "tfmi.com.tw",
+      "country": "TW",
+      "summary": "Une entreprise a subi une attaque anormale sur son réseau, mais a réussi à bloquer l'attaque grâce à ses mécanismes de défense et d'investigation de cybersécurité, sans impact significatif sur ses finances ou opérations. L'entreprise continuera à surveiller la situation et à renforcer la gestion de son réseau et de ses infrastructures d'information. L'attaque n'a pas eu d'impact significatif sur l'entreprise.",
+      "title": "Today's Information",
+      "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=170527&spoke_date=20260110&co_id=2832",
+      "added": "2026-01-12",
+      "infostealer": {
+        "update": "2026-01-12 07:54:14",
+        "employees": 2,
+        "users": 2052,
+        "thirdparties_domain": 0,
+        "employees_url": 2,
+        "users_url": 57,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "Lumma": 412,
+          "RedLine": 392,
+          "StealC": 258,
+          "Raccoon": 98,
+          "Vidar": 60,
+          "UNKNOWN": 12,
+          "Azorult": 8,
+          "CRYPTBOT": 4,
+          "Mystic": 2
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-01-09",
       "victim": "Fundação Estadual do Meio Ambiente e Recursos Hídricos (Femarh)",
@@ -2890,6 +2953,28 @@
     },
     {
       "date": "2025-10-24",
+      "victim": "Clackamas Community College",
+      "domain": "clackamas.edu",
+      "country": "US",
+      "summary": "Clackamas Community College experienced a data breach where an unauthorized third party accessed a small number of systems and acquired files containing personal information. The breach occurred on October 24, 2025, and the college has taken steps to address the incident and prevent future occurrences. Affected individuals are being offered a one-year membership of credit monitoring and identity theft protection services.",
+      "title": "2026-01-08 Clackamas Community College Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2026-01-08-clackamas-community-college-data-breach-notice-consumers",
+      "added": "2026-01-10",
+      "infostealer": {
+        "update": "2024-02-25 09:08:45",
+        "employees": 8,
+        "users": 76,
+        "thirdparties": 19,
+        "employees_url": 9,
+        "users_url": 24
+      },
+      "ransomware": {
+        "group": "lockbit3",
+        "permalink": "https://www.ransomware.live/id/Y2xhY2thbWFzLmVkdUBsb2NrYml0Mw=="
+      }
+    },
+    {
+      "date": "2025-10-24",
       "victim": "Svenska kraftnät",
       "domain": "svk.se",
       "country": "SE",
@@ -3626,6 +3711,27 @@
         "group": "interlock",
         "permalink": "https://www.ransomware.live/id/S2Vhcm5leSBQdWJsaWMgU2Nob29sc0BpbnRlcmxvY2s="
       }
+    },
+    {
+      "date": "2025-10-10",
+      "victim": "Stoss Landscape Urbanism",
+      "domain": "stoss.net",
+      "country": "US",
+      "summary": "An unauthorized third party gained access to Stoss Landscape Urbanism's network on September 14, 2025, and took certain files, potentially exposing personal information. A cyberattack was claimed by Akira on November 19.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/f5eb5538-d3ae-47c1-8857-ffa3fb2f180e.html",
+      "added": "2026-01-10",
+      "infostealer": {
+        "update": "2026-01-12 07:53:32",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
     },
     {
       "date": "2025-10-10",
@@ -6559,6 +6665,27 @@
       "added": "2025-12-17",
       "infostealer": {
         "update": "2025-12-17 16:26:16",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-08-19",
+      "victim": "Cohen & Sprung Associates, LLC",
+      "domain": "cohenandassociates.com",
+      "country": "US",
+      "summary": "Cohen & Sprung Associates, LLC experienced a network disruption on August 19, 2025, which led to unauthorized access to certain files. The investigation found that the files contained sensitive information such as Social Security numbers, driver's license numbers, and financial account information. The organization has offered credit monitoring services to affected individuals.",
+      "title": "2026-01-06 Cohen & Sprung Associates Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2026-01-06-cohen-sprung-associates-data-breach-notice-consumers",
+      "added": "2026-01-10",
+      "infostealer": {
+        "update": "2026-01-12 07:53:50",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,

@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3089,
+  "count": 3090,
   "results": [
     {
       "date": "2026-01-09",
@@ -632,6 +632,27 @@
     },
     {
       "date": "2025-12-15",
+      "victim": "Copec",
+      "domain": "empresascopec.cl",
+      "country": "CL",
+      "summary": "Copec a réussi à contenir un attaque cibernétique de la part d'un groupe de hackers internationaux, sans que les données des clients soient compromises. L'entreprise a activé ses protocoles de sécurité et a renforcé ses mesures de protection pour éviter que la situation se répète. L'incident de ciberseguridad a été détecté il y a quelques semaines et a été contenu sans affecter l'opération de l'entreprise.",
+      "title": "Copec logró frenar ataque cibernético de grupo de hackers internacionales: empresa asegura que datos de clientes no se vieron comprometidos | The Clinic",
+      "url": "https://www.theclinic.cl/2026/01/09/copec-logro-frenar-ataque-cibernetico-de-grupo-de-hackers-internacionales-empresa-asegura-que-datos-de-clientes-no-se-vieron-comprometidos/",
+      "added": "2026-01-11",
+      "infostealer": {
+        "update": "2026-01-12 07:05:59",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-12-15",
       "victim": "Snyderville Basin Water Reclamation District",
       "domain": "sbwrd.org",
       "country": "US",
@@ -894,27 +915,6 @@
       "ransomware": null
     },
     {
-      "date": "2025-12-105",
-      "victim": "SmartCOP",
-      "domain": "smartcop.com",
-      "country": "US",
-      "summary": "La ville de Midway a subi une faille de sécurité impliquant le système SmartCOP de son département de police, ce qui soulève des inquiétudes quant à la sécurité des dossiers publics et des documents sensibles. Les responsables de la ville ont confirmé que le système SmartCOP a été piraté et que des rançongiciels sont impliqués, ce qui pourrait avoir un impact sur les documents et les dossiers publics. Les résidents ont signalé des difficultés pour accéder aux dossiers publics demandés, ce qui a incité les responsables de la ville à en informer certains membres de la communauté par courriel.",
-      "title": "City of Midway confirms ransomware breach involving police records system",
-      "url": "https://www.wtxl.com/news/local-news/city-of-midway-confirms-ransomware-breach-involving-police-records-system",
-      "added": "2026-01-11",
-      "infostealer": {
-        "update": "2026-01-11 12:06:07",
-        "employees": 0,
-        "users": 0,
-        "thirdparties_domain": 0,
-        "employees_url": 0,
-        "users_url": 0,
-        "thirdparties": 0,
-        "infostealer_stats": {}
-      },
-      "ransomware": null
-    },
-    {
       "date": "2025-12-10",
       "victim": "Laurentius-Apotheke",
       "domain": "laurentius-apotheke-moenchengladbach.de",
@@ -1053,6 +1053,27 @@
           "StealC": 1,
           "Generic Stealer": 1
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-12-05",
+      "victim": "SmartCOP",
+      "domain": "smartcop.com",
+      "country": "US",
+      "summary": "La ville de Midway a subi une faille de sécurité impliquant le système SmartCOP de son département de police, ce qui soulève des inquiétudes quant à la sécurité des dossiers publics et des documents sensibles. Les responsables de la ville ont confirmé que le système SmartCOP a été piraté et que des rançongiciels sont impliqués, ce qui pourrait avoir un impact sur les documents et les dossiers publics. Les résidents ont signalé des difficultés pour accéder aux dossiers publics demandés, ce qui a incité les responsables de la ville à en informer certains membres de la communauté par courriel.",
+      "title": "City of Midway confirms ransomware breach involving police records system",
+      "url": "https://www.wtxl.com/news/local-news/city-of-midway-confirms-ransomware-breach-involving-police-records-system",
+      "added": "2026-01-11",
+      "infostealer": {
+        "update": "2026-01-11 12:06:07",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },

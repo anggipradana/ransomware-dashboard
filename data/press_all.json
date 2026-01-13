@@ -4,8 +4,29 @@
     "month": null,
     "country": null
   },
-  "count": 3100,
+  "count": 3101,
   "results": [
+    {
+      "date": "2026-01-13",
+      "victim": "Mairie de la Hague",
+      "domain": "lahague.fr",
+      "country": "FR",
+      "summary": "La mairie de la Hague a été victime d'un incident informatique majeur le 13 janvier 2026. Les détails de l'incident ne sont pas précisés en raison d'un accès restreint à l'article. L'incident a été constaté par la commune le même jour.",
+      "title": "La Hague. La mairie est victime d'une intrusion dans son système informatique",
+      "url": "https://www.lamanchelibre.fr/actualite-1208396-la-hague-la-mairie-est-victime-d-une-intrusion-dans-son-systeme-informatique",
+      "added": "2026-01-13",
+      "infostealer": {
+        "update": "2026-01-13 20:30:18",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-01-13",
       "victim": "AZ Monica",

@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3095,
+  "count": 3096,
   "results": [
     {
       "date": "2026-01-11",
@@ -6008,6 +6008,42 @@
         "infostealer_stats": {}
       },
       "ransomware": null
+    },
+    {
+      "date": "2025-08-31",
+      "victim": "University of Hawaiʻi Cancer Center",
+      "domain": "hawaii.edu",
+      "country": "US",
+      "summary": "Des numéros de sécurité sociale et d'autres informations personnelles de participants à une étude du Centre du cancer de l'Université de Hawaï ont été exposés à des hackers informatiques en août, mais quatre mois plus tard, l'UH n'avait pas encore informé les personnes touchées que leurs données avaient été volées. L'UH a décidé de payer les hackers pour protéger les informations sensibles des participants. L'université travaille maintenant à compiler les noms et les adresses pour informer les participants à l'étude qui pourraient avoir été touchés.",
+      "title": "Hackers Accessed University of Hawaii Cancer Center Patient Data; They Weren’t Immediately Notified",
+      "url": "https://www.securityweek.com/hackers-accessed-university-of-hawaii-cancer-center-patient-data-they-werent-immediately-notified/",
+      "added": "2026-01-13",
+      "infostealer": {
+        "update": "2026-01-13 07:34:02",
+        "employees": 58,
+        "users": 1040,
+        "thirdparties_domain": 250,
+        "employees_url": 31,
+        "users_url": 100,
+        "thirdparties": 449,
+        "infostealer_stats": {
+          "RedLine": 689,
+          "Generic Stealer": 162,
+          "Lumma": 281,
+          "Azorult": 170,
+          "Raccoon": 148,
+          "Vidar": 58,
+          "StealC": 37,
+          "UNKNOWN": 28,
+          "Taurus": 8,
+          "Atomic": 5,
+          "DarkCrystal": 1
+        }
+      },
+      "ransomware": {
+        "group": "noescape",
+        "permalink": "https://www.ransomware.live/id/VW5pdmVyc2l0eSBvZiBIYXdhaWlAbm9lc2NhcGU="
+      }
     },
     {
       "date": "2025-08-31",

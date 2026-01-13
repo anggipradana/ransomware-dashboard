@@ -324151,5 +324151,50 @@
         "activity": "Manufacturing",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Chemsain Konsultant Sdn Bhd",
+        "group_name": "direwolf",
+        "discovered": "2026-01-13 16:43:39.049047",
+        "description": "Architecture, Engineering & Design",
+        "website": "chemsain.com",
+        "published": "2026-01-13 16:02:52.472381",
+        "post_url": "http://direwolfcdkv5whaz2spehizdg22jsuf5aeje4asmetpbt6ri4jnd4qd.onion/api/public/articles/66",
+        "country": "MY",
+        "activity": "Manufacturing",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "60GB"
+        }
+    },
+    {
+        "post_title": "Perdana Petroleum Berhad",
+        "group_name": "direwolf",
+        "discovered": "2026-01-13 16:44:13.821417",
+        "description": "Energy, Utilities & Waste",
+        "website": "perdana.my",
+        "published": "2026-01-13 16:01:18.476583",
+        "post_url": "http://direwolfcdkv5whaz2spehizdg22jsuf5aeje4asmetpbt6ri4jnd4qd.onion/api/public/articles/65",
+        "country": "MY",
+        "activity": "Energy",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "150GB"
+        }
+    },
+    {
+        "post_title": "Tepco-Group",
+        "group_name": "direwolf",
+        "discovered": "2026-01-13 16:45:15.121222",
+        "description": "Electronics",
+        "website": "tepco-group.com",
+        "published": "2026-01-13 15:58:51.918883",
+        "post_url": "http://direwolfcdkv5whaz2spehizdg22jsuf5aeje4asmetpbt6ri4jnd4qd.onion/api/public/articles/64",
+        "country": "JP",
+        "activity": "Energy",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "300GB"
+        }
     }
 ]

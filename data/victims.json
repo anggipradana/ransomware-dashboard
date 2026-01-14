@@ -324512,5 +324512,331 @@
         "activity": "Financial Services",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Rogers Capital",
+        "group_name": "thegentlemen",
+        "discovered": "2026-01-14 21:22:11.208416",
+        "description": "https://www.zoominfo.com/c/rogers-capital-ltd/444888383 https://rogerscapital.mu/ Mauritian company offering integrated financial and technology solutions, including corporate/trust services (fiduciary), IT/telecoms, and consumer finance (credit), helping businesses and individuals navigate global financial landscapes with services like fund administration, tech support, and payroll outsourcing. They operate in diverse sectors, leveraging technology and local expertise to serve both the Mauritius International Financial Centre (IFC) and broader global markets. Rogerscapital.mu blatantly disregarded the security of its company and its clients and did not even attempt to resolve the issue, despite the incompetence of its employees.",
+        "website": "www.zoominfo.com",
+        "published": "2025-02-19 00:00:00.000000",
+        "post_url": "http://tezwsse5czllksjb7cwp65rvnk4oobmzti2znn42i43bjdfd2prqqkad.onion",
+        "country": "MU",
+        "activity": "Financial Services",
+        "duplicates": [
+            {
+                "date": "2026-01-14 21:22:11.307519",
+                "group": "chaos",
+                "link": "https://www.ransomware.live/id/YW1zaW5vLmNvbUBjaGFvcw==",
+                "attackdate": "2025-02-19 00:00:00.000000"
+            }
+        ],
+        "extrainfos": []
+    },
+    {
+        "post_title": "M****l",
+        "group_name": "payoutsking",
+        "discovered": "2026-01-14 21:35:29.194734",
+        "description": "",
+        "website": "w****.es",
+        "published": "2026-01-14 00:00:00.000000",
+        "post_url": "",
+        "country": "ES",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "218GB",
+            "employees": "**",
+            "status": "Exfiltrated & Encrypted",
+            "views": "**"
+        }
+    },
+    {
+        "post_title": "C****g",
+        "group_name": "payoutsking",
+        "discovered": "2026-01-14 21:35:55.019776",
+        "description": "",
+        "website": "w****.uk",
+        "published": "2026-01-14 00:00:00.000000",
+        "post_url": "",
+        "country": "UK",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "2.3TB",
+            "employees": "**",
+            "status": "Exfiltrated",
+            "views": "**"
+        }
+    },
+    {
+        "post_title": "B****p",
+        "group_name": "payoutsking",
+        "discovered": "2026-01-14 21:35:57.520777",
+        "description": "",
+        "website": "w****.uk",
+        "published": "2026-01-14 00:00:00.000000",
+        "post_url": "",
+        "country": "UK",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "832GB",
+            "employees": "**",
+            "status": "Exfiltrated",
+            "views": "**"
+        }
+    },
+    {
+        "post_title": "V****S",
+        "group_name": "payoutsking",
+        "discovered": "2026-01-14 21:36:01.186007",
+        "description": "",
+        "website": "v****.com",
+        "published": "2026-01-14 00:00:00.000000",
+        "post_url": "",
+        "country": "DE",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "625GB",
+            "employees": "**",
+            "status": "Exfiltrated",
+            "views": "**"
+        }
+    },
+    {
+        "post_title": "L****p",
+        "group_name": "payoutsking",
+        "discovered": "2026-01-14 21:36:08.948923",
+        "description": "",
+        "website": "l****.com",
+        "published": "2026-01-14 00:00:00.000000",
+        "post_url": "",
+        "country": "US",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "411GB",
+            "employees": "**",
+            "status": "Exfiltrated & Encrypted",
+            "views": "**"
+        }
+    },
+    {
+        "post_title": "A****g",
+        "group_name": "payoutsking",
+        "discovered": "2026-01-14 21:36:32.543541",
+        "description": "",
+        "website": "w****.de",
+        "published": "2026-01-14 00:00:00.000000",
+        "post_url": "",
+        "country": "DE",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "520GB",
+            "employees": "**",
+            "status": "Exfiltrated",
+            "views": "**"
+        }
+    },
+    {
+        "post_title": "A****s",
+        "group_name": "payoutsking",
+        "discovered": "2026-01-14 21:36:57.783478",
+        "description": "",
+        "website": "w****.com",
+        "published": "2026-01-14 00:00:00.000000",
+        "post_url": "",
+        "country": "UK",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "2.1TB",
+            "employees": "**",
+            "status": "Exfiltrated",
+            "views": "**"
+        }
+    },
+    {
+        "post_title": "Bär Cargolift",
+        "group_name": "payoutsking",
+        "discovered": "2026-01-14 21:37:31.992872",
+        "description": "[AI generated] Bär Cargolift is a leading European manufacturer of hydraulic tail lifts, often utilized in trucks and commercial vehicles. Founded in 1981 in Heilbronn, Germany, it provides a wide range of products, from standard liftgates to retractable lifts, designed for different vehicle types and load capacities. Bär Cargolift is recognized for its innovation, quality, and safety in producing transport solutions. They also offer value-added services like training, repair, and maintenance.",
+        "website": "baer-cargolift.com",
+        "published": "2025-11-28 00:00:00.000000",
+        "post_url": "https://payoutsgn7cy6uliwevdqspncjpfxpmzgirwl2au65la7rfs5x3qnbqd.onion/qiQ30g-HoWC67-zsx4P9-KzDhqJ-IKXWNE",
+        "country": "DE",
+        "activity": "Manufacturing",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "1TB",
+            "employees": "500",
+            "status": "Exfiltrated & Encrypted",
+            "views": "19235"
+        }
+    },
+    {
+        "post_title": "Rameder",
+        "group_name": "payoutsking",
+        "discovered": "2026-01-14 21:37:58.136035",
+        "description": "[AI generated] Rameder is a German company that specializes in the sale of towbars and transport solutions. Founded in 1996, it offers a broad variety of towing equipment and accessories, removable and fixed towbars, electrical sets, bike carriers, roof boxes, and roof racks. Noted for its online business model, Rameder operates in several European countries.",
+        "website": "rameder.de",
+        "published": "2025-11-28 00:00:00.000000",
+        "post_url": "https://payoutsgn7cy6uliwevdqspncjpfxpmzgirwl2au65la7rfs5x3qnbqd.onion/MfIM89-V4gFuH-Pph4Ub-8k7HqA-lmqp8I",
+        "country": "DE",
+        "activity": "Manufacturing",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "1.4TB",
+            "employees": "0",
+            "status": "Exfiltrated & Encrypted",
+            "views": "18440"
+        }
+    },
+    {
+        "post_title": "Chemirol",
+        "group_name": "payoutsking",
+        "discovered": "2026-01-14 21:38:25.283934",
+        "description": "[AI generated] Chemirol is a Polish company acknowledged in the agricultural market for offering a wide variety of services including purchase of agricultural produce, supply of fertilizers, and fuel. It also engages in grain trading, milling, oil industry and provides financial consulting to farmers. The company has been operating since 1992 with the purpose of supporting the growth and advancement of Polish agriculture.",
+        "website": "chemirol.com",
+        "published": "2025-11-27 00:00:00.000000",
+        "post_url": "https://payoutsgn7cy6uliwevdqspncjpfxpmzgirwl2au65la7rfs5x3qnbqd.onion/Sc5KIA-FHBpwJ-FP8cVv-XbXV2z-3YsZB2",
+        "country": "PL",
+        "activity": "Agriculture and Food Production",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "704GB",
+            "employees": "500",
+            "status": "Exfiltrated",
+            "views": "18994"
+        }
+    },
+    {
+        "post_title": "Sanko Gosei Technology",
+        "group_name": "payoutsking",
+        "discovered": "2026-01-14 21:38:52.138230",
+        "description": "[AI generated] Sanko Gosei Technology is a Japanese company specializing in development, design, and manufacturing of plastic components. They serve various sectors, including automotive, electrical, & consumer products. Their expertise includes Injection moulding, design assistance, & tool production. Meanwhile, it has international operations, with facilities in Europe, Asia, & America.",
+        "website": "sanko-gosei.co.uk",
+        "published": "2025-11-27 00:00:00.000000",
+        "post_url": "https://payoutsgn7cy6uliwevdqspncjpfxpmzgirwl2au65la7rfs5x3qnbqd.onion/R3U8uy-3SYksu-iulsd1-ZBlBaB-Eieatb",
+        "country": "UK",
+        "activity": "Technology",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "3.3TB",
+            "employees": "500",
+            "status": "Exfiltrated",
+            "views": "19578"
+        }
+    },
+    {
+        "post_title": "Visionwheel",
+        "group_name": "payoutsking",
+        "discovered": "2026-01-14 21:39:18.885538",
+        "description": "[AI generated] Visionwheel is a prominent manufacturing company that produces high-quality, aesthetically-designed alloy wheels for various vehicles such as cars, light trucks, and SUVs. The company offers a wide range of styles, finishes, and sizes, catering to diverse customer requirements. Visionwheel ensures a rigorous testing process to maintain robust safety standards. It also continually innovates in design to stay abreast in the competitive auto industry.",
+        "website": "visionwheel.com",
+        "published": "2025-11-25 00:00:00.000000",
+        "post_url": "https://payoutsgn7cy6uliwevdqspncjpfxpmzgirwl2au65la7rfs5x3qnbqd.onion/cy7n5xY5EcI2gKKtbF5K",
+        "country": "US",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "855GB",
+            "employees": "200",
+            "status": "Exfiltrated & Encrypted",
+            "views": "14516"
+        }
+    },
+    {
+        "post_title": "Soapeople",
+        "group_name": "payoutsking",
+        "discovered": "2026-01-14 21:39:44.711534",
+        "description": "[AI generated] Soapeople is a consulting company that specializes in SAP and salesforce implementation to drive digital transformation. They are an accredited SAP and Salesforce partner. With a team of experts, they provide solutions to businesses in areas like ERP, CRM, Analytics, Cloud infrastructure, and more. Their solutions are focused on improving business performance and efficiency.",
+        "website": "soapeople.com",
+        "published": "2025-11-25 00:00:00.000000",
+        "post_url": "https://payoutsgn7cy6uliwevdqspncjpfxpmzgirwl2au65la7rfs5x3qnbqd.onion/EvpZyB0ncIr3rTJes9wZ",
+        "country": "BE",
+        "activity": "Technology",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "1.5TB",
+            "employees": "1000",
+            "status": "Exfiltrated",
+            "views": "20507"
+        }
+    },
+    {
+        "post_title": "JJ White",
+        "group_name": "payoutsking",
+        "discovered": "2026-01-14 21:40:10.966133",
+        "description": "[AI generated] JJ White is a multi-divisional construction company based in Philadelphia, Pennsylvania. It specializes in general, mechanical and industrial construction with additional services in HVAC maintenance and service, fire protection, and rigging projects. The company operates across the United States working with industries such as healthcare, pharmaceutical, petrochemical, and manufacturing.",
+        "website": "jjwhiteinc.com",
+        "published": "2025-11-20 00:00:00.000000",
+        "post_url": "https://payoutsgn7cy6uliwevdqspncjpfxpmzgirwl2au65la7rfs5x3qnbqd.onion/0ConkCfypzo6FWPPKZEc",
+        "country": "US",
+        "activity": "Construction",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "512GB",
+            "employees": "5000",
+            "status": "Exfiltrated & Encrypted",
+            "views": "19183"
+        }
+    },
+    {
+        "post_title": "Peugeot Motocycles",
+        "group_name": "payoutsking",
+        "discovered": "2026-01-14 21:40:36.487382",
+        "description": "[AI generated] Peugeot Motocycles is a French company that manufactures a wide range of scooters and small motorcycles. It is one of the oldest motorcycle manufacturers in the world, having started production in 1898. Over the years, the company has become renowned for its innovative designs and high-performance bikes. It's currently owned by Indian multinational conglomerate Mahindra & Mahindra.",
+        "website": "peugeot-motocycles.com",
+        "published": "2025-11-20 00:00:00.000000",
+        "post_url": "https://payoutsgn7cy6uliwevdqspncjpfxpmzgirwl2au65la7rfs5x3qnbqd.onion/r8owLrgM7KmuHs5yDdgc",
+        "country": "FR",
+        "activity": "Manufacturing",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "267GB",
+            "employees": "500",
+            "status": "Exfiltrated",
+            "views": "20653"
+        }
+    },
+    {
+        "post_title": "Vereinigte-stadtwerke",
+        "group_name": "payoutsking",
+        "discovered": "2026-01-14 21:40:43.907993",
+        "description": "[AI generated] Vereinigte Stadtwerke is a German utility company that supplies electricity, natural gas, and water to its customers. Apart from these, the company also offers telecommunication services including Internet and fixed network. It primarily serves residents and businesses in the Northern Germany region. The company was founded in 2012 as a merger of several municipal utilities to increase efficiency and service quality.",
+        "website": "vereinigte-stadtwerke.de",
+        "published": "2025-11-20 00:00:00.000000",
+        "post_url": "https://payoutsgn7cy6uliwevdqspncjpfxpmzgirwl2au65la7rfs5x3qnbqd.onion/uRSjLWfnpVJB6bq7SbwQ",
+        "country": "DE",
+        "activity": "Energy",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "800GB",
+            "employees": "1300",
+            "status": "Exfiltrated",
+            "views": "15512"
+        }
+    },
+    {
+        "post_title": "Klüber Elektroanlagenbau",
+        "group_name": "payoutsking",
+        "discovered": "2026-01-14 21:40:48.047801",
+        "description": "[AI generated] N/A",
+        "website": "klueber-elektro.de",
+        "published": "2025-11-17 00:00:00.000000",
+        "post_url": "https://payoutsgn7cy6uliwevdqspncjpfxpmzgirwl2au65la7rfs5x3qnbqd.onion/5qgLmp6Wa2HxPmaQi53v",
+        "country": "DE",
+        "activity": "Manufacturing",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "1.2TB",
+            "employees": "100",
+            "status": "Exfiltrated & Encrypted",
+            "views": "22355"
+        }
     }
 ]

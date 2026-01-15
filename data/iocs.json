@@ -321,8 +321,9 @@
     {
       "group": "Nightspire",
       "ioc_types": {
-        "telegram": 1,
-        "email": 3
+        "telegram": 2,
+        "email": 4,
+        "tox": 1
       }
     },
     {

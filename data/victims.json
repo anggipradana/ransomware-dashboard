@@ -325203,8 +325203,8 @@
         "website": "",
         "published": "2026-01-16 00:00:00.000000",
         "post_url": "",
-        "country": "FR",
-        "activity": "Not Found",
+        "country": "",
+        "activity": "Manufacturing",
         "duplicates": [],
         "extrainfos": []
     },
@@ -325231,6 +325231,19 @@
         "post_url": "",
         "country": "US",
         "activity": "Technology",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "La Macchia Group",
+        "group_name": "akira",
+        "discovered": "2026-01-16 14:12:50.550926",
+        "description": "La Macchia Group is a comprehensive consulting and design-build f\nirm based in Milwaukee, Wisconsin.\n\nWe will upload 12gb of corporate data soon. Employee passports, d\nriver licenses and other files, HR files, drawings and specificat\nions, projects, etc.\n",
+        "website": "",
+        "published": "2026-01-16 00:00:00.000000",
+        "post_url": "",
+        "country": "US",
+        "activity": "Not Found",
         "duplicates": [],
         "extrainfos": []
     }

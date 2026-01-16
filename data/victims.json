@@ -323145,12 +323145,18 @@
         "discovered": "2026-01-10 20:54:58.284644",
         "description": "United States",
         "website": "www.wizixtech.com",
-        "published": "2026-01-10 20:54:05.182193",
+        "published": "2025-12-28 00:00:00.000000",
         "post_url": "http://k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion/topic.php?id=jleAlFUa6CD9",
         "country": "US",
         "activity": "Technology",
         "duplicates": [],
-        "extrainfos": []
+        "extrainfos": [],
+        "modifications": [
+            {
+                "date": "2026-01-16 08:09:08.632395",
+                "description": "Update published"
+            }
+        ]
     },
     {
         "post_title": "Denny's 5th Avenue Bakery",
@@ -323158,12 +323164,18 @@
         "discovered": "2026-01-10 20:55:38.779819",
         "description": "United States",
         "website": "www.dennysbakery.com",
-        "published": "2026-01-10 20:54:59.849842",
+        "published": "2025-12-26 00:00:00.000000",
         "post_url": "http://k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion/topic.php?id=ONV7nNt6v0kpUN",
         "country": "US",
         "activity": "Consumer Services",
         "duplicates": [],
-        "extrainfos": []
+        "extrainfos": [],
+        "modifications": [
+            {
+                "date": "2026-01-16 08:09:08.645193",
+                "description": "Update published"
+            }
+        ]
     },
     {
         "post_title": "Launie & Marino",
@@ -323171,12 +323183,18 @@
         "discovered": "2026-01-10 20:56:16.741525",
         "description": "United States",
         "website": "www.launiemarino.com",
-        "published": "2026-01-10 20:55:40.159592",
+        "published": "2025-12-24 00:00:00.000000",
         "post_url": "http://k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion/topic.php?id=mWNBn9aMyuJqYY",
         "country": "",
         "activity": "Not Found",
         "duplicates": [],
-        "extrainfos": []
+        "extrainfos": [],
+        "modifications": [
+            {
+                "date": "2026-01-16 08:09:08.619228",
+                "description": "Update published"
+            }
+        ]
     },
     {
         "post_title": "REDtone",
@@ -325068,7 +325086,7 @@
         "website": "sjl-legal.com",
         "published": "2026-01-15 23:16:37.969954",
         "post_url": "http://msleakjir7pxbe6onlqe5uwgvdmy6nq4mnwfy7ojswbhnleenm77vgad.onion/SJL/index.html",
-        "country": "GB",
+        "country": "LU",
         "activity": "Not Found",
         "duplicates": [],
         "extrainfos": []
@@ -325096,6 +325114,45 @@
         "post_url": "http://z3wqggtxft7id3ibr7srivv5gjof5fwg76slewnzwwakjuf3nlhukdid.onion/blog/?post_uuid=99191269-ff2d-44f7-a1d3-7809ab6aa32a",
         "country": "GB",
         "activity": "Technology",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "JR Advertising Specialties",
+        "group_name": "dragonforce",
+        "discovered": "2026-01-16 08:24:31.148742",
+        "description": "JR Advertising Specialties Inc specializes in promotional products and business gifts, offering a vast selection to meet various needs. Their product range includes apparel, bags, drinkware, office supplies, and awards, catering to businesses looking to enhance their brand visibility. The company prides itself on providing high-quality merchandise with fast delivery times and budget-friendly prices. With a commitment to personalized recommendations, they aim to simplify the shopping experience for their clients.",
+        "website": "jradspec.com",
+        "published": "2026-01-16 07:22:24.677572",
+        "post_url": "http://z3wqggtxft7id3ibr7srivv5gjof5fwg76slewnzwwakjuf3nlhukdid.onion/blog/?post_uuid=91f163ea-0108-48b3-b6ad-b5053c4991d5",
+        "country": "US",
+        "activity": "Business Services",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Upper Township",
+        "group_name": "genesis",
+        "discovered": "2026-01-16 08:26:02.281734",
+        "description": "A New Jersey local municipal level organization",
+        "website": "uppertownship.com",
+        "published": "2026-01-15 00:00:00.000000",
+        "post_url": "http://genesis6ixpb5mcy4kudybtw5op2wqlrkocfogbnenz3c647ibqixiad.onion/31a696c2ccd7ef9a1b02/",
+        "country": "US",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Dedman Gray Property Consultants",
+        "group_name": "genesis",
+        "discovered": "2026-01-16 08:26:45.197115",
+        "description": "A full service real estate company from UK",
+        "website": "dedmangray.co.uk",
+        "published": "2026-01-15 00:00:00.000000",
+        "post_url": "http://genesis6ixpb5mcy4kudybtw5op2wqlrkocfogbnenz3c647ibqixiad.onion/d19fd82c34beb881a17a/",
+        "country": "GB",
+        "activity": "Business Services",
         "duplicates": [],
         "extrainfos": []
     }

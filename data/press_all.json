@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3103,
+  "count": 3104,
   "results": [
     {
       "date": "2026-01-13",
@@ -189,6 +189,27 @@
           "Raccoon": 4,
           "RedLine": 2
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-01-07",
+      "victim": "Kreisklinik Roth",
+      "domain": "kreisklinik-roth.de",
+      "country": "DE",
+      "summary": "La Kreisklinik Roth a subi une attaque cyber, mais les systèmes informatiques n'ont pas été endommagés. Les investigations sont toujours en cours, mais les premiers résultats sont rassurants. La clinique devrait rétablir son réseau dans les prochains jours.",
+      "title": "Cyberangriff abgewehrt: Kreisklinik Roth untersucht weiter ihre IT-Systeme nach Attacke",
+      "url": "https://www.nn.de/region/roth/cyberangriff-abgewehrt-kreisklinik-roth-untersucht-weiter-ihre-it-systeme-nach-attacke-1.14970026",
+      "added": "2026-01-16",
+      "infostealer": {
+        "update": "2026-01-16 11:03:34",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },

@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3102,
+  "count": 3103,
   "results": [
     {
       "date": "2026-01-13",
@@ -1386,6 +1386,27 @@
           "Acreed": 1,
           "Ficker": 1
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-12-01",
+      "victim": "J Grennan & Sons",
+      "domain": "grennans.ie",
+      "country": "IE",
+      "summary": "La société J Grennan & Sons a été victime d'une attaque cybernétique en décembre dernier, mais a réussi à contenir l'incident avec l'aide d'experts en sécurité. L'entreprise a mis en place des mesures pour prévenir de nouvelles attaques et n'a trouvé aucune preuve que des données ont été compromises. Une attaque a été revendiquée par Akira le 24 décembre.",
+      "title": "J Grennan & Sons confirms it was 'victim of cyber attack'",
+      "url": "https://www.agriland.ie/farming-news/j-grennan-sons-advises-customers-it-was-the-victim-of-a-cyber-attack/",
+      "added": "2026-01-16",
+      "infostealer": {
+        "update": "2026-01-16 06:41:38",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },

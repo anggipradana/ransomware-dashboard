@@ -325370,5 +325370,37 @@
         "activity": "Manufacturing",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "em***int*-ho***.com",
+        "group_name": "benzona",
+        "discovered": "2026-01-17 09:24:34.732345",
+        "description": "",
+        "website": "em***int*-ho***.com",
+        "published": "2026-01-17 09:24:33.726863",
+        "post_url": "",
+        "country": "",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "80 GB",
+            "ransom": "$*.000"
+        }
+    },
+    {
+        "post_title": "ccbrt.org",
+        "group_name": "benzona",
+        "discovered": "2026-01-17 09:25:01.716705",
+        "description": "[AI generated] Comprehensive Community Based Rehabilitation in Tanzania (CCBRT) is a healthcare organization that operates primarily in Tanzania. The organization aims to provide affordable, high-quality healthcare services to the local community, particularly those with disabilities. It focuses on areas like disability hospital services, rehabilitation, eye health, maternal and newborn healthcare. CCBRT is also known for its training and capacity building activities.",
+        "website": "ccbrt.org",
+        "published": "2026-01-17 09:24:57.066313",
+        "post_url": "",
+        "country": "TZ",
+        "activity": "Healthcare",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "1.8TB",
+            "ransom": "$500.000"
+        }
     }
 ]

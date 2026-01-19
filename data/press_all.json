@@ -4,8 +4,29 @@
     "month": null,
     "country": null
   },
-  "count": 3120,
+  "count": 3122,
   "results": [
+    {
+      "date": "2026-01-18",
+      "victim": "Y.C.C. PARTS MFG. CO., LTD.",
+      "domain": "yccco.com.tw",
+      "country": "TW",
+      "summary": "YCC Parts a subi une attaque de hackers qui ont infiltré une partie de ses serveurs et crypté des données, entraînant une interruption temporaire du système. L'entreprise a activé ses mécanismes de défense et de récupération de la cybersécurité et a engagé des entreprises et des experts externes pour aider à l'enquête et à la remédiation. L'incident n'a pas eu d'impact significatif sur les opérations, la sécurité de l'information ou les données personnelles de l'entreprise.",
+      "title": "Today's Information",
+      "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=181351&spoke_date=20260118&co_id=1339",
+      "added": "2026-01-19",
+      "infostealer": {
+        "update": "2026-01-19 13:35:22",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-01-13",
       "victim": "Mairie de la Hague",
@@ -1065,6 +1086,32 @@
           "RedLine": 2,
           "UNKNOWN": 2,
           "Lumma": 2
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-12-11",
+      "victim": "Adriatic Port Authority",
+      "domain": "ancona.it",
+      "country": "IT",
+      "summary": "L'Autorità di Sistema portuale del mare Adriatico centrale a été victime d'une attaque informatique le 11 décembre 2025, mais seulement 2% des informations ont été compromises. L'ente a pris des mesures pour protéger les données et a notifié les autorités compétentes. Les activités de l'AdSp ont continué normalement malgré l'attaque. Elle a été revendiquée le 14 janvier 2026 par Anubis.",
+      "title": "Cyber attacco all'AdSp di Ancona - Messaggero Marittimo",
+      "url": "https://www.messaggeromarittimo.it/cyber-attacco-alladsp-di-ancona/",
+      "added": "2026-01-19",
+      "infostealer": {
+        "update": "2026-01-19 13:35:05",
+        "employees": 0,
+        "users": 23,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 18,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "RedLine": 22,
+          "Raccoon": 8,
+          "Azorult": 8,
+          "Vidar": 4
         }
       },
       "ransomware": null

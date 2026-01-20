@@ -326145,5 +326145,38 @@
         "activity": "Not Found",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Kontena Nasional Berhad",
+        "group_name": "qilin",
+        "discovered": "2026-01-20 13:53:21.636981",
+        "description": "N/A",
+        "website": "www.kn.com.my",
+        "published": "2026-01-20 00:27:15.000000",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=6a431ff5-ee0c-3f5e-adad-65ff8b96e3d5",
+        "country": "MY",
+        "activity": "Transportation/Logistics",
+        "duplicates": [
+            {
+                "date": "2026-01-20 13:53:21.731138",
+                "group": "thegentlemen",
+                "link": "https://www.ransomware.live/id/S29udGVuYSBOYXNpb25hbCBCZXJoYWRAdGhlZ2VudGxlbWVu",
+                "attackdate": "2026-01-20 00:27:15.000000"
+            }
+        ],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Might Electronic Co. LTD",
+        "group_name": "worldleaks",
+        "discovered": "2026-01-20 14:02:55.891892",
+        "description": "[AI generated] N/A",
+        "website": "www.might.com.tw/en",
+        "published": "2026-01-20 11:59:00.000000",
+        "post_url": "https://worldleaksartrjm3c6vasllvgacbi5u3mgzkluehrzhk2jz4taufuid.onion/companies/6990759279",
+        "country": "TW",
+        "activity": "Technology",
+        "duplicates": [],
+        "extrainfos": []
     }
 ]

@@ -4,8 +4,50 @@
     "month": null,
     "country": null
   },
-  "count": 3124,
+  "count": 3127,
   "results": [
+    {
+      "date": "2026-01-20",
+      "victim": "Landtag",
+      "domain": "landtag.sachsen-anhalt.de",
+      "country": "DE",
+      "summary": "Une sirène a diffusé des avertissements sans autorisation à Querfurt, ce qui a déclenché une enquête du LKA et des demandes de renforcement de la cybersécurité au Landtag. Il s'agit du deuxième incident de ce type après un événement similaire à Halle. Les autorités estiment que les deux cas sont distincts.",
+      "title": "Falscher Sirenenalarm in Querfurt: LKA untersucht möglichen Cyberangriff",
+      "url": "https://www.mz.de/lokal/merseburg/sirene-alarm-lka-cyberangriff-4184205",
+      "added": "2026-01-20",
+      "infostealer": {
+        "update": "2026-01-20 14:07:31",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-01-19",
+      "victim": "EVERVISION ELECTRONICS CO., LTD.",
+      "domain": "evervisionlcd.com",
+      "country": "TW",
+      "summary": "EVERVISION ELECTRONICS CO., LTD. a été victime d'une attaque de hackers, mais les mécanismes de défense ont été activés et une analyse approfondie est en cours pour assurer la sécurité des systèmes d'information. L'impact sur les opérations de l'entreprise devrait être minime. Des mesures de sécurité seront mises en place pour prévenir de telles attaques à l'avenir.",
+      "title": "Today's Information",
+      "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=182007&spoke_date=20260119&co_id=2393",
+      "added": "2026-01-20",
+      "infostealer": {
+        "update": "2026-01-20 14:06:52",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-01-18",
       "victim": "Inverclyde Council",
@@ -44,6 +86,27 @@
         "employees_url": 0,
         "users_url": 0,
         "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-01-15",
+      "victim": "Beniel",
+      "domain": "beniel.es",
+      "country": "ES",
+      "summary": "La mairie de Beniel, dans la région de Murcie, a subi une faille de sécurité informatique, ce qui a conduit à la fermeture de ses systèmes internes comme mesure de précaution. Les autorités enquêtent sur l'incident, qui pourrait être lié à des hackers russes. Les résidents sont invités à faire preuve de prudence face aux emails, appels ou demandes de renseignements suspects.",
+      "title": "Russian hackers among possible suspects in Beniel Town Hall cyberattack",
+      "url": "https://murciatoday.com/russian-hackers-among-possible-suspects-in-beniel-town-hall-cyberattack_1000257123-a.html",
+      "added": "2026-01-20",
+      "infostealer": {
+        "update": "2026-01-20 14:07:14",
+        "employees": 0,
+        "users": 1,
+        "thirdparties_domain": 2,
+        "employees_url": 0,
+        "users_url": 1,
+        "thirdparties": 1,
         "infostealer_stats": {}
       },
       "ransomware": null

@@ -326308,5 +326308,38 @@
         "activity": "Manufacturing",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Eurotex",
+        "group_name": "thegentlemen",
+        "discovered": "2026-01-20 17:33:16.504129",
+        "description": "www.eurotex.com.tr https://www.zoominfo.com/c/eurotex/455248056 https://atateks.com.tr/ https://www.zoominfo.com/c/atateks/501373299 Atateks is a textile manufacturer established in 1995 in Denizli, Turkey, with a focus on sustainable production practices. Drawing inspiration from the sea, the company has continuously adapted and evolved its methods over the years to maintain a leading position in the sector. With over 30 years of experience, Atateks has become one of the innovative producers of woven fabrics. The company is committed to renewal and development, aiming for a sustainable future in the textile industry. Eurotex is a leading vertically integrated company in Turkey, focusing on developing advanced and sustainable products for the global textile industry. They are the biggest producer of Polyamide Yarns and Seamless Garments in Turkey, with a strong commitment to environmental, social, and economic awareness. Eurotex offers a wide range of filament yarns",
+        "website": "www.eurotex.com.tr",
+        "published": "2026-01-20 17:31:47.000000",
+        "post_url": "http://tezwsse5czllksjb7cwp65rvnk4oobmzti2znn42i43bjdfd2prqqkad.onion",
+        "country": "",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "British School of Brasilia",
+        "group_name": "thegentlemen",
+        "discovered": "2026-01-20 17:33:34.294125",
+        "description": "https://www.zoominfo.com/pic/british-school-of-brasilia/452874642 www.britishschoolbrasilia.org The British School of Brasilia (BSB) offers a contemporary British international education from Early Years Foundation Stage onward. As part of the British Schools Foundation, BSB aims to provide high-quality learning experiences and promotes student engagement through various clubs and events. The school caters to a diverse community, welcoming both local and expatriate families seeking a robust educational framework. Furthermore, BSB emphasizes cultural celebrations and community engagement, creating an inclusive environment for all students.",
+        "website": "www.zoominfo.com",
+        "published": "2025-02-19 00:00:00.000000",
+        "post_url": "http://tezwsse5czllksjb7cwp65rvnk4oobmzti2znn42i43bjdfd2prqqkad.onion",
+        "country": "BR",
+        "activity": "Education",
+        "duplicates": [
+            {
+                "date": "2026-01-20 17:33:34.367689",
+                "group": "chaos",
+                "link": "https://www.ransomware.live/id/YW1zaW5vLmNvbUBjaGFvcw==",
+                "attackdate": "2025-02-19 00:00:00.000000"
+            }
+        ],
+        "extrainfos": []
     }
 ]

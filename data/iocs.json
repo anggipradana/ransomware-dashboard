@@ -1,6 +1,6 @@
 {
   "filter_type": null,
-  "count": 71,
+  "count": 72,
   "groups": [
     {
       "group": "Ailock",
@@ -155,6 +155,13 @@
       "ioc_types": {
         "telegram": 2,
         "tox": 1
+      }
+    },
+    {
+      "group": "Cry0",
+      "ioc_types": {
+        "tox": 1,
+        "ip": 1
       }
     },
     {

@@ -326026,5 +326026,33 @@
         "activity": "Agriculture and Food Production",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "TriApex US Laboratories",
+        "group_name": "nightspire",
+        "discovered": "2026-01-20 01:23:11.670759",
+        "description": "TriApex US Laboratories",
+        "website": "tri-apex.com/info/news/headlines/596.html",
+        "published": "2026-01-20 01:23:09.248034",
+        "post_url": "",
+        "country": "US",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "80 GB"
+        }
+    },
+    {
+        "post_title": "Altius Geotecnia y Obras Especiales",
+        "group_name": "qilin",
+        "discovered": "2026-01-20 01:26:33.338774",
+        "description": "N/A",
+        "website": "www.altiusvertical.com",
+        "published": "2026-01-20 01:26:12.247130",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=655fa133-5c0f-3964-af4e-2ad2398329f0",
+        "country": "ES",
+        "activity": "Construction",
+        "duplicates": [],
+        "extrainfos": []
     }
 ]

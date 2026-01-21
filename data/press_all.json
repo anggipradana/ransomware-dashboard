@@ -4,8 +4,29 @@
     "month": null,
     "country": null
   },
-  "count": 3129,
+  "count": 3130,
   "results": [
+    {
+      "date": "2026-01-20",
+      "victim": "Leinerstift",
+      "domain": "leinerstift.de",
+      "country": "DE",
+      "summary": "Le Leinerstift à Großefehn a été victime d'une attaque cybernétique, ce qui a limité l'accès à ses systèmes informatiques, mais la prise en charge des personnes a été assurée. L'attaque a eu lieu récemment et les détails de l'incident sont encore en cours d'investigation. Les responsables du Leinerstift travaillent pour rétablir la pleine fonctionnalité de leurs systèmes.",
+      "title": "Nicht erreichbar: Leinerstift in Großefehn Ziel von Cyber-Kriminellen",
+      "url": "https://www.ga-online.de/artikel/1626122/Leinerstift-in-Grossefehn-Ziel-von-Cyber-Kriminellen",
+      "added": "2026-01-21",
+      "infostealer": {
+        "update": "2026-01-21 16:09:50",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-01-20",
       "victim": "Landtag",

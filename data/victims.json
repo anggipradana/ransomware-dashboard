@@ -326767,5 +326767,99 @@
         "activity": "Not Found",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "frandent.it",
+        "group_name": "lockbit5",
+        "discovered": "2026-01-21 13:47:38.938610",
+        "description": "L&#039; Azienda Frandent Ezio Bruno fondatore dell&#039;azienda Frandent ha iniziato il suo percor...",
+        "website": "frandent.it",
+        "published": "2026-01-21 11:50:00.000000",
+        "post_url": "http://lockbitapt67g6rwzjbcxnww5efpg4qok6vpfeth7wx3okj52ks4wtad.onion/post/e49b920efb8c62b78a9b7713bf7bfaa0",
+        "country": "IT",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "gob.mx",
+        "group_name": "lockbit5",
+        "discovered": "2026-01-21 13:48:01.655038",
+        "description": "Founded in 2001 and headquartered in Mexico City, Mexico, Sociedad Hipotecaria Federal is a governme...",
+        "website": "gob.mx",
+        "published": "2024-11-15 06:07:48.000000",
+        "post_url": "http://lockbitapt67g6rwzjbcxnww5efpg4qok6vpfeth7wx3okj52ks4wtad.onion/post/83bf3e0160ed719b28b0937383bf541f",
+        "country": "MX",
+        "activity": "Public Sector",
+        "duplicates": [
+            {
+                "date": "2026-01-21 13:48:01.696700",
+                "group": "ransomhub",
+                "link": "https://www.ransomware.live/id/d3d3LmdvYi5teEByYW5zb21odWI=",
+                "attackdate": "2024-11-15 06:07:48.000000"
+            }
+        ],
+        "extrainfos": []
+    },
+    {
+        "post_title": "us-duct.com",
+        "group_name": "lockbit5",
+        "discovered": "2026-01-21 13:48:46.467395",
+        "description": "US Duct Inc. is an American private company engaged in the design and manufacture of industrial duct...",
+        "website": "us-duct.com",
+        "published": "2026-01-21 11:42:00.000000",
+        "post_url": "http://lockbitapt67g6rwzjbcxnww5efpg4qok6vpfeth7wx3okj52ks4wtad.onion/post/1ee0aa4f746ccf0906616cc6ba5a373e",
+        "country": "US",
+        "activity": "Manufacturing",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "aditusbr.com",
+        "group_name": "lockbit5",
+        "discovered": "2026-01-21 13:49:32.381973",
+        "description": "Since 2011, ADITUS has been working alongside investors as an independent consulting firm specialize...",
+        "website": "aditusbr.com",
+        "published": "2026-01-21 11:41:00.000000",
+        "post_url": "http://lockbitapt67g6rwzjbcxnww5efpg4qok6vpfeth7wx3okj52ks4wtad.onion/post/43c4c15e5f7ea8831354a4d760353e60",
+        "country": "BR",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Jet-care International",
+        "group_name": "rhysida",
+        "discovered": "2026-01-21 13:54:31.444937",
+        "description": "Jet-care International",
+        "website": "",
+        "published": "2026-01-21 13:54:29.861595",
+        "post_url": "",
+        "country": "CH",
+        "activity": "Transportation/Logistics",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Orthopaedic Specialists of Massachusetts",
+        "group_name": "beast",
+        "discovered": "2026-01-21 14:18:37.211710",
+        "description": "Orthopaedic Specialists of Massachusetts provides superior orthopaedic and sports medicine care through a team of expert surgeons and physicians. Their services include surgical and non-surgical treatments for a variety of orthopaedic issues, such as arthroscopic surgery, joint replacements, and sports medicine. With locations in Norwood, Milton, and Sandwich, MA, they cater to patients of all ages and offer expedited appointments. The practice is dedicated to delivering compassionate care and improving patients' health and quality of life.",
+        "website": "www.orthomass.com",
+        "published": "2026-01-17 17:58:29.482063",
+        "post_url": "http://beast6azu4f7fxjakiayhnssybibsgjnmy77a6duufqw5afjzfjhzuqd.onion/card/orthopaedic_specialists_of_massachusetts",
+        "country": "US",
+        "activity": "Healthcare",
+        "duplicates": [
+            {
+                "date": "2026-01-21 14:18:37.286857",
+                "group": "qilin",
+                "link": "https://www.ransomware.live/id/T3J0aG9wYWVkaWMgU3BlY2lhbGlzdHMgb2YgTWFzc2FjaHVzZXR0c0BxaWxpbg==",
+                "attackdate": "2026-01-17 17:58:29.482063"
+            }
+        ],
+        "extrainfos": {
+            "data_size": "300GB"
+        }
     }
 ]

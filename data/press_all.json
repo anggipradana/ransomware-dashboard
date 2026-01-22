@@ -4,8 +4,32 @@
     "month": null,
     "country": null
   },
-  "count": 3130,
+  "count": 3134,
   "results": [
+    {
+      "date": "2026-01-20",
+      "victim": "Institut der Wirtschaftsprüfer (IDW) ",
+      "domain": "idw.de",
+      "country": "DE",
+      "summary": "L'Institut des experts-comptables (IDW) a été victime d'une grave cyberattaque. Des données commerciales et personnelles pourraient être tombées entre les mains de criminels.",
+      "title": "Cyberangriff auf das IDW - FINANCE",
+      "url": "https://www.finance-magazin.de/banking-berater/wirtschaftspruefer/cyberangriff-auf-idw-daten-von-wirtschaftspruefern-und-partnern-abgeflossen-234940/",
+      "added": "2026-01-22",
+      "infostealer": {
+        "update": "2026-01-22 12:54:36",
+        "employees": 0,
+        "users": 7,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 7,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "RedLine": 2,
+          "Raccoon": 2
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-01-20",
       "victim": "Leinerstift",
@@ -1366,6 +1390,27 @@
           "UNKNOWN": 3,
           "Mystic": 1
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-12-08",
+      "victim": "Chatham Asset Management, LLC",
+      "domain": "chathamasset.com",
+      "country": "US",
+      "summary": "Chatham Asset Management, LLC detected a compromise to its network environment, potentially impacting personal information. The breach occurred on December 8, 2025, and the organization has taken measures to secure and remediate the issue. A cyberattack was claimed by Worldleaks on December 23.",
+      "title": "2026-01-20 Chatham Asset Management Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2026-01-20-chatham-asset-management-data-breach-notice-consumers",
+      "added": "2026-01-22",
+      "infostealer": {
+        "update": "2025-12-23 13:23:16",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },
@@ -12492,6 +12537,30 @@
     },
     {
       "date": "2025-06-06",
+      "victim": "National Boat Owners Association",
+      "domain": "nboat.com",
+      "country": "US",
+      "summary": "NBOA's network was breached by the INC Ransomware organization between mid-May and early June 2025, potentially exposing personally identifiable information. The breach was discovered on June 6, 2025. A cyberattack was claimed by INC Ransom on July 22.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/bf3eddfd-ec1a-473f-b09f-726ccbf9668c.html",
+      "added": "2026-01-22",
+      "infostealer": {
+        "update": "2025-07-22 02:46:42",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "incransom",
+        "permalink": "https://www.ransomware.live/id/bmJvYXQuY29tQGluY3JhbnNvbQ=="
+      }
+    },
+    {
+      "date": "2025-06-06",
       "victim": "Oglethorpe, Inc.",
       "domain": "oglethorpe.com",
       "country": "US",
@@ -13165,6 +13234,33 @@
         "users_url": 0,
         "thirdparties": 0,
         "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-05-30",
+      "victim": "Civil Service Employees Association Inc.",
+      "domain": "cseany.org",
+      "country": "US",
+      "summary": "Civil Service Employees Association Inc. experienced a cybersecurity incident involving unauthorized access to their systems between May 3, 2025, and May 31, 2025, resulting in the theft of files containing personal information, including names and Social Security numbers.",
+      "title": "2026-01-20 Civil Service Employees Association, Inc., Local 1000, AFSCME, AFL-CIO Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2026-01-20-civil-service-employees-association-inc-local-1000-afscme-afl-cio-data-breach-notice",
+      "added": "2026-01-22",
+      "infostealer": {
+        "update": "2026-01-22 12:54:16",
+        "employees": 0,
+        "users": 30,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 11,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "RedLine": 14,
+          "Lumma": 6,
+          "Vidar": 4,
+          "Azorult": 4,
+          "StealC": 2
+        }
       },
       "ransomware": null
     },

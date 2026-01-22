@@ -327032,5 +327032,50 @@
         "extrainfos": {
             "data_size": "30 GB"
         }
+    },
+    {
+        "post_title": "*a*ame*i*a.com.g*",
+        "group_name": "benzona",
+        "discovered": "2026-01-22 12:00:28.537370",
+        "description": "",
+        "website": "*a*ame*i*a.com.g*",
+        "published": "2026-01-22 12:00:27.010663",
+        "post_url": "",
+        "country": "",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "300 GB",
+            "ransom": "$*0.000"
+        }
+    },
+    {
+        "post_title": "empreinte-hotel.com",
+        "group_name": "benzona",
+        "discovered": "2026-01-22 12:00:58.873452",
+        "description": "[AI generated] The Empreinte Hotel is a luxury establishment located in Orleans, France. This 4-star hotel is situated alongside the Loire River, providing guests with charming views. The hotel comprises of rooms and suites with elegant décor and amenities. Besides comfortable accommodation, the property also features a lounge bar and a wellness area, ensuring a truly restful and enjoyable stay for its guests.",
+        "website": "empreinte-hotel.com",
+        "published": "2026-01-22 12:00:51.281996",
+        "post_url": "",
+        "country": "FR",
+        "activity": "Hospitality and Tourism",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "80 GB",
+            "ransom": "$50.000"
+        }
+    },
+    {
+        "post_title": "Elmore Goldsmith Kelley & deHoll",
+        "group_name": "incransom",
+        "discovered": "2026-01-22 12:07:55.732572",
+        "description": "Elmore Goldsmith Kelley & deHoll is a legal firm specializing in construction law, offering services such as project counsel, construction claims, contract negotiations, risk management, complex litigation, fidelity and surety, and public procurement. They serve clients in the construction industry, providing expert legal support to help them navigate complex issues and protect their interests. The firm prides itself on its industry knowledge and commitment to delivering efficient and effective results. With an award-winning team, they aim to be a trusted legal partner for construction professionals.",
+        "website": "",
+        "published": "2026-01-22 12:00:00.000000",
+        "post_url": "http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/696f63048f1d14b7432dbc14",
+        "country": "US",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": []
     }
 ]

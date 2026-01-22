@@ -327017,5 +327017,20 @@
         "activity": "Not Found",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Service Lane eAdvisor",
+        "group_name": "nightspire",
+        "discovered": "2026-01-22 10:24:35.478619",
+        "description": "Service Lane eAdvisor",
+        "website": "sleadvisor.com",
+        "published": "2026-01-22 10:24:32.755272",
+        "post_url": "",
+        "country": "US",
+        "activity": "Technology",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "30 GB"
+        }
     }
 ]

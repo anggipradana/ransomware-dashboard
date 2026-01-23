@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3137,
+  "count": 3138,
   "results": [
     {
       "date": "2026-01-22",
@@ -193,6 +193,27 @@
       "added": "2026-01-19",
       "infostealer": {
         "update": "2026-01-19 13:35:22",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-01-15",
+      "victim": "Heinsberger Stadtverwaltung",
+      "domain": "heinsberg.de",
+      "country": "DE",
+      "summary": "La ville de Heinsberg a été victime d'une attaque informatique, ce qui a rendu les services de la ville indisponibles. Les numéros de téléphone et les adresses e-mail de l'administration sont actuellement inaccessibles. L'enquête a été ouverte par la Zentral- und Ansprechstelle Cybercrime.",
+      "title": "Hackerangriff legt Heinsberger Stadtverwaltung lahm",
+      "url": "https://www.aachener-zeitung.de/region-nrw/hackerangriff-legt-heinsberger-stadtverwaltung-lahm/124334660.html",
+      "added": "2026-01-23",
+      "infostealer": {
+        "update": "2026-01-23 14:04:13",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,

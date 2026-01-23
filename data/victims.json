@@ -294280,7 +294280,7 @@
         "website": "www.grandeprairie.org",
         "published": "2025-10-19 00:00:00.000000",
         "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=12fbb60a-31ef-3cf1-b623-1e76d7a35a50",
-        "country": "CA",
+        "country": "US",
         "activity": "Education",
         "duplicates": [],
         "extrainfos": []
@@ -323208,11 +323208,11 @@
         "extrainfos": []
     },
     {
-        "post_title": "Thai Petroleum & Trading",
+        "post_title": "[Redacted] #1927",
         "group_name": "obscura",
         "discovered": "2026-01-11 10:48:18.398124",
-        "description": "Thai Petroleum & Trading Co., Ltd. had been the sole importer and distributor for PENNZOIL and BARDAHL oil additive",
-        "website": "thaipet.com",
+        "description": "[Redacted]",
+        "website": "",
         "published": "2025-12-24 00:00:00.000000",
         "post_url": "",
         "country": "TH",
@@ -327352,5 +327352,18 @@
         "extrainfos": {
             "data_size": "300GB"
         }
+    },
+    {
+        "post_title": "tob-bmw.sk",
+        "group_name": "incransom",
+        "discovered": "2026-01-23 14:20:12.330737",
+        "description": "Some data from 590 gigabytes\r \r T.O.B. is an authorized BMW dealer located in Trenčín, Slovakia, offering a wide range of new and certified pre-owned BMW vehicles.",
+        "website": "tob-bmw.sk",
+        "published": "2026-01-23 00:00:00.000000",
+        "post_url": "http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/69737d968f1d14b74372763f",
+        "country": "SK",
+        "activity": "Manufacturing",
+        "duplicates": [],
+        "extrainfos": []
     }
 ]

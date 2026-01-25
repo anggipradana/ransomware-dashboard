@@ -327854,5 +327854,95 @@
         "activity": "Not Found",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Golden Growth Biotechnology",
+        "group_name": "nightspire",
+        "discovered": "2026-01-25 05:16:35.052757",
+        "description": "Golden Growth Biotechnology",
+        "website": "ggb.vn/?lang=en",
+        "published": "2026-01-25 05:16:32.957711",
+        "post_url": "",
+        "country": "JP",
+        "activity": "Manufacturing",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "30 GB"
+        }
+    },
+    {
+        "post_title": "Lesk Engineers Limited",
+        "group_name": "nightspire",
+        "discovered": "2026-01-25 05:16:59.859947",
+        "description": "Lesk Engineers Limited",
+        "website": "leskengineers.co.uk",
+        "published": "2026-01-25 05:16:57.647759",
+        "post_url": "",
+        "country": "GB",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "40 GB"
+        }
+    },
+    {
+        "post_title": "Aromate Industries Co., Ltd. z",
+        "group_name": "nightspire",
+        "discovered": "2026-01-25 05:17:23.773659",
+        "description": "Aromate Industries Co., Ltd. z",
+        "website": "aromate.com",
+        "published": "2026-01-25 05:17:21.879757",
+        "post_url": "",
+        "country": "TW",
+        "activity": "Manufacturing",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "200 GB"
+        }
+    },
+    {
+        "post_title": "BIDAIAK BANOA S.L.",
+        "group_name": "nightspire",
+        "discovered": "2026-01-25 05:17:46.890869",
+        "description": "BIDAIAK BANOA S.L.",
+        "website": "banoa.com",
+        "published": "2026-01-25 05:17:45.746607",
+        "post_url": "",
+        "country": "ES",
+        "activity": "Hospitality and Tourism",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "200 GB"
+        }
+    },
+    {
+        "post_title": "KICKSTAGE",
+        "group_name": "nightspire",
+        "discovered": "2026-01-25 05:18:10.101282",
+        "description": "KICKSTAGE",
+        "website": "kickstage.com.tw",
+        "published": "2026-01-25 05:18:09.013021",
+        "post_url": "",
+        "country": "HK",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "30 GB"
+        }
+    },
+    {
+        "post_title": "The Successful Match",
+        "group_name": "nightspire",
+        "discovered": "2026-01-25 05:19:11.136869",
+        "description": "The Successful Match (MD2B)",
+        "website": "thesuccessfulmatch.com/publishing",
+        "published": "2026-01-25 05:19:09.835936",
+        "post_url": "",
+        "country": "US",
+        "activity": "Education",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "0 GB"
+        }
     }
 ]

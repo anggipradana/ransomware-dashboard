@@ -4,8 +4,29 @@
     "month": null,
     "country": null
   },
-  "count": 3138,
+  "count": 3140,
   "results": [
+    {
+      "date": "2026-01-22",
+      "victim": "Winona County",
+      "domain": "winonacounty.gov",
+      "country": "US",
+      "summary": "Le comté de Winona a été victime d'une attaque de ransomware, affectant les réseaux informatiques et les systèmes téléphoniques. Les communications d'urgence, y compris le 911, sont toujours opérationnelles. Le comté travaille avec des experts en cybersécurité pour résoudre le problème.",
+      "title": "Winona County suffers ransomware attack",
+      "url": "https://www.winonapost.com/news/winona-county-suffers-ransomware-attack-affecting-networks-phones/article_688c540b-f8bc-47fc-9b31-62a507ba9a06.html",
+      "added": "2026-01-25",
+      "infostealer": {
+        "update": "2026-01-25 14:25:37",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-01-22",
       "victim": "Staatlichen Kunstsammlungen Dresden",
@@ -452,6 +473,27 @@
           "Raccoon": 4,
           "RedLine": 2
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-01-07",
+      "victim": "Harte-Bavendamm",
+      "domain": "harte-bavendamm.de",
+      "country": "DE",
+      "summary": "La société Harte-Bavendamm a été victime d'une attaque de ransomware, les données internes ont été chiffrées par le logiciel Qilin, l'entreprise travaille avec des experts en sécurité pour déterminer l'ampleur du vol de données et restaurer les systèmes. L'attaque a eu lieu le 7 janvier 2026, mais a été rendue publique après que le groupe Qilin a listé la société sur son site de fuite. La société suit les conseils des autorités de sécurité et ne paie pas de rançon.",
+      "title": "Harte-Bavendamm: Ransomware-Angriff trifft renommierte Kanzlei",
+      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/harte-bavendamm-ransomware-angriff-trifft-renommierte-kanzlei/68517396",
+      "added": "2026-01-25",
+      "infostealer": {
+        "update": "2026-01-24 20:13:10",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },
@@ -13597,7 +13639,10 @@
         "thirdparties": 0,
         "infostealer_stats": {}
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "clop",
+        "permalink": "https://www.ransomware.live/id/RUFTVFBMQVRTLkNPTUBjbG9w"
+      }
     },
     {
       "date": "2025-05-27",
@@ -13618,7 +13663,10 @@
         "thirdparties": 0,
         "infostealer_stats": {}
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "clop",
+        "permalink": "https://www.ransomware.live/id/RUFTVFBMQVRTLkNPTUBjbG9w"
+      }
     },
     {
       "date": "2025-05-27",

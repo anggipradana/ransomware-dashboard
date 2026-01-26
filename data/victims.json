@@ -328742,5 +328742,136 @@
         "activity": "Hospitality and Tourism",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Joyva",
+        "group_name": "play",
+        "discovered": "2026-01-26 19:37:25.809775",
+        "description": "United States",
+        "website": "www.joyva.com",
+        "published": "2026-01-26 19:36:45.599984",
+        "post_url": "http://k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion/topic.php?id=AvRHWxrpZZUFKJ",
+        "country": "US",
+        "activity": "Manufacturing",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Routten & Laster Law",
+        "group_name": "play",
+        "discovered": "2026-01-26 19:38:20.752198",
+        "description": "United States",
+        "website": "www.routtenlasterlaw.com",
+        "published": "2026-01-26 19:37:27.484881",
+        "post_url": "http://k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion/topic.php?id=CRsXzC0uSp8Dmt",
+        "country": "",
+        "activity": "Business Services",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Christine London",
+        "group_name": "play",
+        "discovered": "2026-01-26 19:38:59.132568",
+        "description": "United States",
+        "website": "www.christinelondonltd.com",
+        "published": "2026-01-26 19:38:22.203079",
+        "post_url": "http://k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion/topic.php?id=OaIyQ4sDq3WkAj",
+        "country": "US",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Aquatic Control",
+        "group_name": "play",
+        "discovered": "2026-01-26 19:39:36.496873",
+        "description": "United States",
+        "website": "www.aquaticcontrol.com",
+        "published": "2026-01-26 19:39:00.676664",
+        "post_url": "http://k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion/topic.php?id=xuo5DJHOJgENnA",
+        "country": "US",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Quantum Fuel Systems Technologies",
+        "group_name": "play",
+        "discovered": "2026-01-26 19:40:13.690708",
+        "description": "United States",
+        "website": "www.qtww.com",
+        "published": "2026-01-26 19:39:38.106413",
+        "post_url": "http://k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion/topic.php?id=7dXzoQkG7W7gMh",
+        "country": "US",
+        "activity": "Energy",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "ALLMAX",
+        "group_name": "play",
+        "discovered": "2026-01-26 19:40:31.537045",
+        "description": "Canada",
+        "website": "www.allmaxnutrition.com",
+        "published": "2025-06-27 00:00:00.000000",
+        "post_url": "http://k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion/topic.php?id=oReNOP4jeuqlYR",
+        "country": "CA",
+        "activity": "Not Found",
+        "duplicates": [
+            {
+                "date": "2026-01-26 19:40:31.631844",
+                "group": "incransom",
+                "link": "https://www.ransomware.live/id/YWxsbWF4bnV0cml0aW9uLmNvbUBpbmNyYW5zb20=",
+                "attackdate": "2025-06-27 00:00:00.000000"
+            }
+        ],
+        "extrainfos": []
+    },
+    {
+        "post_title": "The Sourcing Group",
+        "group_name": "play",
+        "discovered": "2026-01-26 19:41:02.667393",
+        "description": "United States",
+        "website": "www.thesourcinggroup.com",
+        "published": "2024-07-23 00:00:00.000000",
+        "post_url": "http://mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion/index.php?page=1/topic.php?id=9hS26dMcF51edX",
+        "country": "US",
+        "activity": "Business Services",
+        "duplicates": [
+            {
+                "date": "2026-01-26 19:41:02.704000",
+                "group": "dAn0n",
+                "link": "https://www.ransomware.live/id/dGhlc291cmNpbmdncm91cC5jb21AZEFuMG4=",
+                "attackdate": "2024-07-23 00:00:00.000000"
+            }
+        ],
+        "extrainfos": []
+    },
+    {
+        "post_title": "F&B Mfg",
+        "group_name": "play",
+        "discovered": "2026-01-26 19:41:58.729370",
+        "description": "United States",
+        "website": "www.fbmfg.com",
+        "published": "2026-01-26 19:41:06.375710",
+        "post_url": "http://mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion/index.php?page=1/topic.php?id=YRXvAREh8yDLPv",
+        "country": "US",
+        "activity": "Manufacturing",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Tele Plus",
+        "group_name": "play",
+        "discovered": "2026-01-26 19:42:55.340950",
+        "description": "United States",
+        "website": "www.telepluscorp.com",
+        "published": "2026-01-26 19:42:00.200528",
+        "post_url": "http://mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion/index.php?page=1/topic.php?id=b0Z932UKxX02Le",
+        "country": "",
+        "activity": "Telecommunication",
+        "duplicates": [],
+        "extrainfos": []
     }
 ]

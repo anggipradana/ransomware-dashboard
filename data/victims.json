@@ -328713,5 +328713,21 @@
         "activity": "Not Found",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "zHealthEHR — Practice Management Software for Chiropractic & Wellness Clinics",
+        "group_name": "kazu",
+        "discovered": "2026-01-26 16:54:36.630626",
+        "description": "zHealthEHR is a cloud-based electronic health record (EHR) and practice management platform built primarily for chiropractors and other wellness providers. It combines clinical documentation, appointment scheduling, patient intake, billing, payments, and automated reminders into a single system, helping small to mid-size practices streamline daily operations. The platform focuses on ease of use, customizable SOAP notes, and patient engagement tools, allowing providers to reduce administrative workload and run their clinics more efficiently through a subscription-based software model.",
+        "website": "www.zhealthehr.com",
+        "published": "2026-01-26 00:00:00.000000",
+        "post_url": "",
+        "country": "US",
+        "activity": "Technology",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "15 GB",
+            "ransom": "$500 000"
+        }
     }
 ]

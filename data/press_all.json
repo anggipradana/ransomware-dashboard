@@ -4,8 +4,29 @@
     "month": null,
     "country": null
   },
-  "count": 3140,
+  "count": 3141,
   "results": [
+    {
+      "date": "2026-01-25",
+      "victim": "Enviro-Hub Holdings Ltd.",
+      "domain": "enviro-hub.com",
+      "country": "SG",
+      "summary": "Enviro-Hub Holdings Ltd. a annoncé que ses serveurs de groupe ont été touchés par une attaque de ransomware, mais l'entreprise ne s'attend pas à un impact matériel sur ses opérations métiers. L'entreprise a signalé l'incident à la Commission de protection des données personnelles de Singapour et continue d'enquêter. Les actionnaires et les investisseurs potentiels sont invités à exercer la prudence dans les transactions sur ses actions.",
+      "title": "Enviro-Hub Reports Ransomware Attack With No Material Operational Impact So Far - TipRanks.com",
+      "url": "https://www.tipranks.com/news/company-announcements/enviro-hub-reports-ransomware-attack-with-no-material-operational-impact-so-far",
+      "added": "2026-01-26",
+      "infostealer": {
+        "update": "2026-01-26 15:43:23",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-01-22",
       "victim": "Winona County",

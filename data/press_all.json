@@ -4,8 +4,20 @@
     "month": null,
     "country": null
   },
-  "count": 3141,
+  "count": 3145,
   "results": [
+    {
+      "date": "2026-01-27",
+      "victim": "Paragon Technologies Co., Ltd.",
+      "domain": "pttech.com.tw",
+      "country": "TW",
+      "summary": "Une entreprise a été victime d'une attaque de hackers, mais grâce à ses mécanismes de défense, il n'y a eu aucune fuite de données personnelles ou confidentielles, et l'impact sur les opérations de l'entreprise est minime. L'entreprise continue de renforcer la sécurité de ses systèmes d'information. L'incident s'est produit le 27 janvier 2026.",
+      "title": "Today's Information",
+      "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=140832&spoke_date=20260127&co_id=3518",
+      "added": "2026-01-27",
+      "infostealer": "",
+      "ransomware": null
+    },
     {
       "date": "2026-01-25",
       "victim": "Enviro-Hub Holdings Ltd.",
@@ -356,6 +368,27 @@
           "Raccoon": 4,
           "UNKNOWN": 2
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-01-11",
+      "victim": "Langley Twigg Law",
+      "domain": "langleytwigg.co.nz",
+      "country": "NZ",
+      "summary": "Langley Twigg a subi une attaque informatique qui a entraîné la fuite de données, l'entreprise a pris des mesures pour contenir l'incident et travaille avec des experts pour identifier les informations compromises. Les clients sont invités à être vigilants et à vérifier leurs comptes bancaires et cartes de crédit. Une cyberattaque a été revendiquée par Anubis le 25 janvier.",
+      "title": "Cyber security incident at Langley Twigg",
+      "url": "https://www.langleytwigg.co.nz/cyber-security-incident-at-langley-twigg",
+      "added": "2026-01-27",
+      "infostealer": {
+        "update": "2026-01-27 09:22:07",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },
@@ -1342,6 +1375,34 @@
           "Azorult": 8,
           "UNKNOWN": 2,
           "KPOT": 2
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-12-12",
+      "victim": "Itasca Consulting Group",
+      "domain": "itascacg.com",
+      "country": "US",
+      "summary": "Itasca International, Inc. suffered a data security incident where an unauthorized third party attempted to infiltrate their computer network. A cyberattack was claimed by Akira on January 13.",
+      "title": "2026-01-23 Itasca Consulting Group Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2026-01-23-itasca-consulting-group-data-breach-notice-consumers",
+      "added": "2026-01-27",
+      "infostealer": {
+        "update": "2026-01-27 09:22:29",
+        "employees": 0,
+        "users": 29,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 16,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "RedLine": 14,
+          "Raccoon": 12,
+          "Lumma": 8,
+          "StealC": 8,
+          "Azorult": 4,
+          "Vidar": 2
         }
       },
       "ransomware": null
@@ -4510,6 +4571,18 @@
           "Atomic": 14
         }
       },
+      "ransomware": null
+    },
+    {
+      "date": "2025-10-09",
+      "victim": "Wisner Baum LLP",
+      "domain": "wisnerbaum.com",
+      "country": "US",
+      "summary": "Wisner Baum LLP suffered a data breach that affected 102 individuals in Rhode Island. The breach involved identity theft and unauthorized access to personal information. The organization is providing guidance on how to protect against identity theft and has notified affected individuals.",
+      "title": "2026-01-23 Wisner Baum Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2026-01-23-wisner-baum-data-breach-notice-consumers",
+      "added": "2026-01-27",
+      "infostealer": "",
       "ransomware": null
     },
     {

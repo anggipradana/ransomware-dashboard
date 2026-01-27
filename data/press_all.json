@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3145,
+  "count": 3146,
   "results": [
     {
       "date": "2026-01-27",
@@ -24,6 +24,31 @@
         "users_url": 0,
         "thirdparties": 0,
         "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-01-25",
+      "victim": "Gady",
+      "domain": "gady.at",
+      "country": "AT",
+      "summary": "Un incident de cybersécurité a eu lieu chez le concessionnaire BMW Gady en Autriche, affectant ses activités commerciales. L'incident sont en cours d'enquête et les systèmes affectés sont temporairement indisponibles.",
+      "title": "Cyberangriffe: BMW-Vertragshändler Gady; Staatliche Kunstsammlungen Dresden",
+      "url": "https://borncity.com/blog/2026/01/27/cyberangriffe-bmw-vertragshaendler-gady-staatliche-kunstsammlungen-dresden/",
+      "added": "2026-01-27",
+      "infostealer": {
+        "update": "2026-01-27 12:21:40",
+        "employees": 0,
+        "users": 11,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 3,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "Lumma": 12,
+          "RedLine": 4,
+          "Raccoon": 2
+        }
       },
       "ransomware": null
     },

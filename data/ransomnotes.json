@@ -1,5 +1,5 @@
 {
-  "count": 206,
+  "count": 207,
   "groups": [
     {
       "group": ".git",
@@ -552,6 +552,10 @@
     {
       "group": "noname",
       "ransomnotes_count": 2
+    },
+    {
+      "group": "nova",
+      "ransomnotes_count": 1
     },
     {
       "group": "novagroup",

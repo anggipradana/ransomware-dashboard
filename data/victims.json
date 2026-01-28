@@ -327519,10 +327519,17 @@
         "website": "",
         "published": "2026-01-23 18:54:08.187004",
         "post_url": "http://novadmrkp4vbk2padk5t6pbxolndceuc7hrcq4mjaoyed6nxsqiuzyyd.onion/#kpmg",
-        "country": "NL",
+        "country": "ID",
         "activity": "Financial Services",
         "duplicates": [],
-        "extrainfos": []
+        "extrainfos": [],
+        "updates": [
+            {
+                "date": "2026-01-26 10:15:00.000000",
+                "description": "it may be a KPMG partner in Indonesia and not KPMG itself. Documents from Nova mentionned 'PT Amalgamated Consulting Indonesia' so it's quite possible that this claim isn't correct",
+                "link": ""
+            }
+        ]
     },
     {
         "post_title": "rlc.es",
@@ -327923,7 +327930,7 @@
         "website": "kickstage.com.tw",
         "published": "2026-01-25 05:18:09.013021",
         "post_url": "",
-        "country": "HK",
+        "country": "TW",
         "activity": "Not Found",
         "duplicates": [],
         "extrainfos": {
@@ -329315,7 +329322,7 @@
         "post_title": "JP Research",
         "group_name": "sinobi",
         "discovered": "2026-01-28 00:06:41.935999",
-        "description": "JP Research, Inc. is a leading US statistical and engineering research firm providing research and a broad range of litigation support services in the fields of automotive and consumer product safety. The company integrates advanced statistics, data analytics and engineering (mechanical, automotive, design, and bioengineering) disciplines to address global safety research problems. In bringing together highly specialized technical fields of expertise, JP Research’s approaches to problem solving frequently set the bar for future research. JP Research founded an international consortium to support a Road Accident Sampling System for India (RASSI), and has established a fully incorporated company, JP Research India, Pvt., Ltd., to pursue automotive safety research, accident data collection and crash investigation in India. Specialties Statistical Modeling,  Probability & Risk Analysis,  Class Action , Comparative Risk Assessment,  Claims, Consumer Complaints Analyses,  Statistical Significance , Failure & Reliability Analysis,  Regression Analysis,  Quality Control Procedures,  Review & Analysis of Police Accident Reports , Forecasting & Time Series Biomechanics and Automotive Engineering Statistical/Economic Evaluation",
+        "description": "JP Research, Inc. is a leading US statistical and engineering research firm providing research and a broad range of litigation support services in the fields of automotive and consumer product safety. The company integrates advanced statistics, data analytics and engineering (mechanical, automotive, design, and bioengineering) disciplines to address global safety research problems. In bringing together highly specialized technical fields of expertise, JP Research’s approaches to problem solving frequently set the bar for future research. JP Research founded an international consortium to support a Road Accident Sampling System for India (RASSI), and has established a fully incorporated company, JP Research India, Pvt., Ltd., to pursue automotive safety research, accident data collection and crash investigation in India. Specialties Statistical Modeling, Probability & Risk Analysis, Class Action, Comparative Risk Assessment, Claims, Consumer Complaints Analyses, Statistical Significance, Failure & Reliability Analysis, Regression Analysis, Quality Control Procedures, Review & Analysis of Police Accident Reports, Forecasting & Time SeriesBiomechanics and Automotive EngineeringStatistical/Economic Evaluation",
         "website": "www.jpresearch.com",
         "published": "2026-01-27 17:53:36.976000",
         "post_url": "http://sinobi6ftrg27d6g4sjdt65malds6cfptlnjyw52rskakqjda6uvb7yd.onion/leaks/6978fba06387a4c9a2dbd52b",
@@ -329416,5 +329423,109 @@
         "extrainfos": {
             "data_size": "48.5 GB"
         }
+    },
+    {
+        "post_title": "Metropolis City Municipal",
+        "group_name": "0apt",
+        "discovered": "2026-01-28 10:07:35.089478",
+        "description": "SIZE: 600GB. CONTENT: City Planning Docs, Vendor Payments, Internal Memos.",
+        "website": "",
+        "published": "2026-01-28 10:07:30.225353",
+        "post_url": "",
+        "country": "",
+        "activity": "Public Sector",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Apex Logistics Solutions",
+        "group_name": "0apt",
+        "discovered": "2026-01-28 10:07:39.064641",
+        "description": "SIZE: 450GB. CONTENT: Invoices, Driver Passports, Fuel Contracts. Negotiation failed. Publishing soon.",
+        "website": "",
+        "published": "2026-01-28 10:07:36.831162",
+        "post_url": "",
+        "country": "AU",
+        "activity": "Transportation/Logistics",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "TechnoSoft IT Services",
+        "group_name": "0apt",
+        "discovered": "2026-01-28 10:07:43.911233",
+        "description": "SIZE: 3TB. CONTENT: Source Code, SQL Database Backups, API Keys. Full infrastructure dump.",
+        "website": "",
+        "published": "2026-01-28 10:07:41.002944",
+        "post_url": "",
+        "country": "IN",
+        "activity": "Technology",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "GreenValley Regional College",
+        "group_name": "0apt",
+        "discovered": "2026-01-28 10:07:48.885535",
+        "description": "SIZE: 800GB. CONTENT: Student DB, Admin Emails, HR Payrolls. Clock is ticking.",
+        "website": "",
+        "published": "2026-01-28 10:07:45.711151",
+        "post_url": "",
+        "country": "",
+        "activity": "Education",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Sunrise Manufacturing Ltd.",
+        "group_name": "0apt",
+        "discovered": "2026-01-28 10:07:53.511503",
+        "description": "SIZE: 1.2TB. CONTENT: Blueprints, R&D Schematics, Employee SSN. Data is strictly confidential.",
+        "website": "",
+        "published": "2026-01-28 10:07:50.658373",
+        "post_url": "",
+        "country": "",
+        "activity": "Manufacturing",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Rapid Food Distributors",
+        "group_name": "0apt",
+        "discovered": "2026-01-28 10:08:02.153061",
+        "description": "SIZE: 200GB. CONTENT: Supply Chain Agreements, Wholesale Prices, Bank Logs.",
+        "website": "",
+        "published": "2026-01-28 10:08:00.435218",
+        "post_url": "",
+        "country": "US",
+        "activity": "Transportation/Logistics",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Dr. Smith Dental Clinics",
+        "group_name": "0apt",
+        "discovered": "2026-01-28 10:08:08.968399",
+        "description": "SIZE: 120GB. CONTENT: Patient Records, X-Rays, Insurance Claims. Last chance to pay.",
+        "website": "",
+        "published": "2026-01-28 10:08:06.298321",
+        "post_url": "",
+        "country": "",
+        "activity": "Healthcare",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Orion Legal Partners",
+        "group_name": "0apt",
+        "discovered": "2026-01-28 10:08:12.801168",
+        "description": "SIZE: 50GB. CONTENT: Court Case Files, Client Settlements, NDAs. Very sensitive data.",
+        "website": "",
+        "published": "2026-01-28 10:08:10.915195",
+        "post_url": "",
+        "country": "US",
+        "activity": "Business Services",
+        "duplicates": [],
+        "extrainfos": []
     }
 ]

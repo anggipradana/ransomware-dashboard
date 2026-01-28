@@ -326538,7 +326538,7 @@
         "website": "tvgoiania.com.br",
         "published": "2026-01-20 23:00:39.540424",
         "post_url": "http://devmanblggk7ddrtqj3tsocnayow3bwnozab2s4yhv4shpv6ueitjzid.onion",
-        "country": "SJ",
+        "country": "BR",
         "activity": "Not Found",
         "duplicates": [],
         "extrainfos": []
@@ -329248,7 +329248,7 @@
         "website": "twi-group.com",
         "published": "2026-01-27 23:36:04.296060",
         "post_url": "http://devmanblggk7ddrtqj3tsocnayow3bwnozab2s4yhv4shpv6ueitjzid.onion",
-        "country": "SJ",
+        "country": "US",
         "activity": "Transportation/Logistics",
         "duplicates": [],
         "extrainfos": []
@@ -329525,6 +329525,58 @@
         "post_url": "",
         "country": "US",
         "activity": "Business Services",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "z*l*c.o*g",
+        "group_name": "devman",
+        "discovered": "2026-01-28 11:03:54.781767",
+        "description": "PII data, SSN´s financial and audit reports.",
+        "website": "z*l*c.o*g",
+        "published": "2026-01-28 00:00:00.000000",
+        "post_url": "http://devmanblggk7ddrtqj3tsocnayow3bwnozab2s4yhv4shpv6ueitjzid.onion",
+        "country": "US",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "tiw-group.com",
+        "group_name": "devman",
+        "discovered": "2026-01-28 11:05:41.368012",
+        "description": "[AI generated] TIW Group is a specialist software firm with over 30 years of experience in developing solutions for the insurance industry. Their flagship product, ALIS, provides end-to-end solutions for life insurance and annuity processing. Additionally, they provide business process automation, legacy modernization, and risk compliance management services. Their digital solutions help businesses to streamline operations and improve business efficiency.",
+        "website": "tiw-group.com",
+        "published": "2026-01-28 11:04:17.907434",
+        "post_url": "http://devmanblggk7ddrtqj3tsocnayow3bwnozab2s4yhv4shpv6ueitjzid.onion",
+        "country": "SJ",
+        "activity": "Technology",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Nebula Bio-Tech Labs",
+        "group_name": "0apt",
+        "discovered": "2026-01-28 12:26:34.682535",
+        "description": "SIZE: 1.2TB. CONTENT: Clinical Trial Data, Patent Filings, Employee Payroll.",
+        "website": "",
+        "published": "2026-01-28 12:26:30.637620",
+        "post_url": "",
+        "country": "",
+        "activity": "Healthcare",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Summit Global Energy",
+        "group_name": "0apt",
+        "discovered": "2026-01-28 12:26:39.748555",
+        "description": "SIZE: 450GB. CONTENT: Offshore Drilling Maps, Tax Returns, Board Meeting Audio.",
+        "website": "",
+        "published": "2026-01-28 12:26:36.376967",
+        "post_url": "",
+        "country": "",
+        "activity": "Energy",
         "duplicates": [],
         "extrainfos": []
     }

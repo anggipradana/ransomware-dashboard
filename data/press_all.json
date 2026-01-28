@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3150,
+  "count": 3151,
   "results": [
     {
       "date": "2026-01-27",
@@ -24,6 +24,30 @@
         "users_url": 0,
         "thirdparties": 0,
         "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-01-26",
+      "victim": "Sanxenxo",
+      "domain": "sanxenxo.es",
+      "country": "ES",
+      "summary": "La mairie de Sanxenxo a été victime d'une attaque de ransomware qui a compromis des milliers de documents administratifs, les hackers réclament une rançon de 5 000 dollars en bitcoin pour restaurer les fichiers. La mairie a refusé de payer la rançon et a déposé une plainte auprès de la Garde civile. Les systèmes devraient être restaurés dans les prochaines heures grâce aux sauvegardes quotidiennes.",
+      "title": "Spanish municipality Sanxenxo City Council calls hackers bluff as malware takes over network",
+      "url": "https://www.bitget.com/amp/news/detail/12560605170858",
+      "added": "2026-01-28",
+      "infostealer": {
+        "update": "2026-01-28 11:34:05",
+        "employees": 0,
+        "users": 16,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 5,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "RedLine": 12,
+          "Lumma": 10
+        }
       },
       "ransomware": null
     },

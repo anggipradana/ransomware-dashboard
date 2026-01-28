@@ -329401,5 +329401,20 @@
         "activity": "Financial Services",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "DataBank",
+        "group_name": "nightspire",
+        "discovered": "2026-01-28 01:34:56.679857",
+        "description": "DataBank",
+        "website": "databank.com.ni",
+        "published": "2026-01-28 01:34:55.007332",
+        "post_url": "",
+        "country": "US",
+        "activity": "Technology",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "48.5 GB"
+        }
     }
 ]

@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3146,
+  "count": 3150,
   "results": [
     {
       "date": "2026-01-27",
@@ -7771,6 +7771,27 @@
     },
     {
       "date": "2025-08-17",
+      "victim": "Melwood, Inc.",
+      "domain": "melwood.com",
+      "country": "US",
+      "summary": "Melwood, Inc. suffered a data breach between August 9 and 17, 2025, where an unknown cyber actor accessed a portion of their computer network and copied files without permission. The breach involved the copying of files containing names and other personal information. A cyberattack was claimed by Sinobi on September 8.",
+      "title": "2026-01-26  Melwood Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2026-01-26-melwood-data-breach-notice-consumers",
+      "added": "2026-01-28",
+      "infostealer": {
+        "update": "2026-01-28 08:40:56",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-08-17",
       "victim": "Büchner Barella",
       "domain": "buechnerbarella.de",
       "country": "DE",
@@ -9635,6 +9656,27 @@
           "Azorult": 8,
           "UNKNOWN": 2
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-07-22",
+      "victim": "Nova Biomedical Corp.",
+      "domain": "novabiomedical.com",
+      "country": "US",
+      "summary": "Nova Biomedical Corp. experienced a sophisticated cybersecurity attack on July 22, 2025, which may have impacted personally identifiable information. The company is offering complimentary access to Experian IdentityWorks for 24 months to help protect affected individuals. Nova is also providing information on steps to take to protect personal information and prevent identity theft.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/0c20e423-1a40-4380-8fe3-e4ddf1425aa2.html",
+      "added": "2026-01-28",
+      "infostealer": {
+        "update": "2026-01-28 08:39:56",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },
@@ -13723,6 +13765,27 @@
       "added": "2025-06-01",
       "infostealer": {
         "update": "2025-06-01 13:17:24",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-05-27",
+      "victim": "Murex Petroleum",
+      "domain": "murexpetroleum.com",
+      "country": "US",
+      "summary": "Murex Petroleum Corporation suffered a cybersecurity incident on May 27, 2025, where unauthorized access to their network may have resulted in the exposure of personal information. A cyberattack was claimed by Akira on June 30, 2025.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/9ba6f732-3464-4c89-aa66-a0b2ca1394cc.html",
+      "added": "2026-01-28",
+      "infostealer": {
+        "update": "2026-01-28 08:40:38",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,
@@ -22702,6 +22765,27 @@
         "employees_url": 0,
         "users_url": 15,
         "thirdparties": 0
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-02-19",
+      "victim": "Blake Jones Law Firm LLC",
+      "domain": "blakejoneslaw.com",
+      "country": "US",
+      "summary": "Blake Jones Law Firm LLC experienced a data breach between February 16, 2025, and February 19, 2025, where data from certain systems was accessed or acquired without authorization. The breach involved the potential exposure of names and Social Security numbers of Maine residents. The firm has offered credit monitoring services to affected individuals through Experian.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/1fe3b745-27a7-416c-8f7a-2c2917026268.html",
+      "added": "2026-01-28",
+      "infostealer": {
+        "update": "2026-01-28 08:40:16",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },

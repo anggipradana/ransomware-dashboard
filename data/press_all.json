@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3152,
+  "count": 3153,
   "results": [
     {
       "date": "2026-01-27",
@@ -2458,6 +2458,27 @@
       "added": "2026-01-14",
       "infostealer": {
         "update": "2026-01-18 15:59:22",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-11-21",
+      "victim": "MACT Health Board",
+      "domain": "macthealth.org",
+      "country": "US",
+      "summary": "Le conseil de santé MACT affirme son engagement à protéger la confidentialité des informations et informe qu’un incident informatique a entraîné un accès non autorisé à certains fichiers entre le 12 et le 20 novembre 2025. Dès la découverte de l’incident, MACT a sécurisé ses systèmes, mené une enquête avec des experts externes et alerté les autorités compétentes. Une cyberattaque a été revendiquée par Rhysida le 29 janvier 2026.",
+      "title": "Notice of Data Privacy Incident",
+      "url": "https://static1.squarespace.com/static/681a3d1730e6d15b8dab6cc2/t/6973b0056b0e6e23ca6ebfd4/1769189381629/MACT_Notice_of_Data_Privacy_Incident.pdf",
+      "added": "2026-01-29",
+      "infostealer": {
+        "update": "2026-01-29 15:52:15",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,

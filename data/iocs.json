@@ -1,6 +1,6 @@
 {
   "filter_type": null,
-  "count": 72,
+  "count": 73,
   "groups": [
     {
       "group": "Ailock",
@@ -467,6 +467,13 @@
     {
       "group": "TheGentlemen",
       "ioc_types": {
+        "tox": 1
+      }
+    },
+    {
+      "group": "Thegreenbloodgroup",
+      "ioc_types": {
+        "email": 1,
         "tox": 1
       }
     },

@@ -329802,5 +329802,51 @@
         "activity": "Public Sector",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Pacific Airlines",
+        "group_name": "coinbasecartel",
+        "discovered": "2026-01-29 11:04:20.250932",
+        "description": "Pacific Airlines is a Ho Chi Minh City-based low-cost carrier in Vietnam, operating primarily out of Tan Son Nhat International Airport (SGN). Formerly known as Jetstar Pacific (2008–2020), it is...",
+        "website": "",
+        "published": "2026-01-29 11:03:58.231658",
+        "post_url": "http://fjg4zi4opkxkvdz7mvwp7h6goe4tcby3hhkrz43pht4j3vakhy75znyd.onion/companies/pacific",
+        "country": "VN",
+        "activity": "Transportation/Logistics",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Clatronic International",
+        "group_name": "coinbasecartel",
+        "discovered": "2026-01-29 11:04:59.327152",
+        "description": "[AI generated] \"Clatronic International GmbH\" is a German company specializing in small and large household electronic appliances. It was founded in 1985 and has built a strong reputation for producing high-quality products across Europe. The appliances they manufacture include kitchen gadgets, cleaning appliances, health & wellness devices, and multimedia electronics. They prioritize functionality, ease of use, and contemporary design in their products.",
+        "website": "clatronic.de",
+        "published": "2024-09-11 13:05:37.591441",
+        "post_url": "http://fjg4zi4opkxkvdz7mvwp7h6goe4tcby3hhkrz43pht4j3vakhy75znyd.onion/companies/clatronic",
+        "country": "DE",
+        "activity": "Consumer Services",
+        "duplicates": [
+            {
+                "date": "2026-01-29 11:04:59.364459",
+                "group": "fog",
+                "link": "https://www.ransomware.live/id/Q2xhdHJvbmljIEludGVybmF0aW9uYWwgR21iSEBmb2c=",
+                "attackdate": "2024-09-11 13:05:37.591441"
+            }
+        ],
+        "extrainfos": []
+    },
+    {
+        "post_title": "RAKS Sp. z o.o.",
+        "group_name": "coinbasecartel",
+        "discovered": "2026-01-29 11:05:39.031441",
+        "description": "[AI generated] RAKS Sp. z o.o. is a company based in Poland specializing in wholesale and retail trade of non-specialized products, including various types of goods such as household products, clothes, toys, and more. The company offers a wide range of products to cater to different customer needs and has built a reputation for its reliable service and quality offerings.",
+        "website": "raks.pl",
+        "published": "2026-01-29 11:05:22.336374",
+        "post_url": "http://fjg4zi4opkxkvdz7mvwp7h6goe4tcby3hhkrz43pht4j3vakhy75znyd.onion/companies/raks",
+        "country": "PL",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": []
     }
 ]

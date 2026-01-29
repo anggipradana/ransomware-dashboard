@@ -329681,7 +329681,7 @@
         "website": "www.chuyangdental.com",
         "published": "2026-01-28 19:11:03.511104",
         "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=b43a00b3-61ff-3079-b1ee-afdea244fce1",
-        "country": "TW",
+        "country": "US",
         "activity": "Healthcare",
         "duplicates": [],
         "extrainfos": []
@@ -329774,6 +329774,19 @@
         "post_url": "http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/697aa6928f1d14b743f1b357",
         "country": "AU",
         "activity": "Technology",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Quantum Financial Corp",
+        "group_name": "0apt",
+        "discovered": "2026-01-29 07:46:35.765449",
+        "description": "SWIFT Transfer Logs, KYC Docs, Credit Card DB.",
+        "website": "",
+        "published": "2026-01-29 07:46:32.729391",
+        "post_url": "",
+        "country": "US",
+        "activity": "Financial Services",
         "duplicates": [],
         "extrainfos": []
     }

@@ -331198,5 +331198,25 @@
         "activity": "Healthcare",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Abatix",
+        "group_name": "thegentlemen",
+        "discovered": "2026-01-30 23:05:53.213898",
+        "description": "https://www.zoominfo.com/c/abatix-corp/99255 www.abatix.com Foundeded in 1983, Abatix is a supplier of products for the general construction, industrial safety, petrochemical, energy, environmental, hospital, fire and water restoration, and disaster response industries supporting customers across the nation and is headquartered in Mesquite, Texas. Established in 1983 and with branch offices in the Atlanta, Baton Rouge, Chicago, Dallas, Houston, Jacksonville, Las Vegas, Los Angeles, Phoenix, San Antonio, San Diego, San Francisco, Sacramento and Seattle areas, Abatix has grown into a nationally recognized supplier of products for the General Construction, Industrial Safety, Petrochemical, Energy, Environmental, Hospital, Fire and Water Restoration, and Disaster Response industries supporting customers across the nation.",
+        "website": "www.zoominfo.com",
+        "published": "2025-02-19 00:00:00.000000",
+        "post_url": "http://tezwsse5czllksjb7cwp65rvnk4oobmzti2znn42i43bjdfd2prqqkad.onion",
+        "country": "US",
+        "activity": "Manufacturing",
+        "duplicates": [
+            {
+                "date": "2026-01-30 23:05:53.312030",
+                "group": "chaos",
+                "link": "https://www.ransomware.live/id/YW5vbWF0aWMuY29tQGNoYW9z",
+                "attackdate": "2025-02-19 00:00:00.000000"
+            }
+        ],
+        "extrainfos": []
     }
 ]

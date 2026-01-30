@@ -330966,5 +330966,52 @@
         "activity": "Hospitality and Tourism",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Atlantic National Trust",
+        "group_name": "pear",
+        "discovered": "2026-01-30 12:11:09.600719",
+        "description": "Deals in commercial asset-backed loans, commercial real estate acquisition, secured lending, development and management",
+        "website": "atlanticnationaltrust.com",
+        "published": "2026-01-26 00:00:00.000000",
+        "post_url": "http://pearsmob5sn44ismokiusuld34pnfwi6ctgin3qbvonpoob4lh3rmtqd.onion/Companies/atlanticnationaltrust",
+        "country": "US",
+        "activity": "Financial Services",
+        "duplicates": [],
+        "extrainfos": {
+            "Activity": "Finance, Real Estate",
+            "Revenue": "$2.5M",
+            "Status": "announced"
+        }
+    },
+    {
+        "post_title": "Rocky Mountain Associated Physicians",
+        "group_name": "pear",
+        "discovered": "2026-01-30 12:11:45.288252",
+        "description": "Utah’s Leading Bariatric Specialists, surgical & Medical Weight Loss Solutions in Salt Lake City",
+        "website": "utahbariatrics.com",
+        "published": "2026-01-26 00:00:00.000000",
+        "post_url": "http://pearsmob5sn44ismokiusuld34pnfwi6ctgin3qbvonpoob4lh3rmtqd.onion/Companies/utahbariatrics",
+        "country": "US",
+        "activity": "Healthcare",
+        "duplicates": [],
+        "extrainfos": {
+            "Activity": "Hospitals & Physicians Clinics",
+            "Revenue": "<$5M",
+            "Status": "announced"
+        }
+    },
+    {
+        "post_title": "[Internal database pack 1] Warren County Sheriff’s Office",
+        "group_name": "ransomhouse",
+        "discovered": "2026-01-30 12:13:21.457709",
+        "description": "The Warren County Sheriff's Office (Kentucky, USA), led by Sheriff Brett Hightower, is a professional law enforcement agency dedicated to protecting residents and visitors, upholding Kentucky state laws and the U.S. Constitution, and delivering comprehensive public safety services across the county. The office provides a wide range of functions, including proactive crime prevention, rapid incident response, equitable enforcement of ordinances and statutes, civil process execution, tax collection and administration, concealed carry permit issuance, and various community-oriented programs and educational initiatives. Headquartered in Bowling Green, the agency maintains a 24/7 operational commitment to emergency preparedness, integrity-driven community policing, and continuous improvement through citizen engagement and feedback to enhance overall safety and quality of life.",
+        "website": "warrencountykysheriff.com",
+        "published": "2025-12-19 00:00:00.000000",
+        "post_url": "http://zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion/r/8ce952730bfb34a7cab71ff006d41ce7f9403298",
+        "country": "US",
+        "activity": "Public Sector",
+        "duplicates": [],
+        "extrainfos": []
     }
 ]

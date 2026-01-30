@@ -4,8 +4,31 @@
     "month": null,
     "country": null
   },
-  "count": 3153,
+  "count": 3155,
   "results": [
+    {
+      "date": "2026-01-29",
+      "victim": "New Britain City Hall",
+      "domain": "newbritainct.gov",
+      "country": "US",
+      "summary": "Les officiels de New Britain ont annoncé une conférence de presse pour fournir des mises à jour sur une attaque informatique présumée contre l'hôtel de ville. L'attaque a provoqué une panne d'internet, mais n'a pas affecté les services de sécurité publique. Les autorités étatiques et fédérales ont été appelées pour enquêter sur l'incident.",
+      "title": "New Britain officials to provide update following suspected cyber attack",
+      "url": "https://www.wfsb.com/2026/01/29/new-britain-dealing-with-suspected-cyber-attack-city-systems/",
+      "added": "2026-01-30",
+      "infostealer": {
+        "update": "2026-01-30 15:25:52",
+        "employees": 0,
+        "users": 1,
+        "thirdparties_domain": 1,
+        "employees_url": 0,
+        "users_url": 3,
+        "thirdparties": 1,
+        "infostealer_stats": {
+          "Generic Stealer": 1
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-01-27",
       "victim": "Paragon Technologies Co., Ltd.",
@@ -121,6 +144,27 @@
           "Generic Stealer": 1,
           "StealC": 1
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-01-23",
+      "victim": "Technische Universität (TU) Wien",
+      "domain": "tuwien.at",
+      "country": "AT",
+      "summary": "La Technische Universität (TU) Wien a subi une faille de sécurité dans son réseau informatique, entraînant la compromission de comptes et un accès potentiel à des données sensibles. Les systèmes informatiques de l'université sont actuellement limités et les employés ainsi que les étudiants doivent réinitialiser leurs mots de passe pour des raisons de sécurité. L'université a informé l'autorité de protection des données et les investigations sont en cours avec l'aide d'une entreprise spécialisée en cybersécurité.",
+      "title": "„Sicherheitsvorfall“: Cyberangriff auf Wiener Uni",
+      "url": "https://www.krone.at/4031198",
+      "added": "2026-01-30",
+      "infostealer": {
+        "update": "2026-01-30 15:26:13",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },

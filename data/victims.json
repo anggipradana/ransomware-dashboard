@@ -331958,5 +331958,70 @@
         "activity": "Not Found",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "National Investment Commission Liberia",
+        "group_name": "0apt",
+        "discovered": "2026-02-02 12:58:09.374337",
+        "description": "NIC Liberia infrastructure compromised. Over 15 TB of confidential investment agreements, investor passports, and financial projections exfiltrated.",
+        "website": "",
+        "published": "2026-02-02 12:58:05.418407",
+        "post_url": "",
+        "country": "LR",
+        "activity": "Public Sector",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Liberia Revenue Authority",
+        "group_name": "0apt",
+        "discovered": "2026-02-02 12:58:14.177729",
+        "description": "LRA database encrypted. Complete access to taxpayer records, corporate filings, and internal audit reports. Pay or witness the largest financial leak in West Africa.",
+        "website": "",
+        "published": "2026-02-02 12:58:11.628375",
+        "post_url": "",
+        "country": "LR",
+        "activity": "Public Sector",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Liberia Electricity Corporation (LEC)",
+        "group_name": "0apt",
+        "discovered": "2026-02-02 12:58:17.820234",
+        "description": "LEC Network Under Control. We hold the blueprints of the national power grid and customer billing databases. Silence from the board will lead to data exposure.",
+        "website": "",
+        "published": "2026-02-02 12:58:16.187372",
+        "post_url": "",
+        "country": "LR",
+        "activity": "Energy",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Kilograph",
+        "group_name": "akira",
+        "discovered": "2026-02-02 13:01:01.765211",
+        "description": "Kilograph is an award-winning creative agency that specializes in\nshaping brands, places, and experiences. They utilize strategic \nstorytelling and engaging visuals, combined with innovative techn\nologies, to fulfill their clients' needs.\n\nWe will upload corporate data soon. Passports, w9 forms and other\nemployee documents, clients' personal information (docs, health \ninformation), financials, confidentiality agreements, contracts a\nnd agreements, NDA, etc.\n",
+        "website": "",
+        "published": "2026-02-02 00:00:00.000000",
+        "post_url": "",
+        "country": "US",
+        "activity": "Technology",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Exterior Worlds",
+        "group_name": "qilin",
+        "discovered": "2026-02-02 13:40:51.339926",
+        "description": "N/A",
+        "website": "www.exteriorworlds.com",
+        "published": "2026-02-02 13:40:35.764896",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=e9c35ddc-ba90-3b50-8ef6-a64dce39e954",
+        "country": "US",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": []
     }
 ]

@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3167,
+  "count": 3170,
   "results": [
     {
       "date": "2026-02-02",
@@ -23,6 +23,27 @@
         "employees_url": 0,
         "users_url": 1,
         "thirdparties": 2,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-02-01",
+      "victim": "Galleria degli Uffizi",
+      "domain": "uffizi.it",
+      "country": "IT",
+      "summary": "La Galleria degli Uffizi à Florence a subi un attaque informatique qui a visé les services administratifs, mais les activités du musée n'ont pas été affectées. Les autorités compétentes, avec le soutien de l'Agenzia Nazionale per la Cybersicurezza, enquêtent pour identifier l'origine de l'attaque. Les employés ont reçu des instructions pour éviter tout risque de conséquences plus graves.",
+      "title": "Attacco cyber Galleria degli Uffizi, stop ai servizi amministrativi",
+      "url": "https://www.cybersecitalia.it/galleria-degli-uffizi-sotto-attacco-cyber-museo-aperto-ma-stop-ai-servizi-amministrativi/58908/",
+      "added": "2026-02-03",
+      "infostealer": {
+        "update": "2026-02-04 09:41:09",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
         "infostealer_stats": {}
       },
       "ransomware": null
@@ -224,6 +245,57 @@
           "Generic Stealer": 1,
           "StealC": 1
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-01-23",
+      "victim": "Hochschule Emden-Leer",
+      "domain": "hs-emden-leer.de",
+      "country": "DE",
+      "summary": "Les universités allemandes, dont l’Université des sciences appliquées d’Emden/Leer, font face à des attaques quotidiennes contre leurs systèmes informatiques, ce qui rend la prévention et la détection précoce essentielles. Le 23/01/2026, une attaque potentielle a été détectée et bloquée à temps, sans perte de données ni interruption des systèmes. Par mesure de sécurité supplémentaire, tous les mots de passe ont été réinitialisés.",
+      "title": "Cyberattacke in Reutlingen: Keine E-Mails, kein Festnetz bei Romina Mineralwasser",
+      "url": "https://www.hs-emden-leer.de/it-sicherheit",
+      "added": "2026-02-03",
+      "infostealer": {
+        "update": "2026-02-04 09:40:28",
+        "employees": 38,
+        "users": 43,
+        "thirdparties_domain": 50,
+        "employees_url": 8,
+        "users_url": 51,
+        "thirdparties": 13,
+        "infostealer_stats": {
+          "Vidar": 8,
+          "Raccoon": 12,
+          "Mystic": 1,
+          "UNKNOWN": 1,
+          "Lumma": 16,
+          "Generic Stealer": 16,
+          "Azorult": 6,
+          "RedLine": 20
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-01-23",
+      "victim": "Romina Mineralbrunnen GmbH",
+      "domain": "romina.de",
+      "country": "DE",
+      "summary": "La société Romina Mineralbrunnen GmbH a été victime d'une cyberattaque, ce qui a entraîné une perte de connectivité pour les e-mails et le réseau téléphonique fixe. La société a mis en place une hotline pour les cas urgents et les ventes peuvent être contactées via les représentants de vente. Les autorités policières sont informées et enquêtent sur l'incident.",
+      "title": "Cyberattacke in Reutlingen: Keine E-Mails, kein Festnetz bei Romina Mineralwasser",
+      "url": "https://www.swp.de/lokales/reutlingen/mineralwasser-aus-reutlingen-keine-e-mails-kein-festnetz-cyberattacke-auf-romina-78622235.html",
+      "added": "2026-02-03",
+      "infostealer": {
+        "update": "2026-02-04 09:40:48",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },

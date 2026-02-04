@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3174,
+  "count": 3175,
   "results": [
     {
       "date": "2026-02-04",
@@ -38,6 +38,27 @@
       "added": "2026-02-04",
       "infostealer": {
         "update": "2026-02-04 10:56:30",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-02-02",
+      "victim": "Werkstatt Bremen",
+      "domain": "martinshof-bremen.de",
+      "country": "DE",
+      "summary": "Un hacker a lancé une attaque massive contre l'entreprise municipale Werkstatt Bremen, ce qui a affecté les ordinateurs et les laptops, ainsi que le travail de la police de Brême. L'attaque a été confirmée par le ministère de l'Intérieur, mais les détails sur l'ampleur et les conséquences sont encore inconnus. L'entreprise Werkstatt Bremen est un établissement municipal qui s'occupe de la réhabilitation professionnelle des personnes handicapées et emploie environ 2 100 personnes.",
+      "title": "Hacker greifen städtischen Betrieb \"Werkstatt Bremen\" massiv an - buten un binnen",
+      "url": "https://www.butenunbinnen.de/nachrichten/cyberangriff-polizei-werkstatt-bremen-100.html",
+      "added": "2026-02-04",
+      "infostealer": {
+        "update": "2026-02-04 16:52:48",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,

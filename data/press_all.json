@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3176,
+  "count": 3180,
   "results": [
     {
       "date": "2026-02-04",
@@ -2217,6 +2217,27 @@
           "Raccoon": 1,
           "Lumma": 1
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-12-04",
+      "victim": "Hunneman",
+      "domain": "hunnemanre.com",
+      "country": "US",
+      "summary": "Hunneman experienced a data security incident on December 4, 2025, where unauthorized access to certain systems occurred, potentially impacting personal information. The incident may have included names and Social Security numbers. A cyberattack was claimed by Interlock on December 31.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/1ec335d8-e7b4-445f-b59d-034e198ffa8e.html",
+      "added": "2026-02-05",
+      "infostealer": {
+        "update": "2026-02-05 15:23:42",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },
@@ -6986,6 +7007,27 @@
     },
     {
       "date": "2025-09-09",
+      "victim": "Corban OneSource, LLC",
+      "domain": "corbanonesource.com",
+      "country": "US",
+      "summary": "Unauthorized access to certain systems within Corban OneSource, LLC's network occurred on September 9, 2025, resulting in the access of a file containing personal information of two Maine residents. A cyberattack was claimed by Qilin on October 4.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/c0502bd2-4671-473f-bf6c-8064ff699ff3.html",
+      "added": "2026-02-05",
+      "infostealer": {
+        "update": "2026-02-05 15:24:02",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-09-09",
       "victim": "Trailer Transit",
       "domain": "trailertransit.com",
       "country": "US",
@@ -7543,6 +7585,27 @@
         "group": "incransom",
         "permalink": "https://www.ransomware.live/id/YXdvLWthLWxhbmQuZGVAaW5jcmFuc29t"
       }
+    },
+    {
+      "date": "2025-08-29",
+      "victim": "Barnhart",
+      "domain": "barnhartinc.com",
+      "country": "US",
+      "summary": "Barnhart Group, Inc. experienced a network disruption that led to unauthorized access to certain information stored on their network between August 27, 2025, and August 29, 2025. A cyberattack was claimed by Akira on November 14.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/81a69456-0618-4878-a74f-47ab848d9b5b.html",
+      "added": "2026-02-05",
+      "infostealer": {
+        "update": "2026-02-05 15:23:21",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
     },
     {
       "date": "2025-08-29",
@@ -49823,6 +49886,41 @@
         "group": "medusa",
         "permalink": "https://www.ransomware.live/id/RGlnaXRlbCBWZW5lenVlbGFAbWVkdXNh"
       }
+    },
+    {
+      "date": "2024-01-29",
+      "victim": "CloudCone",
+      "domain": "cloudcone.com",
+      "country": "US",
+      "summary": "CloudCone, un fournisseur d'hébergement cloud, a subi une faille de sécurité qui a touché une partie limitée de son infrastructure d'hébergement à Los Angeles, entraînant des problèmes de connectivité et des messages de rançon pour certains utilisateurs. L'entreprise a isolé les serveurs affectés et a identifié des signes de modification non autorisée au niveau du système sur les machines virtuelles touchées. Les utilisateurs ont signalé des messages de rançon avec des demandes de paiement, mais l'entreprise n'a pas confirmé si les données des clients avaient été compromises.",
+      "title": "CloudCone outage in Los Angeles linked to ransom messages and disk damage",
+      "url": "https://dysruptionhub.com/cloudcone-security-incident-california/",
+      "added": "2026-02-05",
+      "infostealer": {
+        "update": "2026-02-05 15:24:22",
+        "employees": 0,
+        "users": 1528,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 24,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "Mystic": 1,
+          "RedLine": 326,
+          "Lumma": 354,
+          "StealC": 37,
+          "Generic Stealer": 287,
+          "Azorult": 24,
+          "Raccoon": 117,
+          "Acreed": 5,
+          "Atomic": 3,
+          "Vidar": 34,
+          "CRYPTBOT": 2,
+          "UNKNOWN": 10,
+          "DarkCrystal": 16
+        }
+      },
+      "ransomware": null
     },
     {
       "date": "2024-01-29",

@@ -4,8 +4,29 @@
     "month": null,
     "country": null
   },
-  "count": 3180,
+  "count": 3183,
   "results": [
+    {
+      "date": "2026-02-05",
+      "victim": "Tulare City School District",
+      "domain": "tcsdk8.org",
+      "country": "US",
+      "summary": "Le district scolaire de Tulare City en Californie enquête sur une activité suspecte sur son réseau après des perturbations qui ont affecté certains systèmes informatiques. Des captures d'écran non vérifiées en ligne affirment qu'une menace d'extorsion est liée aux informations des étudiants. Le district travaille pour déterminer l'étendue de l'incident et restaurer la pleine opérabilité de ses systèmes.",
+      "title": "California’s Tulare City School District probes network incident as extortion claim circulates",
+      "url": "https://dysruptionhub.com/tulare-city-schools-network-incident-ca/",
+      "added": "2026-02-06",
+      "infostealer": {
+        "update": "2026-02-06 15:23:53",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-02-04",
       "victim": "Gozo Channel",
@@ -24,6 +45,31 @@
         "users_url": 0,
         "thirdparties": 0,
         "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-02-03",
+      "victim": "Conpet",
+      "domain": "conpet.ro",
+      "country": "RO",
+      "summary": "Conpet, l'opérateur national de pipelines pétroliers de la Roumanie, a subi une cyberattaque qui a perturbé ses systèmes d'entreprise et mis hors ligne son site Web. L'incident n'a pas affecté les opérations de l'entreprise, mais a touché son infrastructure informatique et son site Web. Conpet enquête sur l'incident avec l'aide des autorités nationales de cybersécurité.",
+      "title": "Romanian oil pipeline operator Conpet discloses cyberattack",
+      "url": "https://www.bleepingcomputer.com/news/security/romanian-oil-pipeline-operator-conpet-discloses-cyberattack-qilin-ransomware/",
+      "added": "2026-02-06",
+      "infostealer": {
+        "update": "2026-02-05 08:19:10",
+        "employees": 13,
+        "users": 3,
+        "thirdparties_domain": 48,
+        "employees_url": 12,
+        "users_url": 53,
+        "thirdparties": 12,
+        "infostealer_stats": {
+          "Raccoon": 1,
+          "RedLine": 6,
+          "UNKNOWN": 1
+        }
       },
       "ransomware": null
     },
@@ -713,6 +759,27 @@
         "group": "thegentlemen",
         "permalink": "https://www.ransomware.live/id/QXl1bnRhbWllbnRvIGRlIEJlbmllbEB0aGVnZW50bGVtZW4="
       }
+    },
+    {
+      "date": "2026-01-14",
+      "victim": "Beacon Mutual",
+      "domain": "beaconmutual.com",
+      "country": "US",
+      "summary": "Beacon Mutual, un assureur de compensation pour les travailleurs basé à Warwick, Rhode Island, a restauré ses services le 20 janvier après avoir détecté une activité suspecte et avoir déconnecté certains systèmes pour contenir la menace. L'incident a été lié à un groupe de ransomware appelé Incransom. L'entreprise travaille avec des experts en cybersécurité pour déterminer l'étendue de l'incident.",
+      "title": "Beacon Mutual restores systems after ransomware attack in Rhode Island",
+      "url": "https://dysruptionhub.com/beacon-mutual-ransomware-rhode-island/",
+      "added": "2026-02-06",
+      "infostealer": {
+        "update": "2026-02-06 15:24:13",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
     },
     {
       "date": "2026-01-13",

@@ -1,6 +1,6 @@
 {
   "filter_type": null,
-  "count": 73,
+  "count": 74,
   "groups": [
     {
       "group": "Ailock",
@@ -247,6 +247,12 @@
       "group": "HelloKitty",
       "ioc_types": {
         "md5": 54
+      }
+    },
+    {
+      "group": "Insomnia",
+      "ioc_types": {
+        "tox": 1
       }
     },
     {

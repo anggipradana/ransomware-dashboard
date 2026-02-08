@@ -333476,5 +333476,35 @@
         "activity": "Hospitality and Tourism",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "San Diego Eye Bank",
+        "group_name": "pear",
+        "discovered": "2026-02-08 08:36:53.848355",
+        "description": "San Diego Eye Tissue Bank",
+        "website": "sdeb.org",
+        "published": "2026-02-04 00:00:00.000000",
+        "post_url": "http://peargxn3oki34c4savcbcfqofjjwjnnyrlrbszfv6ujlx36mhrh57did.onion/Companies/sdeb",
+        "country": "US",
+        "activity": "Healthcare",
+        "duplicates": [],
+        "extrainfos": {
+            "Activity": "Blood & Organ Banks",
+            "Revenue": "<$5M",
+            "Status": "announced"
+        }
+    },
+    {
+        "post_title": "AB Data",
+        "group_name": "qilin",
+        "discovered": "2026-02-08 08:37:50.410845",
+        "description": "N/A",
+        "website": "www.abdata.com",
+        "published": "2026-02-08 08:37:35.002225",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=df123a44-ad61-32ef-85bb-32ec0433351b",
+        "country": "US",
+        "activity": "Technology",
+        "duplicates": [],
+        "extrainfos": []
     }
 ]

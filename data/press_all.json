@@ -4,8 +4,29 @@
     "month": null,
     "country": null
   },
-  "count": 3185,
+  "count": 3186,
   "results": [
+    {
+      "date": "2026-02-08",
+      "victim": "Asten Santé",
+      "domain": "astensante.com",
+      "country": "FR",
+      "summary": "L'accès aux extranets patients et médecins d'Asten Santé est temporairement suspendu pour raisons de sécurité. Les équipes techniques travaillent pour rétablir le service dans les meilleurs délais. Les équipes relations clients sont à disposition pour répondre aux questions.",
+      "title": "Interruption d’accès aux extranets pour raisons de sécurité - Asten Santé",
+      "url": "https://www.astensante.com/actualite/interruption-dacces-aux-extranets-pour-raisons-de-securite",
+      "added": "2026-02-09",
+      "infostealer": {
+        "update": "2026-02-09 14:54:18",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-02-06",
       "victim": "BridgePay Network Solutions",

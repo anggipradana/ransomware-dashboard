@@ -334076,5 +334076,25 @@
         "activity": "Not Found",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "PCCA",
+        "group_name": "nitrogen",
+        "discovered": "2026-02-10 21:22:11.410429",
+        "description": "PCCA supports the creation of personalized medicine and innovative products, as well as pharmaceutical compounding.",
+        "website": "www.pccarx.com",
+        "published": "2023-03-29 01:31:02.989739",
+        "post_url": "http://nitrogenczslprh3xyw6lh5xyjvmsz7ciljoqxxknd7uymkfetfhgvqd.onion/posts/698b4e469dcf11e30d8de668",
+        "country": "US",
+        "activity": "Healthcare",
+        "duplicates": [
+            {
+                "date": "2026-02-10 21:22:11.419858",
+                "group": "blackbasta",
+                "link": "https://www.ransomware.live/id/UENDQVJYXzJAYmxhY2tiYXN0YQ==",
+                "attackdate": "2023-03-29 01:31:02.989739"
+            }
+        ],
+        "extrainfos": []
     }
 ]

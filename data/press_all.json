@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3186,
+  "count": 3187,
   "results": [
     {
       "date": "2026-02-08",
@@ -362,6 +362,41 @@
         "users_url": 0,
         "thirdparties": 0,
         "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-01-26",
+      "victim": "Ardene",
+      "domain": "ardene.com",
+      "country": "CA",
+      "summary": "Le détaillant canadien de mode Ardene a annoncé qu'il faisait face à une cyberattaque, ce qui a entraîné des retards d'expédition et des problèmes avec son programme de fidélité. L'entreprise a pris des mesures pour contenir l'incident et sécuriser son environnement. L'enquête se poursuit et aucune donnée client n'a été compromise pour le moment.",
+      "title": "Ardene dealing with ‘cyber incident’",
+      "url": "https://www.cp24.com/news/canada/2026/02/10/canadian-fashion-retailer-ardene-working-to-restore-services-following-cyber-incident/",
+      "added": "2026-02-10",
+      "infostealer": {
+        "update": "2026-02-10 16:22:22",
+        "employees": 1,
+        "users": 884,
+        "thirdparties_domain": 1,
+        "employees_url": 1,
+        "users_url": 73,
+        "thirdparties": 4,
+        "infostealer_stats": {
+          "Lumma": 225,
+          "Generic Stealer": 206,
+          "StealC": 15,
+          "UNKNOWN": 12,
+          "Raccoon": 83,
+          "Mystic": 6,
+          "Acreed": 7,
+          "Vidar": 25,
+          "Atomic": 4,
+          "Ficker": 1,
+          "Taurus": 1,
+          "Azorult": 64,
+          "RedLine": 206
+        }
       },
       "ransomware": null
     },

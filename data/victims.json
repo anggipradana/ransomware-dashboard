@@ -333747,5 +333747,22 @@
         "activity": "Not Found",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Pavlus Travel",
+        "group_name": "pear",
+        "discovered": "2026-02-10 06:02:06.134632",
+        "description": "Specializes in luxury sea cruises, river cruises, and guided tours",
+        "website": "pavlus.com",
+        "published": "2026-02-06 00:00:00.000000",
+        "post_url": "http://peargxn3oki34c4savcbcfqofjjwjnnyrlrbszfv6ujlx36mhrh57did.onion/Companies/pavlus",
+        "country": "US",
+        "activity": "Hospitality and Tourism",
+        "duplicates": [],
+        "extrainfos": {
+            "Activity": "Hospitality",
+            "Revenue": "$9.1M",
+            "Status": "announced"
+        }
     }
 ]

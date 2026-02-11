@@ -334213,5 +334213,122 @@
         "activity": "Not Found",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "VATIER",
+        "group_name": "bravox",
+        "discovered": "2026-02-11 08:18:08.057459",
+        "description": "An international law firm providing comprehensive legal services to corporate and private clients in France and abroad.",
+        "website": "www.vatier.com",
+        "published": "2026-02-11 08:17:34.561224",
+        "post_url": "http://bravoxxtrmqeeevhl7gdh2yzvlrjxajr66d33c7ozosrccx4cz7cepad.onion/blog/3d5717d5-486d-4623-93dc-cdf8efc0c476",
+        "country": "FR",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "463.1GB"
+        }
+    },
+    {
+        "post_title": "John O's Foods",
+        "group_name": "bravox",
+        "discovered": "2026-02-11 08:18:54.445101",
+        "description": "The company operates in the field of processing and supply of fish products.",
+        "website": "www.johnofoods.com",
+        "published": "2026-02-11 08:18:20.179745",
+        "post_url": "http://bravoxxtrmqeeevhl7gdh2yzvlrjxajr66d33c7ozosrccx4cz7cepad.onion/blog/961e79ef-8642-475c-8604-0ba880ba5b33",
+        "country": "CA",
+        "activity": "Agriculture and Food Production",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "170.7GB"
+        }
+    },
+    {
+        "post_title": "FUSION HILL",
+        "group_name": "bravox",
+        "discovered": "2026-02-11 08:20:09.434497",
+        "description": "A company operating in the broad field of marketing and advertising.",
+        "website": "www.fusionhill.com",
+        "published": "2026-02-11 08:19:26.593360",
+        "post_url": "http://bravoxxtrmqeeevhl7gdh2yzvlrjxajr66d33c7ozosrccx4cz7cepad.onion/blog/c2de3e05-d1b3-417a-bded-290501843195",
+        "country": "US",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "3.1TB"
+        }
+    },
+    {
+        "post_title": "SPEC",
+        "group_name": "bravox",
+        "discovered": "2026-02-11 08:21:09.622545",
+        "description": "A company operating in the field of radiography.",
+        "website": "spec150.com",
+        "published": "2026-02-11 08:20:41.560597",
+        "post_url": "http://bravoxxtrmqeeevhl7gdh2yzvlrjxajr66d33c7ozosrccx4cz7cepad.onion/blog/a89714cd-67b8-4d53-9a1a-0bf0f33f7252",
+        "country": "US",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "444.7GB"
+        }
+    },
+    {
+        "post_title": "WVPCA",
+        "group_name": "bravox",
+        "discovered": "2026-02-11 08:21:52.486894",
+        "description": "An organization that supports and develops a network of community health centers throughout West Virginia.",
+        "website": "www.wvpca.org",
+        "published": "2025-05-15 00:00:00.000000",
+        "post_url": "http://bravoxxtrmqeeevhl7gdh2yzvlrjxajr66d33c7ozosrccx4cz7cepad.onion/blog/0a6a4f3f-fb28-4807-9bbe-49872020c472",
+        "country": "US",
+        "activity": "Not Found",
+        "duplicates": [
+            {
+                "date": "2026-02-11 08:21:52.548529",
+                "group": "incransom",
+                "link": "https://www.ransomware.live/id/d3ZwY2Eub3JnQGluY3JhbnNvbQ==",
+                "attackdate": "2025-05-15 00:00:00.000000"
+            }
+        ],
+        "extrainfos": {
+            "data_size": "203.3GB"
+        }
+    },
+    {
+        "post_title": "Hood River Dental",
+        "group_name": "bravox",
+        "discovered": "2026-02-11 08:22:29.700104",
+        "description": "A dental clinic offering its clients a wide range of services.",
+        "website": "www.hoodriverdentist.com",
+        "published": "2025-12-16 21:26:30.190750",
+        "post_url": "http://bravoxxtrmqeeevhl7gdh2yzvlrjxajr66d33c7ozosrccx4cz7cepad.onion/blog/9c1af193-1beb-4adf-89a4-f7333183362a",
+        "country": "US",
+        "activity": "Healthcare",
+        "duplicates": [
+            {
+                "date": "2026-02-11 08:22:29.772899",
+                "group": "safepay",
+                "link": "https://www.ransomware.live/id/aG9vZHJpdmVyZGVudGlzdC5jb21Ac2FmZXBheQ==",
+                "attackdate": "2025-12-16 21:26:30.190750"
+            }
+        ],
+        "extrainfos": {
+            "data_size": "187.2GB"
+        }
+    },
+    {
+        "post_title": "falconmgt.com",
+        "group_name": "reynolds",
+        "discovered": "2026-02-11 08:29:44.406414",
+        "description": "Falcon Management Corp. was founded in 1991. The company's line of business includes providing financial planning and investment advisory services.",
+        "website": "falconmgt.com",
+        "published": "2025-11-13 00:00:00.000000",
+        "post_url": "http://bs2tlg32pfjwmclm22cyngqmoo24cdlhfxzbruwrdaxumisfeory32qd.onion/post/falconmgtcom/",
+        "country": "US",
+        "activity": "Business Services",
+        "duplicates": [],
+        "extrainfos": []
     }
 ]

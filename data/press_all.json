@@ -4,8 +4,29 @@
     "month": null,
     "country": null
   },
-  "count": 3187,
+  "count": 3189,
   "results": [
+    {
+      "date": "2026-02-09",
+      "victim": "Nosate",
+      "domain": "comune.nosate.mi.it",
+      "country": "IT",
+      "summary": "Le SI de la commune de Nosate a été victime d'une cyberattaque. L'administration a lancé un appel à la vigilance auprès de la population pour signaler toute communication suspecte.",
+      "title": "Attacco hacker al Comune di Nosate, il sindaco: “Diffidate delle comunicazioni istituzionali”",
+      "url": "https://www.ilgiorno.it/legnano/cronaca/attacco-hacker-comune-di-nosate-tpm6at40",
+      "added": "2026-02-11",
+      "infostealer": {
+        "update": "2026-02-11 08:43:31",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-02-08",
       "victim": "Asten Santé",
@@ -1083,6 +1104,27 @@
           "CRYPTBOT": 4,
           "Mystic": 2
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-01-09",
+      "victim": "Di Giacomo srl",
+      "domain": "digiacomosrl.eu",
+      "country": "IT",
+      "summary": "L'entreprise Di Giacomo srl, une lavanderie industrielle italienne, a été victime d'une attaque hacker au début de l'année, ce qui a entraîné une perte de données sensibles et une réduction de l'activité administrative. Les employés sont actuellement confrontés à des retards de paiement de salaire en raison de l'absence de données et de registres numériques. L'attaque pourrait être liée à un ransomware, mais aucune information officielle n'a été communiquée à ce sujet.",
+      "title": "Napoli, attacco informatico alla Di Giacomo srl: sistemi in tilt e dati inaccessibili",
+      "url": "https://www.cronachedellacampania.it/2026/02/attacco-informatico-di-giacomo-sistemi-dati-inaccessibili/",
+      "added": "2026-02-11",
+      "infostealer": {
+        "update": "2026-02-11 08:43:51",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },

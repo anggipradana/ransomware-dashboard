@@ -4,8 +4,29 @@
     "month": null,
     "country": null
   },
-  "count": 3190,
+  "count": 3202,
   "results": [
+    {
+      "date": "2026-02-11",
+      "victim": "State College Borough",
+      "domain": "statecollegepa.us",
+      "country": "US",
+      "summary": "On Wednesday, February 11, the Borough of State College suffered a cybersecurity attack. The Information Technology division acted quickly to stop the attack. While the attack has been stopped, it will take several days to review and recover.",
+      "title": "State College Borough Government Hit by Cyberattack",
+      "url": "https://www.statecollege.com/articles/local-news/state-college-borough-government-hit-by-cyberattack/",
+      "added": "2026-02-12",
+      "infostealer": {
+        "update": "2026-02-12 10:59:09",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-02-09",
       "victim": "Nosate",
@@ -4633,6 +4654,27 @@
     },
     {
       "date": "2025-10-21",
+      "victim": "Cottage Hospital",
+      "domain": "cottagehospital.org",
+      "country": "US",
+      "summary": "Cottage Hospital suffered a data breach where an unauthorized party accessed their computer network and stole employee and physician information, including names, Social Security numbers, driver's license numbers, and bank account information. A cyberattack was claimed by Qilin on December 3, 2025.",
+      "title": "2026-02-06 Cottage Hospital Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2026-02-06-cottage-hospital-data-breach-notice-consumers",
+      "added": "2026-02-10",
+      "infostealer": {
+        "update": "2025-12-03 20:12:45",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-10-21",
       "victim": "McIntosh Laboratory, Inc.",
       "domain": "mcintoshlabs.com",
       "country": "US",
@@ -8462,6 +8504,27 @@
     },
     {
       "date": "2025-08-18",
+      "victim": "North Atlantic States Carpenters Benefit Funds",
+      "domain": "carpentersfund.org",
+      "country": "US",
+      "summary": "The North Atlantic States Carpenters Benefit Funds experienced a data breach on August 18, 2025, where an unauthorized actor accessed and/or acquired certain files on the systems of the CT office. The breach involved name, Social Security number, and financial account information. No funds were taken, and participants' benefits and account balances are fully intact.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/84a9bd2e-7375-4608-a250-97440290b016.html",
+      "added": "2026-02-12",
+      "infostealer": {
+        "update": "2026-02-12 11:00:30",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-08-18",
       "victim": "IGI Global Scientific Publishing",
       "domain": "igi-global.com",
       "country": "US",
@@ -8926,6 +8989,27 @@
     },
     {
       "date": "2025-08-13",
+      "victim": "The Institute for Human Resources and Services Inc.",
+      "domain": "ihrser.com",
+      "country": "US",
+      "summary": "The Institute for Human Resources and Services Inc. suffered a data breach between August 13, 2025, and August 14, 2025, where an unknown actor gained access to certain systems and potentially accessed or took personal information. The information impacted includes name, Social Security number, and driver's license number. IHRS is providing access to credit monitoring services for twelve months to affected individuals.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/71697961-6085-4ab7-803f-aee11d4a40df.html",
+      "added": "2026-02-12",
+      "infostealer": {
+        "update": "2026-02-12 11:00:50",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-08-13",
       "victim": "Hoppegarten",
       "domain": "gemeinde-hoppegarten.de",
       "country": "DE",
@@ -9056,6 +9140,27 @@
         "group": "warlock",
         "permalink": "https://www.ransomware.live/id/Y29sdC5uZXRAd2FybG9jaw=="
       }
+    },
+    {
+      "date": "2025-08-11",
+      "victim": "Manhattan Theatre Club",
+      "domain": "manhattantheatreclub.com",
+      "country": "US",
+      "summary": "Manhattan Theater Club experienced a data security incident that may have involved personal information. The incident occurred on August 11, 2025, when an unknown actor accessed and acquired certain personal information without authorization. MTC has no evidence of any actual or suspected misuse of information involved in this incident.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/ac552441-d6fa-46d7-bdef-0537ed7397e0.html",
+      "added": "2026-02-12",
+      "infostealer": {
+        "update": "2026-02-12 11:01:11",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
     },
     {
       "date": "2025-08-11",
@@ -9571,6 +9676,27 @@
           "Taurus": 1,
           "Atomic": 1
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-08-05",
+      "victim": "New Jersey Compensation Rating & Inspection Bureau",
+      "domain": "njcrib.org",
+      "country": "US",
+      "summary": "NJCRIB experienced a data breach between July 8, 2025, and August 5, 2025, where an outside threat actor accessed their computer systems and copied administrative files without authorization. The breach may have exposed personal information, including names and contact details. NJCRIB is offering credit monitoring and identity restoration assistance services to affected individuals.",
+      "title": "2026-02-04 Compensation Rating & Inspection Bureau Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2026-02-04-compensation-rating-inspection-bureau-data-breach-notice-consumers",
+      "added": "2026-02-10",
+      "infostealer": {
+        "update": "2026-02-12 11:01:31",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },
@@ -11328,6 +11454,27 @@
       "added": "2025-07-09",
       "infostealer": {
         "update": "2025-07-09 18:31:39",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-07-07",
+      "victim": "City of Peabody, MA",
+      "domain": "peabody.ma.us",
+      "country": "US",
+      "summary": "An unauthorized actor gained access to certain Peabody systems between June 13, 2025, and July 8, 2025, and copied certain data stored in those locations. The information included names and other data. A cyberattack was claimed by Interlock on July 18.",
+      "title": "2026-02-09 City of Peabody Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2026-02-09-city-peabody-data-breach-notice-consumers",
+      "added": "2026-02-11",
+      "infostealer": {
+        "update": "2026-02-12 11:01:52",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,
@@ -22493,6 +22640,27 @@
     },
     {
       "date": "2025-03-02",
+      "victim": "Counseling Center of Wayne and Holmes Counties",
+      "domain": "ccwhc.org",
+      "country": "US",
+      "summary": "The Counseling Center suffered a data breach, resulting in unauthorized access to personal information. The breach was discovered on December 9, 2025, and affected individuals were notified. The organization is recommending that affected individuals remain vigilant and monitor their credit reports for unauthorized activity.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/4c461eec-6961-42db-958f-d073889ec7a5.html",
+      "added": "2026-02-10",
+      "infostealer": {
+        "update": "2026-02-12 11:00:10",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-03-02",
       "victim": "Berkeley Research Group, LLC",
       "domain": "thinkbrg.com",
       "country": "US",
@@ -25371,6 +25539,27 @@
         "thirdparties": 0,
         "employees_url": 0,
         "users_url": 0
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-02-01",
+      "victim": "The Gladney Center for Adoption",
+      "domain": "adoptionsbygladney.com",
+      "country": "US",
+      "summary": "The potentially impacted files contained sensitive information, but the organization does not believe it included more sensitive information. Identity monitoring services are being offered to affected individuals. The services include credit monitoring, fraud consultation, and identity theft restoration.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/4fe222ad-0992-483c-954f-70c10623831a.html",
+      "added": "2026-02-07",
+      "infostealer": {
+        "update": "2026-02-12 10:59:50",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },
@@ -34682,6 +34871,29 @@
     },
     {
       "date": "2024-09-30",
+      "victim": "Tuggle Duggins P.A.",
+      "domain": "tuggleduggins.com",
+      "country": "US",
+      "summary": "Tuggle Duggins P.A. experienced a data breach in October 2024, where unauthorized access occurred, and sensitive information was copied from their network. The breach affected clients' names, health-related information, and Social Security numbers. An attack was claimed by Black Basta on October 24, 2024.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/0bc65e65-1c76-40b2-a692-b13bcc459a47.html",
+      "added": "2026-02-07",
+      "infostealer": {
+        "update": "2024-10-24 17:05:44",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0
+      },
+      "ransomware": {
+        "group": "blackbasta",
+        "permalink": "https://www.ransomware.live/id/dHVnZ2xlZHVnZ2lucy5jb21AYmxhY2tiYXN0YQ=="
+      }
+    },
+    {
+      "date": "2024-09-30",
       "victim": "Universidad Católica de Valencia",
       "domain": "ucv.es",
       "country": "ES",
@@ -42981,6 +43193,27 @@
     },
     {
       "date": "2024-05-23",
+      "victim": "UA Sprinkler Fitters Local 669 Joint Apprenticeship and Training Committee",
+      "domain": "sprinklerfitters669.org",
+      "country": "US",
+      "summary": "The JATC suffered a cybersecurity attack that impacted its computer network, resulting in unauthorized access to sensitive information, including names, Social Security numbers, and driver's license numbers. The incident occurred between May 17, 2024, and May 23, 2024. The JATC has taken steps to secure its network and provide credit monitoring services to affected individuals.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/ee0b5706-2621-4be6-9835-f1a09a7b24cb.html",
+      "added": "2026-02-07",
+      "infostealer": {
+        "update": "2026-02-12 10:59:29",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2024-05-23",
       "victim": "Le département de la Justice et du Développement constitutionnel (DJ&CD)",
       "domain": "justice.gov.za",
       "country": "ZA",
@@ -46698,6 +46931,28 @@
         "users_url": 0
       },
       "ransomware": null
+    },
+    {
+      "date": "2024-03-19",
+      "victim": "Sermo",
+      "domain": "sermo.com",
+      "country": "US",
+      "summary": "Sermo experienced a data security incident involving a ransomware event with the group Black Basta claiming responsibility. Unauthorized access to and acquisition of information from Sermo’s network environment took place between March 19, 2024, and April 10, 2024. The incident resulted in the exposure of personal information, including Social Security numbers of five Maine residents.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/b2392c26-fd7b-437c-b13d-eef3668b5aec.html",
+      "added": "2026-02-10",
+      "infostealer": {
+        "update": "2024-04-09 17:15:30",
+        "employees": 0,
+        "users": 536,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 38
+      },
+      "ransomware": {
+        "group": "blackbasta",
+        "permalink": "https://www.ransomware.live/id/c2VybW8uY29tQGJsYWNrYmFzdGE="
+      }
     },
     {
       "date": "2024-03-19",

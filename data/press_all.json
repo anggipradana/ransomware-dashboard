@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3203,
+  "count": 3204,
   "results": [
     {
       "date": "2026-02-11",
@@ -17,6 +17,27 @@
       "added": "2026-02-12",
       "infostealer": {
         "update": "2026-02-12 10:59:09",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-02-09",
+      "victim": "V.I. Economic Development Authority",
+      "domain": "usvieda.org",
+      "country": "VI",
+      "summary": "Une attaque informatique a été signalée contre l'autorité de développement économique des îles Vierges, les responsables n'ont pas encore commenté l'incident, mais le gouverneur a confirmé l'attaque et une déclaration officielle est attendue. Les attaques de cyberransom sont de plus en plus fréquentes et ont déjà touché plusieurs institutions locales. Les autorités sont prêtes à aider en cas de faille de sécurité.",
+      "title": "EDA Quiet Amid Reported Cyberattack",
+      "url": "https://stthomassource.com/content/2026/02/12/eda-quiet-amid-reported-cyberattack/",
+      "added": "2026-02-13",
+      "infostealer": {
+        "update": "2026-02-13 08:39:58",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,

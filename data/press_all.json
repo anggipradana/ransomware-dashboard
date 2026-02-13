@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3202,
+  "count": 3203,
   "results": [
     {
       "date": "2026-02-11",
@@ -66,6 +66,38 @@
         "users_url": 0,
         "thirdparties": 0,
         "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-02-07",
+      "victim": "Odido",
+      "domain": "odido.nl",
+      "country": "NL",
+      "summary": "Odido a été victime d'une cyberattaque, les données personnelles de ses clients ont été compromises, mais les mots de passe, les détails d'appel et les factures ne sont pas affectés, l'entreprise prend des mesures pour limiter l'impact et soutenir ses clients.",
+      "title": "Informatiepagina cyberincident | Odido",
+      "url": "https://www.odido.nl/veiligheid",
+      "added": "2026-02-13",
+      "infostealer": {
+        "update": "2026-02-13 07:10:10",
+        "employees": 2,
+        "users": 2815,
+        "thirdparties_domain": 6,
+        "employees_url": 1,
+        "users_url": 60,
+        "thirdparties": 24,
+        "infostealer_stats": {
+          "Generic Stealer": 482,
+          "StealC": 204,
+          "RedLine": 309,
+          "Mystic": 1,
+          "DarkCrystal": 2,
+          "Atomic": 21,
+          "Acreed": 6,
+          "Raccoon": 3,
+          "Lumma": 1051,
+          "Vidar": 37
+        }
       },
       "ransomware": null
     },

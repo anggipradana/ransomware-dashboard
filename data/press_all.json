@@ -4,8 +4,29 @@
     "month": null,
     "country": null
   },
-  "count": 3204,
+  "count": 3208,
   "results": [
+    {
+      "date": "2026-02-12",
+      "victim": "IFMNOTICIAS",
+      "domain": "ifmnoticias.com",
+      "country": "CO",
+      "summary": "Le média IFMNOTICIAS a été victime d'une attaque cybernétique qui a paralysé ses opérations digitales, mais son équipe travaille pour rétablir les services et continue de s'engager pour un journalisme libre et indépendant. L'attaque est considérée comme une forme de censure et un défi à la liberté de la presse. Le média reste déterminé à poursuivre son travail avec force et clarté.",
+      "title": "Vil ataque cibernético contra IFMNOTICIAS",
+      "url": "https://juanpaz.net/vil-ataque-cibernetico-contra-ifmnoticias/",
+      "added": "2026-02-15",
+      "infostealer": {
+        "update": "2026-02-15 13:29:47",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-02-11",
       "victim": "State College Borough",
@@ -758,6 +779,30 @@
     },
     {
       "date": "2026-01-20",
+      "victim": "Tulsa Airports Improvement Trust (TAIT)",
+      "domain": "flytulsa.com",
+      "country": "US",
+      "summary": "Le Tulsa Airports Improvement Trust a subi une faille de sécurité, une partie de ses fichiers ont été accessibles à une tierce partie non autorisée du 17 au 20 janvier. Les informations personnelles de certaines personnes ont été compromises, mais l'aéroport a pris des mesures pour sécuriser son réseau et contenir l'incident. L'enquête est toujours en cours, mais l'aéroport est confiant dans la sécurité de ses systèmes informatiques.",
+      "title": "Tulsa Airports issues notice of data security incident",
+      "url": "https://www.pryorinfopub.com/news/state/tulsa-airports-issues-notice-of-data-security-incident/article_179c1954-1774-555b-97f9-844012c3e10e.html",
+      "added": "2026-02-15",
+      "infostealer": {
+        "update": "2026-01-30 08:11:51",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "qilin",
+        "permalink": "https://www.ransomware.live/id/VHVsc2EgSW50ZXJuYXRpb25hbCBBaXJwb3J0QHFpbGlu"
+      }
+    },
+    {
+      "date": "2026-01-20",
       "victim": "Institut der Wirtschaftsprüfer (IDW) ",
       "domain": "idw.de",
       "country": "DE",
@@ -1042,6 +1087,32 @@
           "StealC": 6,
           "Raccoon": 4,
           "UNKNOWN": 2
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-01-12",
+      "victim": "Land and Agricultural Development Bank of South Africa",
+      "domain": "landbank.co.za",
+      "country": "ZA",
+      "summary": "La Land and Agricultural Development Bank of South Africa a subi une faille de sécurité informatique causée par un tiers non autorisé qui a déployé un rançongiciel, ce qui a entraîné une interruption temporaire de certains systèmes internes. La banque a pris des mesures de précaution pour protéger ses opérations et ses informations, mais elle n'a pas confirmé ou infirmé les rapports selon lesquels des cybercriminels auraient exigé une rançon de 50 millions de rands. Les enquêtes sont toujours en cours.",
+      "title": "Land Bank declines to confirm R50m ransom claim as cyber investigation continues",
+      "url": "https://persfin.co.za/companies/2026-02-15-land-bank-declines-to-confirm-r50m-ransom-claim-as-cyber-investigation-continues/",
+      "added": "2026-02-15",
+      "infostealer": {
+        "update": "2026-02-15 13:30:07",
+        "employees": 0,
+        "users": 23,
+        "thirdparties_domain": 3,
+        "employees_url": 0,
+        "users_url": 4,
+        "thirdparties": 4,
+        "infostealer_stats": {
+          "Lumma": 9,
+          "Generic Stealer": 2,
+          "StealC": 4,
+          "RedLine": 4
         }
       },
       "ransomware": null
@@ -11486,6 +11557,27 @@
       "added": "2025-07-15",
       "infostealer": {
         "update": "2025-07-15 07:53:31",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-07-08",
+      "victim": "York City",
+      "domain": "yorkcity.org",
+      "country": "US",
+      "summary": "La ville de York a subi une cyberattaque l'été dernier, ce qui a entraîné une interruption de ses systèmes informatiques et a nécessité un paiement de rançon de 500 000 dollars. L'attaque a commencé le 8 juillet et a pris le contrôle de l'infrastructure informatique de la ville. Le montant payé représente environ la moitié de la demande initiale des hackers.",
+      "title": "York City cyberattack prompted $500K ransom payout, former mayor says",
+      "url": "https://www.ydr.com/story/news/local/2026/02/13/york-city-cyberattack-led-to-500k-ransom-payout-former-mayor-says/88644911007/",
+      "added": "2026-02-15",
+      "infostealer": {
+        "update": "2026-02-15 13:30:27",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,

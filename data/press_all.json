@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3208,
+  "count": 3209,
   "results": [
     {
       "date": "2026-02-12",
@@ -24340,6 +24340,27 @@
       "added": "2025-03-20",
       "infostealer": {
         "update": "2025-03-20 11:48:28",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-02-13",
+      "victim": "Terra Holdings, LLC",
+      "domain": "terra-holdingsllc.com",
+      "country": "US",
+      "summary": "Terra Holdings, LLC suffered a data breach between February 11, 2025, and February 13, 2025, where certain files were accessed or taken without authorization. The breach involved sensitive information, including names and other types of data. Terra Holdings is offering complimentary credit monitoring and identity restoration services to affected individuals.",
+      "title": "2026-02-12 Terra Holdings Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2026-02-12-terra-holdings-data-breach-notice-consumers",
+      "added": "2026-02-14",
+      "infostealer": {
+        "update": "2026-02-15 14:23:36",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,

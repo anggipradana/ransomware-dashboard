@@ -1,7 +1,13 @@
 {
   "filter_type": null,
-  "count": 74,
+  "count": 75,
   "groups": [
+    {
+      "group": "0apt",
+      "ioc_types": {
+        "md5": 4
+      }
+    },
     {
       "group": "Ailock",
       "ioc_types": {

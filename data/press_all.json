@@ -4,8 +4,29 @@
     "month": null,
     "country": null
   },
-  "count": 3209,
+  "count": 3210,
   "results": [
+    {
+      "date": "2026-02-15",
+      "victim": "CHOC FM",
+      "domain": "chocfm.com",
+      "country": "CA",
+      "summary": "Une cyberattaque paralyse la station CHOC FM à Portneuf, les systèmes informatiques sont inutilisables et la diffusion sur les ondes est interrompue. Il s'agit d'une attaque par rançongiciel, selon la Sûreté du Québec, qui a ouvert une enquête. La station a perdu l'accès à ses fichiers audio et ses systèmes informatiques internes.",
+      "title": "Une cyberattaque paralyse la station CHOC FM dans Portneuf",
+      "url": "https://ici.radio-canada.ca/nouvelle/2229291/choc-fm-cyberattaque-radio-station",
+      "added": "2026-02-16",
+      "infostealer": {
+        "update": "2026-02-16 10:33:27",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-02-12",
       "victim": "IFMNOTICIAS",

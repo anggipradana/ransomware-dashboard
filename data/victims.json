@@ -336862,5 +336862,25 @@
         "activity": "Financial Services",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Adelphi",
+        "group_name": "worldleaks",
+        "discovered": "2026-02-17 17:22:44.861637",
+        "description": "[AI generated] Adelphi is a global consultancy firm specializing in healthcare solutions. They operate in more than 25 countries, providing services to the pharmaceutical, biotech, and healthcare industries. They offer transformative solutions in areas like real world evidence, patient-centered outcomes, market access strategies, and medical communication. Their expertise helps clients improve patient lives through science, data, and technology.",
+        "website": "adelphi.uk.com",
+        "published": "2026-02-11 14:04:35.810290",
+        "post_url": "https://worldleaksartrjm3c6vasllvgacbi5u3mgzkluehrzhk2jz4taufuid.onion/companies/8696247062",
+        "country": "GB",
+        "activity": "Not Found",
+        "duplicates": [
+            {
+                "date": "2026-02-17 17:22:44.938589",
+                "group": "dragonforce",
+                "link": "https://www.ransomware.live/id/YWRlbHBoaS51ay5jb21AZHJhZ29uZm9yY2U=",
+                "attackdate": "2026-02-11 14:04:35.810290"
+            }
+        ],
+        "extrainfos": []
     }
 ]

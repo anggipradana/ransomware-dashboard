@@ -4,8 +4,29 @@
     "month": null,
     "country": null
   },
-  "count": 3210,
+  "count": 3213,
   "results": [
+    {
+      "date": "2026-02-16",
+      "victim": "Centre de services scolaire du Fer",
+      "domain": "csdufer.qc.ca",
+      "country": "CA",
+      "summary": "Le Centre de services scolaire du Fer a été victime d'une cyberattaque, ce qui a entraîné l'arrêt de tous ses systèmes et services. Une enquête est en cours pour déterminer l'ampleur de l'événement et si des données ont été compromises. Le Centre gouvernemental de cyberdéfense est impliqué pour soutenir le Centre de services scolaire.",
+      "title": "Le centre de services scolaire du Fer victime d’une cyberattaque - Le Manic",
+      "url": "https://www.lemanic.ca/2026/02/16/le-centre-de-service-scolaire-du-fer-victime-dune-cyberattaque/",
+      "added": "2026-02-17",
+      "infostealer": {
+        "update": "2026-02-17 11:07:15",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-02-15",
       "victim": "CHOC FM",
@@ -17,6 +38,48 @@
       "added": "2026-02-16",
       "infostealer": {
         "update": "2026-02-16 10:33:27",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-02-13",
+      "victim": "Livingston HealthCare",
+      "domain": "livingstonhealthcare.org",
+      "country": "US",
+      "summary": "Livingston HealthCare, un hôpital du Montana, a subi une atteinte à la cybersécurité qui a perturbé son système téléphonique et certaines de ses opérations. L'hôpital a temporairement mis hors ligne certaines de ses systèmes pour évaluer la situation et travailler avec des experts externes. Les soins aux patients continuent, mais certains services réseau restent limités.",
+      "title": "Montana hospital restores phones as cyber-related network disruptions persist",
+      "url": "https://dysruptionhub.com/livingston-healthcare-cyber-incident-montana/",
+      "added": "2026-02-17",
+      "infostealer": {
+        "update": "2026-02-17 11:06:34",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-02-13",
+      "victim": "ワシントンホテル株式会社",
+      "domain": "washingtonhotel.co.jp",
+      "country": "JP",
+      "summary": "Le groupe hôtelier japonais ワシントンホテル株式会社 a subi une attaque de ransomware le 13 février 2026, entraînant une violation de données et des perturbations dans certaines de ses opérations. L'entreprise a mis en place un centre de crise et travaille avec des experts externes pour contenir l'attaque et rétablir ses systèmes. Les détails de l'incident sont encore en cours d'investigation.",
+      "title": "ランサムウェア感染被害のお知らせ | 【公式】ワシントンホテル株式会社",
+      "url": "https://www.washingtonhotel.co.jp/corporation/news/197/",
+      "added": "2026-02-17",
+      "infostealer": {
+        "update": "2026-02-17 11:06:54",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,

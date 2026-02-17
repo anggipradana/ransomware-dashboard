@@ -1,6 +1,6 @@
 {
   "filter_type": null,
-  "count": 75,
+  "count": 76,
   "groups": [
     {
       "group": "0apt",
@@ -364,6 +364,12 @@
       "ioc_types": {
         "sha256": 1,
         "tox": 1
+      }
+    },
+    {
+      "group": "Payload",
+      "ioc_types": {
+        "sha256": 1
       }
     },
     {

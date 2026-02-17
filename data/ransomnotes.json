@@ -1,5 +1,5 @@
 {
-  "count": 208,
+  "count": 209,
   "groups": [
     {
       "group": ".git",
@@ -571,6 +571,10 @@
     },
     {
       "group": "osiris_project",
+      "ransomnotes_count": 1
+    },
+    {
+      "group": "payload",
       "ransomnotes_count": 1
     },
     {

@@ -336819,5 +336819,48 @@
         "activity": "Not Found",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Almacenes Distribuidores de la Frontera",
+        "group_name": "payload",
+        "discovered": "2026-02-17 14:22:26.798084",
+        "description": "Almacenes Distribuidores de la Frontera ha forjado una trayectoria sólida en el Estado de Chihuahua. Desde sus inicios, la empresa ha evolucionado para convertirse en un referente en la industria de tiendas de conveniencia, gasolineras y embotelladoras de agua. Dos nombres que resuenan fuertemente en el mercado son Superette y Del Rio. Estas tiendas de conveniencia se han convertido en destinos confiables para los consumidores que buscan conveniencia, variedad y un servicio excepcional.",
+        "website": "",
+        "published": "2026-02-17 14:22:14.789694",
+        "post_url": "http://payloadrz5yw227brtbvdqpnlhq3rdcdekdnn3rgucbcdeawq2v6vuyd.onion/posts/293191ad-f8ca-4d0a-8286-546a05ff4d67",
+        "country": "MX",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "80 GB"
+        }
+    },
+    {
+        "post_title": "sodic.com",
+        "group_name": "payload",
+        "discovered": "2026-02-17 14:23:01.535360",
+        "description": "SODIC is a leading real estate development company in the region, with a distinguished track record of over 28 years of operations in West Cairo, East Cairo, and the North Coast. SODIC brings to the market award-winning developments that cater to the country’s ever-growing need for high-quality residential, commercial, & retail property as well as sustainable, large-scale, mixed-use developments and vibrant communities that are home to over 30,000 people today. SODIC is listed on the Egypt’s Stock Exchange since 1996 under OCDI.CA.",
+        "website": "sodic.com",
+        "published": "2026-02-17 14:22:49.081084",
+        "post_url": "http://payloadrz5yw227brtbvdqpnlhq3rdcdekdnn3rgucbcdeawq2v6vuyd.onion/posts/ec400c86-6c33-421d-af1b-f33250c86b46",
+        "country": "EG",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "70 GB"
+        }
+    },
+    {
+        "post_title": "Marshall & Stevens, Valuescope",
+        "group_name": "SilentRansomGroup",
+        "discovered": "2026-02-17 14:50:59.143650",
+        "description": "Marshall & Stevens was established in 1932. The firm has pioneered new concepts to provide realistic c…",
+        "website": "",
+        "published": "2026-02-17 14:50:57.240077",
+        "post_url": "",
+        "country": "US",
+        "activity": "Financial Services",
+        "duplicates": [],
+        "extrainfos": []
     }
 ]

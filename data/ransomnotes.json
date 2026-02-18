@@ -1,9 +1,13 @@
 {
-  "count": 209,
+  "count": 212,
   "groups": [
     {
       "group": ".git",
       "ransomnotes_count": 7
+    },
+    {
+      "group": "0apt",
+      "ransomnotes_count": 1
     },
     {
       "group": "3am",
@@ -331,6 +335,10 @@
     },
     {
       "group": "global",
+      "ransomnotes_count": 1
+    },
+    {
+      "group": "gr33nbl00d",
       "ransomnotes_count": 1
     },
     {
@@ -662,6 +670,10 @@
       "ransomnotes_count": 3
     },
     {
+      "group": "reynolds",
+      "ransomnotes_count": 1
+    },
+    {
       "group": "rhysida",
       "ransomnotes_count": 1
     },
@@ -751,7 +763,7 @@
     },
     {
       "group": "tengu",
-      "ransomnotes_count": 2
+      "ransomnotes_count": 3
     },
     {
       "group": "teslacrypt",

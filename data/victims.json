@@ -337569,5 +337569,83 @@
         "activity": "Manufacturing",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Ausgewählt Vertriebs GmbH",
+        "group_name": "nightspire",
+        "discovered": "2026-02-19 17:40:24.765787",
+        "description": "Data is not available now.",
+        "website": "www.ausgewaehlt.com",
+        "published": "2026-02-07 00:00:00.000000",
+        "post_url": "",
+        "country": "DE",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": {}
+    },
+    {
+        "post_title": "RS Development LLC",
+        "group_name": "nightspire",
+        "discovered": "2026-02-19 17:40:47.755424",
+        "description": "Data is not available now.",
+        "website": "www.rsdev.com",
+        "published": "2026-02-07 00:00:00.000000",
+        "post_url": "",
+        "country": "US",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": {}
+    },
+    {
+        "post_title": "Fico Ferragens Indústria e Comércio Ltda",
+        "group_name": "nightspire",
+        "discovered": "2026-02-19 17:41:11.040685",
+        "description": "Data is not available now.",
+        "website": "www.ficoferragens.com.br/fico/portugues/home",
+        "published": "2026-02-07 00:00:00.000000",
+        "post_url": "",
+        "country": "BR",
+        "activity": "Manufacturing",
+        "duplicates": [],
+        "extrainfos": {}
+    },
+    {
+        "post_title": "TCPN Inc",
+        "group_name": "nightspire",
+        "discovered": "2026-02-19 17:41:34.390886",
+        "description": "Data is not available now.",
+        "website": "tcpninc.com",
+        "published": "2026-02-12 00:00:00.000000",
+        "post_url": "",
+        "country": "US",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": {}
+    },
+    {
+        "post_title": "Kroll International",
+        "group_name": "qilin",
+        "discovered": "2026-02-19 17:44:02.797464",
+        "description": "N/A",
+        "website": "www.krollcorp.com",
+        "published": "2026-02-19 17:43:45.312033",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=e157db1a-4d21-3ace-852b-2723b65f1fc9",
+        "country": "US",
+        "activity": "Business Services",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Telecare",
+        "group_name": "qilin",
+        "discovered": "2026-02-19 17:44:45.233075",
+        "description": "N/A",
+        "website": "telecarecorp.com",
+        "published": "2026-02-19 17:44:27.808484",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=568578a9-0f7f-3aea-895d-c11eb05104eb",
+        "country": "US",
+        "activity": "Healthcare",
+        "duplicates": [],
+        "extrainfos": []
     }
 ]

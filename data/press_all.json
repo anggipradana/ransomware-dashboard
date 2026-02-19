@@ -4,8 +4,71 @@
     "month": null,
     "country": null
   },
-  "count": 3216,
+  "count": 3219,
   "results": [
+    {
+      "date": "2026-02-18",
+      "victim": "Huntington, Virginie-Occidentale",
+      "domain": "cityofhuntington.com",
+      "country": "US",
+      "summary": "La ville de Huntington, en Virginie-Occidentale, a détecté une activité suspecte et a isolé ses systèmes pour enquêter sur une faille de sécurité. Les autorités travaillent avec l'agence de cybersécurité pour déterminer l'ampleur de l'incident. Les détails sur l'intrusion et les conséquences sont encore inconnus.",
+      "title": "Huntington, West Virginia addresses cybersecurity incident",
+      "url": "https://dysruptionhub.com/huntington-wv-cyber-incident/",
+      "added": "2026-02-19",
+      "infostealer": {
+        "update": "2026-02-19 13:15:41",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-02-16",
+      "victim": "Franz Sales Haus",
+      "domain": "franz-sales-haus.de",
+      "country": "DE",
+      "summary": "Le Franz Sales Haus à Essen a été victime d'une cyberattaque, les hackers ont tenté d'attaquer le système informatique de l'établissement, mais l'attaque a été stoppée grâce à l'intervention de l'équipe IT et d'une société de sécurité externe. Les autorités ont ouvert une enquête pour sabotage informatique. L'établissement a assuré que la sécurité et la prise en charge de ses clients n'ont pas été affectées.",
+      "title": "Franz Sales Haus in Essen wird Opfer von Hackerangriff",
+      "url": "https://www.radioessen.de/artikel/franz-sales-haus-in-essen-wird-opfer-von-hackerangriff-2577441",
+      "added": "2026-02-19",
+      "infostealer": {
+        "update": "2026-02-19 13:15:01",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-02-16",
+      "victim": "Landkreis Kassel",
+      "domain": "landkreiskassel.de",
+      "country": "DE",
+      "summary": "Le Landkreis Kassel a été victime d'une cyberattaque, mais la plupart des services sont à nouveau opérationnels et les données sensibles ne semblent pas avoir été compromises. Les autorités ont été informées et une enquête est en cours pour déterminer les causes de l'attaque et améliorer la sécurité informatique. Les services de gestion des déchets et des équipements de loisirs ont été touchés par l'attaque.",
+      "title": "Cyberangriff auf Kreis Kassel – Ermittlungen laufen",
+      "url": "https://www.n-tv.de/regionales/hessen/Cyberangriff-auf-Kreis-Kassel-Ermittlungen-laufen-id30380886.html",
+      "added": "2026-02-19",
+      "infostealer": {
+        "update": "2026-02-19 13:15:21",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-02-16",
       "victim": "Centre de services scolaire du Fer",

@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3215,
+  "count": 3216,
   "results": [
     {
       "date": "2026-02-16",
@@ -24,6 +24,38 @@
         "users_url": 0,
         "thirdparties": 0,
         "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-02-15",
+      "victim": "Advantest",
+      "domain": "advantest.com",
+      "country": "JP",
+      "summary": "Advantest Corporation a confirmé qu'elle répond à un incident de cybersécurité qui a pu affecter des parties de son réseau interne. L'incident a été détecté le 15 février et les systèmes affectés ont été isolés. Les enquêteurs travaillent pour déterminer la portée de l'incident et les systèmes compromis.",
+      "title": "Advantest Cyberattack Under Ransomware Investigation",
+      "url": "https://thecyberexpress.com/advantest-cyberattack-ransomware-investigation/",
+      "added": "2026-02-19",
+      "infostealer": {
+        "update": "2026-02-19 11:52:28",
+        "employees": 18,
+        "users": 80,
+        "thirdparties_domain": 35,
+        "employees_url": 24,
+        "users_url": 80,
+        "thirdparties": 28,
+        "infostealer_stats": {
+          "RedLine": 28,
+          "Vidar": 1,
+          "Generic Stealer": 15,
+          "UNKNOWN": 3,
+          "Azorult": 1,
+          "Raccoon": 24,
+          "StealC": 7,
+          "Acreed": 1,
+          "CRYPTBOT": 1,
+          "Lumma": 16
+        }
       },
       "ransomware": null
     },

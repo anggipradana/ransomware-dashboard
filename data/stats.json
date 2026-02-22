@@ -1,3 +1,8 @@
 {
-  "message": "Internal Server Error"
+  "stats": {
+    "victims": 25935,
+    "groups": 320,
+    "press": 3224
+  },
+  "last_update": "2026-02-22 18:48:18.832435"
 }

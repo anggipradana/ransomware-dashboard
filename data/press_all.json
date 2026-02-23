@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3224,
+  "count": 3225,
   "results": [
     {
       "date": "2026-02-20",
@@ -86,6 +86,27 @@
       "added": "2026-02-19",
       "infostealer": {
         "update": "2026-02-19 13:15:41",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-02-17",
+      "victim": "The Grand Hotel Taipei",
+      "domain": "grand-hotel.org",
+      "country": "TW",
+      "summary": "Le Grand Hotel Taipei a confirmé que ses systèmes de sécurité ont été piratés, les mesures de réponse aux incidents de cybersécurité ont été activées et les autorités enquêtent sur l'affaire. L'hôtel a publié un avis de fraude pour avertir les clients de faire preuve de vigilance. Les opérations de l'hôtel ne sont pas affectées par cet incident.",
+      "title": "Iconic hotel in Taiwan hit by cyberattack",
+      "url": "https://www.travelweekly-asia.com/Travel-News/Hotel-News/Iconic-hotel-in-Taiwan-hit-by-cyberattack",
+      "added": "2026-02-23",
+      "infostealer": {
+        "update": "2026-02-23 12:23:33",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,

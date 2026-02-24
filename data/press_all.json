@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3242,
+  "count": 3243,
   "results": [
     {
       "date": "2026-02-23",
@@ -24,6 +24,29 @@
         "users_url": 0,
         "thirdparties": 0,
         "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-02-22",
+      "victim": "United Arab Emirates",
+      "domain": "u.ae",
+      "country": "AE",
+      "summary": "Les Émirats arabes unis ont stoppé une attaque de ransomware qui visait les infrastructures numériques du pays, l'attaque a été qualifiée de terroriste par le Conseil de cybersécurité du pays. L'attaque a impliqué des tentatives d'infiltration de réseaux, de déploiement de ransomware et de campagnes de phishing ciblant les plateformes nationales. Les attaques ont également impliqué l'exploitation de technologies d'intelligence artificielle pour développer des outils offensifs sophistiqués.",
+      "title": "UAE claims it stopped ‘terrorist’ ransomware attack",
+      "url": "https://therecord.media/uae-claims-it-stopped-terrorist-ransomware-attack",
+      "added": "2026-02-24",
+      "infostealer": {
+        "update": "2026-02-24 15:03:01",
+        "employees": 0,
+        "users": 3,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 1,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "RedLine": 3
+        }
       },
       "ransomware": null
     },

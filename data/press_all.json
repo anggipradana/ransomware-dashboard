@@ -4,8 +4,29 @@
     "month": null,
     "country": null
   },
-  "count": 3225,
+  "count": 3227,
   "results": [
+    {
+      "date": "2026-02-20",
+      "victim": "Hazeldenes",
+      "domain": "hazeldenes.com.au",
+      "country": "AU",
+      "summary": "Une attaque cybernétique a touché l'usine de traitement de viande de poulet Hazeldenes, provoquant une pénurie de poulet dans les pubs et les boucheries de l'État. L'entreprise travaille avec des enquêteurs en cybersécurité pour identifier la cause de l'attaque. Les entreprises cherchent désormais d'autres fournisseurs de viande de poulet pour éviter que les clients ne soient affectés.",
+      "title": "Pub left without 'parmas' as cyber attack targets chicken processor",
+      "url": "https://www.abc.net.au/news/2026-02-23/cyber-attack-takes-major-chicken-processor-hazeldenes-offline/106376184",
+      "added": "2026-02-24",
+      "infostealer": {
+        "update": "2026-02-24 09:33:07",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-02-20",
       "victim": "Universidade Federal de Sergipe",
@@ -127,6 +148,27 @@
       "url": "https://dysruptionhub.com/meriden-internet-shutdown-connecticut/",
       "added": "2026-02-20",
       "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-02-16",
+      "victim": "Cocoa",
+      "domain": "cocoafl.gov",
+      "country": "US",
+      "summary": "La ville de Cocoa, en Floride, a subi une attaque de ransomware qui a perturbé certains systèmes informatiques, limitant ainsi certains services. Les autorités ont déclaré l'état d'urgence et travaillent avec des partenaires pour rétablir les systèmes. Les opérations d'urgence et de dispatch restent opérationnelles.",
+      "title": "Cocoa, Florida faces possible ransomware hit as city IT systems falter",
+      "url": "https://dysruptionhub.com/cocoa-fl-incransom-claim-it-outage/",
+      "added": "2026-02-24",
+      "infostealer": {
+        "update": "2026-02-24 09:32:47",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
       "ransomware": null
     },
     {

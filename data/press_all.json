@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3228,
+  "count": 3242,
   "results": [
     {
       "date": "2026-02-23",
@@ -676,6 +676,27 @@
         "employees_url": 0,
         "users_url": 1,
         "thirdparties": 2,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-02-01",
+      "victim": "Beacon Pointe Advisors, LLC",
+      "domain": "beaconpointe.com",
+      "country": "US",
+      "summary": "Beacon Pointe Advisors, LLC suffered a data breach due to unauthorized access to their IT network, resulting in potential exposure of client information. The breach occurred between January 30, 2026, and February 1, 2026. The company has taken steps to secure the network and is offering complimentary identity monitoring services to affected clients.",
+      "title": "2026-02-20 Beacon Pointe Advisors Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2026-02-20-beacon-pointe-advisors-data-breach-notice-consumers",
+      "added": "2026-02-24",
+      "infostealer": {
+        "update": "2026-02-24 12:33:37",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
         "infostealer_stats": {}
       },
       "ransomware": null
@@ -2120,6 +2141,27 @@
     },
     {
       "date": "2025-12-22",
+      "victim": "Alpine Lumber Company",
+      "domain": "alpinelumber.com",
+      "country": "US",
+      "summary": "Alpine Lumber Company suffered a data security incident involving ransomware, resulting in unauthorized access to employee and dependent information, including names, addresses, Social Security numbers, and health insurance information.",
+      "title": "2026-02-18 Alpine Lumber Company Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2026-02-18-alpine-lumber-company-data-breach-notice-consumers",
+      "added": "2026-02-20",
+      "infostealer": {
+        "update": "2026-02-24 12:33:58",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-12-22",
       "victim": "Ville de Lens",
       "domain": "villedelens.fr",
       "country": "FR",
@@ -2346,6 +2388,27 @@
           "Mystic": 10,
           "Azorult": 4
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-12-16",
+      "victim": "The Center for Advanced Eye Care",
+      "domain": "centerforeyes.com",
+      "country": "US",
+      "summary": "The Center for Advanced Eye Care suffered a data security incident where unauthorized access to protected health information occurred. The incident was discovered on December 16, 2025, and the affected individuals were notified on February 19, 2026. The breach may have resulted in the unauthorized access to personal information.",
+      "title": "2026-02-20 The Center for Advanced Eye Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2026-02-20-center-advanced-eye-data-breach-notice-consumers",
+      "added": "2026-02-24",
+      "infostealer": {
+        "update": "2026-02-24 12:32:56",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },
@@ -2710,6 +2773,27 @@
     },
     {
       "date": "2025-12-10",
+      "victim": "ICM Properties, Inc.",
+      "domain": "icmproperties.com",
+      "country": "US",
+      "summary": "ICM Properties, Inc. suffered a data security incident that may have resulted in unauthorized access to some individuals' personal information. The incident occurred between December 9, 2025, and December 10, 2025. ICM Properties has taken steps to enhance the security of its systems and data to reduce the risk of similar incidents.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/129fa84f-566e-45ad-bae2-dfe8b1c3bfb3.html",
+      "added": "2026-02-19",
+      "infostealer": {
+        "update": "2026-02-24 12:31:15",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-12-10",
       "victim": "Laurentius-Apotheke",
       "domain": "laurentius-apotheke-moenchengladbach.de",
       "country": "DE",
@@ -3035,6 +3119,27 @@
       "added": "2025-12-08",
       "infostealer": {
         "update": "2025-12-08 11:42:57",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-12-02",
+      "victim": "CSA Tax & Advisory",
+      "domain": "csataxadvisory.com",
+      "country": "US",
+      "summary": "H&N Tax, Inc. dba CSA Tax experienced a network disruption on December 2, 2025, which led to unauthorized access to certain information stored on their network. The potentially affected data may have included first and last names, in combination with Social Security numbers. A cyberattack was claimed by Lynx on December 26.",
+      "title": "2026-02-20 H&N Tax Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2026-02-20-hn-tax-data-breach-notice-consumers",
+      "added": "2026-02-24",
+      "infostealer": {
+        "update": "2026-02-24 12:33:16",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,
@@ -3533,6 +3638,27 @@
           "UNKNOWN": 4,
           "Taurus": 2
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-11-23",
+      "victim": "Fort Scott Community College",
+      "domain": "fortscott.edu",
+      "country": "US",
+      "summary": "Fort Scott Community College suffered a data security incident on November 23, 2025, where an unauthorized party accessed their network and potentially accessed certain files. The incident may have compromised personal information including Social Security Number, Financial Account Information, and Name. The college has taken steps to secure and remediate the impacted systems and is offering free credit monitoring and identity theft protection services to affected individuals.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/66b99794-dd97-4e41-8f4a-44923d0c1e1e.html",
+      "added": "2026-02-24",
+      "infostealer": {
+        "update": "2026-02-24 12:31:35",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },
@@ -8514,6 +8640,27 @@
     },
     {
       "date": "2025-08-27",
+      "victim": "Saint Mary’s Home of Erie",
+      "domain": "stmaryshome.org",
+      "country": "US",
+      "summary": "Saint Mary’s Home of Erie experienced a data breach where files and folders stored on certain databases may have been accessible to others outside of their organization between August 26, 2025, and August 28, 2025. A cyberattack was claimed by Worldleaks on October 3.",
+      "title": "2026-02-20 Saint Mary’s Home of Erie Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2026-02-20-saint-marys-home-erie-data-breach-notice-consumers",
+      "added": "2026-02-24",
+      "infostealer": {
+        "update": "2025-10-03 12:48:08",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-08-27",
       "victim": "Centre de services scolaire des Appalaches",
       "domain": "cssa.gouv.qc.ca",
       "country": "CA",
@@ -9674,6 +9821,27 @@
     },
     {
       "date": "2025-08-11",
+      "victim": "TAKBroadband, LLC",
+      "domain": "takkbroadband.com",
+      "country": "US",
+      "summary": "TAKBroadband, LLC experienced a security incident where an unauthorized third party accessed certain systems and acquired files containing personal information between August 2, 2025, and August 12, 2025. The affected files contained names and other personal information. The incident was discovered on August 11, 2025.",
+      "title": "2026-02-20 TAK Broadband Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2026-02-20-tak-broadband-data-breach-notice-consumers",
+      "added": "2026-02-21",
+      "infostealer": {
+        "update": "2026-02-24 12:34:18",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-08-11",
       "victim": "Manhattan Theatre Club",
       "domain": "manhattantheatreclub.com",
       "country": "US",
@@ -9900,6 +10068,28 @@
         }
       },
       "ransomware": null
+    },
+    {
+      "date": "2025-08-10",
+      "victim": "Greater Pittsburgh Orthopedic Associates Inc.",
+      "domain": "gpoa.com",
+      "country": "US",
+      "summary": "Greater Pittsburgh Orthopedic Associates Inc. experienced a data security incident involving unauthorized access to their computer network, potentially affecting personal or health information. The incident occurred on August 10, 2025, and the organization has taken measures to secure their environment and prevent similar incidents. A cyberattack was claimed by Ransomhouse on August 20.",
+      "title": "2026-02-20 Greater Pittsburgh Orthopedic Associates Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2026-02-20-greater-pittsburgh-orthopedic-associates-data-breach-notice-consumers",
+      "added": "2026-02-24",
+      "infostealer": {
+        "update": "2024-05-18 09:19:29",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 0
+      },
+      "ransomware": {
+        "group": "donutleaks",
+        "permalink": "https://www.ransomware.live/id/UGl0dHNidXJnaOKAmXMgVHJ1c3RlZCBPcnRob3BhZWRpYyBTdXJnZW9uc0Bkb251dGxlYWtz"
+      }
     },
     {
       "date": "2025-08-09",
@@ -14265,6 +14455,27 @@
     },
     {
       "date": "2025-06-08",
+      "victim": "Gehry Partners, LLP",
+      "domain": "gopa.com",
+      "country": "US",
+      "summary": "Gehry Partners, LLP suffered a data breach between June 6-June 9, 2025, where an unauthorized actor accessed and acquired certain data from their network. The breach was discovered on June 8, 2025, and the affected personal information was confirmed on January 8, 2026. The organization is offering complimentary credit monitoring and identity protection services to affected individuals.",
+      "title": "2026-02-12 Gehry Partners Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2026-02-12-gehry-partners-data-breach-notice-consumers",
+      "added": "2026-02-18",
+      "infostealer": {
+        "update": "2026-02-24 12:32:15",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-06-08",
       "victim": "Oxford City Council",
       "domain": "oxford.gov.uk",
       "country": "GB",
@@ -15612,6 +15823,27 @@
     },
     {
       "date": "2025-05-22",
+      "victim": "Academic Urology & Urogynecology of Arizona",
+      "domain": "academic-urology.com",
+      "country": "US",
+      "summary": "Academic Urology & Urogynecology of Arizona experienced a cybersecurity incident that potentially involved unauthorized access to their network, resulting in the potential exposure of personal and protected health information. A cyberattack was claimed by INCransom on June 17.",
+      "title": "2026-02-12 Academic Urology & Urogynecology of Arizona Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2026-02-12-academic-urology-urogynecology-arizona-data-breach-notice-consumers",
+      "added": "2026-02-18",
+      "infostealer": {
+        "update": "2026-02-24 12:31:55",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-05-22",
       "victim": "Davies, McFarland & Carroll",
       "domain": "dmcpc.com",
       "country": "US",
@@ -16805,6 +17037,27 @@
     },
     {
       "date": "2025-05-09",
+      "victim": "The Texas Access to Justice Foundation",
+      "domain": "teajf.org",
+      "country": "US",
+      "summary": "The Texas Access to Justice Foundation suffered a data breach between May 6, 2025, and May 9, 2025, resulting in unauthorized access to certain files containing personal information. The breach was discovered on May 9, 2025, and affected approximately one Maine resident. The compromised information included names and Social Security numbers.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/c09c0c77-28f6-4240-a006-acf1b0f61ca7.html",
+      "added": "2026-02-21",
+      "infostealer": {
+        "update": "2026-02-24 12:30:55",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-05-09",
       "victim": "Belk Inc.",
       "domain": "belk.com",
       "country": "US",
@@ -16941,6 +17194,27 @@
           "Ficker": 1,
           "DarkCrystal": 1
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-05-07",
+      "victim": "West Florida Bank Corporation",
+      "domain": "flagshipbank.com",
+      "country": "US",
+      "summary": "West Florida Bank Corporation suffered a data breach due to a social engineering scheme, which occurred on April 15, 2025. The breach was discovered on May 7, 2025. A cyberattack was claimed by Akira on May 27.",
+      "title": "2026-02-13 West Florida Bank Corporation Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2026-02-13-west-florida-bank-corporation-data-breach-notice-consumers",
+      "added": "2026-02-18",
+      "infostealer": {
+        "update": "2026-02-24 12:32:36",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },
@@ -26999,6 +27273,27 @@
         "employees_url": 0,
         "users_url": 1,
         "thirdparties": 1
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-01-22",
+      "victim": "City of Carthage, Texas",
+      "domain": "carthagetexas.us",
+      "country": "US",
+      "summary": "The City of Carthage, Texas suffered a security incident involving unauthorized access to their network, potentially exposing personal information. The incident occurred on or about December 17, 2024, and was discovered on January 22, 2026. A cyberattack was claimed by Rhysida on January 28.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/0a8d5d97-0452-489c-b04f-cbd04a392aa6.html",
+      "added": "2026-02-24",
+      "infostealer": {
+        "update": "2026-02-24 12:30:34",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },

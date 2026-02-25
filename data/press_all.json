@@ -4,8 +4,29 @@
     "month": null,
     "country": null
   },
-  "count": 3247,
+  "count": 3248,
   "results": [
+    {
+      "date": "2026-02-25",
+      "victim": "Health Research Board, Ireland",
+      "domain": "hrb.ie",
+      "country": "IE",
+      "summary": "Le Health Research Board (HRB) a été la cible d’une cyberattaque. Les employés ont reçu des messages leur demandant de ne pas ouvrir leurs ordinateurs portables, de rester chez eux et d’ignorer les notifications sur leurs téléphones professionnels, tandis que l’équipe informatique tente d’isoler et de contenir l’incident. Organisme public rattaché au ministère de la Santé, le HRB finance chaque année environ 50 millions d’euros de projets de recherche dans les universités et les hôpitaux.",
+      "title": "Health Research Board targeted by cyberattack",
+      "url": "https://www.thejournal.ie/health-research-board-targeted-with-cyber-attack-6967291-Feb2026/",
+      "added": "2026-02-25",
+      "infostealer": {
+        "update": "2026-02-25 18:55:56",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-02-24",
       "victim": "BDH-Kliniken",

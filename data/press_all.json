@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3246,
+  "count": 3247,
   "results": [
     {
       "date": "2026-02-24",
@@ -38,6 +38,27 @@
       "added": "2026-02-24",
       "infostealer": {
         "update": "2026-02-24 10:49:58",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-02-22",
+      "victim": "Biblioteche di Roma",
+      "domain": "bibliotechediroma.it",
+      "country": "IT",
+      "summary": "Le systèmes bibliotecari de la ville de Rome ont été victimes d'une attaque informatique, mais celle-ci a été rapidement contrée grâce à l'intervention du Cyber Security Operations Center. Le maire Roberto Gualtieri a annoncé cette attaque lors de l'inauguration de la nouvelle salle opérationnelle du centre de cybersécurité. L'attaque a été repoussée avec succès, assurant ainsi la sécurité des données et des systèmes de la ville.",
+      "title": "Roma: Gualtieri, fronteggiato attacco informatico a sistema biblioteche - RomaDailyNews",
+      "url": "https://www.romadailynews.it/politica/roma-gualtieri-fronteggiato-attacco-informatico-a-sistema-biblioteche-0922002/",
+      "added": "2026-02-25",
+      "infostealer": {
+        "update": "2026-02-25 17:29:31",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,

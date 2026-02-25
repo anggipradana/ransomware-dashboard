@@ -339923,5 +339923,31 @@
         "activity": "Financial Services",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Vera, spool. s.r.o.",
+        "group_name": "nightspire",
+        "discovered": "2026-02-25 09:13:21.923161",
+        "description": "Data is not available now.",
+        "website": "www.vera.cz",
+        "published": "2026-02-06 00:00:00.000000",
+        "post_url": "",
+        "country": "CZ",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": {}
+    },
+    {
+        "post_title": "OFFICINE FRATELLI AMADORI snc",
+        "group_name": "nightspire",
+        "discovered": "2026-02-25 09:13:45.356668",
+        "description": "Data is not available now.",
+        "website": "www.officineamadori.com",
+        "published": "2026-02-03 00:00:00.000000",
+        "post_url": "",
+        "country": "IT",
+        "activity": "Agriculture and Food Production",
+        "duplicates": [],
+        "extrainfos": {}
     }
 ]

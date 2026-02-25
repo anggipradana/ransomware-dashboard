@@ -4,8 +4,29 @@
     "month": null,
     "country": null
   },
-  "count": 3244,
+  "count": 3246,
   "results": [
+    {
+      "date": "2026-02-24",
+      "victim": "BDH-Kliniken",
+      "domain": "bdh-reha.de",
+      "country": "DE",
+      "summary": "Les BDH-Kliniken en Allemagne ont été victimes d'une attaque cybernétique, les patients doivent être vigilants et ne pas partager d'informations personnelles sans vérification. L'attaque a touché une partie de l'infrastructure informatique, mais la prise en charge médicale est toujours assurée. Les autorités et les cliniques travaillent ensemble pour minimiser les risques et protéger les données.",
+      "title": "Cyberangriff auf Klinik in MV: Das müssen Patienten jetzt beachten",
+      "url": "https://www.nordkurier.de/regional/mecklenburg-vorpommern/cyberangriff-auf-klinik-in-mv-das-muessen-patienten-jetzt-beachten-4390256",
+      "added": "2026-02-25",
+      "infostealer": {
+        "update": "2026-02-25 16:06:51",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-02-23",
       "victim": "Svealandstrafiken",
@@ -321,6 +342,27 @@
       "added": "2026-02-16",
       "infostealer": {
         "update": "2026-02-16 10:33:27",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-02-14",
+      "victim": "UFP Technologies",
+      "domain": "ufpt.com",
+      "country": "US",
+      "summary": "UFP Technologies, un fabricant de dispositifs médicaux, a subi une attaque de ransomware qui a entraîné le vol de fichiers et la perturbation de certains systèmes informatiques. L'incident a été détecté le 14 février et a eu un impact sur les systèmes de facturation et de création d'étiquettes de livraison. L'entreprise a mis en œuvre des plans de contingence et des systèmes de sauvegarde pour atténuer les effets de l'incident.",
+      "title": "Medical Device Maker UFP Technologies Hit by Cyberattack",
+      "url": "https://www.securityweek.com/medical-device-maker-ufp-technologies-hit-by-cyberattack/",
+      "added": "2026-02-25",
+      "infostealer": {
+        "update": "2026-02-25 16:06:31",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,

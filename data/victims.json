@@ -340349,5 +340349,66 @@
         "activity": "Transportation/Logistics",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Physicians Clinic of Iowa",
+        "group_name": "anubis",
+        "discovered": "2026-02-26 17:23:02.038362",
+        "description": "Clinic data breach: another example of negligence in a medical institution.",
+        "website": "",
+        "published": "2026-02-26 17:22:26.037295",
+        "post_url": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/o9KZNNWvO6oVuxowNfrIpGwReGMNjPfUvVtEqjd198kutpuSorJQzzcYZVKldTu4xX+yluLCznQ2OCzjaoRBGxhTzhvMjVE",
+        "country": "US",
+        "activity": "Healthcare",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "ntic.com",
+        "group_name": "chaos",
+        "discovered": "2026-02-26 17:24:54.178626",
+        "description": "Northern Technologies International Corporation (NTIC) is a specialty chemical company that develops and markets proprietary environmentally beneficial products and services focused on corrosion prevention and protection solutions. The company specializes in innovative rust and corrosion prevention…",
+        "website": "www.zoominfo.com/c/northern-technologies-international-corp/28033941",
+        "published": "2025-02-19 00:00:00.000000",
+        "post_url": "http://hptqq2o2qjva7lcaaq67w36jihzivkaitkexorauw7b2yul2z6zozpqd.onion/post/3VBSgUSfSnPd0lzvRXgD12hsxFD9l2vj",
+        "country": "",
+        "activity": "Technology",
+        "duplicates": [
+            {
+                "date": "2026-02-26 17:24:54.293397",
+                "group": "thegentlemen",
+                "link": "https://www.ransomware.live/id/U2VhY0B0aGVnZW50bGVtZW4=",
+                "attackdate": "2025-02-19 00:00:00.000000"
+            }
+        ],
+        "extrainfos": {
+            "data_size": "400 GB"
+        }
+    },
+    {
+        "post_title": "Alpha Consult",
+        "group_name": "qilin",
+        "discovered": "2026-02-26 17:51:06.923380",
+        "description": "N/A",
+        "website": "www.alphaconsult.com.pe",
+        "published": "2026-02-26 17:50:47.506753",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=435ec592-fcd1-3bc2-9c3d-06b939712d59",
+        "country": "",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Evolutive Systems",
+        "group_name": "qilin",
+        "discovered": "2026-02-26 17:51:46.950540",
+        "description": "N/A",
+        "website": "www.evolutivesystems.be",
+        "published": "2026-02-26 00:00:00.000000",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=66686bd4-7e34-33ee-be3c-a7d032acb286",
+        "country": "",
+        "activity": "Technology",
+        "duplicates": [],
+        "extrainfos": []
     }
 ]

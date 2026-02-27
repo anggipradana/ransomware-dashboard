@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3249,
+  "count": 3250,
   "results": [
     {
       "date": "2026-02-25",
@@ -17,6 +17,27 @@
       "added": "2026-02-25",
       "infostealer": {
         "update": "2026-02-25 18:55:56",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-02-24",
+      "victim": "CHS Villach",
+      "domain": "chs-villach.at",
+      "country": "AT",
+      "summary": "La CHS de Villach a été victime d'une attaque de hackers, des données ont été chiffrées par un groupe appelé The Gentlemen, mais les responsables ont réagi rapidement pour empêcher le vol de données. L'attaque a été contenue et les données sont en cours de récupération. Les autorités enquêtent sur l'incident pour identifier les responsables.",
+      "title": "Hackerangriff auf Kärntner Schule: Daten wurden verschlüsselt",
+      "url": "https://www.kleinezeitung.at/kaernten/20630734/hackerangriff-auf-kaerntner-schule-daten-wurden-verschluesselt",
+      "added": "2026-02-27",
+      "infostealer": {
+        "update": "2026-02-27 11:54:34",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,

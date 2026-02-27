@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3251,
+  "count": 3253,
   "results": [
     {
       "date": "2026-02-26",
@@ -17,6 +17,27 @@
       "added": "2026-02-27",
       "infostealer": {
         "update": "2026-02-27 15:00:51",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-02-25",
+      "victim": "Stadtverwaltung Konstanz",
+      "domain": "konstanz.de",
+      "country": "DE",
+      "summary": "La ville de Constance a subi une attaque informatique visant un programme de gestion de systèmes mobiles, mais les opérations administratives ne sont pas affectées et seules les données de quelques employés sont touchées. Les données des citoyens, des clients et des partenaires commerciaux ne sont pas affectées selon l'état actuel des connaissances. La situation est surveillée de manière continue.",
+      "title": "IT-Sicherheitsvorfall bei der Stadtverwaltung Konstanz",
+      "url": "https://www.konstanz.de/service/presse/pressemitteilungen/it-sicherheitsvorfall+bei+der+stadtverwaltung+konstanz",
+      "added": "2026-02-27",
+      "infostealer": {
+        "update": "2026-02-27 18:03:46",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,
@@ -972,6 +993,27 @@
           "Azorult": 127,
           "UNKNOWN": 109
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-01-31",
+      "victim": "Musashi Kosugi Hospital",
+      "domain": "nms.ac.jp",
+      "country": "JP",
+      "summary": "L'hôpital de l'université médicale du Japon a subi une attaque informatique, entraînant la fuite de données personnelles de 13 000 patients et de 1 700 employés. Les informations compromises incluent des noms, des adresses, des numéros de téléphone et des dates de naissance. Les attaquants ont exigé une rançon de 150 milliards de yens.",
+      "title": "日本一醫院遭網絡攻擊 約13萬患者信息被洩露 - 香港文匯網",
+      "url": "https://www.wenweipo.com/a/202602/27/AP69a1a4ffe4b04d7d56d5801d.html",
+      "added": "2026-02-27",
+      "infostealer": {
+        "update": "2026-02-27 18:04:07",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },

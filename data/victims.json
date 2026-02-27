@@ -340755,5 +340755,51 @@
         "activity": "Energy",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Golden GBC",
+        "group_name": "qilin",
+        "discovered": "2026-02-27 14:32:58.545802",
+        "description": "N/A",
+        "website": "www.goldengbc.com",
+        "published": "2026-02-27 14:32:42.458308",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=711610e0-d755-38d1-8fdb-7e61c5db600c",
+        "country": "HK",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Straive",
+        "group_name": "qilin",
+        "discovered": "2026-02-27 14:33:41.630009",
+        "description": "N/A",
+        "website": "www.straive.com",
+        "published": "2026-02-27 14:33:21.406587",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=bd94c6dc-a852-3754-9c05-272c053fff74",
+        "country": "IN",
+        "activity": "Technology",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Land and Lakes",
+        "group_name": "qilin",
+        "discovered": "2026-02-27 14:34:02.795758",
+        "description": "N/A",
+        "website": "www.land-and-lakes.com",
+        "published": "2025-01-31 18:30:58.616858",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=98003c77-3117-39e0-af79-e9a1a03c332a",
+        "country": "",
+        "activity": "Not Found",
+        "duplicates": [
+            {
+                "date": "2026-02-27 14:34:02.843111",
+                "group": "dragonforce",
+                "link": "https://www.ransomware.live/id/TGFuZCBhbmQgTGFrZXNAZHJhZ29uZm9yY2U=",
+                "attackdate": "2025-01-31 18:30:58.616858"
+            }
+        ],
+        "extrainfos": []
     }
 ]

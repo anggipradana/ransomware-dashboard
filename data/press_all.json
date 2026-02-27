@@ -4,8 +4,29 @@
     "month": null,
     "country": null
   },
-  "count": 3250,
+  "count": 3251,
   "results": [
+    {
+      "date": "2026-02-26",
+      "victim": "Centre des technologies de l’information de l’État (CTIE)",
+      "domain": "gouvernement.lu",
+      "country": "LU",
+      "summary": "Un logiciel malveillant a été détecté sur le système gérant les appareils mobiles du CTIE, l'accès aux services internes de l'État via les appareils mobiles est indisponible, mais les services restent accessibles via ordinateur.",
+      "title": "Un logiciel malveillant perturbe l’accès mobile aux services de l’État",
+      "url": "https://www.virgule.lu/luxembourg/un-logiciel-malveillant-perturbe-lacces-mobile-aux-services-de-letat/137687385.html",
+      "added": "2026-02-27",
+      "infostealer": {
+        "update": "2026-02-27 15:00:51",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-02-25",
       "victim": "Health Research Board, Ireland",
@@ -264,7 +285,10 @@
         "thirdparties": 0,
         "infostealer_stats": {}
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "thegentlemen",
+        "permalink": "https://www.ransomware.live/id/R3JhbmQgSG90ZWxAdGhlZ2VudGxlbWVu"
+      }
     },
     {
       "date": "2026-02-17",

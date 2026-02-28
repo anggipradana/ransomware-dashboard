@@ -341076,5 +341076,25 @@
             "Revenue": "$2.5M",
             "Status": "announced"
         }
+    },
+    {
+        "post_title": "Aegis Project Controls",
+        "group_name": "dragonforce",
+        "discovered": "2026-02-28 12:29:29.278409",
+        "description": "Aegis Project Controls is a construction company providing 4d scheduling, training, and construction scheduling services. \n214GB of files, projects, and documents that threaten US national security. These include projects on military-critical facilities (Space Fence, Nitrocellulose Facility, etc.), biosecurity laboratories (USAMRIID), critical infrastructure facilities, and others. We know you didn't contact the FBI after the attack on your infrastructure, but now the FBI will come to you. We advise you to contact us immediately; your IT department knows how. You have 15 days before this data is made public. \nDear David J. Hatwell (+1 269-673-8962, +1 360-918-3187, +1 240-331-0437), we promise you public shame and the destruction of your company if you don't pay. Time has begun.",
+        "website": "www.consultaegis.com",
+        "published": "2026-01-26 00:00:00.000000",
+        "post_url": "http://z3wqggtxft7id3ibr7srivv5gjof5fwg76slewnzwwakjuf3nlhukdid.onion/blog/?post_uuid=35757642-d38d-4eb3-9616-966e5fc7713b",
+        "country": "US",
+        "activity": "Construction",
+        "duplicates": [
+            {
+                "date": "2026-02-28 12:29:29.354575",
+                "group": "devman",
+                "link": "https://www.ransomware.live/id/Y29uc3VsdGFlZ2lzLmNvbUBkZXZtYW4=",
+                "attackdate": "2026-01-26 00:00:00.000000"
+            }
+        ],
+        "extrainfos": []
     }
 ]

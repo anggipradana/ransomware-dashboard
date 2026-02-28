@@ -341042,5 +341042,39 @@
         "activity": "Telecommunication",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "J.R. Martin & Associates",
+        "group_name": "pear",
+        "discovered": "2026-02-28 10:04:26.544798",
+        "description": "A High Quality, Comprehensive Accounting & Tax Service",
+        "website": "jrmartincpa.com",
+        "published": "2026-02-18 00:00:00.000000",
+        "post_url": "http://pearsmob5sn44ismokiusuld34pnfwi6ctgin3qbvonpoob4lh3rmtqd.onion/Companies/jrmartincpa",
+        "country": "US",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": {
+            "Activity": "Accounting Services",
+            "Revenue": "<$5M",
+            "Status": "announced"
+        }
+    },
+    {
+        "post_title": "Skibiel Law",
+        "group_name": "pear",
+        "discovered": "2026-02-28 10:05:24.016874",
+        "description": "Georgia Work Injury And Personal Injury Lawyers",
+        "website": "skibiellaw.com",
+        "published": "2026-02-18 00:00:00.000000",
+        "post_url": "http://pearsmob5sn44ismokiusuld34pnfwi6ctgin3qbvonpoob4lh3rmtqd.onion/Companies/skibiellaw",
+        "country": "US",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": {
+            "Activity": "Law Firms & Legal Services",
+            "Revenue": "$2.5M",
+            "Status": "announced"
+        }
     }
 ]

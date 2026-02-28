@@ -340957,5 +340957,25 @@
         "activity": "Consumer Services",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Insight Hospital and Medical Center Chicago",
+        "group_name": "termite",
+        "discovered": "2026-02-28 01:21:05.796284",
+        "description": "Founded in 1852 Mercy Hospital and Medical Center is a member of Trinity Health. They are a teaching hospital headquartered out of Chicago, Illinois.\n",
+        "website": "insightchicago.com",
+        "published": "2025-09-02 00:00:00.000000",
+        "post_url": "http://termiteuslbumdge2zmfmfcsrvmvsfe4gvyudc5j6cdnisnhtftvokid.onion/post/69792ffffeb604ea6ee573d8",
+        "country": "US",
+        "activity": "Healthcare",
+        "duplicates": [
+            {
+                "date": "2026-02-28 01:21:05.869739",
+                "group": "lockbit5",
+                "link": "https://www.ransomware.live/id/aW5zaWdodGNoaWNhZ28uY29tQGxvY2tiaXQ1",
+                "attackdate": "2025-09-02 00:00:00.000000"
+            }
+        ],
+        "extrainfos": []
     }
 ]

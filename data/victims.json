@@ -341623,5 +341623,25 @@
         "activity": "Education",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "City of Seal Beach and Seal Beach Police Department",
+        "group_name": "qilin",
+        "discovered": "2026-03-01 20:44:35.928713",
+        "description": "N/A",
+        "website": "www.sealbeachca.gov",
+        "published": "2026-01-11 00:00:00.000000",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=30111f69-5882-3535-8484-77a751b3c1c5",
+        "country": "US",
+        "activity": "Public Sector",
+        "duplicates": [
+            {
+                "date": "2026-03-01 20:44:36.020466",
+                "group": "devman",
+                "link": "https://www.ransomware.live/id/c2VhbGJlYWNoY2EuZ292QGRldm1hbg==",
+                "attackdate": "2026-01-11 00:00:00.000000"
+            }
+        ],
+        "extrainfos": []
     }
 ]

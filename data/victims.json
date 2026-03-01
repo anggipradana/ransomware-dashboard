@@ -341395,5 +341395,51 @@
         "activity": "Construction",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "PLUS Malaysia Berhad",
+        "group_name": "qilin",
+        "discovered": "2026-03-01 11:31:10.285768",
+        "description": "N/A",
+        "website": "www.plus.com.my",
+        "published": "2026-02-06 18:10:37.000000",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=6afbe57b-3337-33e7-8b33-a6a3e2afdf57",
+        "country": "MY",
+        "activity": "Transportation/Logistics",
+        "duplicates": [
+            {
+                "date": "2026-03-01 11:31:10.397863",
+                "group": "thegentlemen",
+                "link": "https://www.ransomware.live/id/UExVUyBNYWxheXNpYSBCZXJoYWRAdGhlZ2VudGxlbWVu",
+                "attackdate": "2026-02-06 18:10:37.000000"
+            }
+        ],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Traffic Tech",
+        "group_name": "qilin",
+        "discovered": "2026-03-01 11:31:51.044703",
+        "description": "N/A",
+        "website": "www.traffictech.com",
+        "published": "2026-03-01 11:31:32.865105",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=d7f6a86e-fd42-3677-81d7-411edf567597",
+        "country": "CA",
+        "activity": "Transportation/Logistics",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Riach Gese Jacobs",
+        "group_name": "qilin",
+        "discovered": "2026-03-01 11:32:30.804840",
+        "description": "N/A",
+        "website": "www.riachgese.com",
+        "published": "2026-03-01 11:32:13.639582",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=f0408acf-556d-3035-b710-cde98f74f66c",
+        "country": "US",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": []
     }
 ]

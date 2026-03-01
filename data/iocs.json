@@ -1,6 +1,6 @@
 {
   "filter_type": null,
-  "count": 76,
+  "count": 77,
   "groups": [
     {
       "group": "0apt",
@@ -282,6 +282,12 @@
         "sha256": 1,
         "email": 1,
         "tox": 1
+      }
+    },
+    {
+      "group": "lapsus$",
+      "ioc_types": {
+        "sha256": 1
       }
     },
     {

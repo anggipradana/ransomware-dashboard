@@ -4,8 +4,20 @@
     "month": null,
     "country": null
   },
-  "count": 3253,
+  "count": 3255,
   "results": [
+    {
+      "date": "2026-02-27",
+      "victim": "Ngong Ping 360",
+      "domain": "np360.com.hk",
+      "country": "HK",
+      "summary": "Le groupe Ngong Ping 360 a été victime d'une attaque informatique, les détails de l'incident sont encore en cours d'investigation, l'entreprise a mis en place des mesures pour protéger les données de ses utilisateurs.",
+      "title": "æåª360éè½¯ä»¶æ»å»åç´¢ãåå·¥é¡¾å®¢åå¸éç§æ·çèµæå¤æ³",
+      "url": "https://hk.on.cc/hk/bkn/cnt/news/20260227/bkn-20260227220929889-0227_00822_001_cn.html",
+      "added": "2026-03-02",
+      "infostealer": "",
+      "ransomware": null
+    },
     {
       "date": "2026-02-26",
       "victim": "Centre des technologies de l’information de l’État (CTIE)",
@@ -2638,6 +2650,27 @@
       "added": "2025-12-17",
       "infostealer": {
         "update": "2025-12-17 16:27:15",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-12-15",
+      "victim": "Autohaus Pichel GmbH Chemnitz",
+      "domain": "ford-chemnitz.de",
+      "country": "DE",
+      "summary": "L'entreprise Autohaus Pichel GmbH Chemnitz a été victime d'une attaque cybernétique en décembre 2025, ce qui a entraîné une insolvabilité et un arrêt de travail de deux mois. L'attaque a aggravé la situation économique déjà difficile de l'entreprise. Le fonctionnement de l'entreprise avec 35 employés continue sans restriction, mais les ventes de véhicules sont actuellement suspendues.",
+      "title": "Cyberangriff macht Ford-Autohaus in Chemnitz zahlungsunfähig",
+      "url": "https://www.saechsische.de/lokales/chemnitz/chemnitz-cyberangriff-macht-ford-autohaus-zahlungsunfaehig-VDRZXMZ53FEWPNK4ZTY2MUJK2M.html",
+      "added": "2026-03-02",
+      "infostealer": {
+        "update": "2026-03-02 14:28:10",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,

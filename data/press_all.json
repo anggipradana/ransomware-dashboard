@@ -4,8 +4,29 @@
     "month": null,
     "country": null
   },
-  "count": 3256,
+  "count": 3258,
   "results": [
+    {
+      "date": "2026-02-27",
+      "victim": "Marktgemeinde Langenzersdorf",
+      "domain": "langenzersdorf.gv.at",
+      "country": "AT",
+      "summary": "La Marktgemeinde Langenzersdorf a été victime d'une attaque informatique le 27 février 2026, ce qui a rendu son réseau interne indisponible et a suspendu les activités de l'hôtel de ville. Les experts en sécurité travaillent à la restauration du système et la commune demande aux citoyens d'éviter les demandes par e-mail pour le moment. La vie quotidienne de la population et les infrastructures critiques ne sont pas affectées par cette attaque.",
+      "title": "Cyber-Angriff legt große Gemeinde in NÖ lahm | Heute.at",
+      "url": "https://www.heute.at/s/cyber-angriff-legt-grosse-gemeinde-in-noe-lahm-120166017",
+      "added": "2026-03-02",
+      "infostealer": {
+        "update": "2026-03-02 17:27:33",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-02-27",
       "victim": "Ngong Ping 360",
@@ -255,6 +276,48 @@
         }
       },
       "ransomware": null
+    },
+    {
+      "date": "2026-02-19",
+      "victim": "Fundação Getúlio Vargas",
+      "domain": "fgv.br",
+      "country": "BR",
+      "summary": "La Fundação Getúlio Vargas a été victime d'une attaque de sequestro de données par le groupe Dragonforce, avec 1,52 To de données compromises, dont des informations personnelles sensibles. L'attaque a eu lieu après un incident de cybersécurité similaire en février. Le groupe Dragonforce exige un rançon en échange de la non-divulgation des données.",
+      "title": "Fundação Getúlio Vargas sofre vazamento de 1,52 TB em suposto ataque de ransomware",
+      "url": "https://www.tecmundo.com.br/seguranca/411228-fgv-sofre-vazamento-de-152-tb-em-suposto-ataque-cibernetico-do-grupo-dragonforce.htm",
+      "added": "2026-03-02",
+      "infostealer": {
+        "update": "2026-03-02 17:27:13",
+        "employees": 151,
+        "users": 88336,
+        "thirdparties_domain": 48,
+        "employees_url": 52,
+        "users_url": 100,
+        "thirdparties": 183,
+        "infostealer_stats": {
+          "RedLine": 18802,
+          "CRYPTBOT": 102,
+          "UNKNOWN": 631,
+          "Mystic": 84,
+          "Vidar": 1453,
+          "Generic Stealer": 7387,
+          "KPOT": 3,
+          "Lumma": 12060,
+          "Ficker": 14,
+          "StealC": 2110,
+          "Acreed": 126,
+          "Atomic": 17,
+          "Predator": 44,
+          "Raccoon": 6339,
+          "DarkCrystal": 115,
+          "Azorult": 689,
+          "Taurus": 24
+        }
+      },
+      "ransomware": {
+        "group": "dragonforce",
+        "permalink": "https://www.ransomware.live/id/Zmd2LmJyQGRyYWdvbmZvcmNl"
+      }
     },
     {
       "date": "2026-02-19",

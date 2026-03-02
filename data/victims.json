@@ -341708,5 +341708,38 @@
         "activity": "Public Sector",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "TIW Group",
+        "group_name": "dragonforce",
+        "discovered": "2026-03-02 13:27:54.672601",
+        "description": "TIW Group consists of two related contracting entities: Tidewater Interior Wall and Ceiling, Inc. and Mid-Atlantic Painting, Inc., offering Class-A drywall and painting services since 1998 and 2002 respectively. They cater to builders and general contractors, providing high-quality, efficient, and timely residential and commercial services. With a strong focus on customer service and a well-seasoned staff, TIW Group ensures excellence in every project with a combination of drywall and painting applications.",
+        "website": "www.tiw-group.com",
+        "published": "2026-01-28 11:04:17.907434",
+        "post_url": "http://z3wqggtxft7id3ibr7srivv5gjof5fwg76slewnzwwakjuf3nlhukdid.onion/blog/?post_uuid=ad791ae8-a535-4582-b77f-5911bb010de0",
+        "country": "GB",
+        "activity": "Technology",
+        "duplicates": [
+            {
+                "date": "2026-03-02 13:27:54.759928",
+                "group": "devman",
+                "link": "https://www.ransomware.live/id/dGl3LWdyb3VwLmNvbUBkZXZtYW4=",
+                "attackdate": "2026-01-28 11:04:17.907434"
+            }
+        ],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Israel Opportunity Energy",
+        "group_name": "handala",
+        "discovered": "2026-03-02 13:30:26.216110",
+        "description": "One of the most prominent oil and gas exploration companies has been hacked. This is the beginning of a rage that had been suppressed for years out of humanity, ethics, and religious restraint. However, the leaders of the Epstein faction , Trump and Netanyahu , ignited years of anger and fury. Know that from now…",
+        "website": "",
+        "published": "2026-03-02 13:29:53.115777",
+        "post_url": "https://handala-hack.to/israel-opportunity-energy-hacked/",
+        "country": "IL",
+        "activity": "Energy",
+        "duplicates": [],
+        "extrainfos": []
     }
 ]

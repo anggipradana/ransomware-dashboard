@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3255,
+  "count": 3256,
   "results": [
     {
       "date": "2026-02-27",
@@ -1037,6 +1037,30 @@
         "infostealer_stats": {}
       },
       "ransomware": null
+    },
+    {
+      "date": "2026-01-30",
+      "victim": "Denmark School District",
+      "domain": "denmark.k12.wi.us",
+      "country": "US",
+      "summary": "Le district scolaire de Denmark au Wisconsin a subi une interruption de son accès à Internet pendant cinq jours en raison d'un incident cybernétique. Les enseignants et les étudiants ont dû recourir à des méthodes de travail basées sur le papier. L'incident a été attribué à une attaque cybernétique, mais les détails sur les systèmes affectés et les données compromises n'ont pas été divulgués.",
+      "title": "Denmark schools in Wisconsin hit by weeklong outage",
+      "url": "https://dysruptionhub.com/denmark-schools-outage-wisconsin/",
+      "added": "2026-03-02",
+      "infostealer": {
+        "update": "2026-03-01 20:10:41",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "incransom",
+        "permalink": "https://www.ransomware.live/id/ZGVubWFyay5rMTIud2kudXNAaW5jcmFuc29t"
+      }
     },
     {
       "date": "2026-01-29",

@@ -471,7 +471,10 @@
         "thirdparties": 0,
         "infostealer_stats": {}
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "safepay",
+        "permalink": "https://www.ransomware.live/id/RnJhbnotU2FsZXMtSGF1cy5kZUBzYWZlcGF5"
+      }
     },
     {
       "date": "2026-02-16",

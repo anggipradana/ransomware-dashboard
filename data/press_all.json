@@ -151,7 +151,10 @@
         "thirdparties": 0,
         "infostealer_stats": {}
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "thegentlemen",
+        "permalink": "https://www.ransomware.live/id/Q0hTIFZpbGxhY2hAdGhlZ2VudGxlbWVu"
+      }
     },
     {
       "date": "2026-02-24",

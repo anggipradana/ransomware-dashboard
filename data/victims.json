@@ -342403,5 +342403,53 @@
         "activity": "Healthcare",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "CHS Villach",
+        "group_name": "thegentlemen",
+        "discovered": "2026-03-03 15:50:18.234463",
+        "description": "chs-villach.at zoominfo.com/c/chs-villach/429687687 CHS Villach is an educational institution offering a variety of vocational training programs in fields such as business, health and social services, media design, and arts. The school focuses on developing students' personal and social skills, encouraging them to take responsibility and engage actively in their communities. It provides opportunities for hands-on learning through projects, internships, and collaborations, fostering independence and creativity among students. CHS Villach aims to prepare young individuals for successful careers while promoting quality education and personal growth",
+        "website": "chs-villach.at",
+        "published": "2026-03-03 15:19:46.000000",
+        "post_url": "http://tezwsse5czllksjb7cwp65rvnk4oobmzti2znn42i43bjdfd2prqqkad.onion",
+        "country": "AT",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Camelot Electronics Technology Co., Ltd.",
+        "group_name": "beast",
+        "discovered": "2026-03-03 16:29:20.595477",
+        "description": "Camelot Hubei Technology Limited Company (also known as Hubei Camelot Electronics) is a subsidiary of Camelot Electronics Technology Co., Ltd. (Jinlu Electronics), specializing in the manufacturing of printed circuit boards (PCBs).",
+        "website": "-",
+        "published": "2024-03-27 14:57:43.127611",
+        "post_url": "http://beast6azu4f7fxjakiayhnssybibsgjnmy77a6duufqw5afjzfjhzuqd.onion/card/camelot_electronics_technology_co___ltd_",
+        "country": "CN",
+        "activity": "Technology",
+        "duplicates": [
+            {
+                "date": "2026-03-03 16:29:20.657021",
+                "group": "qilin",
+                "link": "https://www.ransomware.live/id/TC1QaW1lbnRhIChldGRlbGV0cm9uaWNzKUBxaWxpbg==",
+                "attackdate": "2024-03-27 14:57:43.127611"
+            }
+        ],
+        "extrainfos": {
+            "data_size": "84GB"
+        }
+    },
+    {
+        "post_title": "Aramco",
+        "group_name": "handala",
+        "discovered": "2026-03-03 16:38:16.441768",
+        "description": "For years, Aramco’s oil money was turned into bullets and bombs that were dropped on Palestinian children, or it funded the construction of the Epstein cult’s pedophile island, or paid for Trump’s missiles to strike a girls’ school in Iran. But that is no longer the case. Now the entire infrastructure of Aramco has been…",
+        "website": "",
+        "published": "2026-03-03 16:38:04.821278",
+        "post_url": "https://handala-hack.to/aramco-hacked/",
+        "country": "SA",
+        "activity": "Energy",
+        "duplicates": [],
+        "extrainfos": []
     }
 ]

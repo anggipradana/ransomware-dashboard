@@ -342350,5 +342350,58 @@
         "activity": "Not Found",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Encompass",
+        "group_name": "dragonforce",
+        "discovered": "2026-03-03 15:05:59.956037",
+        "description": "Founded in 2001 and headquartered in Clarksville, Virginia, Encompass Solutions is a preferred Epicor partner and Value-Added Re-seller (VAR), that delivers mission-critical ERP software solutions, custom development services, and process improvements for businesses in manufacturing industries. The company prides themselves on being expert business consultants, software implementation specialists, and managed services providers.",
+        "website": "www.encompass-inc.com",
+        "published": "2026-02-02 23:33:21.736172",
+        "post_url": "http://z3wqggtxft7id3ibr7srivv5gjof5fwg76slewnzwwakjuf3nlhukdid.onion/blog/?post_uuid=61e8d563-1b2b-423f-add3-1b967492af86",
+        "country": "US",
+        "activity": "Not Found",
+        "duplicates": [
+            {
+                "date": "2026-03-03 15:06:00.063228",
+                "group": "devman",
+                "link": "https://www.ransomware.live/id/RU5DT01QQVNTLUlOQ0BkZXZtYW4=",
+                "attackdate": "2026-02-02 23:33:21.736172"
+            }
+        ],
+        "extrainfos": []
+    },
+    {
+        "post_title": "maisonlaw.com",
+        "group_name": "incransom",
+        "discovered": "2026-03-03 15:11:27.038699",
+        "description": "Maison Law provides skilled, experienced, and personalized legal guidance to the voiceless and the injured in the Central Valley.",
+        "website": "maisonlaw.com",
+        "published": "2025-12-19 12:37:06.652916",
+        "post_url": "http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/69a6f88b8f1d14b743b51a17",
+        "country": "US",
+        "activity": "Not Found",
+        "duplicates": [
+            {
+                "date": "2026-03-03 15:11:27.126524",
+                "group": "qilin",
+                "link": "https://www.ransomware.live/id/TWFpc29uIExhd0BxaWxpbg==",
+                "attackdate": "2025-12-19 12:37:06.652916"
+            }
+        ],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Belmont Plastic Surgery",
+        "group_name": "insomnia",
+        "discovered": "2026-03-03 15:14:38.237980",
+        "description": "Belmont Plastic Surgery, led by award-winning surgeon Dr. Jules Feledy, offers comprehensive cosmetic and reconstructive procedures. The practice specializes in breast augmentation, body contouring, and facial rejuvenation, delivering natural-looking.",
+        "website": "www.belmontplasticsurgeryva.com",
+        "published": "2026-02-24 00:00:00.000000",
+        "post_url": "http://i62huw7ve22rpyw6lnq3kmfump2dmsg4xpveec3ere73njwatrz74gad.onion/Company/Belmont/",
+        "country": "US",
+        "activity": "Healthcare",
+        "duplicates": [],
+        "extrainfos": []
     }
 ]

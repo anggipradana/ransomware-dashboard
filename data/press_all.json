@@ -4,8 +4,29 @@
     "month": null,
     "country": null
   },
-  "count": 3261,
+  "count": 3262,
   "results": [
+    {
+      "date": "2026-03-04",
+      "victim": "Ohio County Schools",
+      "domain": "ohio.k12.wv.us",
+      "country": "US",
+      "summary": "Le district scolaire de Ohio County, dans l'État de Virginie-Occidentale aux États-Unis, a rétabli son service internet lundi après une interruption d'une semaine due à une attaque cybernétique suspectée. L'administration a temporairement coupé la connexion pour enquêter sur l'incident, affirmant qu'il n'y avait pas de risque pour les données des élèves ou du personnel. Bien que le district ait confirmé le retour à la normale, il n'a pas divulgué la nature précise de l'attaque ni impliqué d'entités externes.",
+      "title": "Ohio County Schools, West Virginia, restore internet after potential cyberattack",
+      "url": "https://dysruptionhub.com/ohio-county-schools-outage-west-virginia/",
+      "added": "2026-03-04",
+      "infostealer": {
+        "update": "2026-03-04 15:13:43",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-03-03",
       "victim": "Advanced Optoelectronic Technology Inc.",

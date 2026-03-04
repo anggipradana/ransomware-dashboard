@@ -4,8 +4,34 @@
     "month": null,
     "country": null
   },
-  "count": 3259,
+  "count": 3261,
   "results": [
+    {
+      "date": "2026-03-03",
+      "victim": "Advanced Optoelectronic Technology Inc.",
+      "domain": "aot.com.tw",
+      "country": "TW",
+      "summary": "La société a subi une cyberattaque, mais a pris des mesures de sécurité pour atténuer les risques, et il n'y a pas eu de fuite de données personnelles ou d'impact significatif sur les opérations de l'entreprise.",
+      "title": "Today's Information",
+      "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=155627&spoke_date=20260303&co_id=3437",
+      "added": "2026-03-04",
+      "infostealer": {
+        "update": "2026-03-04 09:13:47",
+        "employees": 2,
+        "users": 7,
+        "thirdparties_domain": 0,
+        "employees_url": 1,
+        "users_url": 6,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "Generic Stealer": 3,
+          "RedLine": 1,
+          "Lumma": 4,
+          "StealC": 1
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-03-02",
       "victim": "Alcorn School District",
@@ -1467,6 +1493,42 @@
           "Vidar": 2,
           "Azorult": 2,
           "StealC": 2
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-01-21",
+      "victim": "Cloud Imperium Games (CIG)",
+      "domain": "cloudimperiumgames.com",
+      "country": "US",
+      "summary": "Le 21 janvier 2026, CIG a subi une attaque ciblant certains systèmes de sauvegarde avec accès limité à des données personnelles. Les ingénieurs d'une entrée et accès illégal entre la sécurité des données affectées, y compris des coordonnées de contact, mais aucune information financière ou mot de passe n'a été compromise. Bien qu'une surveillance continue soit en cours et que ce déploiement, il n'y a aucune indication que des données aient été publiées publiquement ou modifiées.",
+      "title": "Website Notice",
+      "url": "https://robertsspaceindustries.com/en/Website-Notice",
+      "added": "2026-03-04",
+      "infostealer": {
+        "update": "2026-03-04 09:14:08",
+        "employees": 0,
+        "users": 1969,
+        "thirdparties_domain": 6,
+        "employees_url": 0,
+        "users_url": 29,
+        "thirdparties": 5,
+        "infostealer_stats": {
+          "Mystic": 1,
+          "Generic Stealer": 358,
+          "CRYPTBOT": 5,
+          "StealC": 67,
+          "Acreed": 5,
+          "Taurus": 1,
+          "Vidar": 61,
+          "Lumma": 467,
+          "UNKNOWN": 44,
+          "Ficker": 2,
+          "Raccoon": 137,
+          "RedLine": 603,
+          "DarkCrystal": 3,
+          "Azorult": 94
         }
       },
       "ransomware": null

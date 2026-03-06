@@ -343679,5 +343679,35 @@
         "activity": "Education",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Edgar Agents",
+        "group_name": "qilin",
+        "discovered": "2026-03-06 09:53:35.016524",
+        "description": "N/A",
+        "website": "www.edgaragents.com",
+        "published": "2026-03-06 09:53:17.736835",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=cbecddcb-d860-33d2-9751-674a496c81be",
+        "country": "US",
+        "activity": "Financial Services",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "INTERACT TECHNOLOGY SOLUTIONS",
+        "group_name": "pear",
+        "discovered": "2026-03-06 11:14:50.785062",
+        "description": "Leading company in providing the latest technologies and business solutions",
+        "website": "interactts.com",
+        "published": "2026-03-03 00:00:00.000000",
+        "post_url": "http://pearsmob5sn44ismokiusuld34pnfwi6ctgin3qbvonpoob4lh3rmtqd.onion/Companies/interactts",
+        "country": "EG",
+        "activity": "Technology",
+        "duplicates": [],
+        "extrainfos": {
+            "Activity": "Business Services",
+            "Revenue": "$55.1M",
+            "Status": "announced"
+        }
     }
 ]

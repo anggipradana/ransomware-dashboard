@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3265,
+  "count": 3274,
   "results": [
     {
       "date": "2026-03-04",
@@ -1583,6 +1583,27 @@
     },
     {
       "date": "2026-01-21",
+      "victim": "Brown Advisory LLC",
+      "domain": "brownadvisory.com",
+      "country": "US",
+      "summary": "On January 21st 2026, Brown Advisory discovered a security incident involving unauthorized access by a recognized threat actor to certain of their systems. Upon learning of the issue, they engaged leading cybersecurity experts and, with their assistance, have been conducting an investigation into the matter. The investigation indicated that an unauthorized threat actor accessed certain personal data through a limited number of applications for a limited period of time.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/aac37c55-b974-4522-80ce-317967214217.html",
+      "added": "2026-03-04",
+      "infostealer": {
+        "update": "2026-03-06 08:36:59",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-01-21",
       "victim": "Cloud Imperium Games (CIG)",
       "domain": "cloudimperiumgames.com",
       "country": "US",
@@ -2757,6 +2778,30 @@
     },
     {
       "date": "2025-12-20",
+      "victim": "Warren County Sheriff's Office",
+      "domain": "warrencountykysheriff.com",
+      "country": "US",
+      "summary": "Le bureau du shérif du comté de Warren a détecté une activité suspecte sur son réseau informatique le 20 décembre 2025, déclenchant une enquête pour une cyberattaque. Des criminels cybernétiques ont accédé au réseau de l'office, copié et supprimé certaines données, affectant les employés et leurs familles. Une cyberattaque contre le bureau du shérif avait été revendiquée par RansomHouse le 23 janvier.",
+      "title": "WCSO investigating cyber attack on its computer network",
+      "url": "https://www.wbko.com/2026/03/05/wcso-investigate-cyber-attack/",
+      "added": "2026-03-06",
+      "infostealer": {
+        "update": "2026-01-23 16:59:14",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "ransomhouse",
+        "permalink": "https://www.ransomware.live/id/V2FycmVuIENvdW50eSBTaGVyaWZm4oCZcyBPZmZpY2VAcmFuc29taG91c2U="
+      }
+    },
+    {
+      "date": "2025-12-20",
       "victim": "Lepido Rocco",
       "domain": "lepidorocco.it",
       "country": "IT",
@@ -3285,6 +3330,27 @@
           "Raccoon": 2,
           "Mystic": 2
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-12-10",
+      "victim": "The Lewis Bear Company",
+      "domain": "lewisbearcompany.com",
+      "country": "US",
+      "summary": "The Lewis Bear Company suffered a data breach, prompting the company to notify customers to review their account statements and credit reports for suspicious activity. Customers are advised to contact the company or law enforcement if they detect any fraudulent activity. A cyberattack was claimed by Akira on January 5.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/cc5cfef7-8eda-492e-9a93-292026a891da.html",
+      "added": "2026-02-26",
+      "infostealer": {
+        "update": "2026-03-06 08:35:38",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },
@@ -8350,6 +8416,29 @@
     },
     {
       "date": "2025-09-11",
+      "victim": "Data Systems Analysts, Inc.",
+      "domain": "dsainc.com",
+      "country": "US",
+      "summary": "Data Systems Analysts, Inc. suffered a data breach, prompting the company to offer credit monitoring services to affected individuals. The breach led to an offer of 12 months of free credit monitoring services from Experian. The company is not aware of anyone experiencing fraud as a result of the incident.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/9381c2f2-0aa0-482d-aaaf-7a128ef25575.html",
+      "added": "2026-02-25",
+      "infostealer": {
+        "update": "2026-03-06 08:36:18",
+        "employees": 0,
+        "users": 2,
+        "thirdparties_domain": 3,
+        "employees_url": 0,
+        "users_url": 1,
+        "thirdparties": 3,
+        "infostealer_stats": {
+          "Lumma": 2
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-09-11",
       "victim": "Sasserath & Co.",
       "domain": "sasscpas.com",
       "country": "US",
@@ -9516,6 +9605,29 @@
     },
     {
       "date": "2025-08-22",
+      "victim": "KCI Telecommunications",
+      "domain": "kcitelecom.com",
+      "country": "US",
+      "summary": "KCI Telecommunications suffered a data breach on August 22, 2025, where an unknown actor accessed certain files containing names and Social Security numbers. The breach was discovered on August 22, 2025, and KCI took steps to secure its systems and launched an investigation. A cyberattack was claimed by Akira on September 19.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/0ea8c430-7b48-4949-92e4-d2dd0ab0259d.html",
+      "added": "2026-02-26",
+      "infostealer": {
+        "update": "2026-03-06 08:35:18",
+        "employees": 0,
+        "users": 3,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 4,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "RedLine": 3
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-08-22",
       "victim": "Georgetown Brewing Company",
       "domain": "georgetownbeer.com",
       "country": "US",
@@ -10202,6 +10314,27 @@
         "group": "incransom",
         "permalink": "https://www.ransomware.live/id/c3R0aG9tLmVkdUBpbmNyYW5zb20="
       }
+    },
+    {
+      "date": "2025-08-13",
+      "victim": "Pyramid Advisors Limited Partnership d/b/a Pyramid Global Hospitality",
+      "domain": "pyramidglobal.com",
+      "country": "US",
+      "summary": "Pyramid Global Hospitality suffered a data breach, prompting the company to offer identity protection services to affected individuals. The breach led to the potential misuse of consumers' personal information. A cyberattack was claimed by Worldleaks on September 23.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/e52c31d3-b961-4fc1-81ae-3c744b3f9c4f.html",
+      "added": "2026-02-26",
+      "infostealer": {
+        "update": "2025-09-23 19:18:20",
+        "employees": 0,
+        "users": 1,
+        "thirdparties_domain": 11,
+        "employees_url": 0,
+        "users_url": 1,
+        "thirdparties": 4,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
     },
     {
       "date": "2025-08-13",
@@ -16364,6 +16497,27 @@
       "victim": "Academic Urology & Urogynecology of Arizona",
       "domain": "academic-urology.com",
       "country": "US",
+      "summary": "Academic Urology & Urogynecology of Arizona experienced a cybersecurity incident that potentially involved unauthorized access to their network, resulting in the potential exposure of personal and protected health information. A cyberattack was claimed by INC Ransom on June 17.",
+      "title": "2026-02-12 Academic Urology & Urogynecology of Arizona Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2026-02-12-academic-urology-urogynecology-arizona-data-breach-notice-consumers",
+      "added": "2026-02-18",
+      "infostealer": {
+        "update": "2026-02-24 12:31:55",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-05-22",
+      "victim": "Academic Urology & Urogynecology of Arizona",
+      "domain": "academic-urology.com",
+      "country": "US",
       "summary": "Academic Urology & Urogynecology of Arizona experienced a cybersecurity incident that potentially involved unauthorized access to their network, resulting in the potential exposure of personal and protected health information. A cyberattack was claimed by INCransom on June 17.",
       "title": "2026-02-12 Academic Urology & Urogynecology of Arizona Data Breach Notice to Consumers",
       "url": "https://ago.vermont.gov/document/2026-02-12-academic-urology-urogynecology-arizona-data-breach-notice-consumers",
@@ -17515,6 +17669,27 @@
           "Generic Stealer": 2,
           "UNKNOWN": 1
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-05-11",
+      "victim": "Cyrus D. Mehta & Partners PLLC",
+      "domain": "cyrusmehta.com",
+      "country": "US",
+      "summary": "Cyrus D. Mehta & Partners PLLC suffered a data breach where an unauthorized third party accessed certain systems and removed data. The breach may have involved address, demographic information, date of birth, Social Security number, passport or other government identification, and other identifiers. The organization has taken steps to prevent further access and is offering credit monitoring services to affected individuals.",
+      "title": "2026-02-23 Cyrus D. Mehta & Partners Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2026-02-23-cyrus-d-mehta-partners-data-breach-notice-consumers",
+      "added": "2026-02-25",
+      "infostealer": {
+        "update": "2026-03-06 08:35:58",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },
@@ -21514,6 +21689,27 @@
       "added": "2025-03-31",
       "infostealer": {
         "update": "2025-03-31 15:28:08",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-03-30",
+      "victim": "Hennessy Advisors, Inc.",
+      "domain": "hennessyadvisors.com",
+      "country": "US",
+      "summary": "Hennessy Advisors, Inc. experienced a data security incident that may have affected personal information of investors. The incident occurred when suspicious activity was discovered on March 30, 2025, and it was later confirmed that personal information had been accessed and released without authorization in December 2025. The affected information may have included names, addresses, and other personal details.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/e7c69f03-e6e0-474a-b6e0-b9f26b728951.html",
+      "added": "2026-02-25",
+      "infostealer": {
+        "update": "2026-03-06 08:36:39",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,

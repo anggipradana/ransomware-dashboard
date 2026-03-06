@@ -343633,5 +343633,25 @@
         "activity": "Financial Services",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Transsion",
+        "group_name": "AiLock",
+        "discovered": "2026-03-06 05:51:09.709095",
+        "description": "Transsion Holdings is a diversified international telecommunications manufacturing company founded in 2006, specializing in mobility solutions with operations in over 50 countries globally.The data contains git, git-ai, vendor proprietary code, NDA documents, and other internal documents.",
+        "website": "transsion.com",
+        "published": "2025-03-29 02:38:20.000000",
+        "post_url": "",
+        "country": "CN",
+        "activity": "Technology",
+        "duplicates": [
+            {
+                "date": "2026-03-06 05:51:09.781254",
+                "group": "hellcat",
+                "link": "https://www.ransomware.live/id/VHJhbnNzaW9uIEhvbGRpbmdzQGhlbGxjYXQ=",
+                "attackdate": "2025-03-29 02:38:20.000000"
+            }
+        ],
+        "extrainfos": []
     }
 ]

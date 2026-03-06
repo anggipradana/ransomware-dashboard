@@ -4,8 +4,29 @@
     "month": null,
     "country": null
   },
-  "count": 3274,
+  "count": 3275,
   "results": [
+    {
+      "date": "2026-03-06",
+      "victim": "Caribbean Medical Center",
+      "domain": "caribbeanmedicalcenter.com",
+      "country": "PR",
+      "summary": "Le centre hospitalier Caribbean Medical Center, situé à Fajardo, a subi une attaque cybernétique sur ses systèmes d'information. L'organisation a immédiatement activé ses protocoles de sécurité internes et fait appel à des experts externes pour arrêter l'activité malveillante. La direction confirme que la chaîne hospitalière fonctionne normalement et collabore avec les autorités pour l'enquête.",
+      "title": "Caribbean Medical Center en Fajardo sufrió ataque cibernético",
+      "url": "https://www.metro.pr/noticias/2026/03/06/caribbean-medical-center-en-fajardo-sufrio-ataque-cibernetico/",
+      "added": "2026-03-06",
+      "infostealer": {
+        "update": "2026-03-06 18:38:21",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-03-04",
       "victim": "Passaic County",

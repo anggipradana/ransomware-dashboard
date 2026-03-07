@@ -344244,5 +344244,44 @@
         "activity": "Not Found",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Eeyou Communications Network",
+        "group_name": "AiLock",
+        "discovered": "2026-03-07 08:26:37.066199",
+        "description": "Eeyou Communications Network operates a regional fibre optic network serving the James Bay and Eeyou Istchee regions, providing ultra-high-speed internet since 2004.",
+        "website": "eeyou.ca",
+        "published": "2026-03-07 08:26:34.724892",
+        "post_url": "",
+        "country": "CA",
+        "activity": "Telecommunication",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Netwerk NV",
+        "group_name": "AiLock",
+        "discovered": "2026-03-07 08:27:00.707121",
+        "description": "Netwerk NV is part of the Korevaar Group. Their services range from container cleaning to waste management and pest control.",
+        "website": "netwerknv.nl",
+        "published": "2026-03-07 08:26:59.105898",
+        "post_url": "",
+        "country": "BE",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Johnson Vollmerhausen & Gates",
+        "group_name": "AiLock",
+        "discovered": "2026-03-07 08:27:25.983164",
+        "description": "Johnson Vollmerhausen & Gates provides professional accounting, tax, and advisory services tailored to the needs of both individuals and businesses.",
+        "website": "jvgasheville.com",
+        "published": "2026-03-07 08:27:22.700727",
+        "post_url": "",
+        "country": "",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": []
     }
 ]

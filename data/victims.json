@@ -344166,5 +344166,57 @@
         "activity": "Public Sector",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "11th Street Veterinary Hospital",
+        "group_name": "nightspire",
+        "discovered": "2026-03-07 01:47:14.165899",
+        "description": "Data is not available now.",
+        "website": "www.11thstvet.com",
+        "published": "2026-02-15 00:00:00.000000",
+        "post_url": "",
+        "country": "US",
+        "activity": "Healthcare",
+        "duplicates": [],
+        "extrainfos": {}
+    },
+    {
+        "post_title": "MAGNETA LOGISTICS, UAB",
+        "group_name": "nightspire",
+        "discovered": "2026-03-07 01:47:37.646052",
+        "description": "Data is not available now.",
+        "website": "magneta.lt",
+        "published": "2026-02-24 00:00:00.000000",
+        "post_url": "",
+        "country": "LT",
+        "activity": "Transportation/Logistics",
+        "duplicates": [],
+        "extrainfos": {}
+    },
+    {
+        "post_title": "Northern Family Farms",
+        "group_name": "dragonforce",
+        "discovered": "2026-03-07 02:41:29.492734",
+        "description": "Northern Family Farms, located in Merrillan, WI, has been a trusted wholesale supplier of Christmas trees and nursery plants since 1955. They offer a variety of products including Fraser Fir, Balsam Fir, White Pine, and numerous types of nursery plants such as fruits, topiaries, and shrubs. The company serves distributors and businesses across the country, ensuring top-quality plants for retail and landscaping needs. With a commitment to customer satisfaction, they invite potential clients to tour their facilities in West Central Wisconsin.",
+        "website": "www.northernfamilyfarms.com",
+        "published": "2026-03-07 02:38:39.567933",
+        "post_url": "http://z3wqggtxft7id3ibr7srivv5gjof5fwg76slewnzwwakjuf3nlhukdid.onion/blog/?post_uuid=2f133f2f-3a52-4efa-8bd9-42fadf0d63d6",
+        "country": "US",
+        "activity": "Agriculture and Food Production",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "CPG Documentation",
+        "group_name": "nightspire",
+        "discovered": "2026-03-07 03:14:07.142617",
+        "description": "Data is not available now.",
+        "website": "cpgcanhelp.com",
+        "published": "2026-02-10 00:00:00.000000",
+        "post_url": "",
+        "country": "US",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": {}
     }
 ]

@@ -4,8 +4,50 @@
     "month": null,
     "country": null
   },
-  "count": 3278,
+  "count": 3281,
   "results": [
+    {
+      "date": "2026-03-09",
+      "victim": "Community College of Beaver County",
+      "domain": "ccbc.edu",
+      "country": "US",
+      "summary": "Le Community College of Beaver County a subi une attaque de cryptolocker, ce qui a conduit à la fermeture de ses ressources technologiques pour limiter les dégâts. L'incident a eu lieu pendant les vacances de printemps, ce qui a limité les perturbations immédiates pour les classes. L'établissement n'a pas encore communiqué publiquement sur les systèmes affectés ou la durée des interruptions.",
+      "title": "Community College of Beaver County locks down systems after cyberattack in Pennsylvania",
+      "url": "https://dysruptionhub.com/ccbc-cyberattack-it-lockdown-pa/",
+      "added": "2026-03-09",
+      "infostealer": {
+        "update": "2026-03-09 21:39:55",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-03-08",
+      "victim": "Independent Public Regional Hospital Szczecin",
+      "domain": "spwsz.szczecin.pl",
+      "country": "PL",
+      "summary": "hôpital public régional indépendant a été victime d'une cyberattaque samedi soir. Le système informatique a été infecté et certaines données ont été chiffrées par les criminels, bloquant l'accès à celles-ci. L'établissement a été contraint de basculer vers des opérations manuelles sur papier. Les procédures médicales et administratives prennent plus de temps que d'habitude, bien que la vie et la santé des patients ne soient pas en danger.",
+      "title": "Cyberattack sees Polish hospital revert to ‘paper-based’ system",
+      "url": "https://tvpworld.com/91986106/hospital-in-western-poland-hit-by-cyberattack",
+      "added": "2026-03-09",
+      "infostealer": {
+        "update": "2026-03-09 21:40:16",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-03-06",
       "victim": "DIAN",
@@ -22744,6 +22786,27 @@
       "added": "2025-07-09",
       "infostealer": {
         "update": "2025-07-09 07:55:15",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-03-17",
+      "victim": "Ontario Medical Supply (OMS)",
+      "domain": "oms.ca",
+      "country": "CA",
+      "summary": "Un fournisseur de matériel médical, Ontario Medical Supply (OMS), a été victime d'une attaque par ransomware en mars 2025, compromettant les données de près de 200 000 patients. Bien que l'Ontario Health atHome ait initialement gardé le secret sur la nature exacte de l'incident, des documents obtenus ont révélé qu'il s'agissait d'un ransomware et non simplement d'une cyberattaque générique. Cette révélation tardive a suscité des critiques concernant le manque de transparence du gouvernement provincial envers les patients affectés.",
+      "title": "Ontario health agency vendor suffered major ransomware attack in 2025 | Globalnews.ca",
+      "url": "https://globalnews.ca/news/11720041/ontario-health-athome-ransomware/",
+      "added": "2026-03-09",
+      "infostealer": {
+        "update": "2025-08-01 10:30:03",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,

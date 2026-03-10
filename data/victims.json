@@ -345102,5 +345102,103 @@
         "activity": "Construction",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Root Security",
+        "group_name": "qilin",
+        "discovered": "2026-03-10 11:38:40.171952",
+        "description": "N/A",
+        "website": "www.rootsecurity.com.sg",
+        "published": "2026-03-10 11:38:06.695516",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=968e730c-0443-3e1b-9aef-043aa1a44509",
+        "country": "",
+        "activity": "Technology",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Salford City College",
+        "group_name": "qilin",
+        "discovered": "2026-03-10 11:39:14.552311",
+        "description": "N/A",
+        "website": "www.salfordcc.ac.uk",
+        "published": "2026-03-06 07:35:50.472630",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=99c69058-239f-334b-9088-571b8ca0940d",
+        "country": "GB",
+        "activity": "Education",
+        "duplicates": [
+            {
+                "date": "2026-03-10 11:39:14.628596",
+                "group": "dragonforce",
+                "link": "https://www.ransomware.live/id/c2FsZm9yZGNjLmFjLnVrQGRyYWdvbmZvcmNl",
+                "attackdate": "2026-03-06 07:35:50.472630"
+            }
+        ],
+        "extrainfos": []
+    },
+    {
+        "post_title": "RetireRight Financial Planning",
+        "group_name": "qilin",
+        "discovered": "2026-03-10 11:40:09.332178",
+        "description": "N/A",
+        "website": "www.retirerightfp.com",
+        "published": "2026-03-10 11:39:36.694161",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=67daf84d-63f7-3294-b639-5214b145e2bd",
+        "country": "AU",
+        "activity": "Financial Services",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "A-Fast Tile & Coping",
+        "group_name": "qilin",
+        "discovered": "2026-03-10 11:41:04.395602",
+        "description": "N/A",
+        "website": "www.afaststone.com",
+        "published": "2026-03-10 11:40:31.926213",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=480f6d0b-98bd-3c74-be06-8f8e809ec3d8",
+        "country": "US",
+        "activity": "Construction",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Advanced Animations",
+        "group_name": "qilin",
+        "discovered": "2026-03-10 11:41:59.191216",
+        "description": "N/A",
+        "website": "www.advancedanimations.com",
+        "published": "2026-03-10 11:41:26.554309",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=11fa5336-1188-352a-99d3-4214bfae708b",
+        "country": "",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Teknopres_TR",
+        "group_name": "incransom",
+        "discovered": "2026-03-10 12:33:51.538495",
+        "description": "Our company Teknopres, which was founded in 1978, serves injection casting, mould design and mould construction for the internal and the external markets. Teknopres has the principles of Qualificated Customer Focusing Production.\r \r Teknopres has the developing and constantly renewed technology in all departments. The company mainly works for the automotive, construction and electronics sectors.",
+        "website": "",
+        "published": "2026-03-10 12:00:00.000000",
+        "post_url": "http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/69aea23f8f1d14b7431576fd",
+        "country": "TR",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "LHT Holdings Limited",
+        "group_name": "incransom",
+        "discovered": "2026-03-10 12:34:06.608377",
+        "description": "LHT Holdings is a leading manufacturer of wooden pallets and crates based in Singapore, established in 1977. The company specializes in environmentally friendly packaging solutions, offering a comprehensive range of products including pest-free IPPC pallets, plastic pallets, and technical wood. LHT also provides services such as industrial packaging, pallet rental, and waste disposal, catering to clients looking for sustainable and innovative packaging options. With a focus on emerging technology and sustainability, LHT aims to reduce carbon footprints while delivering high-quality products and services.",
+        "website": "",
+        "published": "2026-03-10 12:00:00.000000",
+        "post_url": "http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/69ae98878f1d14b74314ae6a",
+        "country": "SG",
+        "activity": "Manufacturing",
+        "duplicates": [],
+        "extrainfos": []
     }
 ]

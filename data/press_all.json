@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3281,
+  "count": 3283,
   "results": [
     {
       "date": "2026-03-09",
@@ -119,6 +119,27 @@
       "added": "2026-03-07",
       "infostealer": {
         "update": "2026-03-07 18:40:05",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-03-04",
+      "victim": "Lehigh Carbon Community College",
+      "domain": "lccc.edu",
+      "country": "US",
+      "summary": "Lehigh Carbon Community College a fermé tous ses sites et déplacé ses cours en ligne à partir du 4 mars suite à une perturbation informatique majeure qui n'était toujours pas résolue le 9 mars. Bien que l'établissement n'ait pas confirmé publiquement une cyberattaque, l'obligation de réinitialiser les mots de passe et la disponibilité partielle des services suggèrent une tentative de confinement de réseau. Cette incident s'inscrit dans une série de perturbations cybernétiques touchant le secteur de l'éducation en Pennsylvanie au cours des dernières années.",
+      "title": "Lehigh Carbon Community College outage in Pennsylvania points to likely cyber incident",
+      "url": "https://dysruptionhub.com/lccc-outage-likely-cyber-pennsylvania/",
+      "added": "2026-03-10",
+      "infostealer": {
+        "update": "2026-03-10 18:16:42",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,
@@ -280,6 +301,30 @@
         "infostealer_stats": {}
       },
       "ransomware": null
+    },
+    {
+      "date": "2026-02-26",
+      "victim": "Wagon Mound Public Schools",
+      "domain": "wm.k12.nm.us",
+      "country": "US",
+      "summary": "Le district scolaire Wagon Mound Public Schools, situé au Nouveau-Mexique, a dû déconnecter son réseau et ses ordinateurs après que le superintendant a signalé une infection virale affectant l'ensemble du système. Bien que le district n'ait pas confirmé publiquement la nature de l'incident, une liste de suivi de la rançongiciel attribue la responsabilité de l'attaque au groupe Interlock, qui aurait volé environ 80 Go de données. Cette cyberattaque s'inscrit dans une série de perturbations similaires touchant d'autres districts scolaires du Nouveau-Mexique au cours des dernières années.",
+      "title": "Wagon Mound schools in New Mexico shut network after virus",
+      "url": "https://dysruptionhub.com/wagon-mound-schools-virus-new-mexico/",
+      "added": "2026-03-10",
+      "infostealer": {
+        "update": "2026-03-09 22:15:14",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "interlock",
+        "permalink": "https://www.ransomware.live/id/V2Fnb24gTW91bmQgUHVibGljIFNjaG9vbHNAaW50ZXJsb2Nr"
+      }
     },
     {
       "date": "2026-02-26",

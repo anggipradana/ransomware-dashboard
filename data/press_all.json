@@ -4,8 +4,39 @@
     "month": null,
     "country": null
   },
-  "count": 3283,
+  "count": 3292,
   "results": [
+    {
+      "date": "2026-03-10",
+      "victim": "Stryker",
+      "domain": "stryker.com",
+      "country": "IE",
+      "summary": "Un groupe de hackers soutenu par l'Iran, identifié comme Handala, est soupçonné d'être à l'origine d'une cyberattaque sophistiquée paralysant les opérations mondiales de la société américaine de technologie médicale Stryker. Cette attaque, survenue la nuit dernière, a entraîné la fermeture de tous les systèmes informatiques de l'entreprise, affectant ses sites en Europe, en Asie et aux États-Unis, et obligeant le retrait des données sur les appareils de ses 4 000 employés à Cork. Bien que la cause racine ne soit pas encore confirmée, l'incident a provoqué un arrêt total des activités de la société, qui emploie plus de 56 000 personnes dans 61 pays.",
+      "title": "Stryker cyber attack: Thousands of Irish unable to work as hackers cripple global systems",
+      "url": "https://www.irishmirror.ie/news/irish-news/stryker-cyber-attack-thousands-irish-36850017.amp",
+      "added": "2026-03-11",
+      "infostealer": {
+        "update": "2026-03-11 14:59:06",
+        "employees": 142,
+        "users": 24,
+        "thirdparties_domain": 48,
+        "employees_url": 57,
+        "users_url": 28,
+        "thirdparties": 237,
+        "infostealer_stats": {
+          "Generic Stealer": 30,
+          "Raccoon": 18,
+          "Vidar": 5,
+          "RedLine": 46,
+          "CRYPTBOT": 1,
+          "Lumma": 36,
+          "StealC": 8,
+          "UNKNOWN": 9,
+          "Azorult": 7
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-03-09",
       "victim": "Community College of Beaver County",
@@ -1126,6 +1157,27 @@
       "added": "2026-02-06",
       "infostealer": {
         "update": "2026-02-06 15:23:53",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-02-04",
+      "victim": "De Gruyter Brill",
+      "domain": "degruyterbrill.com",
+      "country": "US",
+      "summary": "A cyberattack was claimed by Play on February 7.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/e1e39816-f492-4871-9ad3-a561793e3186.html",
+      "added": "2026-03-10",
+      "infostealer": {
+        "update": "2026-02-07 20:03:25",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,
@@ -2410,6 +2462,27 @@
           "Raccoon": 4,
           "RedLine": 2
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-01-07",
+      "victim": "Riddle & Butts, LLP",
+      "domain": "riddlebutts.com",
+      "country": "US",
+      "summary": "Riddle Butts suffered a data breach between December 30, 2025, and January 7, 2026, resulting in unauthorized access to certain files containing personal information. The breach was discovered on January 7, 2026. Riddle Butts has taken steps to enhance its security protocols and is providing credit monitoring services to affected individuals.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/4ef9d2e4-7ded-4352-b03c-155aa107eb0e.html",
+      "added": "2026-03-11",
+      "infostealer": {
+        "update": "2026-03-11 14:57:25",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },
@@ -5594,6 +5667,27 @@
     },
     {
       "date": "2025-11-04",
+      "victim": "Sellers Publishing, Inc.",
+      "domain": "sellerspublishing.com",
+      "country": "US",
+      "summary": "Sellers Publishing, Inc. experienced a data security incident where an unauthorized user potentially accessed certain systems, potentially impacting personal information of employees and contractors. The incident was discovered on November 4, 2025, and an investigation concluded on December 3, 2025. The breach may have involved names and Social Security numbers.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/a14e0fca-0983-429b-806d-3aec483aa591.html",
+      "added": "2026-03-11",
+      "infostealer": {
+        "update": "2026-03-11 14:57:04",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-11-04",
       "victim": "Grande paroisse Saint-Luc de Düren",
       "domain": "st-lukas.org",
       "country": "DE",
@@ -7664,6 +7758,27 @@
     },
     {
       "date": "2025-09-24",
+      "victim": "Evolve Mortgage Services",
+      "domain": "evolvemortgageservices.com",
+      "country": "US",
+      "summary": "Evolve Mortgage Services, LLC suffered a data breach, providing complimentary credit monitoring and identity protection services to affected individuals. The breach occurred due to an incident, and the company is taking steps to protect customer information. A cyberattack was claimed by INC Ransom on october 30.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/2125231e-1105-4d5c-97cf-10d357b30a89.html",
+      "added": "2026-03-10",
+      "infostealer": {
+        "update": "2026-03-11 14:56:44",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-09-24",
       "victim": "Boise Co-Op",
       "domain": "boise.coop",
       "country": "US",
@@ -9081,6 +9196,27 @@
     },
     {
       "date": "2025-09-03",
+      "victim": "MetroWest Community FCU",
+      "domain": "metrowestcu.com",
+      "country": "US",
+      "summary": "MetroWest Community Federal Credit Union suffered a data breach on September 1, 2025, where unauthorized access to certain systems and files was detected. The breach potentially affected sensitive information including names, Social Security numbers, financial account numbers, and payment card numbers. A cyberattack was claimed by Akira on October 25.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/8a400b3d-1668-40ec-beff-e92f8d0934d8.html",
+      "added": "2026-03-11",
+      "infostealer": {
+        "update": "2026-03-11 14:58:25",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-09-03",
       "victim": "Ever Care Corporation d/b/a Right at Home",
       "domain": "rightathomecare.com",
       "country": "US",
@@ -9385,6 +9521,27 @@
           "Atomic": 2,
           "StealC": 2
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-08-28",
+      "victim": "Wade Clark Mulcahy LLP",
+      "domain": "wcmlaw.com",
+      "country": "US",
+      "summary": "Wade Clark Mulcahy LLP experienced unauthorized access to certain information between August 25, 2025, and August 28, 2025. The types of information potentially impacted may have included names and other data elements. The organization has taken steps to address the incident and is providing complimentary credit monitoring and identity protection services.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/c01462de-3b11-4909-9d87-d7688af1cf39.html",
+      "added": "2026-03-10",
+      "infostealer": {
+        "update": "2026-03-11 14:58:46",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },
@@ -19067,6 +19224,31 @@
     },
     {
       "date": "2025-04-28",
+      "victim": "UFCW Local 342",
+      "domain": "local342update.com",
+      "country": "US",
+      "summary": "UFCW Local 342 suffered a data breach that exposed personal information of its members. The breach was discovered in 2023, and the organization is offering complimentary credit monitoring services to affected individuals. The breach is believed to have occurred due to unauthorized access to the organization's systems.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/6992f41f-ffce-4aa9-8576-5050111a8388.html",
+      "added": "2026-03-10",
+      "infostealer": {
+        "update": "2026-03-11 14:58:05",
+        "employees": 0,
+        "users": 7,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 3,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "RedLine": 1,
+          "Raccoon": 5,
+          "Lumma": 1
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-04-28",
       "victim": "Foley & Lardner LLP",
       "domain": "foley.com",
       "country": "US",
@@ -24979,6 +25161,27 @@
         "group": "kairos",
         "permalink": "https://www.ransomware.live/id/ZHJ2aXRlbmFzLmNvbUBrYWlyb3M="
       }
+    },
+    {
+      "date": "2025-02-25",
+      "victim": "Sprouse Shrader Smith PLLC",
+      "domain": "sprouselaw.com",
+      "country": "US",
+      "summary": "Sprouse Shrader Smith PLLC experienced a data security incident where suspicious activity was detected on their network, potentially exposing personal information. An investigation found that documents containing personal information may have been copied from their network. The incident was discovered on February 25, 2025.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/d2eecdb4-aae0-45a4-8fbc-e6e270d13370.html",
+      "added": "2026-03-11",
+      "infostealer": {
+        "update": "2026-03-11 14:57:45",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
     },
     {
       "date": "2025-02-25",

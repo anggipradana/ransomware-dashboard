@@ -345527,5 +345527,107 @@
         "activity": "Not Found",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "CFTC Métallurgie",
+        "group_name": "nightspire",
+        "discovered": "2026-03-11 16:20:34.813920",
+        "description": "- Customer Contacts- Internal Documents",
+        "website": "www.cftc-metallurgie.com",
+        "published": "2026-03-09 00:00:00.000000",
+        "post_url": "",
+        "country": "FR",
+        "activity": "Manufacturing",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "300GB"
+        }
+    },
+    {
+        "post_title": "Tecnoedil S.A. Constructora",
+        "group_name": "nightspire",
+        "discovered": "2026-03-11 16:20:57.659714",
+        "description": "Data is not available now.",
+        "website": "www.contrataciones.gov.py/proveedor/tecnoedil-s-a-constructora.html",
+        "published": "2026-03-08 00:00:00.000000",
+        "post_url": "",
+        "country": "PY",
+        "activity": "Construction",
+        "duplicates": [],
+        "extrainfos": {}
+    },
+    {
+        "post_title": "Big Brothers Big Sisters",
+        "group_name": "nightspire",
+        "discovered": "2026-03-11 16:21:22.876702",
+        "description": "- Students List- Background Check Records- Internal Documents",
+        "website": "www.bbbs.org",
+        "published": "2026-03-05 00:00:00.000000",
+        "post_url": "",
+        "country": "US",
+        "activity": "Education",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "20GB"
+        }
+    },
+    {
+        "post_title": "Omega Optical",
+        "group_name": "qilin",
+        "discovered": "2026-03-11 16:23:56.507924",
+        "description": "N/A",
+        "website": "www.omegafilters.com",
+        "published": "2026-03-11 16:23:39.489448",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=15f32a70-47cb-3e62-8cf8-4db6579a9be0",
+        "country": "US",
+        "activity": "Manufacturing",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Jadtec Security Services",
+        "group_name": "qilin",
+        "discovered": "2026-03-11 16:24:35.550547",
+        "description": "N/A",
+        "website": "www.jadtec.com",
+        "published": "2026-03-11 16:24:18.933836",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=23995ab9-f813-3dc2-acd6-49341d9d8cb4",
+        "country": "US",
+        "activity": "Business Services",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Powers HVAC",
+        "group_name": "qilin",
+        "discovered": "2026-03-11 16:25:14.711910",
+        "description": "N/A",
+        "website": "www.powers-hvac.com",
+        "published": "2026-03-11 16:24:57.722224",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=efe20076-d5f4-3d32-8f7f-645bed887987",
+        "country": "",
+        "activity": "Construction",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Special Shapes Refractory",
+        "group_name": "qilin",
+        "discovered": "2026-03-11 16:25:32.278568",
+        "description": "N/A",
+        "website": "www.ssrco.com",
+        "published": "2026-03-01 17:28:54.000000",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=9af00188-22f0-3faf-bf61-86b472ec8da6",
+        "country": "US",
+        "activity": "Manufacturing",
+        "duplicates": [
+            {
+                "date": "2026-03-11 16:25:32.370138",
+                "group": "thegentlemen",
+                "link": "https://www.ransomware.live/id/U3BlY2lhbCBTaGFwZXMgUmVmcmFjdG9yeUB0aGVnZW50bGVtZW4=",
+                "attackdate": "2026-03-01 17:28:54.000000"
+            }
+        ],
+        "extrainfos": []
     }
 ]

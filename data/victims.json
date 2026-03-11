@@ -345701,5 +345701,77 @@
         "activity": "Not Found",
         "duplicates": [],
         "extrainfos": {}
+    },
+    {
+        "post_title": "Staples",
+        "group_name": "coinbasecartel",
+        "discovered": "2026-03-11 20:07:19.428448",
+        "description": "[AI generated] Staples, Inc. is an American office retail company primarily involved in the sale of office supplies and related products through retail channels and business-to-business (B2B) oriented delivery operations. Its offerings include promo products, IT consulting, office furniture, printing services, and more. Its headquarters are located in Framingham, Massachusetts.",
+        "website": "staples.com",
+        "published": "2023-12-09 00:00:00.000000",
+        "post_url": "http://fjg4zi4opkxkvdz7mvwp7h6goe4tcby3hhkrz43pht4j3vakhy75znyd.onion/companies/staples",
+        "country": "US",
+        "activity": "Consumer Services",
+        "duplicates": [
+            {
+                "date": "2026-03-11 20:07:19.453817",
+                "group": "siegedsec",
+                "link": "https://www.ransomware.live/id/U3RhcGxlc0BzaWVnZWRzZWM=",
+                "attackdate": "2023-12-09 00:00:00.000000"
+            }
+        ],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Lacoste",
+        "group_name": "coinbasecartel",
+        "discovered": "2026-03-11 20:07:58.366901",
+        "description": "[AI generated] Lacoste is a high-end apparel company founded in 1933 by René Lacoste and André Gillier. The French company is recognized for its green crocodile logo. Lacoste sells clothing, footwear, eyewear, leather goods, perfumes, towels, and watches. It pioneered the concept of the ‘brand identity logo’ with its crocodile embroidered on the outside of apparel items. Known for their luxury sportswear, their polo shirt remains an iconic product.",
+        "website": "lacoste.com",
+        "published": "2026-03-11 20:07:41.740521",
+        "post_url": "http://fjg4zi4opkxkvdz7mvwp7h6goe4tcby3hhkrz43pht4j3vakhy75znyd.onion/companies/lacoste",
+        "country": "FR",
+        "activity": "Consumer Services",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Canada Goose",
+        "group_name": "coinbasecartel",
+        "discovered": "2026-03-11 20:08:35.738952",
+        "description": "[AI generated] Canada Goose is a Canadian outdoor clothing company known for its premium quality, warm winter jackets filled with down insulation. The company's product lineup also includes parkas, vests, gloves, hats and other apparel designed for cold weather. Founded in 1957, Canada Goose has a commitment to craftsmanship and functionality, with its products being favorites amongst cold-weather explorers and city dwellers alike.",
+        "website": "canadagoose.com",
+        "published": "2026-03-11 20:08:20.473451",
+        "post_url": "http://fjg4zi4opkxkvdz7mvwp7h6goe4tcby3hhkrz43pht4j3vakhy75znyd.onion/companies/goose",
+        "country": "CA",
+        "activity": "Consumer Services",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Verifone",
+        "group_name": "handala",
+        "discovered": "2026-03-11 20:14:08.350578",
+        "description": "Today, Handala Hack has successfully breached the Israeli company Verifone, a leading provider of payment solutions and point-of-sale terminals to countries across the globe. This sophisticated operation has caused widespread disruption in payment systems and terminals, and all related transaction and financial data have been extracted. This attack is a decisive and direct response to…",
+        "website": "",
+        "published": "2026-03-11 19:23:14.000000",
+        "post_url": "https://handala-hack.to/verifone-hacked/",
+        "country": "US",
+        "activity": "Technology",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Stryker Corporation",
+        "group_name": "handala",
+        "discovered": "2026-03-11 20:14:27.535540",
+        "description": "We announce to the world that, in retaliation for the brutal attack on the Minab school and in response to ongoing cyber assaults against the infrastructure of the Axis of Resistance, our major cyber operation has been executed with complete success. The Zionist-rooted corporation, Stryker, one of the key arms of the global Zionist lobby…",
+        "website": "",
+        "published": "2026-03-11 16:52:52.000000",
+        "post_url": "https://handala-hack.to/stryker-corporation-hacked/",
+        "country": "US",
+        "activity": "Healthcare",
+        "duplicates": [],
+        "extrainfos": []
     }
 ]

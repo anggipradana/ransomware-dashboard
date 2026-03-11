@@ -345773,5 +345773,20 @@
         "activity": "Healthcare",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Taylor County Property Appraiser Office",
+        "group_name": "nightspire",
+        "discovered": "2026-03-11 20:47:10.331507",
+        "description": "- SQL Data- All Pics- Scan Files",
+        "website": "qpublic.net/fl/taylor",
+        "published": "2026-03-09 00:00:00.000000",
+        "post_url": "",
+        "country": "US",
+        "activity": "Public Sector",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "600GB"
+        }
     }
 ]

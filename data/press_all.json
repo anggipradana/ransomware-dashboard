@@ -4,8 +4,29 @@
     "month": null,
     "country": null
   },
-  "count": 3292,
+  "count": 3293,
   "results": [
+    {
+      "date": "2026-03-12",
+      "victim": "Stadt Herne",
+      "domain": "herne.de",
+      "country": "DE",
+      "summary": "La ville de Herne a décidé de désactiver préventivement certaines de ses systèmes informatiques, ce qui a entraîné des restrictions au service aux citoyens. Bien que l'article évoque la possibilité d'une cyberattaque, aucune confirmation définitive n'est encore apportée sur l'origine de l'incident. La suite des opérations et les mesures de rétablissement sont actuellement en cours d'analyse.",
+      "title": "Cyberangriff? Stadt Herne schaltet IT-Systeme ab – Bürgerservice eingeschränkt",
+      "url": "https://www.waz.de/lokales/herne-wanne-eickel/article411437410/cyberangriff-stadt-herne-schaltet-it-systeme-ab-buergerservice-eingeschraenkt.html",
+      "added": "2026-03-12",
+      "infostealer": {
+        "update": "2026-03-12 12:35:54",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-03-10",
       "victim": "Stryker",

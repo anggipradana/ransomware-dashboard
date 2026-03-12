@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3293,
+  "count": 3295,
   "results": [
     {
       "date": "2026-03-12",
@@ -17,6 +17,27 @@
       "added": "2026-03-12",
       "infostealer": {
         "update": "2026-03-12 12:35:54",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-03-11",
+      "victim": "Rusk County",
+      "domain": "ruskcounty.org",
+      "country": "US",
+      "summary": "Rusk County, dans le nord-ouest du Wisconsin, a annoncé le 11 mars 2026 qu'il enquêtait sur une cyberattaque affectant son réseau et a engagé des experts en forensique pour évaluer l'incident et restaurer les opérations. Bien que le site public et les pages de paiement en ligne restent accessibles via des tiers, les autorités n'ont pas encore identifié les systèmes touchés ni confirmé si des données personnelles ont été compromises. Cette enquête survient alors que le domaine du comté figurait déjà sur une liste de victimes potentielles du groupe de rançongiciels Lynx en décembre 2025, bien que le lien entre les deux événements ne soit pas confirmé.",
+      "title": "Rusk County, Wisconsin investigates cybersecurity incident",
+      "url": "https://dysruptionhub.com/rusk-county-cyber-incident-wisconsin/",
+      "added": "2026-03-12",
+      "infostealer": {
+        "update": "2026-03-12 13:49:03",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,
@@ -90,6 +111,27 @@
       "added": "2026-03-09",
       "infostealer": {
         "update": "2026-03-09 21:40:16",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-03-07",
+      "victim": "ELECQ",
+      "domain": "elecq.com",
+      "country": "CN",
+      "summary": "Le fabricant chinois de bornes de recharge pour véhicules électriques, ELECQ, a confirmé qu'une attaque par ransomware a compromis ses systèmes cloud AWS le 7 mars 2026, entraînant le vol de données personnelles clients. Bien que l'entreprise ait affirmé que les données financières n'ont pas été touchées et que les appareils de recharge restent sécurisés, les informations compromises incluent les noms, adresses et coordonnées de contact des utilisateurs. ELECQ a engagé une réponse d'incident, notifié les régulateurs européens et recommandé aux clients de surveiller les tentatives de hameçonnage et de changer leurs mots de passe.",
+      "title": "Crims hit EV charger firm ELECQ, steal customer contact data",
+      "url": "https://www.theregister.com/2026/03/09/ransomware_crooks_hit_ev_charger/",
+      "added": "2026-03-12",
+      "infostealer": {
+        "update": "2026-03-12 13:48:43",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,

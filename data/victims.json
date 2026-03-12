@@ -345944,5 +345944,111 @@
         "activity": "Manufacturing",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Financial Brokerage",
+        "group_name": "akira",
+        "discovered": "2026-03-12 16:49:57.645770",
+        "description": "Financial Brokerage Inc. collaborates with top insurance carriers\nto provide a variety of financial products including Life Insura\nnce, Fixed Annuities, Long Term Care, Disability Insurance, and M\nedicare Supplement plans. The company targets insurance agents an\nd brokers looking to enhance their product offerings and client s\nervices.\n\nWe will upload corporate data soon. Employee personal documents, \ndetailed personal information of hundreds clients and companies, \nconfidential financial and other docs of their clients, etc.\n",
+        "website": "",
+        "published": "2026-03-12 00:00:00.000000",
+        "post_url": "",
+        "country": "",
+        "activity": "Financial Services",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Porsche Zentrum Fulda",
+        "group_name": "akira",
+        "discovered": "2026-03-12 16:50:03.220106",
+        "description": "Porsche Zentrum Fulda is a dealership offering both new and used \nPorsche vehicles, including popular models like the Taycan, 911, \nand Macan. The company provides a range of services including veh\nicle maintenance, financing options, and lifestyle accessories.\n\nWe will upload 10gb of corporate data soon. Employee passports an\nd other documents, projects, contracts and agreements, internal c\nonfidential files, client files and so on.\n",
+        "website": "",
+        "published": "2026-03-12 00:00:00.000000",
+        "post_url": "",
+        "country": "DE",
+        "activity": "Consumer Services",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "flad.com",
+        "group_name": "chaos",
+        "discovered": "2026-03-12 16:52:29.959172",
+        "description": "We are announcing a major security breach and data exfiltration from Flad Architects, a leading national firm specializing in high-stakes science and technology infrastructure.\n\nTotal volume of exfiltrated data: Over 2.2 TB\n\nThe leaked archive includes critical and sensitive information across the f…",
+        "website": "flad.com",
+        "published": "2026-03-12 16:52:14.112193",
+        "post_url": "http://hptqq2o2qjva7lcaaq67w36jihzivkaitkexorauw7b2yul2z6zozpqd.onion/post/RHU4A6M5GpZOAczfdRrAPgKVZ6GVSaHk",
+        "country": "US",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "2200 GB"
+        }
+    },
+    {
+        "post_title": "Eagle Industrial Equipment",
+        "group_name": "play",
+        "discovered": "2026-03-12 17:36:47.408815",
+        "description": "United States",
+        "website": "www.eagleie.com",
+        "published": "2026-03-12 17:36:07.580925",
+        "post_url": "http://k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion/topic.php?id=SzO86TqtNcQJi2",
+        "country": "",
+        "activity": "Manufacturing",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Circle Floors",
+        "group_name": "play",
+        "discovered": "2026-03-12 17:37:26.147232",
+        "description": "United States",
+        "website": "www.circlefloors.com",
+        "published": "2026-03-12 17:36:48.937584",
+        "post_url": "http://k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion/topic.php?id=Sg23aBosY1RHmn",
+        "country": "US",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Silvon Software",
+        "group_name": "qilin",
+        "discovered": "2026-03-12 17:38:32.840778",
+        "description": "N/A",
+        "website": "www.silvon.com",
+        "published": "2026-03-12 17:38:15.865148",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=fdf4dfe9-838d-31ff-86ad-f251e462789e",
+        "country": "US",
+        "activity": "Technology",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "TDS Construction",
+        "group_name": "qilin",
+        "discovered": "2026-03-12 17:39:13.127331",
+        "description": "N/A",
+        "website": " www.tdsconstruction.com",
+        "published": "2026-03-12 17:38:56.715908",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=0f0c766b-df6a-3ed3-9625-37491ef4fbb1",
+        "country": "US",
+        "activity": "Construction",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Bioptik Technology",
+        "group_name": "ransomhouse",
+        "discovered": "2026-03-12 17:40:12.729003",
+        "description": "Bioptik Technology Inc. is a Taiwan-based biotechnology company specializing in the research, development, production, and worldwide distribution of medical diagnostic devices, reagents, and skincare products. With a fully in-house R&D team and complete vertical integration from development to manufacturing, Bioptik maintains its core commitment to the highest quality standards and maximum customer satisfaction.",
+        "website": "www.bioptik.com.tw",
+        "published": "2026-02-26 00:00:00.000000",
+        "post_url": "http://zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion/r/41f81426ac831a7ed08665bae31c73caeeeceee5",
+        "country": "TW",
+        "activity": "Technology",
+        "duplicates": [],
+        "extrainfos": []
     }
 ]

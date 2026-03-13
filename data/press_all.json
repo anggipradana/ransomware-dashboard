@@ -4,8 +4,32 @@
     "month": null,
     "country": null
   },
-  "count": 3295,
+  "count": 3296,
   "results": [
+    {
+      "date": "2026-03-12",
+      "victim": "Hanover County Public Schools",
+      "domain": "hcps.us",
+      "country": "US",
+      "summary": "Hanover County Public Schools (HCPS) a signalé une interruption des services Internet et de plusieurs systèmes internes suite à une possible incident de cybersécurité. Bien que les Chromebooks des élèves ne semblent pas directement touchés, l'école a décidé de les désactiver temporairement par mesure de précaution et assure que l'enseignement continuera sans technologie pour au moins une semaine. Les autorités compétentes et des experts en cybersécurité ont été engagés pour investiguer et résoudre la situation, sans que de nouvelles informations détaillées ne soient disponibles pour le moment.",
+      "title": "Technology Update: March 2026",
+      "url": "https://www.hcps.us/events/what_s_new/technology_update__march_2026",
+      "added": "2026-03-13",
+      "infostealer": {
+        "update": "2026-03-13 13:41:47",
+        "employees": 2,
+        "users": 1,
+        "thirdparties_domain": 26,
+        "employees_url": 1,
+        "users_url": 2,
+        "thirdparties": 66,
+        "infostealer_stats": {
+          "Azorult": 2,
+          "Raccoon": 1
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-03-12",
       "victim": "Stadt Herne",

@@ -346310,5 +346310,31 @@
         "activity": "Not Found",
         "duplicates": [],
         "extrainfos": {}
+    },
+    {
+        "post_title": "NextCapitalTrust",
+        "group_name": "killsec",
+        "discovered": "2026-03-14 06:39:37.798754",
+        "description": "Price ??? Disclosures 0/1",
+        "website": "example.com",
+        "published": "2026-03-14 06:39:36.457587",
+        "post_url": "",
+        "country": "",
+        "activity": "Financial Services",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "meena health",
+        "group_name": "killsec",
+        "discovered": "2026-03-14 06:39:45.082510",
+        "description": "Price ??? Disclosures 0/1",
+        "website": "example.com",
+        "published": "2026-03-14 06:39:43.722845",
+        "post_url": "",
+        "country": "",
+        "activity": "Healthcare",
+        "duplicates": [],
+        "extrainfos": []
     }
 ]

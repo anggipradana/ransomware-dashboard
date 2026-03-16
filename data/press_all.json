@@ -4,8 +4,29 @@
     "month": null,
     "country": null
   },
-  "count": 3298,
+  "count": 3299,
   "results": [
+    {
+      "date": "2026-03-14",
+      "victim": "Gemeente Epe",
+      "domain": "epe.nl",
+      "country": "NL",
+      "summary": "On March 14, 2026, Gemeente Epe announced a significant data breach involving approximately 800 gigabytes of data. The attack was executed by professionals using ClickFix phishing to access internal work drives containing sensitive citizen information. Officials have secured the systems and are investigating the full scope of the leak while advising residents to remain vigilant against potential misuse.",
+      "title": "Update datalek gemeente Epe",
+      "url": "https://www.epe.nl/update-datalek-gemeente-epe",
+      "added": "2026-03-16",
+      "infostealer": {
+        "update": "2026-03-16 18:38:55",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-03-14",
       "victim": "DeKalb County Sheriff's Department and Jail",

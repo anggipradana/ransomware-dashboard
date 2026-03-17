@@ -1,6 +1,6 @@
 {
   "filter_type": null,
-  "count": 77,
+  "count": 78,
   "groups": [
     {
       "group": "0apt",
@@ -207,6 +207,12 @@
         "md5": 22,
         "tox": 1,
         "ip": 1
+      }
+    },
+    {
+      "group": "Exitium",
+      "ioc_types": {
+        "tox": 1
       }
     },
     {

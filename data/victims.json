@@ -347717,5 +347717,53 @@
         "activity": "Transportation/Logistics",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Valley Family Health Care",
+        "group_name": "insomnia",
+        "discovered": "2026-03-18 16:16:03.045326",
+        "description": "Valley Family Health Care is a Community Health Center offering medical, dental, behavioral health, and nutrition services. With 12 locations (including a mobile unit), they accept major insurances and provide income-based sliding fees to ensure accessible care.",
+        "website": "www.vfhc.org",
+        "published": "2026-03-07 00:00:00.000000",
+        "post_url": "http://i62huw7ve22rpyw6lnq3kmfump2dmsg4xpveec3ere73njwatrz74gad.onion/Company/VFHC/",
+        "country": "US",
+        "activity": "Healthcare",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "loopcap.com",
+        "group_name": "chaos",
+        "discovered": "2026-03-18 17:32:11.100205",
+        "description": "We provided the management of Loop Capital with ample time and opportunity to protect their clients, their employees, and their shareholders. However, the company chose a path of total ignorance, opting for silence and bureaucratic delays instead of accountability.\n\nFor an investment firm of this ca…",
+        "website": "www.zoominfo.com/c/loop-capital-holdings-llc/70616391",
+        "published": "2025-02-19 00:00:00.000000",
+        "post_url": "http://hptqq2o2qjva7lcaaq67w36jihzivkaitkexorauw7b2yul2z6zozpqd.onion/post/pAJEoGD0IPltwmdp8J8wiDnx8CGpSz5j",
+        "country": "US",
+        "activity": "Technology",
+        "duplicates": [
+            {
+                "date": "2026-03-18 17:32:11.190008",
+                "group": "thegentlemen",
+                "link": "https://www.ransomware.live/id/VW5pdmVyc2lkYWRlIEZlZGVyYWwgZGUgU2VyZ2lwZUB0aGVnZW50bGVtZW4=",
+                "attackdate": "2025-02-19 00:00:00.000000"
+            }
+        ],
+        "extrainfos": {
+            "data_size": "600 GB"
+        }
+    },
+    {
+        "post_title": "Conrad Capital Management",
+        "group_name": "dragonforce",
+        "discovered": "2026-03-18 17:37:25.314750",
+        "description": "(including customers personal information and financial data) Conrad Capital Management (CCM) is an independent Registered Investment Advisory firm that provides personalized financial advice and investment counseling to individual and institutional investors across the United States. Established in 1998 by Donald E. Conrad, the firm specializes in complex financial services, including fixed income portfolio management, alternative investments, retirement planning, and customized portfolio management strategies. CCM's fiduciary duty ensures that they prioritize the best interests of their clients, fostering deep personal relationships through ongoing interactions. With a focus on risk management, CCM is committed to helping clients achieve their financial goals as soon as possible.",
+        "website": "conradcapital.com",
+        "published": "2026-03-18 16:18:28.818874",
+        "post_url": "http://z3wqggtxft7id3ibr7srivv5gjof5fwg76slewnzwwakjuf3nlhukdid.onion/blog/?post_uuid=43137bdf-5980-4ccc-b144-c703ea9169bd",
+        "country": "US",
+        "activity": "Financial Services",
+        "duplicates": [],
+        "extrainfos": []
     }
 ]

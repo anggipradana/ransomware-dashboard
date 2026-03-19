@@ -4,8 +4,29 @@
     "month": null,
     "country": null
   },
-  "count": 3302,
+  "count": 3305,
   "results": [
+    {
+      "date": "2026-03-15",
+      "victim": "Lucas County",
+      "domain": "lucas.oh.us",
+      "country": "US",
+      "summary": "Des responsables du comté de Lucas, en Ohio, ont signalé un incident de sécurité survenu au milieu de mars 2026 qui a perturbé une partie de leur réseau et mis hors ligne des portails publics clés. Des experts en cybersécurité externes ont été appelés pour enquêter sur l'incident, tandis que le comté a pris certaines mesures préventives pour sécuriser ses systèmes. Bien que certains services aient été rétablis, la nature exacte de l'attaque et les données potentiellement compromises n'ont pas été divulguées.",
+      "title": "Lucas County, Ohio probes cybersecurity incident after outages",
+      "url": "https://dysruptionhub.com/lucas-county-ohio-security-incident/",
+      "added": "2026-03-19",
+      "infostealer": {
+        "update": "2026-03-19 13:59:23",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-03-14",
       "victim": "Intoxalock",
@@ -282,6 +303,32 @@
         "infostealer_stats": {}
       },
       "ransomware": null
+    },
+    {
+      "date": "2026-03-06",
+      "victim": "Namibia Airports Company",
+      "domain": "airports.com.na",
+      "country": "NA",
+      "summary": "La Namibia Airports Company (NAC) a confirmé la détection d'une cyberattaque le 6 mars 2026 ayant entraîné un accès non autorisé à ses infrastructures réseau et comptes administratifs. Bien que les services aient été rétablis avec une perturbation opérationnelle limitée et qu'aucune fuite de données ne soit avérée, des investigations sont toujours en cours pour évaluer l'étendue complète de l'incident. Une cyberattaque a été revendiquée par INC Ransom le 19 mars.",
+      "title": "CYBERSECURITY INCIDENT AT NAC",
+      "url": "https://www.airports.com.na/news/169/CYBERSECURITY-INCIDENT-AT-NAC/",
+      "added": "2026-03-19",
+      "infostealer": {
+        "update": "2026-03-19 13:05:12",
+        "employees": 1,
+        "users": 1,
+        "thirdparties_domain": 0,
+        "employees_url": 1,
+        "users_url": 1,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "RedLine": 2
+        }
+      },
+      "ransomware": {
+        "group": "incransom",
+        "permalink": "https://www.ransomware.live/id/YWlycG9ydHMuY29tLm5hQGluY3JhbnNvbQ=="
+      }
     },
     {
       "date": "2026-03-06",
@@ -5928,6 +5975,27 @@
       "added": "2025-11-07",
       "infostealer": {
         "update": "2025-11-07 17:27:01",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-11-03",
+      "victim": "Capital Star Oil & Gas, Inc.",
+      "domain": "capitalstaroilngas.com",
+      "country": "US",
+      "summary": "Capital Star Oil & Gas, Inc. suffered a data security incident where certain files may have been accessed without authorization, potentially exposing personal information including names and Social Security numbers. A cyberattack was claimed by DragonForce on December 2, 2025.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/b50dda5b-cb33-4a52-9f2b-c7b7834e6329.html",
+      "added": "2026-03-18",
+      "infostealer": {
+        "update": "2025-12-02 07:58:15",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,

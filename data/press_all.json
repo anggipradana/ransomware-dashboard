@@ -4,8 +4,41 @@
     "month": null,
     "country": null
   },
-  "count": 3301,
+  "count": 3302,
   "results": [
+    {
+      "date": "2026-03-14",
+      "victim": "Intoxalock",
+      "domain": "intoxalock.com",
+      "country": "US",
+      "summary": "Des serveurs d'Intoxalock sont hors ligne depuis le 14 mars suite à une cyberattaque, empêchant les clients de calibrer leurs dispositifs interlock. L'entreprise offre une extension de dix jours pour la recalibration et couvre les frais de remorquage directs liés à cette interruption. Bien que les appareils fonctionnent toujours, certains États comme l'Arkansas, le Massachusetts, le Michigan et Washington ne sont pas couverts par l'extension immédiate.",
+      "title": "Cyberattack Disrupts Intoxalock Services - ceoutlook.com",
+      "url": "https://www.ceoutlook.com/2026/03/18/cyberattack-disrupts-intoxalock-services/",
+      "added": "2026-03-19",
+      "infostealer": {
+        "update": "2026-03-19 10:53:37",
+        "employees": 0,
+        "users": 514,
+        "thirdparties_domain": 2,
+        "employees_url": 0,
+        "users_url": 18,
+        "thirdparties": 4,
+        "infostealer_stats": {
+          "Vidar": 21,
+          "Acreed": 6,
+          "CRYPTBOT": 1,
+          "RedLine": 114,
+          "Atomic": 4,
+          "Azorult": 64,
+          "Raccoon": 31,
+          "Lumma": 88,
+          "Generic Stealer": 162,
+          "UNKNOWN": 7,
+          "StealC": 7
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-03-14",
       "victim": "Gemeinde Matten",

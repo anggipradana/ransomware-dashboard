@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3305,
+  "count": 3324,
   "results": [
     {
       "date": "2026-03-15",
@@ -670,6 +670,27 @@
       "added": "2026-02-27",
       "infostealer": {
         "update": "2026-02-27 15:00:51",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-02-25",
+      "victim": "Nelson Worldwide, LLC",
+      "domain": "nelsonworldwide.com",
+      "country": "US",
+      "summary": "Nelson Worldwide experienced unauthorized access to their network on February 18, 2026, resulting in the potential exposure of personal information. An investigation determined that the impacted files contained full names. A cyberattack was claimed by Chaos on March 6.",
+      "title": "2026-03-11 Nelson Worldwide Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2026-03-11-nelson-worldwide-data-breach-notice-consumers",
+      "added": "2026-03-17",
+      "infostealer": {
+        "update": "2026-03-06 20:33:41",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,
@@ -1786,6 +1807,27 @@
     },
     {
       "date": "2026-01-29",
+      "victim": "Neil I. Sidi, C.P.A.",
+      "domain": "nsidicpa.com",
+      "country": "US",
+      "summary": "The breach notification does not specify a data breach incident. Instead, it provides information on how residents of various states can obtain a free copy of their credit report and take steps to prevent identity theft.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/0361bd2e-0343-45ca-893c-4bdaf1102281.html",
+      "added": "2026-03-18",
+      "infostealer": {
+        "update": "2026-03-19 16:26:30",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-01-29",
       "victim": "Lakelands Public Health",
       "domain": "lakelandsph.ca",
       "country": "CA",
@@ -1981,6 +2023,27 @@
           "Generic Stealer": 1,
           "StealC": 1
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-01-23",
+      "victim": "Navia Benefit Solutions, Inc.",
+      "domain": "naviabenefits.com",
+      "country": "US",
+      "summary": "Navia Benefit Solutions, Inc. suffered a data breach where an unauthorized actor accessed and potentially acquired certain information between December 22, 2025, and January 15, 2026. The information that could have been impacted includes name, date of birth, Social Security number, phone number, and email address. Navia is providing access to credit monitoring services for 12 months to affected individuals.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/584caa6c-4397-49c0-89a5-dbc0dbea0948.html",
+      "added": "2026-03-19",
+      "infostealer": {
+        "update": "2026-03-19 16:25:09",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },
@@ -2853,6 +2916,27 @@
     },
     {
       "date": "2026-01-06",
+      "victim": "Grayback Forestry, Inc.",
+      "domain": "graybackforestry.com",
+      "country": "US",
+      "summary": "Grayback Forestry, Inc. experienced a data breach where an unauthorized actor accessed certain system files between January 5, 2026, and January 6, 2026, potentially affecting individual names.",
+      "title": "2026-03-13 Grayback Forestry Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2026-03-13-grayback-forestry-data-breach-notice-consumers",
+      "added": "2026-03-17",
+      "infostealer": {
+        "update": "2026-03-19 16:27:11",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-01-06",
       "victim": "Metro Pet/Manheim Pike Veterinary Hospital",
       "domain": "familyvet.net",
       "country": "US",
@@ -3127,6 +3211,35 @@
     },
     {
       "date": "2025-12-25",
+      "victim": "OSI Systems, Inc.",
+      "domain": "osi-systems.com",
+      "country": "US",
+      "summary": "OSI Systems, Inc. suffered a data breach where certain files within their network were potentially accessed without authorization, resulting in unauthorized access to personal information including name and Social Security number. A cyberattack was claimed by INC Ransom on December 30, 2025.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/94553a0a-8a51-4d4d-97ac-db087c8661d3.html",
+      "added": "2026-03-12",
+      "infostealer": {
+        "update": "2026-03-19 16:28:12",
+        "employees": 21,
+        "users": 31,
+        "thirdparties_domain": 4,
+        "employees_url": 16,
+        "users_url": 22,
+        "thirdparties": 8,
+        "infostealer_stats": {
+          "Generic Stealer": 12,
+          "Azorult": 2,
+          "Lumma": 7,
+          "Vidar": 2,
+          "Raccoon": 7,
+          "RedLine": 19,
+          "StealC": 3
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-12-25",
       "victim": "Oakland Community School District 5",
       "domain": "oakland5.org",
       "country": "US",
@@ -3366,6 +3479,27 @@
     },
     {
       "date": "2025-12-19",
+      "victim": "Chapter 13 Trustee Office of Rod Danielson",
+      "domain": "rodan13.com",
+      "country": "US",
+      "summary": "A data breach occurred, potentially exposing personal information. The breach was discovered in 2026, and the organization is taking steps to protect affected individuals. Identity protection services are being offered to those impacted. A cyberattack was claimed by INC Ransom on January 12, 2026.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/943aa634-bf66-42d0-a5ee-549a66c84da3.html",
+      "added": "2026-03-17",
+      "infostealer": {
+        "update": "2026-03-19 16:25:29",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-12-19",
       "victim": "Evergreen Printing Co.",
       "domain": "egpp.com",
       "country": "US",
@@ -3384,6 +3518,27 @@
         "infostealer_stats": {
           "Lumma": 2
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-12-18",
+      "victim": "Earthbound Holding, LLC",
+      "domain": "earthboundholdings.com",
+      "country": "US",
+      "summary": "Earthbound Holding, LLC experienced a data security incident on December 18, 2025, which may have involved personal information, including names and Social Security numbers. The incident was discovered on December 18, 2025, and the company took steps to secure the network and investigate. The breach may have included names in combination with Social Security numbers.",
+      "title": "2026-03-12 Earthbound Holding Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2026-03-12-earthbound-holding-data-breach-notice-consumers",
+      "added": "2026-03-17",
+      "infostealer": {
+        "update": "2026-03-19 16:24:48",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },
@@ -4215,6 +4370,27 @@
     },
     {
       "date": "2025-12-04",
+      "victim": "Nacca & Capizzi, LLP",
+      "domain": "naccacpas.com",
+      "country": "US",
+      "summary": "An unauthorized individual accessed the network without authorization between November 26 and December 4, 2025, and took copies of certain files. The files may have contained names along with Social Security numbers and/or driver’s license numbers. The incident was discovered on February 4, 2026.",
+      "title": "2026-02-25 Nacca & Capizzi Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2026-02-25-nacca-capizzi-data-breach-notice-consumers",
+      "added": "2026-03-12",
+      "infostealer": {
+        "update": "2026-03-19 16:27:31",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-12-04",
       "victim": "Hunneman",
       "domain": "hunnemanre.com",
       "country": "US",
@@ -5007,6 +5183,27 @@
     },
     {
       "date": "2025-11-19",
+      "victim": "Elray Manufacturing Company",
+      "domain": "elraymanufacturing.com",
+      "country": "US",
+      "summary": "Elray Manufacturing Company suffered a data security incident where an unknown actor gained access to their network and potentially acquired certain files containing personal information. The information involved includes names and Social Security numbers. Elray is offering complimentary credit monitoring and identity theft protection services.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/e1d2215a-37f2-4cd5-b209-aebca23e840b.html",
+      "added": "2026-03-17",
+      "infostealer": {
+        "update": "2026-03-19 16:26:50",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-11-19",
       "victim": "Leavenworth, Kansas",
       "domain": "leavenworthks.gov",
       "country": "US",
@@ -5321,6 +5518,37 @@
         }
       },
       "ransomware": null
+    },
+    {
+      "date": "2025-11-13",
+      "victim": "Doctor Alliance",
+      "domain": "doctoralliance.com",
+      "country": "US",
+      "summary": "Doctor Alliance experienced a network disruption and unauthorized access to files containing personal health information between October 31, 2025, and November 17, 2025. The affected data included names, addresses, dates of birth, Medicare numbers, medical records, and other health information. A cyberattack was claimed by Kazu on November 11, 2025.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/19fe8eed-d3d2-4cb8-ba57-d99492f81ad1.html",
+      "added": "2026-03-13",
+      "infostealer": {
+        "update": "2025-11-11 13:19:15",
+        "employees": 3,
+        "users": 51,
+        "thirdparties_domain": 21,
+        "employees_url": 2,
+        "users_url": 8,
+        "thirdparties": 8,
+        "infostealer_stats": {
+          "Lumma": 24,
+          "RedLine": 10,
+          "Azorult": 6,
+          "Raccoon": 4,
+          "Vidar": 2,
+          "StealC": 2
+        }
+      },
+      "ransomware": {
+        "group": "kazu",
+        "permalink": "https://www.ransomware.live/id/RG9jdG9yIEFsbGlhbmNlIOKAkyBTdHJlYW1saW5lZCBEb2N1bWVudCBhbmQgQmlsbGluZyBNYW5hZ2VtZW50IGZvciBIZWFsdGhjYXJlIFByb3ZpZGVyc0BrYXp1"
+      }
     },
     {
       "date": "2025-11-13",
@@ -6263,6 +6491,27 @@
     },
     {
       "date": "2025-10-26",
+      "victim": "Jacobson Adler, LLC",
+      "domain": "jadcpas.com",
+      "country": "US",
+      "summary": "Jacobson Adler, LLC suffered a data breach between October 12, 2025, and October 26, 2025, resulting in unauthorized access to its network and potential exposure of personal information. The breach may have impacted names, Social Security numbers, and financial account information. The company is offering complimentary credit monitoring services to affected individuals.",
+      "title": "2026-03-12 Jacobson Adler Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2026-03-12-jacobson-adler-data-breach-notice-consumers",
+      "added": "2026-03-17",
+      "infostealer": {
+        "update": "2026-03-19 16:24:28",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-10-26",
       "victim": "move XM",
       "domain": "movexm.com",
       "country": "DE",
@@ -6720,6 +6969,35 @@
           "UNKNOWN": 8,
           "Atomic": 6,
           "Azorult": 2
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-10-17",
+      "victim": "Durvet, Inc.",
+      "domain": "durvet.com",
+      "country": "US",
+      "summary": "Durvet, Inc. suffered a data breach between October 17, 2025, and October 18, 2025, resulting in unauthorized access to personal information, including names and Social Security numbers. The breach was discovered on October 17, 2025, and affected Maine residents. Durvet provided written notice of the incident to affected individuals and offered credit monitoring services. A cyberattack was claimed by Qilin on November 5, 2025.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/1e729fe1-f7ae-4383-adaf-227eb91bd5b8.html",
+      "added": "2026-03-18",
+      "infostealer": {
+        "update": "2025-11-05 04:20:26",
+        "employees": 0,
+        "users": 58,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 4,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "Raccoon": 34,
+          "Lumma": 30,
+          "RedLine": 22,
+          "UNKNOWN": 10,
+          "Vidar": 2,
+          "Azorult": 2,
+          "StealC": 2
         }
       },
       "ransomware": null
@@ -8443,6 +8721,30 @@
     },
     {
       "date": "2025-09-20",
+      "victim": "Greenhouse Apartments",
+      "domain": "greenhouseapt.com",
+      "country": "US",
+      "summary": "Greenhouse Apartments experienced a data incident that may have affected personal information, with no evidence of misuse. The incident occurred between September 20, 2025, and September 21, 2025. Free credit monitoring services are being provided to affected individuals. A cyberattack was claimed by Safepay on October 24, 2025.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/0ac42a17-a93b-4985-83e2-ea8bb4aeefae.html",
+      "added": "2026-03-18",
+      "infostealer": {
+        "update": "2025-10-24 21:21:52",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "safepay",
+        "permalink": "https://www.ransomware.live/id/Z3JlZW5ob3VzZWFwdC5jb21Ac2FmZXBheQ=="
+      }
+    },
+    {
+      "date": "2025-09-20",
       "victim": "BK Technologies Corporation",
       "domain": "bktechnologies.com",
       "country": "US",
@@ -8649,6 +8951,27 @@
         "group": "bianlian",
         "permalink": "https://www.ransomware.live/id/Q29sbGlucyBBZXJvc3BhY2UgKEFuIFJUWCBCdXNpbmVzcylAYmlhbmxpYW4="
       }
+    },
+    {
+      "date": "2025-09-18",
+      "victim": "Jeff Anderson & Associates PA",
+      "domain": "andersonadvocates.com",
+      "country": "US",
+      "summary": "Jeff Anderson & Associates PA suffered a data breach in September 2025, where an unauthorized party gained access to parts of their computer environment and copied certain data. The breach impacted thousands of organizations that rely on the same firewall protection technology. The firm has offered complimentary credit monitoring services for 24 months through Experian.",
+      "title": "2026-02-26 Jeff Anderson & Associates Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2026-02-26-jeff-anderson-associates-data-breach-notice-consumers",
+      "added": "2026-03-12",
+      "infostealer": {
+        "update": "2026-03-19 16:27:52",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
     },
     {
       "date": "2025-09-18",
@@ -9411,6 +9734,27 @@
     },
     {
       "date": "2025-09-04",
+      "victim": "Charlottesville Settlement Company",
+      "domain": "charlottesvillesettlementco.com",
+      "country": "US",
+      "summary": "Charlottesville Settlement Company experienced a data security incident where an unknown actor gained unauthorized access to their network on September 2, 2025, potentially accessing and acquiring certain files containing personal information. The incident was discovered on September 4, 2025, and a comprehensive review was conducted to determine the affected information. The company is offering complimentary credit monitoring and identity theft protection services to affected individuals.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/073e2a3e-ca04-4c49-8ebe-d42f736a2632.html",
+      "added": "2026-03-19",
+      "infostealer": {
+        "update": "2026-03-19 16:25:49",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-09-04",
       "victim": "Barr and Barr",
       "domain": "barrandbarr.com",
       "country": "US",
@@ -9525,6 +9869,27 @@
       "added": "2025-10-25",
       "infostealer": {
         "update": "2025-10-27 19:19:44",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-09-02",
+      "victim": "MedPeds Associates of Sarasota",
+      "domain": "medpedsdocs.com",
+      "country": "US",
+      "summary": "MEDPEDS experienced a data breach on September 2, 2025, where an unknown person or entity gained access to their computer system, encrypted data, and viewed patient information. The breach involved name, date of birth, home address, phone number, and patient medical records. A cyberattack was claimed by Beast on September 16.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/43a9ee92-af3a-4421-b653-ab550d8a2120.html",
+      "added": "2026-03-17",
+      "infostealer": {
+        "update": "2025-09-16 11:11:16",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,
@@ -11465,6 +11830,27 @@
     },
     {
       "date": "2025-08-08",
+      "victim": "FuturHealth, Inc.",
+      "domain": "futurhealth.com",
+      "country": "US",
+      "summary": "FuturHealth, Inc. suffered a data breach where an unauthorized actor viewed and copied certain files stored within their network between August 8, 2025, and August 14, 2025. The breach involved the names and other types of personal information of some individuals. FuturHealth is offering complimentary credit monitoring and identity restoration services to affected individuals.",
+      "title": "2026-02-25 FuturHealth Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2026-02-25-futurhealth-data-breach-notice-consumers",
+      "added": "2026-03-12",
+      "infostealer": {
+        "update": "2026-03-19 16:23:48",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-08-08",
       "victim": "Inotiv, Inc.",
       "domain": "inotiv.com",
       "country": "US",
@@ -12383,6 +12769,27 @@
         "group": "interlock",
         "permalink": "https://www.ransomware.live/id/Q2l0eSBvZiBTdCBQYXVsQGludGVybG9jaw=="
       }
+    },
+    {
+      "date": "2025-07-25",
+      "victim": "Philadelphia Corporation for Aging",
+      "domain": "pcacares.org",
+      "country": "US",
+      "summary": "Philadelphia Corporation for Aging experienced a technology issue that may have impacted some personal information, with unauthorized access to data occurring between July 10, 2025, and July 25, 2025. PCA is not aware of any actual or attempted misuse of the information. The organization is providing free credit monitoring services to affected individuals.",
+      "title": "2026-03-13 Philadelphia Corporation for Aging Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2026-03-13-philadelphia-corporation-aging-data-breach-notice-consumers",
+      "added": "2026-03-17",
+      "infostealer": {
+        "update": "2026-03-19 16:24:08",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
     },
     {
       "date": "2025-07-25",
@@ -24665,6 +25072,27 @@
       "added": "2025-03-06",
       "infostealer": {
         "update": "2025-03-06 13:26:45",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-03-04",
+      "victim": "Harper Executive Group, Inc.",
+      "domain": "harpergroup.com",
+      "country": "US",
+      "summary": "Harper Executive Group experienced a network disruption that led to unauthorized access or acquisition of certain information within their systems. The incident occurred on or around March 3, 2025, and was discovered on January 14, 2026. The affected information may have included first and last names in combination with other data.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/f57233c4-6369-45ae-8b6d-569574bcfabc.html",
+      "added": "2026-03-19",
+      "infostealer": {
+        "update": "2026-03-19 16:26:09",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,

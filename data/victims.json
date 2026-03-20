@@ -348545,5 +348545,33 @@
         "activity": "Construction",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "TS Lines Philippines",
+        "group_name": "payload",
+        "discovered": "2026-03-20 20:32:46.375565",
+        "description": "Trusted shipping and logistics partner in the Philippines offering container transport and vessel services.",
+        "website": "",
+        "published": "2026-03-20 20:32:22.666545",
+        "post_url": "http://payloadrz5yw227brtbvdqpnlhq3rdcdekdnn3rgucbcdeawq2v6vuyd.onion/posts/7a4b5fcc-c2f5-477e-9118-6b061bbb956e",
+        "country": "PH",
+        "activity": "Transportation/Logistics",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "100 GB"
+        }
+    },
+    {
+        "post_title": "WAL Consultant",
+        "group_name": "qilin",
+        "discovered": "2026-03-20 20:34:17.525996",
+        "description": "N/A",
+        "website": "www.walconsultant.com",
+        "published": "2026-03-20 20:33:51.605664",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=60bdc9de-7958-3194-8bf0-4ea43bda4ffa",
+        "country": "",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": []
     }
 ]

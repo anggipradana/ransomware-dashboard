@@ -348497,5 +348497,53 @@
         "activity": "Not Found",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "smythco.com",
+        "group_name": "chaos",
+        "discovered": "2026-03-20 20:01:07.207414",
+        "description": "Smyth Companies, LLC has failed to protect its infrastructure. We have successfully exfiltrated high-value corporate data, and the window for private negotiation is now closed.\n\nTHE TERMS:\nYou have 24 HOURS to finalize the settlement. If the deadline expires:\n\n    FULL DISCLOSURE: 1000 GB of interna…",
+        "website": "www.zoominfo.com/c/smyth-companies-llc/35357328",
+        "published": "2025-02-19 00:00:00.000000",
+        "post_url": "http://hptqq2o2qjva7lcaaq67w36jihzivkaitkexorauw7b2yul2z6zozpqd.onion/post/EKOWyRZFHpYF8o9Bg0IyEzYToXLhueXD",
+        "country": "",
+        "activity": "Not Found",
+        "duplicates": [
+            {
+                "date": "2026-03-20 20:01:07.325217",
+                "group": "thegentlemen",
+                "link": "https://www.ransomware.live/id/VW5pdmVyc2lkYWRlIEZlZGVyYWwgZGUgU2VyZ2lwZUB0aGVnZW50bGVtZW4=",
+                "attackdate": "2025-02-19 00:00:00.000000"
+            }
+        ],
+        "extrainfos": {
+            "data_size": "1000 GB"
+        }
+    },
+    {
+        "post_title": "The Farese Group",
+        "group_name": "dragonforce",
+        "discovered": "2026-03-20 20:06:45.228931",
+        "description": "The Farese Group specializes in retirement income planning, investment management, and financial planning, focusing on the distribution phase of retirement. With nearly two decades of experience, they provide strategic game plans to help clients spend their savings wisely and intentionally. They offer complimentary workshops to address common retirement questions and concerns for those in or nearing retirement. The firm values client relationships and shows appreciation through various location-based events throughout the year",
+        "website": "www.faresegroup.com",
+        "published": "2026-03-19 18:59:21.281415",
+        "post_url": "http://z3wqggtxft7id3ibr7srivv5gjof5fwg76slewnzwwakjuf3nlhukdid.onion/blog/?post_uuid=5f148fe5-854b-48a8-917a-eb90dcaa734b",
+        "country": "US",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Edifice Design + Architecture",
+        "group_name": "dragonforce",
+        "discovered": "2026-03-20 20:07:39.357507",
+        "description": "We shape our buildings, and afterward our buildings shape us - Winston Churchill At Edifice, we believe architecture and design have a unique physical, spiritual, and psychological relationship with our lives. Whether we recognize it or not, design and the buildings we live in, shape our experiences and impact each of us in every aspect of our lives. Innovation and the built environment affect how we live, work, worship and sleep. We believe design and architecture can embrace and provide a unique canvas for our lives, which happens in and around them. As the architect Peter Zumthor said, architecture is a sensitive container for the rhythm of footsteps on the floor, for the concentration of work, for the silence of sleep. We believe excellent design and architecture can complement, accentuate, and highlight the best in the world around us, lifting our environments, building our community, and shaping us into something better. We believe buildings have the potential to EDIFY us and weall deserve to be edified. We believe this is our role, as architects and designers, to EDIFY individuals by crafting environments that inspire, and bring peace and beauty.",
+        "website": "www.edificedna.com",
+        "published": "2026-03-19 18:56:56.121538",
+        "post_url": "http://z3wqggtxft7id3ibr7srivv5gjof5fwg76slewnzwwakjuf3nlhukdid.onion/blog/?post_uuid=a86fd3d3-d7c9-4c73-ac1c-2c9e865aed29",
+        "country": "US",
+        "activity": "Construction",
+        "duplicates": [],
+        "extrainfos": []
     }
 ]

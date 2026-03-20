@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3327,
+  "count": 3328,
   "results": [
     {
       "date": "2026-03-20",
@@ -49,6 +49,27 @@
       "added": "2026-03-20",
       "infostealer": {
         "update": "2026-03-20 10:42:45",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-03-17",
+      "victim": "Westport Fuel Systems",
+      "domain": "wfsinc.com",
+      "country": "CA",
+      "summary": "Westport Fuel Systems a signalé le 17 mars 2026 l'accès non autorisé à certaines parties de son réseau, affectant des applications informatiques internes et des informations commerciales. Bien que les systèmes de production soient restés intacts et que les opérations commerciales n'aient pas été perturbées, la société a retardé le dépôt de ses états financiers annuels au-delà de la date limite réglementaire du 31 mars 2026 pour mener des vérifications supplémentaires. Cette cyberattaque a conduit à une notation neutre de l'action par l'IA de TipRanks, soulignant des performances financières faibles malgré une résilience opérationnelle.",
+      "title": "Westport Fuel Systems Discloses Cyberattack and Warns of Delay to 2025 Annual Results - TipRanks.com",
+      "url": "https://www.tipranks.com/news/company-announcements/westport-fuel-systems-discloses-cyberattack-and-warns-of-delay-to-2025-annual-results",
+      "added": "2026-03-20",
+      "infostealer": {
+        "update": "2026-03-20 14:54:38",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,

@@ -348658,5 +348658,33 @@
         "activity": "Healthcare",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "**V**C** *E**C** ***EM**I**",
+        "group_name": "nightspire",
+        "discovered": "2026-03-21 15:00:44.293519",
+        "description": "Data is not available now.",
+        "website": "",
+        "published": "2026-03-20 00:00:00.000000",
+        "post_url": "",
+        "country": "",
+        "activity": "Technology",
+        "duplicates": [],
+        "extrainfos": {}
+    },
+    {
+        "post_title": "Fidanque Hermanos e Hijos, S.A",
+        "group_name": "nightspire",
+        "discovered": "2026-03-21 15:01:27.747360",
+        "description": "- Financial Documents- Internal Documents- MSSQL Database",
+        "website": "www.fidanque.com",
+        "published": "2026-02-26 00:00:00.000000",
+        "post_url": "",
+        "country": "PA",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "500GB"
+        }
     }
 ]

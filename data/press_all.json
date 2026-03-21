@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3328,
+  "count": 3329,
   "results": [
     {
       "date": "2026-03-20",
@@ -709,6 +709,27 @@
       "added": "2026-03-02",
       "infostealer": {
         "update": "2026-03-02 14:28:31",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-02-26",
+      "victim": "Sportsman Software",
+      "domain": "sportsmancloud.com",
+      "country": "US",
+      "summary": "Le service des parcs et des loisirs de Moorhead a annoncé un arrêt de système causé par une cyberattaque sur son logiciel Sportsman Software. Bien que des images et documents aient été accessibles, aucune donnée de carte de crédit n'a été compromise et les mesures de sécurité semblent avoir protégé les bases de données personnelles. Une enquête est toujours en cours pour confirmer l'absence de compromission des données clients et employeurs.",
+      "title": "Cyberattack hits Moorhead Parks and Rec system",
+      "url": "https://www.inforum.com/news/moorhead/cyberattack-hits-moorhead-parks-and-rec-system",
+      "added": "2026-03-21",
+      "infostealer": {
+        "update": "2026-03-21 15:59:25",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,

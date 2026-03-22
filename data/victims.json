@@ -348964,5 +348964,28 @@
         "activity": "Technology",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "pellenc.com",
+        "group_name": "ALP-001",
+        "discovered": "2026-03-22 18:47:09.584195",
+        "description": "Country: France Revenue: $543.1 Million Storage: 228GB Description: Pellenc is a manufacturer of battery-powered equipment and tools for agriculture, green spaces and local communities. Pellenc is headquartered in Pertuis, France.\nDeadline: 2026-04-01 17:02:55",
+        "website": "pellenc.com",
+        "published": "2026-01-31 05:39:05.353891",
+        "post_url": "http://b4riuxx7ypobdptctf6lyfcvgi6vn74iurzdh4kn2agbk7472dvywgyd.onion#pellenc.com",
+        "country": "FR",
+        "activity": "Manufacturing",
+        "duplicates": [
+            {
+                "date": "2026-03-22 18:47:09.655348",
+                "group": "coinbasecartel",
+                "link": "https://www.ransomware.live/id/UGVsbGVuY0Bjb2luYmFzZWNhcnRlbA==",
+                "attackdate": "2026-01-31 05:39:05.353891"
+            }
+        ],
+        "extrainfos": {
+            "ransom": "",
+            "data_size": "228GB Description: Pellenc is a manufacturer of battery-powered equipment and tools for agriculture, green spaces and local communities. Pellenc is headquartered in Pertuis, France."
+        }
     }
 ]

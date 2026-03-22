@@ -353,6 +353,7 @@
       "group": "Nightspire",
       "ioc_types": {
         "telegram": 2,
+        "sha256": 2,
         "email": 4,
         "tox": 1
       }
@@ -497,7 +498,8 @@
     {
       "group": "TheGentlemen",
       "ioc_types": {
-        "tox": 1
+        "tox": 1,
+        "sha1": 4
       }
     },
     {

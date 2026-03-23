@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3329,
+  "count": 3335,
   "results": [
     {
       "date": "2026-03-20",
@@ -2247,6 +2247,27 @@
     },
     {
       "date": "2026-01-22",
+      "victim": "Segue Manufacturing Services LLC",
+      "domain": "segue-mfg.com",
+      "country": "US",
+      "summary": "On January 22, 2026, Segue became aware of a cybersecurity incident that impacted certain systems in its environment. Segue promptly launched an investigation and engaged a leading cyber firm to assist with assessing the nature and scope of the incident. A cyberattack was claimed by Qilin on February 12.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/3b8a2ed3-e380-4ee6-a0d5-ee5b9a7d7a6d.html",
+      "added": "2026-03-21",
+      "infostealer": {
+        "update": "2026-02-12 07:40:34",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-01-22",
       "victim": "Winona County",
       "domain": "winonacounty.gov",
       "country": "US",
@@ -4401,6 +4422,29 @@
     },
     {
       "date": "2025-12-06",
+      "victim": "Wound Technology Network, Inc.",
+      "domain": "woundtech.net",
+      "country": "US",
+      "summary": "Wound Technology Network, Inc. suffered a data breach where an unauthorized individual copied certain information between December 6, 2025, and December 9, 2025. The potentially impacted information varied by individual and included what was viewed or copied without authorization. Woundtech is providing affected individuals with access to Single Bureau Credit Monitoring/Single Bureau Credit Report/Single Bureau Credit Score services at no charge.",
+      "title": "2026-03-16 Wound Technology Network Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2026-03-16-wound-technology-network-data-breach-notice-consumers",
+      "added": "2026-03-21",
+      "infostealer": {
+        "update": "2026-03-23 11:03:54",
+        "employees": 1,
+        "users": 0,
+        "thirdparties_domain": 4,
+        "employees_url": 1,
+        "users_url": 0,
+        "thirdparties": 2,
+        "infostealer_stats": {
+          "RedLine": 1
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-12-06",
       "victim": "Eanes Independent School District",
       "domain": "eanesisd.net",
       "country": "US",
@@ -5487,6 +5531,37 @@
         "thirdparties": 0,
         "infostealer_stats": {
           "Lumma": 4
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-11-18",
+      "victim": "Kaplan North America, LLC",
+      "domain": "kaplan.com",
+      "country": "US",
+      "summary": "Kaplan North America, LLC experienced an IT security incident involving unauthorized access to their computer network, resulting in the theft of files containing sensitive information, including names, Social Security numbers, and driver's license numbers.",
+      "title": "2026-03-17 Kaplan North America Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2026-03-17-kaplan-north-america-data-breach-notice-consumers",
+      "added": "2026-03-21",
+      "infostealer": {
+        "update": "2026-03-23 11:04:14",
+        "employees": 10,
+        "users": 202,
+        "thirdparties_domain": 39,
+        "employees_url": 8,
+        "users_url": 47,
+        "thirdparties": 46,
+        "infostealer_stats": {
+          "Generic Stealer": 51,
+          "UNKNOWN": 2,
+          "StealC": 5,
+          "Atomic": 1,
+          "Azorult": 30,
+          "Vidar": 9,
+          "Lumma": 26,
+          "RedLine": 58,
+          "Raccoon": 7
         }
       },
       "ransomware": null
@@ -8456,6 +8531,27 @@
           "Azorult": 1,
           "CRYPTBOT": 1
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-09-24",
+      "victim": "A.C. Roman & Associates, Inc.",
+      "domain": "romansearch.com",
+      "country": "US",
+      "summary": "A.C. Roman & Associates, Inc. suffered a data breach on September 24, 2025, where an unauthorized actor accessed their systems and took a limited subset of data, including names, dates of birth, and Social Security numbers.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/0b458342-f865-4ca9-94b7-1bb1de46afba.html",
+      "added": "2026-03-21",
+      "infostealer": {
+        "update": "2026-03-23 11:03:34",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },
@@ -20059,6 +20155,31 @@
       "victim": "UFCW Local 342",
       "domain": "local342update.com",
       "country": "US",
+      "summary": "UFCW Local 342 suffered a data breach that exposed personal information of its members. The breach occurred due to unauthorized access to the organization's systems. The affected individuals were notified and offered complimentary credit monitoring services.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/f6be82fe-66f1-4c6d-87cf-d0b5364a67aa.html",
+      "added": "2026-03-21",
+      "infostealer": {
+        "update": "2026-03-11 14:58:05",
+        "employees": 0,
+        "users": 7,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 3,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "RedLine": 1,
+          "Raccoon": 5,
+          "Lumma": 1
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-04-28",
+      "victim": "UFCW Local 342",
+      "domain": "local342update.com",
+      "country": "US",
       "summary": "UFCW Local 342 suffered a data breach that exposed personal information of its members. The breach was discovered in 2023, and the organization is offering complimentary credit monitoring services to affected individuals. The breach is believed to have occurred due to unauthorized access to the organization's systems.",
       "title": "Data Breach Notification",
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/6992f41f-ffce-4aa9-8576-5050111a8388.html",
@@ -20577,6 +20698,30 @@
         }
       },
       "ransomware": null
+    },
+    {
+      "date": "2025-04-24",
+      "victim": "Gearhiser, Peters, Elliott & Cannon, PLLC",
+      "domain": "gearhiserpeters.com",
+      "country": "US",
+      "summary": "An unauthorized third party accessed certain GPEC systems on April 22, 2025, and may have accessed and copied certain files within those systems. The investigation determined that the affected files may have contained personal information, including names and other sensitive data. The breach was contained on April 24, 2025. A cyberattack was claimed by Lynx on May 17, 2025.",
+      "title": "2026-03-16 Gearhiser, Peters, Elliott & Cannon Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2026-03-16-gearhiser-peters-elliott-cannon-data-breach-notice-consumers",
+      "added": "2026-03-21",
+      "infostealer": {
+        "update": "2025-05-18 10:23:52",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "lynx",
+        "permalink": "https://www.ransomware.live/id/R2Vhcmhpc2VyIFBldGVycyBFbGxpb3R0ICYgQ2Fubm9uQGx5bng="
+      }
     },
     {
       "date": "2025-04-24",

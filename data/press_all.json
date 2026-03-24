@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3344,
+  "count": 3345,
   "results": [
     {
       "date": "2026-03-23",
@@ -76,6 +76,32 @@
           "RedLine": 65,
           "Raccoon": 16,
           "Vidar": 10
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-03-19",
+      "victim": "Ministère des Finances",
+      "domain": "rijksoverheid.nl",
+      "country": "NL",
+      "summary": "Le ministère des Finances a signalé un accès non autorisé à ses systèmes de processus principaux le 19 mars, bien que l'étendue exacte de la compromission reste inconnue. L'accès des pirates a été bloqué le 23 mars, ce qui a affecté certains employés, mais les services aux citoyens de la Direction des impôts et de la Douane n'ont pas été perturbés. Cet incident s'inscrit dans une série de cyberattaques récentes touchant plusieurs départements gouvernementaux néerlandais au cours des derniers mois.",
+      "title": "Weinig duidelijkheid over hack op ministerie van Financiën",
+      "url": "https://www.techzine.nl/nieuws/security/576397/weinig-duidelijkheid-over-hack-op-ministerie-van-financien/",
+      "added": "2026-03-24",
+      "infostealer": {
+        "update": "2026-03-24 12:31:50",
+        "employees": 0,
+        "users": 10,
+        "thirdparties_domain": 19,
+        "employees_url": 0,
+        "users_url": 4,
+        "thirdparties": 11,
+        "infostealer_stats": {
+          "Lumma": 3,
+          "Raccoon": 2,
+          "Vidar": 1,
+          "Generic Stealer": 1
         }
       },
       "ransomware": null

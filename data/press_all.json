@@ -4,8 +4,29 @@
     "month": null,
     "country": null
   },
-  "count": 3349,
+  "count": 3351,
   "results": [
+    {
+      "date": "2026-03-24",
+      "victim": "Azienda Ospedaliera Papardo",
+      "domain": "aopapardo.it",
+      "country": "IT",
+      "summary": "Un cyberattaque a paralysé les systèmes informatiques de l'Azienda Ospedaliera Papardo, bloquant les terminaux et les bases de données et perturbant le système de réservation SovraCup. La direction a activé son plan de sécurité et transféré les opérations vers le cloud grâce aux sauvegardes, garantissant que les soins aux patients continuent normalement malgré le chaos. Bien que la situation soit sous contrôle et qu'aucune donnée sensible n'ait été volée, aucune date précise de rétablissement n'a été annoncée et les autorités ont été alertées.",
+      "title": "Papardo nel caos: sistemi informatici paralizzati dagli hacker, assistenza comunque garantita",
+      "url": "https://www.messinatoday.it/cronaca/papardo-caos-sistemi-informatici-hacker.html",
+      "added": "2026-03-25",
+      "infostealer": {
+        "update": "2026-03-25 14:40:25",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-03-24",
       "victim": "Winmate Inc.",
@@ -990,6 +1011,27 @@
       "added": "2026-02-27",
       "infostealer": {
         "update": "2026-02-27 15:00:51",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-02-25",
+      "victim": "INP Schweiz AG",
+      "domain": "inp-e.ch",
+      "country": "CH",
+      "summary": "La nuit du 25 au 26 février 2026, l'entreprise INP Schweiz a été victime d'une cyberattaque qui a conduit à la coupure préventive de ses systèmes. Bien que des données aient été volées, l'entreprise a confirmé que les informations sensibles n'ont pas été compromises et que les opérations ont été pleinement rétablies deux jours plus tard. Akira a revendiqué l'attaque le 20 mars.",
+      "title": "Cyberangriff auf INP Schweiz",
+      "url": "https://www.inside-it.ch/cyberangriff-auf-inp-schweiz-20260325",
+      "added": "2026-03-25",
+      "infostealer": {
+        "update": "2026-03-25 14:40:46",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,

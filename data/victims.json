@@ -349881,5 +349881,74 @@
         "activity": "Not Found",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "HLF Heizung-Sanitär GmbH",
+        "group_name": "nightspire",
+        "discovered": "2026-03-25 14:24:10.361842",
+        "description": "Data is not available now.",
+        "website": "www.hlf-goslar.de",
+        "published": "2026-03-19 00:00:00.000000",
+        "post_url": "",
+        "country": "DE",
+        "activity": "Construction",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "0GB"
+        }
+    },
+    {
+        "post_title": "*n**g** T***a**ut*** **c",
+        "group_name": "nightspire",
+        "discovered": "2026-03-25 14:24:38.719898",
+        "description": "Data is not available now.",
+        "website": "anbogen.com",
+        "published": "2026-03-22 00:00:00.000000",
+        "post_url": "",
+        "country": "TW",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": {}
+    },
+    {
+        "post_title": "J***T*P, **C",
+        "group_name": "nightspire",
+        "discovered": "2026-03-25 15:34:34.112537",
+        "description": "Data is not available now.",
+        "website": "",
+        "published": "2026-03-25 00:00:00.000000",
+        "post_url": "",
+        "country": "",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": {}
+    },
+    {
+        "post_title": "Eastex Environmental Laboratory",
+        "group_name": "nightspire",
+        "discovered": "2026-03-25 15:35:00.355690",
+        "description": "- Experimental Reports- Internal Documents- Financial & HR Documents",
+        "website": "www.eastexlabs.com",
+        "published": "2026-03-21 00:00:00.000000",
+        "post_url": "",
+        "country": "US",
+        "activity": "Business Services",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "250GB"
+        }
+    },
+    {
+        "post_title": "Anbogen Therapeutics Inc.",
+        "group_name": "nightspire",
+        "discovered": "2026-03-25 15:35:03.125919",
+        "description": "Data is not available now.",
+        "website": "anbogen.com",
+        "published": "2026-03-22 00:00:00.000000",
+        "post_url": "",
+        "country": "TW",
+        "activity": "Healthcare",
+        "duplicates": [],
+        "extrainfos": {}
     }
 ]

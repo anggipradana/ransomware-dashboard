@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3347,
+  "count": 3349,
   "results": [
     {
       "date": "2026-03-24",
@@ -17,6 +17,27 @@
       "added": "2026-03-25",
       "infostealer": {
         "update": "2026-03-20 10:39:01",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-03-23",
+      "victim": "Departamento de Transportación y Obras Públicas (DTOP)",
+      "domain": "dtop.pr.gov",
+      "country": "PR",
+      "summary": "Le service PRITS du gouvernement de Porto Rico a identifié et neutralisé une cyberattaque visant l'infrastructure du Département des transports et des travaux publics (DTOP) le 23 mars 2026. Les systèmes de sécurité ont permis de couper préventivement les réseaux affectés, empêchant toute fuite de données personnelles des citoyens. En conséquence, les services des centres de services aux conducteurs sont temporairement suspendus et les rendez-vous seront reprogrammés.",
+      "title": "PRITS activa protocolo de respuesta tras detectar intento de ataque cibernético en sistemas del DTOP - WIPR",
+      "url": "https://wipr.pr/prits-activa-protocolo-de-respuesta-tras-detectar-intento-de-ataque-cibernetico-en-sistemas-del-dtop/",
+      "added": "2026-03-25",
+      "infostealer": {
+        "update": "2026-03-25 11:35:37",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,
@@ -391,6 +412,27 @@
       "added": "2026-03-16",
       "infostealer": {
         "update": "2026-03-16 12:52:59",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-03-12",
+      "victim": "Duffy's Sports Grill",
+      "domain": "duffys.com",
+      "country": "US",
+      "summary": "La chaîne de restaurants américaine Duffy's Sports Grill a subi des perturbations majeures de ses systèmes de paiement et de son programme de fidélité en mars 2026, un incident lié à une attaque présumée du ransomware Qilin. Bien que la société n'ait pas confirmé publiquement la nature de l'attaque, des rapports locaux indiquent que plusieurs établissements ont dû traiter les transactions manuellement et que l'accès aux points de fidélité a été affecté pendant plusieurs jours. Cette cyberattaque s'inscrit dans une tendance plus large touchant le secteur de la restauration, soulignant les risques persistants pour les données clients et la continuité des opérations.",
+      "title": "Florida Duffy’s Sports Grill outage hits card payments, rewards",
+      "url": "https://dysruptionhub.com/duffys-outage-payments-florida/",
+      "added": "2026-03-25",
+      "infostealer": {
+        "update": "2026-03-25 11:35:17",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,

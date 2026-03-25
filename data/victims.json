@@ -349976,5 +349976,21 @@
         "activity": "Healthcare",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "esprinet.com",
+        "group_name": "ALP-001",
+        "discovered": "2026-03-25 20:28:03.835950",
+        "description": "Country: italy Revenue: $4.5 billion Storage: 1.2TB Description: Esprinet (Italian Stock Exchange: PRT) is engaged in the wholesale distribution of IT and consumer electronics in Italy and Spain, with ~40.000 resellers customers served and 600 brands supplied.\nDeadline: 2026-04-04 18:12:21",
+        "website": "esprinet.com",
+        "published": "2026-03-25 20:27:44.425501",
+        "post_url": "http://b4riuxx7ypobdptctf6lyfcvgi6vn74iurzdh4kn2agbk7472dvywgyd.onion#esprinet.com",
+        "country": "IT",
+        "activity": "Technology",
+        "duplicates": [],
+        "extrainfos": {
+            "ransom": "",
+            "data_size": "1.2TB Description: Esprinet (Italian Stock Exchange: PRT) is engaged in the wholesale distribution of IT and consumer electronics in Italy and Spain, with ~40.000 resellers customers served and 600 brands supplied."
+        }
     }
 ]

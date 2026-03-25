@@ -349775,5 +349775,20 @@
         "activity": "Energy",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Vancompare Insurance",
+        "group_name": "payload",
+        "discovered": "2026-03-25 11:20:27.663738",
+        "description": "Vancompare.co.uk is a UK-based online comparison service that helps users find the best insurance deals for cars, homes, businesses, and other types of coverage. The site allows users to quickly compare prices and terms from multiple insurance providers to choose the most suitable and cost-effective policy.",
+        "website": "",
+        "published": "2026-03-25 11:20:05.584064",
+        "post_url": "http://payloadrz5yw227brtbvdqpnlhq3rdcdekdnn3rgucbcdeawq2v6vuyd.onion/posts/cdfce212-ac3c-4271-a05a-b5cceb8cc366",
+        "country": "GB",
+        "activity": "Financial Services",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "119 GB"
+        }
     }
 ]

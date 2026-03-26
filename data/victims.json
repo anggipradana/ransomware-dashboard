@@ -350083,5 +350083,35 @@
         "activity": "Technology",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Monmouth University",
+        "group_name": "pear",
+        "discovered": "2026-03-26 10:13:05.706746",
+        "description": "Private university in West Long Branch, New Jersey",
+        "website": "monmouth.edu",
+        "published": "2026-03-03 00:00:00.000000",
+        "post_url": "http://pearsmob5sn44ismokiusuld34pnfwi6ctgin3qbvonpoob4lh3rmtqd.onion/Companies/monmouth",
+        "country": "US",
+        "activity": "Education",
+        "duplicates": [],
+        "extrainfos": {
+            "Activity": "Colleges & Universities",
+            "Revenue": "$160M",
+            "Status": "samples posted"
+        }
+    },
+    {
+        "post_title": "LP Kolding",
+        "group_name": "qilin",
+        "discovered": "2026-03-26 10:14:34.535358",
+        "description": "N/A",
+        "website": "www.lp-kolding.dk",
+        "published": "2026-03-26 10:14:02.425324",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=57472fec-ef21-389a-81c6-c20a81230808",
+        "country": "DK",
+        "activity": "Manufacturing",
+        "duplicates": [],
+        "extrainfos": []
     }
 ]

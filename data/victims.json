@@ -350360,5 +350360,21 @@
         "activity": "Education",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "jaxa.jp",
+        "group_name": "ALP-001",
+        "discovered": "2026-03-26 22:53:48.612552",
+        "description": "Country: Japan Revenue: $367 million Storage: 6.9 TB Ready: 6.9 TB\nDeadline: 2026-04-05 22:25:17",
+        "website": "jaxa.jp",
+        "published": "2026-03-26 22:53:26.412928",
+        "post_url": "http://b4riuxx7ypobdptctf6lyfcvgi6vn74iurzdh4kn2agbk7472dvywgyd.onion#jaxa.jp",
+        "country": "JP",
+        "activity": "Technology",
+        "duplicates": [],
+        "extrainfos": {
+            "ransom": "",
+            "data_size": "6.9 TB Ready: 6.9 TB"
+        }
     }
 ]

@@ -4,8 +4,29 @@
     "month": null,
     "country": null
   },
-  "count": 3352,
+  "count": 3353,
   "results": [
+    {
+      "date": "2026-03-25",
+      "victim": "City of Martinsville",
+      "domain": "martinsville-va.gov",
+      "country": "US",
+      "summary": "La ville de Martinsville, en Virginie, a signalé une cyberattaque qui a été contenue le mercredi 25 mars. Par mesure de précaution, certains services du bâtiment municipal pourraient être temporairement limités ou retardés jusqu'à la fin de la semaine. Les responsables ont confirmé qu'aucune information personnelle des consommateurs ou des citoyens n'a été compromise.",
+      "title": "Martinsville cyberattack impacts services; citizen data safe",
+      "url": "https://www.wfxrtv.com/news/local-news/southside-virginia-news/martinsville-cyberattack-impacts-services-citizen-data-safe/amp/",
+      "added": "2026-03-26",
+      "infostealer": {
+        "update": "2026-03-26 13:24:12",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-03-25",
       "victim": "Autoridad Portuaria de Vigo",

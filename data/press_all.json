@@ -4,8 +4,32 @@
     "month": null,
     "country": null
   },
-  "count": 3356,
+  "count": 3358,
   "results": [
+    {
+      "date": "2026-03-27",
+      "victim": "Omax Autos Limited",
+      "domain": "omaxauto.com",
+      "country": "IN",
+      "summary": "Omax Autos Limited a confirmé le 27 mars 2026 avoir subi une attaque par ransomware sur son infrastructure informatique, suite à la détection d'anomalies suspectes la veille. Bien que l'entreprise ait signalé l'incident aux bourses de Bombay et de Delhi, elle a précisé que ses opérations de base et ses chaînes de production restent actuellement intactes. Les investisseurs ont réagi avec volatilité aux nouvelles, oscillant entre la confiance dans la sécurité des systèmes critiques et les craintes liées à une potentielle fuite de données sensibles.",
+      "title": "Omax Autos Reports Ransomware Attack — IT Systems Under Investigation After Cyber Breach",
+      "url": "https://tradebrains.in/omax-autos-reports-ransomware-attack-it-systems-under-investigation-after-cyber-breach/",
+      "added": "2026-03-27",
+      "infostealer": {
+        "update": "2026-03-01 13:57:53",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "lockbit5",
+        "permalink": "https://www.ransomware.live/id/b21heGF1dG8uY29tQGxvY2tiaXQ1"
+      }
+    },
     {
       "date": "2026-03-26",
       "victim": "Die Linke",
@@ -379,6 +403,27 @@
       "added": "2026-03-19",
       "infostealer": {
         "update": "2026-03-19 13:59:23",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-03-14",
+      "victim": "Goodwill of Greater Grand Rapids",
+      "domain": "goodwillgr.org",
+      "country": "US",
+      "summary": "Goodwill of Greater Grand Rapids a subi une cyberattaque qui a mis hors ligne une partie de son environnement réseau, obligeant ses 18 magasins à fonctionner uniquement au comptoir. L'organisation a confirmé ne pas stocker de données de cartes de crédit et travaille avec les autorités pour évaluer l'étendue des dégâts et rétablir ses systèmes. Bien que les autres organisations Goodwill ne soient pas affectées, aucune estimation de délai de résolution n'est actuellement disponible.",
+      "title": "Cyberattack takes Goodwill of Greater Grand Rapids stores offline",
+      "url": "https://wwmt.com/news/local/cyberattack-goodwill-greater-grand-rapids-offline-cash-only-network-investigation-data-point-sale-kent-county-western-michigan",
+      "added": "2026-03-27",
+      "infostealer": {
+        "update": "2026-03-27 16:13:28",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,

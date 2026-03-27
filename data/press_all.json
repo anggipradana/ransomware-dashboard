@@ -4,8 +4,29 @@
     "month": null,
     "country": null
   },
-  "count": 3353,
+  "count": 3356,
   "results": [
+    {
+      "date": "2026-03-26",
+      "victim": "Die Linke",
+      "domain": "die-linke.de",
+      "country": "DE",
+      "summary": "La formation politique allemande « Die Linke » a signalé un incident de cybersécurité impliquant un ransomware attribué au groupe hacker russe Qilin, obligeant la partie à mettre son infrastructure hors ligne le jeudi. Bien que la partie ait porté plainte et soit en contact avec les autorités, les données des membres n'ont pas été compromises et l'étendue des données internes touchées reste à déterminer. Cet événement s'inscrit dans une série d'attaques ciblant des partis politiques allemands, la CDU ayant également été victime d'une cyberattaque en mai 2024.",
+      "title": "Qilin: Linkspartei meldet russischen Ransomware-Angriff",
+      "url": "https://www.heise.de/news/Qilin-Linkspartei-meldet-russischen-Ransomware-Angriff-11227181.html",
+      "added": "2026-03-27",
+      "infostealer": {
+        "update": "2026-03-27 11:29:21",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-03-25",
       "victim": "City of Martinsville",
@@ -122,6 +143,27 @@
       "added": "2026-03-24",
       "infostealer": {
         "update": "2026-03-24 09:48:34",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-03-22",
+      "victim": "St Anne's Catholic School",
+      "domain": "st-annes.uk.com",
+      "country": "GB",
+      "summary": "St Anne's Catholic School in Southampton was forced to close for four days following a ransomware attack on its IT systems that threatened to delete files. The school reported the incident to the Information Commissioner's Office and the National Cyber Security Centre, confirming that no data has been compromised so far. The institution is expected to reopen on Friday after taking immediate measures to contain the spread of the malware.",
+      "title": "St Anne's School in Southampton closed after cyber attack",
+      "url": "https://www.bbc.com/news/articles/cm2r9m12e17o",
+      "added": "2026-03-27",
+      "infostealer": {
+        "update": "2026-03-27 11:29:41",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,
@@ -541,6 +583,27 @@
       "added": "2026-03-12",
       "infostealer": {
         "update": "2026-03-12 12:35:54",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-03-11",
+      "victim": "AMHC",
+      "domain": "amhc.org",
+      "country": "US",
+      "summary": "L'organisation de santé comportementale AMHC, basée dans le Maine, a été listée comme victime par le groupe de ransomware Qilin sur son site de fuite de données. Bien que l'organisation ait confirmé une perturbation de son réseau et l'enquête en cours, elle n'a pas précisé la date exacte de l'attaque ni confirmé le vol de données. L'AMHC faisait toutefois part de problèmes informatiques le 12 mars, sur Facebook.",
+      "title": "Maine Mental Health Agency Targeted in Russian Cyber Attack",
+      "url": "https://www.govtech.com/security/maine-mental-health-agency-targeted-in-russian-cyber-attack",
+      "added": "2026-03-27",
+      "infostealer": {
+        "update": "2026-03-24 19:28:40",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,

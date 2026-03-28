@@ -350848,5 +350848,44 @@
         "activity": "Education",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Florida Therapy Services",
+        "group_name": "nightspire",
+        "discovered": "2026-03-28 20:17:16.350159",
+        "description": "[AI generated] Florida Therapy Services is a mental health organization based in Florida, USA. It provides psychiatric services, psychotherapy, and substance abuse counseling, among other services for children, adolescents, adults, and families. The organization specializes in home, school, community, and office-based treatment, aiming to support individuals struggling with various mental health issues.",
+        "website": "flatherapy.com",
+        "published": "2026-03-21 00:00:00.000000",
+        "post_url": "",
+        "country": "US",
+        "activity": "Healthcare",
+        "duplicates": [],
+        "extrainfos": {}
+    },
+    {
+        "post_title": "OTNet",
+        "group_name": "nightspire",
+        "discovered": "2026-03-28 20:17:40.436577",
+        "description": "[AI generated] N/A",
+        "website": "www.otnet.co.jp",
+        "published": "2026-03-21 00:00:00.000000",
+        "post_url": "",
+        "country": "JP",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": {}
+    },
+    {
+        "post_title": "European Commission (*.europa.eu)",
+        "group_name": "shinyhunters",
+        "discovered": "2026-03-28 20:23:34.617099",
+        "description": "Over 350 GB+ of data was compromised, including data dumps of mail servers, databases, confidential documents, contracts, and much more sensitive material. | Size: 350GB+ (uncompressed) | Updated: 28 Mar 2026 | SHA256: 697c5cfbc64fa5cfbe3dd59a5cb4a2ee10ade8c53ef4c36f3ab3c7e1e35ff66e",
+        "website": "",
+        "published": "2026-03-26 11:10:00.000000",
+        "post_url": "",
+        "country": "",
+        "activity": "Public Sector",
+        "duplicates": [],
+        "extrainfos": []
     }
 ]

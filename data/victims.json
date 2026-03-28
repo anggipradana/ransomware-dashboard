@@ -350737,5 +350737,34 @@
         "extrainfos": {
             "data_size": "40 GB"
         }
+    },
+    {
+        "post_title": "terix.com",
+        "group_name": "ALP-001",
+        "discovered": "2026-03-28 13:20:38.283967",
+        "description": "Country: Canada Revenue: $26.5 Million Storage: 251GB Description: Terix (TERiX International, founded in 1997, is a third-party provider of data center maintenance, hardware, and multi-vendor support services\nDeadline: 2026-04-07 12:11:01",
+        "website": "terix.com",
+        "published": "2026-03-28 13:20:16.536910",
+        "post_url": "http://b4riuxx7ypobdptctf6lyfcvgi6vn74iurzdh4kn2agbk7472dvywgyd.onion#terix.com",
+        "country": "US",
+        "activity": "Technology",
+        "duplicates": [],
+        "extrainfos": {
+            "ransom": "",
+            "data_size": "251GB Description: Terix (TERiX International, founded in 1997, is a third-party provider of data center maintenance, hardware, and multi-vendor support services"
+        }
+    },
+    {
+        "post_title": "Genobank",
+        "group_name": "coinbasecartel",
+        "discovered": "2026-03-28 13:29:30.052287",
+        "description": "[AI generated] Genobank is a blockchain-driven company focused on genomic research. It provides a decentralized platform where users can have their DNA sequenced and gain full control over their genomic data. The company is known for prioritizing privacy, allowing users to decide who can access their genetic information.",
+        "website": "genobank.io",
+        "published": "2026-03-28 13:29:13.117825",
+        "post_url": "http://fjg4zi4opkxkvdz7mvwp7h6goe4tcby3hhkrz43pht4j3vakhy75znyd.onion/companies/genobank-2",
+        "country": "US",
+        "activity": "Technology",
+        "duplicates": [],
+        "extrainfos": []
     }
 ]

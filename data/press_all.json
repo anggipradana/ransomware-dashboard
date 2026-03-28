@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3358,
+  "count": 3359,
   "results": [
     {
       "date": "2026-03-27",
@@ -188,6 +188,27 @@
       "added": "2026-03-27",
       "infostealer": {
         "update": "2026-03-27 11:29:41",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-03-21",
+      "victim": "Jackson County Sheriff's Office",
+      "domain": "jacksoncountysheriffin.org",
+      "country": "US",
+      "summary": "La semaine dernière, le bureau du shérif du comté de Jackson en Indiana a été paralysé par une attaque de ransomware qui a rendu son réseau et ses systèmes de signalement inaccessibles. Les opérations de police ont été perturbées, obligeant les dispatchers à utiliser les ordinateurs du département de police de Seymour et les officiers à rédiger des rapports manuellement. Les responsables ont indiqué qu'ils ne paieraient pas la rançon et espèrent rétablir le système de dépôt des rapports la semaine prochaine, bien que l'identité des auteurs et l'étendue des données compromises restent incertaines.",
+      "title": "Jackson County sheriff’s office hit by ransomware in Indiana",
+      "url": "https://dysruptionhub.com/jackson-county-sheriff-ransomware-indiana/",
+      "added": "2026-03-28",
+      "infostealer": {
+        "update": "2026-03-28 17:27:30",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,

@@ -350900,5 +350900,89 @@
         "activity": "Financial Services",
         "duplicates": [],
         "extrainfos": {}
+    },
+    {
+        "post_title": "kob.com",
+        "group_name": "ALP-001",
+        "discovered": "2026-03-29 01:38:31.222681",
+        "description": "Country: USA Revenue: $22 Million Storage: 1.127TB Description: KON (KOB 4, Eyewitness News 4 is your best source for Albuquerque news, Santa Fe news and New Mexico news, weather and sports.\nDeadline: 2026-04-02 23:23:40",
+        "website": "kob.com",
+        "published": "2026-03-29 01:38:07.991438",
+        "post_url": "http://b4riuxx7ypobdptctf6lyfcvgi6vn74iurzdh4kn2agbk7472dvywgyd.onion#kob.com",
+        "country": "US",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": {
+            "ransom": "",
+            "data_size": "1.127TB Description: KON (KOB 4, Eyewitness News 4 is your best source for Albuquerque news, Santa Fe news and New Mexico news, weather and sports."
+        }
+    },
+    {
+        "post_title": "kyoceradocumentsolutions.eu",
+        "group_name": "ALP-001",
+        "discovered": "2026-03-29 01:38:55.694202",
+        "description": "Country: United Kingdom Revenue: $154.1 Million Storage: 75GB Description: Kyocera (Kyocera Document Solutions Europe Management BV is a company that operates in the Office Products Retail & Distribution industry. It employs 250to499 people and has 100MMto250M of revenue. The company is headquartered in Reading, Berkshire, United Kingdom.\nDeadline: 2026-04-07 23:54:11",
+        "website": "kyoceradocumentsolutions.eu",
+        "published": "2025-03-31 16:08:51.144711",
+        "post_url": "http://b4riuxx7ypobdptctf6lyfcvgi6vn74iurzdh4kn2agbk7472dvywgyd.onion#kyoceradocumentsolutions.eu",
+        "country": "EU",
+        "activity": "Technology",
+        "duplicates": [
+            {
+                "date": "2026-03-29 01:38:55.775855",
+                "group": "killsec",
+                "link": "https://www.ransomware.live/id/S3lvY2VyYSBEb2N1bWVudCBTb2x1dGlvbnMgRXVyb3BlQGtpbGxzZWM=",
+                "attackdate": "2025-03-31 16:08:51.144711"
+            }
+        ],
+        "extrainfos": {
+            "ransom": "",
+            "data_size": "75GB Description: Kyocera (Kyocera Document Solutions Europe Management BV is a company that operates in the Office Products Retail & Distribution industry. It employs 250to499 people and has 100MMto250M of revenue. The company is headquartered in Reading, Berkshire, United Kingdom."
+        }
+    },
+    {
+        "post_title": "lacor.es",
+        "group_name": "ALP-001",
+        "discovered": "2026-03-29 01:39:38.184881",
+        "description": "Country: Spain Revenue: $9 Million Storage: 182.71 GB Description: Guys, i just want to have SOME fun About this Corp, i know its small, but i like the files they have LOL .\nDeadline: 2026-04-08 00:09:29",
+        "website": "lacor.es",
+        "published": "2026-03-29 01:39:17.940124",
+        "post_url": "http://b4riuxx7ypobdptctf6lyfcvgi6vn74iurzdh4kn2agbk7472dvywgyd.onion#lacor.es",
+        "country": "ES",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": {
+            "ransom": "",
+            "data_size": "182.71 GB Description: Guys, i just want to have SOME fun About this Corp, i know its small, but i like the files they have LOL ."
+        }
+    },
+    {
+        "post_title": "polsat.pl",
+        "group_name": "ALP-001",
+        "discovered": "2026-03-29 01:40:21.080472",
+        "description": "Country: Poland Revenue: $148.5 Million Storage: 75.71 GB Description: Polsat is t he first independent TV station in Poland. The main objective of Polsat is to meet the varied tastes of the general public. The program offer is built primarily on the basis of its own brand productions combined with the interesting portfolio of feature films.\nDeadline: 2026-04-08 00:27:18",
+        "website": "polsat.pl",
+        "published": "2026-03-29 01:40:01.086540",
+        "post_url": "http://b4riuxx7ypobdptctf6lyfcvgi6vn74iurzdh4kn2agbk7472dvywgyd.onion#polsat.pl",
+        "country": "PL",
+        "activity": "Telecommunication",
+        "duplicates": [],
+        "extrainfos": {
+            "ransom": "",
+            "data_size": "75.71 GB Description: Polsat is t he first independent TV station in Poland. The main objective of Polsat is to meet the varied tastes of the general public. The program offer is built primarily on the basis of its own brand productions combined with the interesting portfolio of feature films."
+        }
+    },
+    {
+        "post_title": "D**o*s** Fr**e* *A",
+        "group_name": "nightspire",
+        "discovered": "2026-03-29 02:34:17.026456",
+        "description": "Data is not available now.",
+        "website": "",
+        "published": "2026-03-29 00:00:00.000000",
+        "post_url": "",
+        "country": "",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": {}
     }
 ]

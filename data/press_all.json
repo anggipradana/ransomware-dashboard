@@ -4,8 +4,29 @@
     "month": null,
     "country": null
   },
-  "count": 3359,
+  "count": 3361,
   "results": [
+    {
+      "date": "2026-03-27",
+      "victim": "Colebrook",
+      "domain": "colebrooknh.org",
+      "country": "US",
+      "summary": "Les autorités de Colebrook ont suspendu les connexions aux systèmes de l'État du New Hampshire après qu'un compte email de la ville a été compromis, perturbant l'accès aux services essentiels tels que les élections et le DMV. Bien que les fonctions de registre et d'élections aient été rétablies d'ici le 27 mars, l'accès aux services du DMV et de la police était toujours en attente de restauration. Les responsables n'ont pas confirmé la nature exacte de l'attaque ni l'ampleur des données compromises, mais ont agi pour isoler la menace et éviter sa propagation.",
+      "title": "Colebrook, New Hampshire cyber incident disrupts town services",
+      "url": "https://dysruptionhub.com/colebrook-cyber-incident-new-hampshire/",
+      "added": "2026-03-29",
+      "infostealer": {
+        "update": "2026-03-29 16:43:55",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-03-27",
       "victim": "Omax Autos Limited",
@@ -410,6 +431,27 @@
           "StealC": 3,
           "Acreed": 1
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-03-16",
+      "victim": "CareCloud, Inc.",
+      "domain": "carecloud.com",
+      "country": "US",
+      "summary": "CareCloud, Inc. a signalé un incident de cybersécurité survenu le 16 mars 2026, qui a provoqué une interruption temporaire du réseau affectant un environnement de dossiers médicaux électroniques sur six. Bien que l'incident ait été contenu et que tous les systèmes aient été restaurés le jour même, la société enquête sur la nature et l'étendue de l'accès potentiel de données sensibles par un tiers non autorisé. L'entreprise a engagé des experts en cybersécurité et informé les autorités, estimant que l'incident n'aura pas d'impact matériel sur ses opérations financières, bien que la sensibilité des données concernées rende l'événement significatif.",
+      "title": "CareCloud, Inc. Cybersecurity Incident Details - Board Cybersecurity",
+      "url": "https://www.board-cybersecurity.com/incidents/tracker/carecloud-cybersecurity-incident-b2e7eba5#8-k-filed-on-2026-03-27",
+      "added": "2026-03-29",
+      "infostealer": {
+        "update": "2026-03-29 16:43:34",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },

@@ -633,7 +633,10 @@
         "thirdparties": 0,
         "infostealer_stats": {}
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "lockbit5",
+        "permalink": "https://www.ransomware.live/id/amVhbi5jb20udHdAbG9ja2JpdDU="
+      }
     },
     {
       "date": "2026-03-12",
@@ -1124,7 +1127,10 @@
         "thirdparties": 0,
         "infostealer_stats": {}
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "lockbit5",
+        "permalink": "https://www.ransomware.live/id/YWxjb3Juc2Nob29scy5vcmdAbG9ja2JpdDU="
+      }
     },
     {
       "date": "2026-02-27",

@@ -351918,5 +351918,27 @@
         "activity": "Not Found",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Jones Haber Law",
+        "group_name": "securotrop",
+        "discovered": "2026-03-30 20:21:56.265838",
+        "description": "Status: AWAITING\nSize: 524 GB",
+        "website": "www.joneshaberlaw.com",
+        "published": "2026-02-24 22:03:52.000000",
+        "post_url": "http://securo45z554mw7rgrt7wcgv5eenj2xmxyrsdj3fcjsvindu63s4bsid.onion",
+        "country": "US",
+        "activity": "Not Found",
+        "duplicates": [
+            {
+                "date": "2026-03-30 20:21:56.341012",
+                "group": "termite",
+                "link": "https://www.ransomware.live/id/Sm9uZXMgSGFiZXJAdGVybWl0ZQ==",
+                "attackdate": "2026-02-24 22:03:52.000000"
+            }
+        ],
+        "extrainfos": {
+            "data_size": "524 GB"
+        }
     }
 ]

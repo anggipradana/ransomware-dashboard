@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3369,
+  "count": 3370,
   "results": [
     {
       "date": "2026-03-29",
@@ -6564,6 +6564,27 @@
           "Raccoon": 4,
           "StealC": 4
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-11-11",
+      "victim": "Office Peeps",
+      "domain": "officepeeps.com",
+      "country": "US",
+      "summary": "Le 29 janvier 2026, Office Peeps a annoncé qu'un acteur non autorisé avait accédé à des fichiers contenant des informations personnelles de consommateurs entre le 27 octobre et le 11 novembre 2025. L'entreprise a informé les autorités du Vermont et a offert des services de surveillance d'identité gratuits via Kroll aux personnes affectées. Une cyberattaque a été revendiquée par Akira le 30 mars 2026.",
+      "title": "Office Peeps Data Breach Affects Subscriber Privacy",
+      "url": "https://www.dapeer.com/databreaches/office-peeps",
+      "added": "2026-03-30",
+      "infostealer": {
+        "update": "2026-02-03 10:31:23",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },
@@ -57281,10 +57302,7 @@
         "employees_url": 6,
         "users_url": 41
       },
-      "ransomware": {
-        "group": "ALP-001",
-        "permalink": "https://www.ransomware.live/id/amF4YS5qcEBBTFAtMDAx"
-      }
+      "ransomware": null
     },
     {
       "date": "2023-11-28",

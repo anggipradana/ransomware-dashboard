@@ -4,8 +4,50 @@
     "month": null,
     "country": null
   },
-  "count": 3361,
+  "count": 3369,
   "results": [
+    {
+      "date": "2026-03-29",
+      "victim": "Nan Liu Enterprise Co., Ltd.",
+      "domain": "nanliugroup.com",
+      "country": "TW",
+      "summary": "Un système informatique d'une entreprise a été attaqué par un ransomware le 29 mars 2026. L'organisation a immédiatement pris des mesures pour contrer l'attaque et restaurer ses systèmes. Aucun impact significatif n'est actuellement constaté, et la société prévoit de renforcer sa sécurité informatique.",
+      "title": "Today's Information",
+      "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=211057&spoke_date=20260329&co_id=6504",
+      "added": "2026-03-30",
+      "infostealer": {
+        "update": "2026-03-30 09:40:13",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-03-27",
+      "victim": "Cota Co., Ltd.",
+      "domain": "cota.co.jp",
+      "country": "JP",
+      "summary": "Cota Co., Ltd. a fait état d'une panne de son SI survenue le 27 mars 2026 à la suite d'une cyberattaque. Une enquête a été engagée avec des experts externes afin de déterminer l'étendue des répercussions, notamment en ce qui concerne le vol de données personnelles et de données clients. L'entreprise assure prendre les mesures nécessaires pour rétablir le système dans les plus brefs délais. Des consultations avec les autorités compétentes ont par ailleurs été engagées.",
+      "title": "Avis concernant une panne du système due à une cyberattaque (1er communiqué)",
+      "url": "https://ssl4.eir-parts.net/doc/4923/tdnet/2782863/00.pdf",
+      "added": "2026-03-30",
+      "infostealer": {
+        "update": "2026-03-30 09:41:14",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-03-27",
       "victim": "Colebrook",
@@ -1977,6 +2019,27 @@
       "added": "2026-02-11",
       "infostealer": {
         "update": "2026-02-11 08:43:31",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-02-08",
+      "victim": "Stats SA",
+      "domain": "statssa.gov.za",
+      "country": "ZA",
+      "summary": "L'agence de statistiques sud-africaine, Stats SA, a confirmé une fuite de données affectant son système de ressources humaines, suite à une cyberattaque attribuée au groupe criminel XP95. Les pirates ont volé 453 362 fichiers et exigent une rançon de 100 000 dollars avant la date limite du 20 avril 2026, sous peine de publier l'ensemble de l'archive sur internet. Stats SA a indiqué qu'elle notifiera le régulateur de l'information et participera à la réponse gouvernementale plus large face à ces failles de cybersécurité.",
+      "title": "Stats SA hit by cyberattack, hackers demand ransom over stolen data | The Citizen",
+      "url": "https://www.citizen.co.za/lifestyle/technology/stats-sa-hit-cyberattack-hackers-demand-ransom-stolen-data/",
+      "added": "2026-03-30",
+      "infostealer": {
+        "update": "2026-03-30 09:40:33",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,
@@ -9458,6 +9521,27 @@
     },
     {
       "date": "2025-09-21",
+      "victim": "TriMed, Inc.",
+      "domain": "trimedortho.com",
+      "country": "US",
+      "summary": "TriMed, Inc. suffered a cybersecurity incident between September 13, 2025, and September 21, 2025, which may have involved personal information of individuals who received surgically implanted hardware. The incident was detected on March 27, 2026. A cyberattack was claimed by Lynx on October 2.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/6fe86133-f326-439e-8396-18f75e5cc96d.html",
+      "added": "2026-03-28",
+      "infostealer": {
+        "update": "2026-03-30 09:39:12",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-09-21",
       "victim": "Waterborne Environmental, Inc.",
       "domain": "waterborne-env.com",
       "country": "US",
@@ -10519,6 +10603,27 @@
     },
     {
       "date": "2025-09-05",
+      "victim": "Advantage Gold",
+      "domain": "advantagegold.com",
+      "country": "US",
+      "summary": "Advantage Gold suffered a data breach due to a vulnerability in third-party firewall software, allowing unauthorized access to personal information. The breach exposed names, addresses, contact information, limited SSNs, and custodian account numbers. The company is offering complimentary access to Experian IdentityWorks for 24 months.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/bf4ffd34-5d3e-4655-8703-c564a47bb932.html",
+      "added": "2026-03-30",
+      "infostealer": {
+        "update": "2026-03-30 09:39:52",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-09-05",
       "victim": "Agence régionale de santé (ARS) des Hauts-de-France",
       "domain": "hauts-de-france.ars.sante.fr",
       "country": "FR",
@@ -11535,6 +11640,42 @@
         "infostealer_stats": {}
       },
       "ransomware": null
+    },
+    {
+      "date": "2025-08-19",
+      "victim": "Shwapno",
+      "domain": "shwapno.com",
+      "country": "BD",
+      "summary": "Shwapno, une chaîne de supermarchés, a déposé une plainte le 28 mars 2026 concernant une cyberattaque survenue sept mois plus tôt, suite au piratage de sa base de données clients. L'attaque, orchestrée par des groupes criminels internationaux comme Qilin et LockBit 5.0, a débuté par des e-mails d'hameçonnage avant qu'un ransomne ne verrouille les systèmes de la société mère ACI Logistics le 19 août 2025. Bien que les équipes techniques aient isolé les systèmes, plus de 410 Go de données sensibles incluant des informations bancaires et clients ont été divulgués sur le web sombre le 17 mars 2026.",
+      "title": "Shwapno files GD 7 months after cyberattack",
+      "url": "https://www.thedailystar.net/news/crime-justice/news/shwapno-files-gd-7-months-after-cyberattack-4138891",
+      "added": "2026-03-30",
+      "infostealer": {
+        "update": "2025-12-26 15:22:24",
+        "employees": 0,
+        "users": 5282,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 100,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "RedLine": 3664,
+          "Lumma": 2218,
+          "Raccoon": 952,
+          "StealC": 468,
+          "Vidar": 316,
+          "Azorult": 98,
+          "UNKNOWN": 92,
+          "CRYPTBOT": 54,
+          "Mystic": 26,
+          "Taurus": 10,
+          "Predator": 10
+        }
+      },
+      "ransomware": {
+        "group": "lockbit5",
+        "permalink": "https://www.ransomware.live/id/c2h3YXBuby5jb21AbG9ja2JpdDU="
+      }
     },
     {
       "date": "2025-08-19",
@@ -13043,6 +13184,34 @@
           "RedLine": 6,
           "Lumma": 4,
           "Azorult": 2
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-08-04",
+      "victim": "Bellflower Unified School District",
+      "domain": "busd.k12.ca.us",
+      "country": "US",
+      "summary": "Bellflower Unified School District a signalé un incident de sécurité réseau en août 2025, entraînant des pannes temporaires de téléphone et d'Internet sur ses campus. Bien que le district ait confirmé que les données sensibles n'avaient pas été compromises et que les opérations étaient revenues à la normale, des allégations non confirmées de la part du groupe de rançongiciel Rhysida ont émergé plus tard. Cet événement a suscité peu d'attention médiatique indépendante, laissant les mises à jour publiques du district comme principale source d'information.",
+      "title": "August cyber incident at Bellflower schools in California went largely uncovered",
+      "url": "https://dysruptionhub.com/bellflower-california-cyber-incident/",
+      "added": "2026-03-30",
+      "infostealer": {
+        "update": "2026-03-30 09:40:54",
+        "employees": 8,
+        "users": 31,
+        "thirdparties_domain": 48,
+        "employees_url": 3,
+        "users_url": 7,
+        "thirdparties": 82,
+        "infostealer_stats": {
+          "Vidar": 1,
+          "UNKNOWN": 1,
+          "Generic Stealer": 9,
+          "Lumma": 7,
+          "Raccoon": 1,
+          "RedLine": 17
         }
       },
       "ransomware": null
@@ -49562,6 +49731,30 @@
         "users_url": 5
       },
       "ransomware": null
+    },
+    {
+      "date": "2024-04-08",
+      "victim": "Woodfords Family Services",
+      "domain": "woodfords.org",
+      "country": "US",
+      "summary": "Woodfords Family Services suffered a data breach due to a ransomware event caused by the actor group Medusa, resulting in the unauthorized access of personal identifiable information of 7,770 residents of Maine. The breach occurred on April 8, 2024, and was discovered on the same day. The affected information included names, Social Security numbers, driver's license numbers, financial account information, medical diagnostic and treatment information, and health insurance information.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/857ab65e-ee4e-4de5-a021-a48b2ef72c3e.html",
+      "added": "2026-03-28",
+      "infostealer": {
+        "update": "2026-03-30 09:39:32",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "medusa",
+        "permalink": "https://www.ransomware.live/id/V29vZGZvcmRzIEZhbWlseSBTZXJ2aWNlc0BtZWR1c2E="
+      }
     },
     {
       "date": "2024-04-08",

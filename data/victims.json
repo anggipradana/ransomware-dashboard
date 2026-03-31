@@ -352122,5 +352122,89 @@
         "activity": "Construction",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "*d**n*** V**i*l* **s**b***s",
+        "group_name": "nightspire",
+        "discovered": "2026-03-31 02:08:47.991522",
+        "description": "Data is not available now.",
+        "website": "",
+        "published": "2026-03-20 00:00:00.000000",
+        "post_url": "",
+        "country": "",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": {}
+    },
+    {
+        "post_title": "JT-ATFP, LLC",
+        "group_name": "nightspire",
+        "discovered": "2026-03-31 02:08:53.759393",
+        "description": "- Classified Contracts- Employee Information- ATFP Projects- Vulnerability Assessment Docs- FOUO Files- DOD Projects",
+        "website": "",
+        "published": "2026-03-25 00:00:00.000000",
+        "post_url": "",
+        "country": "US",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "2500GB"
+        }
+    },
+    {
+        "post_title": "Beltran & Garcia Financial Investment SLU",
+        "group_name": "nightspire",
+        "discovered": "2026-03-31 02:08:58.989802",
+        "description": "Data is not available now.",
+        "website": "",
+        "published": "2026-03-23 00:00:00.000000",
+        "post_url": "",
+        "country": "ES",
+        "activity": "Financial Services",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "0GB"
+        }
+    },
+    {
+        "post_title": "CERUMO Co., Ltd",
+        "group_name": "nightspire",
+        "discovered": "2026-03-31 02:09:27.733037",
+        "description": "Data is not accessible for now",
+        "website": "",
+        "published": "2026-02-05 00:00:00.000000",
+        "post_url": "",
+        "country": "JP",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "0GB"
+        }
+    },
+    {
+        "post_title": "Hallmark Cards, Inc. & Hallmark Plus",
+        "group_name": "shinyhunters",
+        "discovered": "2026-03-31 02:16:16.310125",
+        "description": "Over 7.9M Salesforce records containing PII and other internal corporate data have been compromised. This is a final warning to reach out by 2 Apr 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline. | Updated: 31 Mar 2026 | Warning: FINAL WARNING",
+        "website": "",
+        "published": "2026-03-31 02:16:13.219868",
+        "post_url": "",
+        "country": "US",
+        "activity": "Consumer Services",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Parque Eólico Toabré",
+        "group_name": "everest",
+        "discovered": "2026-03-31 03:04:03.566953",
+        "description": "[AI generated] Parque Eolico Toabre is a wind farm based in Panama operated by Union Eolica Panameña. With a total capacity of 55 MW produced by 22 wind turbines, it contributes significantly to generating renewable energy. In addition to lowering the country's reliance on fossil fuels, the wind farm represents a sustainable solution for producing electricity.",
+        "website": "",
+        "published": "2026-03-31 03:03:32.633537",
+        "post_url": "http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/news/Parque_Eólico_Toabré/",
+        "country": "PA",
+        "activity": "Energy",
+        "duplicates": [],
+        "extrainfos": []
     }
 ]

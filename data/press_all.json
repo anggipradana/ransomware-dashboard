@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3370,
+  "count": 3374,
   "results": [
     {
       "date": "2026-03-29",
@@ -200,6 +200,29 @@
     },
     {
       "date": "2026-03-23",
+      "victim": "Netalia Srl",
+      "domain": "netalia.it",
+      "country": "IT",
+      "summary": "L'attaque par ransomware orchestrée par le groupe Qilin contre la société Netalia Srl a paralysé les systèmes de paiement des amendes de la police municipale de Gênes. La municipalité a réagi en prolongeant les délais de paiement et en accordant une remise de 30 % afin d'éviter toute inégalité de traitement, tandis que les autorités enquêtent sur cette possible extorsion numérique. Les premières vérifications sesemblent exclure une fuite de données, mais le chiffrement des archives administratives pose un risque économique immédiat pour la ville.",
+      "title": "Genova, a rischio le multe pagate al comune a causa di un attacco hacker",
+      "url": "https://telenord.it/genova-a-rischio-le-multe-pagate-al-comune-a-causa-di-un-attacco-hacker-102354",
+      "added": "2026-03-31",
+      "infostealer": {
+        "update": "2026-03-26 21:00:31",
+        "employees": 0,
+        "users": 1,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 1,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "Atomic": 1
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-03-23",
       "victim": "Departamento de Transportación y Obras Públicas (DTOP)",
       "domain": "dtop.pr.gov",
       "country": "PR",
@@ -272,6 +295,27 @@
       "added": "2026-03-28",
       "infostealer": {
         "update": "2026-03-28 17:27:30",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-03-20",
+      "victim": "Fernheizwerk Neukölln",
+      "domain": "fhw-neukoelln.de",
+      "country": "DE",
+      "summary": "Le 20 mars 2026, des pirates informatiques non identifiés ont attaqué la centrale de chauffage urbain de Neukölln et chiffré des données ; le groupe DragonForce a été identifié comme étant l'auteur de cette attaque. L'exploitant a laissé passer l'ultimatum lui imposant de verser une rançon avant le 29 mars, ce qui fait désormais peser la menace d'une publication des données volées sur le darknet. La police berlinoise a confirmé l'incident, mais a assuré que les installations techniques et l'approvisionnement en chauffage d'environ 60 000 logements n'étaient pas affectés.",
+      "title": "Hacker-Attacke auf Berliner Fernheizwerk in Neukölln – Lösegeldforderung",
+      "url": "https://www.morgenpost.de/berlin/article411604318/hacker-attacke-auf-berliner-fernheizwerk-in-neukoelln-loesegeldforderung.html",
+      "added": "2026-03-31",
+      "infostealer": {
+        "update": "2026-03-31 10:18:35",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,
@@ -8841,6 +8885,27 @@
     },
     {
       "date": "2025-09-30",
+      "victim": "Palacios Marine & Industrial",
+      "domain": "palaciosmarineindustrial.com",
+      "country": "US",
+      "summary": "Palacios Marine & Industrial Coatings, Inc. experienced a data breach on September 30, 2025, where an unauthorized actor gained access to certain computer systems and potentially accessed and/or acquired files stored on those computer systems. The breach involved personal information including name and Social Security number. A cyberattack was claimed by Akira on November 4.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/0cb91b89-e801-443a-97ec-6d70f8c96d0c.html",
+      "added": "2026-03-31",
+      "infostealer": {
+        "update": "2026-03-31 10:18:55",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-09-30",
       "victim": "SAACKE",
       "domain": "saacke.com",
       "country": "DE",
@@ -10244,6 +10309,27 @@
       "added": "2025-09-15",
       "infostealer": {
         "update": "2025-09-15 11:52:45",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-09-11",
+      "victim": "Windels Marx Lane & Mittendorf, LLP",
+      "domain": "windelsmarx.com",
+      "country": "US",
+      "summary": "Windels Marx Lane & Mittendorf, LLP experienced an unauthorized access to its computer network on September 11, 2025, resulting in potential exposure of personal information. The breach involved unauthorized access to certain systems in Windels's network, and certain files were taken without authorization. Windels is providing notification to individuals at the direction of data owner clients based on the results of this review.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/8ca5fc3e-e74e-4639-a03d-2aefc53de38c.html",
+      "added": "2026-03-31",
+      "infostealer": {
+        "update": "2026-03-31 10:19:15",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,

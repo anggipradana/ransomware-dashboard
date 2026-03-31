@@ -4,8 +4,60 @@
     "month": null,
     "country": null
   },
-  "count": 3374,
+  "count": 3376,
   "results": [
+    {
+      "date": "2026-03-31",
+      "victim": "Charité",
+      "domain": "charite.de",
+      "country": "DE",
+      "summary": "Un dysfonctionnement technique au sein d'un centre de données de la Charité à Berlin a entraîné une panne informatique affectant trois sites hospitaliers, empêchant la Feuerwehr d'accéder aux cliniques Virchow, Mitte et Steglitz. Bien que la fourniture de soins aux patients reste stable, les services d'urgence ont temporairement désactivé les entrées des urgences centrales par mesure de sécurité, tout en excluant toute hypothèse de cyberattaque. La Charité travaille activement à la résolution de ce problème technique, qui survient dans un contexte de vigilance accrue face aux risques de cybersécurité pour les institutions publiques berlinoises.",
+      "title": "IT‑Ausfall an der Berliner Charité: Feuerwehr kann drei Klinikstandorte nicht anfahren",
+      "url": "https://www.tagesspiegel.de/berlin/itausfall-an-der-berliner-charite-feuerwehr-kann-drei-klinikstandorte-nicht-anfahren-15421749.html",
+      "added": "2026-03-31",
+      "infostealer": {
+        "update": "2026-03-31 17:58:22",
+        "employees": 38,
+        "users": 79,
+        "thirdparties_domain": 48,
+        "employees_url": 23,
+        "users_url": 87,
+        "thirdparties": 37,
+        "infostealer_stats": {
+          "Lumma": 32,
+          "StealC": 5,
+          "Vidar": 8,
+          "Raccoon": 12,
+          "CRYPTBOT": 2,
+          "RedLine": 26,
+          "Azorult": 3,
+          "Generic Stealer": 18,
+          "UNKNOWN": 1
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-03-29",
+      "victim": "Häpo-Reifencenter",
+      "domain": "haepo.ch",
+      "country": "CH",
+      "summary": "Le dimanche 29 mars 2026, le groupe de pirates informatiques Pay2Key, lié à l'Iran, a chiffré et paralysé le système informatique de l'entreprise Häpo-Reifencenter, située à Winterthour, à l'aide d'un ransomware. Bien que l'entreprise disposât de sauvegardes, celles-ci ont également été détruites, ce qui entraîne un préjudice quotidien de plusieurs dizaines de milliers de francs et une perte des données comptables actuelles. Häpo a informé la police et alerté son assureur, tandis que la direction n'envisage pour l'instant pas de payer la rançon exigée.",
+      "title": "Cyberangriff in Winterthur: Hacker legen HÃ¤po-Reifencenter lahm",
+      "url": "https://www.tagesanzeiger.ch/cyberangriff-in-winterthur-hacker-legen-haepo-reifencenter-lahm-229421108182",
+      "added": "2026-03-31",
+      "infostealer": {
+        "update": "2026-03-31 17:58:01",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-03-29",
       "victim": "Nan Liu Enterprise Co., Ltd.",

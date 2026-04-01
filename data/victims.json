@@ -352650,5 +352650,105 @@
         "activity": "Consumer Services",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Cisco Systems, Inc. (cisco.com)",
+        "group_name": "shinyhunters",
+        "discovered": "2026-04-01 13:14:13.378173",
+        "description": "3 breaches ( UNC6040 , Salesforce Aura, and AWS accounts). Total over 3M Salesforce records containing PII, Github repositories, AWS buckets and other internal corporate data have been compromised. This is a final warning to reach out by 3 Apr 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline. | Updated: 31 Mar 2026 | Warning: FINAL WARNING",
+        "website": "cisco.com",
+        "published": "2024-04-24 00:00:00.000000",
+        "post_url": "",
+        "country": "US",
+        "activity": "Technology",
+        "duplicates": [
+            {
+                "date": "2026-04-01 13:14:13.441685",
+                "group": "kraken",
+                "link": "https://www.ransomware.live/id/d3d3LmNpc2NvLmNvbUBrcmFrZW4=",
+                "attackdate": "2024-04-24 00:00:00.000000"
+            }
+        ],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Alliance Roofing",
+        "group_name": "akira",
+        "discovered": "2026-04-01 13:41:16.817492",
+        "description": "Alliance Roofing Company Inc is a national leader in commercial r\noofing and waterproofing services with more than 27 years of indu\nstry experience. Founded in 1986 and established in San Jose, the\ncompany has expanded its geographic footprint to serve the Centr\nal Valley and Northern California region, including Sacramento, R\neno, and Modesto, providing comprehensive roofing and waterproofi\nng solutions to corporate enterprises, small businesses, and prop\nerty owners across diverse market segments.\n\nWe will upload 170gb of corporate data soon. Employee passports, \nDL, phones, addresses and so on, detailed client information (fin\nancials, agreements and so on), projects, drawings and specificat\nions, NDA, etc.\n",
+        "website": "",
+        "published": "2026-04-01 00:00:00.000000",
+        "post_url": "",
+        "country": "",
+        "activity": "Construction",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Tange , Mann & Garza",
+        "group_name": "akira",
+        "discovered": "2026-04-01 13:41:21.191642",
+        "description": "Tange , Mann & Garza is a full-service accounting firm offering a\nbroad range of services for individuals, business owners, execut\nives, and independent professionals. \n\nWe will upload 40gb of corporate data soon. Employee passports DL\nand so on, detailed client information (financials, agreements a\nnd so on), NDA, etc.\n",
+        "website": "",
+        "published": "2026-04-01 00:00:00.000000",
+        "post_url": "",
+        "country": "",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "First Trinity Financial",
+        "group_name": "dragonforce",
+        "discovered": "2026-04-01 13:51:40.015913",
+        "description": "FTFC is an insurance holding company based in Tulsa, Oklahoma. FTFC operates two life insurance companies, Trinity Life Insurance Company (TLIC), Tulsa, Oklahoma and Family Benefit Life Insurance Company (FBLIC), Jefferson City, Missouri. In a series of stock offerings FTFC successfully raised $26,475,000 through Private Placement and public stock offerings. FTFC is currently owned by over 4,000 Oklahoma residents. Since inception FTFC has dedicated itself to help stem the outflow of capital from the company's state by providing a broadly held Oklahoma financial services corporation offering innovative, attractive and competitive financial products and financial services",
+        "website": "firsttrinityfinancial.com",
+        "published": "2026-04-01 12:29:40.522990",
+        "post_url": "http://z3wqggtxft7id3ibr7srivv5gjof5fwg76slewnzwwakjuf3nlhukdid.onion/blog/?post_uuid=cdea9b63-8f0a-4cf0-9d93-51f5fa6142aa",
+        "country": "US",
+        "activity": "Financial Services",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "SAYEGH",
+        "group_name": "payload",
+        "discovered": "2026-04-01 14:39:43.200823",
+        "description": "Sayegh 1944 presents itself as an educational company, yet its activities appear broad and somewhat lacking in transparency. Under the umbrella of developing learning materials and services for schools, it spans multiple areas where a clear core expertise is hard to identify. Overall, it gives the impression of an organization trying to cover many segments of education without demonstrating a strong, well-defined specialization or standout results.",
+        "website": "",
+        "published": "2026-04-01 14:39:17.488173",
+        "post_url": "http://payloadrz5yw227brtbvdqpnlhq3rdcdekdnn3rgucbcdeawq2v6vuyd.onion/posts/1240fa31-cadd-4716-9fbc-a4b0b2f78463",
+        "country": "",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "52 GB"
+        }
+    },
+    {
+        "post_title": "Alamo Heights School District",
+        "group_name": "worldleaks",
+        "discovered": "2026-04-01 14:53:08.925224",
+        "description": "[AI generated] Alamo Heights School District is a public school district based in Alamo Heights, Texas. Serving pre-K through 12th grade, it aims to facilitate comprehensive education to foster well-rounded student growth. The district focuses on strong academics, arts, athletics, and character development, committing to a 'Learner's Journey' for every student.",
+        "website": "www.ahisd.net",
+        "published": "2026-04-01 13:07:05.000000",
+        "post_url": "https://worldleaksartrjm3c6vasllvgacbi5u3mgzkluehrzhk2jz4taufuid.onion/companies/7418640192",
+        "country": "US",
+        "activity": "Education",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "AMBAU Personalservice",
+        "group_name": "worldleaks",
+        "discovered": "2026-04-01 14:53:47.904881",
+        "description": "[AI generated] AMBAU Personalservice is a staffing and recruitment company based in Germany. It specializes in providing highly skilled personnel across various industries including construction, industry, logistics, and traffic fields. Their services cater to both temporary and permanent staffing needs. The company is known for its effective, comprehensive services encompassing the full cycle of recruitment, placement, and employee management.",
+        "website": "www.ambau-team.de",
+        "published": "2026-04-01 12:49:35.000000",
+        "post_url": "https://worldleaksartrjm3c6vasllvgacbi5u3mgzkluehrzhk2jz4taufuid.onion/companies/2617010624",
+        "country": "DE",
+        "activity": "Business Services",
+        "duplicates": [],
+        "extrainfos": []
     }
 ]

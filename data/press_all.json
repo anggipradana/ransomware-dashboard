@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3389,
+  "count": 3390,
   "results": [
     {
       "date": "2026-04-01",
@@ -442,6 +442,27 @@
       "added": "2026-03-28",
       "infostealer": {
         "update": "2026-03-28 17:27:30",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-03-20",
+      "victim": "IntraCare",
+      "domain": "intracare.co.nz",
+      "country": "NZ",
+      "summary": "L'organisation de santé IntraCare a signalé un incident de cybersécurité impliquant un accès non autorisé à son réseau le 20 mars 2026, ce qui a conduit à l'arrêt temporaire de ses systèmes informatiques et à la suspension des procédures médicales. L'entreprise a engagé des experts en cybersécurité externes et collaboré avec les autorités néo-zélandaises pour enquêter sur l'incident et sécuriser les données, tout en assurant que la qualité des soins aux patients n'était pas compromise. Les services ont été rétablis le 30 mars 2026, et l'organisation a confirmé qu'elle n'avait jamais subi d'incident de ce type auparavant.",
+      "title": "IntraCare Cyber Incident - IntraCare",
+      "url": "https://intracare.co.nz/information-regarding-cyber-incident/",
+      "added": "2026-04-02",
+      "infostealer": {
+        "update": "2026-04-02 18:45:06",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,

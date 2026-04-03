@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3390,
+  "count": 3392,
   "results": [
     {
       "date": "2026-04-01",
@@ -2166,6 +2166,30 @@
         "infostealer_stats": {}
       },
       "ransomware": null
+    },
+    {
+      "date": "2026-02-12",
+      "victim": "Five States Energy",
+      "domain": "fivestates.com",
+      "country": "US",
+      "summary": "Five States Energy Company, L.L.C. detected a compromise of its network that could have impacted personal information, including names, bank account numbers, contact information, and Social Security numbers. The breach occurred on February 12, 2026, and the company has taken measures to secure and remediate the compromise. A cyberattack was claimed by Dragonforce on February 19.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/6787d585-07ff-44d9-ad99-347e0f9b6073.html",
+      "added": "2026-04-03",
+      "infostealer": {
+        "update": "2026-02-19 18:39:02",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "dragonforce",
+        "permalink": "https://www.ransomware.live/id/Zml2ZXN0YXRlcy5jb21AZHJhZ29uZm9yY2U="
+      }
     },
     {
       "date": "2026-02-12",
@@ -30094,6 +30118,30 @@
         "thirdparties": 0
       },
       "ransomware": null
+    },
+    {
+      "date": "2025-01-29",
+      "victim": "Teamsters Local 175",
+      "domain": "teamsters175.org",
+      "country": "US",
+      "summary": "Teamsters Local 175 suffered a data breach where an unauthorized third party may have accessed personal information, including names, Social Security numbers, and commercial driver's license information. The breach occurred due to unauthorized activity within the organization's computer systems. A cyberattack was claimed by INC Ransom on February 22.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/f98b68b1-17b0-4ec2-9005-fe4f1df33efe.html",
+      "added": "2026-04-03",
+      "infostealer": {
+        "update": "2025-02-22 03:56:47",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "incransom",
+        "permalink": "https://www.ransomware.live/id/dGVhbXN0ZXJzMTc1Lm9yZ0BpbmNyYW5zb20="
+      }
     },
     {
       "date": "2025-01-29",

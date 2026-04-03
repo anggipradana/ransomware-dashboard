@@ -57750,7 +57750,10 @@
         "employees_url": 6,
         "users_url": 41
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "ALP-001",
+        "permalink": "https://www.ransomware.live/id/amF4YS5qcEBBTFAtMDAx"
+      }
     },
     {
       "date": "2023-11-28",

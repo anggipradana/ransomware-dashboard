@@ -353259,5 +353259,61 @@
         "activity": "Not Found",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Wolf Technology Group",
+        "group_name": "nova",
+        "discovered": "2026-04-02 23:15:24.058158",
+        "description": "Wolf Technology Group specializes in providing cost-effective IT solutions and services for small businesses, helping them manage their technology needs without the expense of in-house support. Their offerings include Broadband, Infrastructure, VoIP, and managed IT services tailored to individual client requirements. The company focuses on enhancing business performance through improved IT systems and ensuring business continuity with expert support. With a team of certified IT professionals, they provide personalized strategies to optimize technology infrastructure while saving time and money - corp you have 10 days to contact us or everything will be leaked and no recover and will take actions.",
+        "website": "",
+        "published": "2026-04-02 23:14:51.056655",
+        "post_url": "http://novadmrkp4vbk2padk5t6pbxolndceuc7hrcq4mjaoyed6nxsqiuzyyd.onion/wolf-technology-group",
+        "country": "US",
+        "activity": "Technology",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Faulkner County Sheriff's Office",
+        "group_name": "qilin",
+        "discovered": "2026-04-02 23:18:16.644091",
+        "description": "N/A",
+        "website": "fcso.ar.gov",
+        "published": "2026-04-02 23:17:54.562598",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=dabe7dbe-6775-3271-8fb1-5d3f2f1f3652",
+        "country": "US",
+        "activity": "Public Sector",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Tscherne Consulting Steuerberatung GmbH",
+        "group_name": "payload",
+        "discovered": "2026-04-03 01:05:42.261895",
+        "description": "Tscherne Consulting Steuerberatung GmbH is an Austrian tax consulting firm based in Graz. The company specializes in services for small and medium-sized businesses, including bookkeeping, tax planning, payroll processing, and business consulting.",
+        "website": "",
+        "published": "2026-04-03 01:05:12.416598",
+        "post_url": "http://payloadrz5yw227brtbvdqpnlhq3rdcdekdnn3rgucbcdeawq2v6vuyd.onion/posts/f09e43ac-79b7-4cf1-bcd8-93d6f27b6436",
+        "country": "AT",
+        "activity": "Financial Services",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "104 GB"
+        }
+    },
+    {
+        "post_title": "United Finance Egypt",
+        "group_name": "payload",
+        "discovered": "2026-04-03 01:06:08.347667",
+        "description": "United Finance Egypt is an Egyptian non-bank financial institution (NBFI) that provides financing services for businesses and real estate. It operates in several areas: financial and operating leases, factoring, and mortgage lending. The data breach involves the company’s entire infrastructure. The majority of the leaked data consists of the company’s customer information.",
+        "website": "",
+        "published": "2026-04-03 01:05:44.478003",
+        "post_url": "http://payloadrz5yw227brtbvdqpnlhq3rdcdekdnn3rgucbcdeawq2v6vuyd.onion/posts/ad284bf3-0789-4d98-a7d0-4810f027bda0",
+        "country": "EG",
+        "activity": "Financial Services",
+        "duplicates": [],
+        "extrainfos": {
+            "data_size": "327 GB"
+        }
     }
 ]

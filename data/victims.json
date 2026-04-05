@@ -354343,5 +354343,70 @@
         "activity": "Transportation/Logistics",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "VirtaHealth",
+        "group_name": "lapsus$",
+        "discovered": "2026-04-05 06:14:34.809854",
+        "description": "Healthcare research",
+        "website": "",
+        "published": "2026-03-29",
+        "post_url": "",
+        "country": "US",
+        "activity": "Healthcare",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "ASTRAZENECA CORP",
+        "group_name": "lapsus$",
+        "discovered": "2026-04-05 06:14:38.685782",
+        "description": "Source Code, Employee DB, API Keys, MongoDB/MySQL Creds",
+        "website": "",
+        "published": "2026-03-25",
+        "post_url": "",
+        "country": "GB",
+        "activity": "Healthcare",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "UNIV LILLE",
+        "group_name": "lapsus$",
+        "discovered": "2026-04-05 06:14:42.409086",
+        "description": "Student & Staff Records",
+        "website": "",
+        "published": "2025-12-29",
+        "post_url": "",
+        "country": "FR",
+        "activity": "Education",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "FR MINISTRY AGRICULTURE",
+        "group_name": "lapsus$",
+        "discovered": "2026-04-05 06:14:48.285882",
+        "description": "Government Infrastructure",
+        "website": "",
+        "published": "2025-12-28",
+        "post_url": "",
+        "country": "FR",
+        "activity": "Public Sector",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "AXCERA.IO",
+        "group_name": "lapsus$",
+        "discovered": "2026-04-05 06:15:11.578046",
+        "description": "Source Code + Infrastructure Configs",
+        "website": "AXCERA.IO",
+        "published": "2026-03-22",
+        "post_url": "",
+        "country": "US",
+        "activity": "Technology",
+        "duplicates": [],
+        "extrainfos": []
     }
 ]

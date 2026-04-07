@@ -1,5 +1,5 @@
 {
-  "count": 222,
+  "count": 223,
   "groups": [
     {
       "group": ".git",
@@ -620,6 +620,10 @@
     {
       "group": "payload",
       "ransomnotes_count": 2
+    },
+    {
+      "group": "payoutsking",
+      "ransomnotes_count": 1
     },
     {
       "group": "phobos",

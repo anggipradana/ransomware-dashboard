@@ -354683,5 +354683,48 @@
         "activity": "Business Services",
         "duplicates": [],
         "extrainfos": {}
+    },
+    {
+        "post_title": "ARC Dialysis LLC",
+        "group_name": "pear",
+        "discovered": "2026-04-07 12:09:51.664448",
+        "description": "Independent dialysis service provider",
+        "website": "arcdialysis.com",
+        "published": "2026-03-25 00:00:00.000000",
+        "post_url": "http://pearsmob5sn44ismokiusuld34pnfwi6ctgin3qbvonpoob4lh3rmtqd.onion/Companies/arcdialysis",
+        "country": "US",
+        "activity": "Healthcare",
+        "duplicates": [],
+        "extrainfos": {
+            "Activity": "Hospitals & Physicians Clinics",
+            "Revenue": "$35M",
+            "Status": "announced"
+        }
+    },
+    {
+        "post_title": "Adrian Jules",
+        "group_name": "akira",
+        "discovered": "2026-04-07 12:47:29.812435",
+        "description": "Adrian Jules Ltd. specializes in the design, manufacturing, and w\nholesaling of custom clothing made in America, focusing on bespok\ne garments crafted by hand. The company offers a range of men's c\nlothing styles and provides a private label service for those loo\nking to create their own luxury clothing brand.\n\nWe will upload 15gb of corporate data soon. HR files (employee em\nails, phones and so on), financials (personal financial statement\ns, payment details, credit cards and so on), drawings, projects, \ndetailed customer info (addresses, contacts, even height, weight \nand so on), NDAs, etc.\n",
+        "website": "",
+        "published": "2026-04-07 00:00:00.000000",
+        "post_url": "",
+        "country": "",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "School Health",
+        "group_name": "akira",
+        "discovered": "2026-04-07 12:47:34.505550",
+        "description": "School Health was founded in 1957. This company provides the reta\niling of health and wellness supplies to K-12 schools. Their head\nquarters are located in rolling Meadows, Illinois.\n\nWe will upload 15gb of corporate data soon. Financials, a bit of \nHR files, drawings, projects, customer info, etc.\n",
+        "website": "",
+        "published": "2026-04-07 00:00:00.000000",
+        "post_url": "",
+        "country": "US",
+        "activity": "Healthcare",
+        "duplicates": [],
+        "extrainfos": []
     }
 ]

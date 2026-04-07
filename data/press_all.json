@@ -4,8 +4,33 @@
     "month": null,
     "country": null
   },
-  "count": 3393,
+  "count": 3399,
   "results": [
+    {
+      "date": "2026-04-06",
+      "victim": "Signature Healthcare",
+      "domain": "signature-healthcare.org",
+      "country": "US",
+      "summary": "Signature Healthcare et l'hôpital de Brockton ont confirmé un incident de cybersécurité perturbant certains systèmes informatiques, entraînant la diversion du trafic des ambulances et l'annulation des services d'infusion de chimiothérapie pour le 6 avril. Bien que les services d'urgence et les interventions chirurgicales programmées continuent, les pharmacies de détail ont été fermées et les patients ont signalé des délais importants et un stress accru lors de leurs visites. L'établissement a activé des procédures de fonctionnement hors ligne et travaille avec des partenaires externes pour enquêter et rétablir les opérations dans les plus brefs délais.",
+      "title": "Brockton hospital hit by cybersecurity incident, services affected",
+      "url": "https://www.wcvb.com/article/brockton-hospital-services-affected-by-cyber-incident/70944847",
+      "added": "2026-04-07",
+      "infostealer": {
+        "update": "2026-04-07 10:56:10",
+        "employees": 7,
+        "users": 0,
+        "thirdparties_domain": 4,
+        "employees_url": 7,
+        "users_url": 1,
+        "thirdparties": 4,
+        "infostealer_stats": {
+          "Raccoon": 3,
+          "RedLine": 1,
+          "Generic Stealer": 2
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-04-02",
       "victim": "Education Authority",
@@ -17,6 +42,27 @@
       "added": "2026-04-03",
       "infostealer": {
         "update": "2026-04-03 17:09:02",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-04-01",
+      "victim": "Gritman Medical Center",
+      "domain": "gritman.org",
+      "country": "US",
+      "summary": "Le Gritman Medical Center a commencé à rouvrir ses cliniques à Moscou, en Idaho, le vendredi suite à un incident de cybersécurité survenu le mercredi qui a perturbé les soins ambulatoires. Bien que l'hôpital et les services d'urgence soient restés ouverts, plusieurs cliniques spécialisées ont dû être fermées temporairement en attendant le rétablissement des systèmes électroniques. Les enquêteurs ont confirmé qu'aucune donnée patient n'avait été compromise, bien que la nature exacte de l'incident et son origine restent à déterminer.",
+      "title": "Moscow, Idaho, clinics reopen after Gritman cyber incident",
+      "url": "https://dysruptionhub.com/gritman-cyber-incident-idaho/",
+      "added": "2026-04-07",
+      "infostealer": {
+        "update": "2026-04-07 10:55:50",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,
@@ -99,6 +145,30 @@
         }
       },
       "ransomware": null
+    },
+    {
+      "date": "2026-03-30",
+      "victim": "Fountain",
+      "domain": "fountain.eu",
+      "country": "BE",
+      "summary": "L'entreprise belge cotée en Bourse Fountain, spécialisée dans les services liés au café en entreprises, a confirmé avoir subi une cyberattaque de type ransomware impliquant un accès non autorisé et l'extraction de données. Bien que l'entreprise ait déposé une plainte pénale le 31 mars et poursuive ses investigations pour évaluer l'étendue des données compromises, elle ne s'attend pas à des conséquences financières significatives à ce stade. Une cyberattaque a été revendiquée par Dragonforce le 1er avril.",
+      "title": "Une grande entreprise belge cotée en Bourse victime d’une cyberattaque",
+      "url": "https://www.lesoir.be/738882/article/2026-04-03/une-grande-entreprise-belge-cotee-en-bourse-victime-dune-cyberattaque",
+      "added": "2026-04-07",
+      "infostealer": {
+        "update": "2026-04-01 21:33:07",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "dragonforce",
+        "permalink": "https://www.ransomware.live/id/Rm91bnRhaW5AZHJhZ29uZm9yY2U="
+      }
     },
     {
       "date": "2026-03-30",
@@ -6227,6 +6297,33 @@
         "users_url": 0,
         "thirdparties": 0,
         "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-11-21",
+      "victim": "SitusAMC Holdings Corporation",
+      "domain": "situsamc.com",
+      "country": "US",
+      "summary": "SitusAMC Holdings Corporation suffered a data breach where an unauthorized third party accessed certain systems within its information technology network, potentially exposing personal information of borrowers and non-borrowers. The breach occurred between November 13-21, 2025. SitusAMC is offering identity theft protection services to affected individuals.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/88b91f43-8200-4cc0-8005-0177c766d965.html",
+      "added": "2026-04-04",
+      "infostealer": {
+        "update": "2025-11-24 13:08:01",
+        "employees": 5,
+        "users": 5,
+        "thirdparties_domain": 4,
+        "employees_url": 2,
+        "users_url": 4,
+        "thirdparties": 25,
+        "infostealer_stats": {
+          "RedLine": 4,
+          "Lumma": 3,
+          "Generic Stealer": 1,
+          "Raccoon": 1,
+          "StealC": 1
+        }
       },
       "ransomware": null
     },
@@ -13541,6 +13638,29 @@
           "Ficker": 3,
           "Taurus": 1,
           "Atomic": 1
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-08-05",
+      "victim": "CI Engineering",
+      "domain": "cieng.com",
+      "country": "US",
+      "summary": "Chemical & Industrial Engineering suffered a data breach in August 2025, where an unauthorized third party gained access to their computer network from June to August 2025. The impacted files contained personal information, including names, addresses, and other data elements. A cyberattack was claimed by Cicada3301 on September 4.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/d9d4e6f9-fc44-4e4b-bff7-e002301f336e.html",
+      "added": "2026-04-06",
+      "infostealer": {
+        "update": "2025-09-04 17:41:11",
+        "employees": 1,
+        "users": 0,
+        "thirdparties_domain": 2,
+        "employees_url": 1,
+        "users_url": 1,
+        "thirdparties": 2,
+        "infostealer_stats": {
+          "Azorult": 2
         }
       },
       "ransomware": null
@@ -32600,6 +32720,39 @@
         "infostealer_stats": {
           "Lumma": 14,
           "Vidar": 4
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2024-12-22",
+      "victim": "Graebel Companies, Inc.",
+      "domain": "graebel.com",
+      "country": "US",
+      "summary": "Graebel experienced a network disruption involving certain computers systems and services due to a cybersecurity incident. The incident occurred between December 19, 2024, and December 22, 2024, resulting in unauthorized access to certain files. Graebel is notifying potentially impacted clients out of an abundance of caution.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/b95d890c-a97b-4a13-b8aa-1eb0f42124e9.html",
+      "added": "2026-04-04",
+      "infostealer": {
+        "update": "2025-11-11 12:03:00",
+        "employees": 5,
+        "users": 355,
+        "thirdparties_domain": 9,
+        "employees_url": 6,
+        "users_url": 23,
+        "thirdparties": 7,
+        "infostealer_stats": {
+          "Lumma": 182,
+          "RedLine": 156,
+          "Generic Stealer": 46,
+          "Raccoon": 60,
+          "Azorult": 44,
+          "StealC": 34,
+          "Vidar": 22,
+          "Atomic": 13,
+          "Taurus": 2,
+          "UNKNOWN": 2,
+          "CRYPTBOT": 2
         }
       },
       "ransomware": null

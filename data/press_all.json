@@ -4,8 +4,29 @@
     "month": null,
     "country": null
   },
-  "count": 3404,
+  "count": 3407,
   "results": [
+    {
+      "date": "2026-04-08",
+      "victim": "Anderlues",
+      "domain": "anderlues.be",
+      "country": "BE",
+      "summary": "La commune d'Anderlues a été victime d'une cyberattaque de grande ampleur, entraînant la fermeture de ses services administratifs pour une durée indéterminée. L'attaque a eu lieu entre minuit et 5h du matin le 8 avril 2026. Les autorités locales et fédérales tentent de rétablir l'accès aux systèmes informatiques et de déterminer l'origine de l'attaque.",
+      "title": "L'administration communale d'Anderlues subit une cyberattaque de grande ampleur: les services fermés \"pour une durée inconnue\"",
+      "url": "https://www.dhnet.be/regions/charleroi/2026/04/09/ladministration-communale-danderlues-subit-une-cyberattaque-de-grande-ampleur-les-services-fermes-pour-une-duree-inconnue-MBTDZSJTLJB7TIM2SXAWOQ4OAQ/",
+      "added": "2026-04-09",
+      "infostealer": {
+        "update": "2026-04-09 14:07:37",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-04-08",
       "victim": "Cancillería de Colombia",
@@ -14975,6 +14996,30 @@
     },
     {
       "date": "2025-07-20",
+      "victim": "Baltimore Medical System Inc.",
+      "domain": "bmsi.org",
+      "country": "US",
+      "summary": "Baltimore Medical System Inc. suffered a data breach between July 2, 2025, and July 20, 2025, where an unauthorized actor accessed certain systems and accessed or copied files containing personal information. The breach affected approximately 3 Rhode Island residents, 4 Vermont residents, and an unknown number of other individuals. A cyberattack was claimed by Braincipher on September 16.",
+      "title": "2026-04-02 Baltimore Medical System, Inc. - Date Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2026-04-02-baltimore-medical-system-inc-date-breach-notice-consumers",
+      "added": "2026-04-09",
+      "infostealer": {
+        "update": "2025-09-16 17:16:51",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "BrainCipher",
+        "permalink": "https://www.ransomware.live/id/Ym1zaS5vcmdAQnJhaW5DaXBoZXI="
+      }
+    },
+    {
+      "date": "2025-07-20",
       "victim": "Groupe Colabor Inc.",
       "domain": "colabor.com",
       "country": "CA",
@@ -19897,6 +19942,27 @@
           "StealC": 6,
           "Vidar": 2
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-05-16",
+      "victim": "Imblum Law Offices, PC",
+      "domain": "imblumlaw.com",
+      "country": "US",
+      "summary": "Imblum Law Offices, PC experienced a sophisticated ransomware attack on May 16, 2025, which may have involved unauthorized access to certain data. The organization is providing complimentary credit monitoring services to affected individuals. A cyberattack was claimed by Akira on June 26, 2025.",
+      "title": "2026-04-02 Imblum Law Offices, PC - Date Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2026-04-02-imblum-law-offices-pc-date-breach-notice-consumers",
+      "added": "2026-04-09",
+      "infostealer": {
+        "update": "2026-04-09 14:07:17",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },

@@ -356223,5 +356223,52 @@
         "activity": "Technology",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Colonial Presbyterian Church",
+        "group_name": "pear",
+        "discovered": "2026-04-10 13:20:34.176054",
+        "description": "Colonial Presbyterian Church operates two campuses in Overland Park and South Kansas City",
+        "website": "colonialkc.org",
+        "published": "2026-04-07 00:00:00.000000",
+        "post_url": "http://pearsmob5sn44ismokiusuld34pnfwi6ctgin3qbvonpoob4lh3rmtqd.onion/Companies/colonialkc",
+        "country": "US",
+        "activity": "Consumer Services",
+        "duplicates": [],
+        "extrainfos": {
+            "Activity": "Church Management Organization",
+            "Revenue": "$18M",
+            "Status": "announced"
+        }
+    },
+    {
+        "post_title": "Arkansas Oral & Maxillofacial Surgeons",
+        "group_name": "pear",
+        "discovered": "2026-04-10 13:21:23.054610",
+        "description": "Offers a wide range of services in the field of maxillofacial surgery",
+        "website": "arsurgeons.com",
+        "published": "2026-04-07 00:00:00.000000",
+        "post_url": "http://pearsmob5sn44ismokiusuld34pnfwi6ctgin3qbvonpoob4lh3rmtqd.onion/Companies/arsurgeons",
+        "country": "US",
+        "activity": "Healthcare",
+        "duplicates": [],
+        "extrainfos": {
+            "Activity": "Dental Practice Management",
+            "Revenue": "<$5M",
+            "Status": "announced"
+        }
+    },
+    {
+        "post_title": "Turbo International",
+        "group_name": "akira",
+        "discovered": "2026-04-10 13:57:43.003102",
+        "description": "Turbo International was founded in 1989 as one of the first manuf\nacturers of turbocharger component parts in North America. Origin\nally focused on producing compressor wheels and balancing service\ns for local rebuilders, the company quickly expanded its product \nline to include all major turbocharger components and service kit\ns.\n\nWe will upload 48gb of corporate data soon. Employee personal doc\numents (passports, DLs, 29 forms, addresses, phones, emails and o\nther information), client information, financials, contracts and \nagreements, corporate confidential documents, NDAs and so on.\n",
+        "website": "",
+        "published": "2026-04-10 00:00:00.000000",
+        "post_url": "",
+        "country": "",
+        "activity": "Transportation/Logistics",
+        "duplicates": [],
+        "extrainfos": []
     }
 ]

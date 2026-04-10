@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3409,
+  "count": 3410,
   "results": [
     {
       "date": "2026-04-08",
@@ -173,6 +173,27 @@
           "RedLine": 1,
           "Generic Stealer": 2
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-04-03",
+      "victim": "Chevin Fleet Solutions",
+      "domain": "chevinfleet.com",
+      "country": "GB",
+      "summary": "L'entreprise Chevin Fleet Solutions a provoqué une interruption majeure de son logiciel SaaS FleetWave en mettant hors ligne ses environnements hébergés sur Azure au Royaume-Uni et aux États-Unis par mesure de précaution. Suite à un incident de cybersécurité détecté le 3 avril, la société collabore avec des spécialistes externes pour analyser les menaces et renforcer la sécurité de ses systèmes. Bien que l'enquête soit en cours, l'entreprise n'a pas encore précisé la nature exacte de l'attaque ni si des données clients ont été compromises.",
+      "title": "Chevin pulls the handbrake on FleetWave after security scare",
+      "url": "https://www.theregister.com/2026/04/09/chevin_fleetwave_security_incident/",
+      "added": "2026-04-10",
+      "infostealer": {
+        "update": "2026-04-10 11:51:35",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },

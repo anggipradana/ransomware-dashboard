@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3407,
+  "count": 3409,
   "results": [
     {
       "date": "2026-04-08",
@@ -571,6 +571,27 @@
       "added": "2026-03-25",
       "infostealer": {
         "update": "2026-03-20 10:39:01",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-03-23",
+      "victim": "Alamo Heights Independent School District",
+      "domain": "ahisd.net",
+      "country": "US",
+      "summary": "Le district scolaire Alamo Heights Independent School District fait face à une cyberattaque par rançongiciel suite à des problèmes de connectivité signalés le 23 mars. Les responsables du district ont refusé de fournir des détails supplémentaires en raison d'une enquête active menée avec l'aide du FBI. Cet incident s'inscrit dans une tendance croissante de cyberattaques ciblant les systèmes éducatifs, incitant les autorités texanes à renforcer le financement de la cybersécurité.",
+      "title": "Alamo Heights ISD won't say whether it paid ransom after malware attack",
+      "url": "https://www.expressnews.com/news/education/article/alamo-heights-isd-cyberattack-ransom-22191675.php",
+      "added": "2026-04-10",
+      "infostealer": {
+        "update": "2026-04-01 14:52:16",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,
@@ -1747,6 +1768,27 @@
       "added": "2026-02-27",
       "infostealer": {
         "update": "2026-02-27 15:00:51",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-02-25",
+      "victim": "SDI Management LLC",
+      "domain": "shaftdrillers.com",
+      "country": "US",
+      "summary": "SDI Management LLC detected a network compromise that could have impacted personal information, including names, dates of birth, Social Security numbers, and driver's licenses. The breach occurred on February 25, 2026, and the organization has taken measures to secure and remediate the compromise. Free credit monitoring services are being offered to affected individuals.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/0f2ce718-1713-4678-98e3-4b4e43475cd6.html",
+      "added": "2026-04-10",
+      "infostealer": {
+        "update": "2026-04-10 10:30:12",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,

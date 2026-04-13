@@ -4,8 +4,71 @@
     "month": null,
     "country": null
   },
-  "count": 3411,
+  "count": 3417,
   "results": [
+    {
+      "date": "2026-04-12",
+      "victim": "Spring Lake Park Schools",
+      "domain": "springlakeparkschools.org",
+      "country": "US",
+      "summary": "Le district scolaire de Spring Lake Park, dans le Minnesota, a dû fermer l'ensemble de ses établissements ce lundi en raison d'une suspicion d'attaque par rançongiciel. Les autorités locales et des experts en cybersécurité enquêtent actuellement sur l'incident pour déterminer l'étendue de la compromission des systèmes informatiques. Cette mesure préventive vise à protéger les données et à sécuriser les réseaux du district pendant que les efforts de restauration sont en cours.",
+      "title": "Spring Lake Park Schools Closed After Suspected Ransomware Attack - Spring Lake Park Today",
+      "url": "https://nationaltoday.com/us/mn/spring-lake-park/news/2026/04/13/spring-lake-park-schools-closed-after-suspected-ransomware-attack-1/",
+      "added": "2026-04-13",
+      "infostealer": {
+        "update": "2026-04-13 09:41:30",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-04-11",
+      "victim": "Rockstar Games",
+      "domain": "rockstargames.com",
+      "country": "US",
+      "summary": "Le groupe de hackers ShinyHunters a revendiqué avoir compromis les serveurs cloud de Rockstar Games via une faille chez le prestataire Anodot. L'entreprise a confirmé qu'une quantité limitée d'informations non matérielles a été accédée, tout en affirmant que cet incident n'impacte ni ses joueurs ni son organisation. Les pirates exigent le paiement d'une rançon numérique avant le 14 avril 2026 sous peine de divulguer des données d'entreprise sensibles.",
+      "title": "GTA 6 Developer Rockstar Reportedly Hacked, Data Being Ransomed",
+      "url": "https://kotaku.com/rockstar-games-reportedly-hacked-massive-data-leak-ransom-gta-6-shinyhunters-2000686858",
+      "added": "2026-04-13",
+      "infostealer": {
+        "update": "2026-04-13 09:41:49",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-04-10",
+      "victim": "Healthdaq",
+      "domain": "healthdaq.com",
+      "country": "IE",
+      "summary": "La société de recrutement dans le secteur de la santé Healthdaq a déclaré avoir été victime d'un incident de cybersécurité. L'entreprise a signalé l'événement aux autorités réglementaires ainsi qu'au bureau national de lutte contre la cybercriminalité de la Garda. En raison de l'enquête criminelle en cours, la société n'a pas pu fournir de détails supplémentaires sur la nature de l'incident.",
+      "title": "Healthcare recruitment company says gardai probing ‘cyber security incident’ | ITV News",
+      "url": "https://www.itv.com/news/utv/2026-04-11/healthcare-recruitment-company-says-gardai-probing-cyber-security-incident",
+      "added": "2026-04-13",
+      "infostealer": {
+        "update": "2026-04-13 09:42:52",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-04-09",
       "victim": "Saver",
@@ -1744,6 +1807,27 @@
       "added": "2026-03-02",
       "infostealer": {
         "update": "2026-03-02 14:28:31",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-02-26",
+      "victim": "David Evans Enterprises, Inc.",
+      "domain": "deainc.com",
+      "country": "US",
+      "summary": "David Evans Enterprises, Inc.  suffered a data breach, providing free credit monitoring services to affected individuals. The breach led to the exposure of sensitive information, prompting the company to offer proactive fraud assistance. Affected individuals can enroll in credit monitoring services through a dedicated website.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/14ba0ff3-73b2-4ee0-8de0-b6f5608ba761.html",
+      "added": "2026-04-11",
+      "infostealer": {
+        "update": "2026-04-13 09:42:31",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,
@@ -5532,6 +5616,32 @@
         "infostealer_stats": {}
       },
       "ransomware": null
+    },
+    {
+      "date": "2025-12-08",
+      "victim": "Windward Life Care",
+      "domain": "windwardlifecare.com",
+      "country": "US",
+      "summary": "Windward Life Care suffered a data breach where an unauthorized individual viewed or copied sensitive information. The breach occurred on or about December 8, 2025. A cyberattack was claimed by Sinobi on January 5, 2026.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/1502ed39-ff0b-4391-898b-cff2e5fe1b3a.html",
+      "added": "2026-04-11",
+      "infostealer": {
+        "update": "2026-04-13 09:42:11",
+        "employees": 0,
+        "users": 1,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 1,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "Generic Stealer": 1
+        }
+      },
+      "ransomware": {
+        "group": "sinobi",
+        "permalink": "https://www.ransomware.live/id/V2luZHdhcmQgTGlmZSBDYXJlQHNpbm9iaQ=="
+      }
     },
     {
       "date": "2025-12-08",
@@ -14558,6 +14668,27 @@
         "group": "akira",
         "permalink": "https://www.ransomware.live/id/RnJhbmNlTGlua0Bha2lyYQ=="
       }
+    },
+    {
+      "date": "2025-07-27",
+      "victim": "Legend Senior Living, LLC",
+      "domain": "legendseniorliving.com",
+      "country": "US",
+      "summary": "Legend Senior Living, LLC suffered a data breach between July 27, 2025, and August 15, 2025, resulting in unauthorized access to certain systems and potential copying/viewing of files. The breach may have exposed personal information including names, Social Security numbers, driver's license numbers, and financial account information. A cyberattack was claimed by Worldleaks on September 18.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/9d8565da-6f40-48a3-9d2b-4e160357e230.html",
+      "added": "2026-04-11",
+      "infostealer": {
+        "update": "2025-09-18 17:59:47",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
     },
     {
       "date": "2025-07-27",

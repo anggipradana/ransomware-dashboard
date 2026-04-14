@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3420,
+  "count": 3421,
   "results": [
     {
       "date": "2026-04-12",
@@ -388,6 +388,27 @@
         "group": "thegentlemen",
         "permalink": "https://www.ransomware.live/id/R0VNIFRlcm1pbmFsQHRoZWdlbnRsZW1lbg=="
       }
+    },
+    {
+      "date": "2026-03-31",
+      "victim": "Agglomération de Compiègne",
+      "domain": "agglo-compiegne.fr",
+      "country": "FR",
+      "summary": "L'agglomération de Compiègne a été la cible d'une cyberattaque dont l'impact sur les données est actuellement étudié. L'article traite des interrogations soulevées par cet incident informatique au sein de la collectivité. Le contenu détaillé reste réservé aux abonnés du journal.",
+      "title": "L’agglomération de Compiègne touchée par une cyberattaque : quid des données ?",
+      "url": "https://www.courrier-picard.fr/id710912/article/2026-04-13/compiegne-lagglomeration-touchee-par-une-cyberattaque",
+      "added": "2026-04-14",
+      "infostealer": {
+        "update": "2026-04-14 12:48:14",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
     },
     {
       "date": "2026-03-31",

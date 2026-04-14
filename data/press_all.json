@@ -384,7 +384,10 @@
         "thirdparties": 0,
         "infostealer_stats": {}
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "thegentlemen",
+        "permalink": "https://www.ransomware.live/id/R0VNIFRlcm1pbmFsQHRoZWdlbnRsZW1lbg=="
+      }
     },
     {
       "date": "2026-03-31",
@@ -896,7 +899,10 @@
         "thirdparties": 0,
         "infostealer_stats": {}
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "thegentlemen",
+        "permalink": "https://www.ransomware.live/id/SW50cmFAdGhlZ2VudGxlbWVu"
+      }
     },
     {
       "date": "2026-03-20",

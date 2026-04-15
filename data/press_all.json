@@ -4,8 +4,29 @@
     "month": null,
     "country": null
   },
-  "count": 3421,
+  "count": 3422,
   "results": [
+    {
+      "date": "2026-04-12",
+      "victim": "Autovista",
+      "domain": "autovista.com",
+      "country": "DE",
+      "summary": "L'entreprise Autovista subit actuellement une cyberattaque par ransomware affectant certains de ses systèmes en Europe et en Australie. Des experts externes ont été mobilisés pour mener une enquête approfondie et contenir l'incident, qui perturbe notamment l'accès aux courriels de certains employés. La priorité est accordée à la restauration sécurisée des applications impactées, bien qu'aucun calendrier précis n'ait encore été établi.",
+      "title": "Autovista Applications - JD Power Autovista",
+      "url": "https://autovista.com/service-update-1/",
+      "added": "2026-04-15",
+      "infostealer": {
+        "update": "2026-04-15 15:58:27",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-04-12",
       "victim": "Straumann",

@@ -2826,7 +2826,10 @@
           "Lumma": 666
         }
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "interlock",
+        "permalink": "https://www.ransomware.live/id/VW5pd2Vyc3l0ZXQgV2Fyc3phd3NraUBpbnRlcmxvY2s="
+      }
     },
     {
       "date": "2026-02-09",

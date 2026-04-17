@@ -4,8 +4,88 @@
     "month": null,
     "country": null
   },
-  "count": 3424,
+  "count": 3435,
   "results": [
+    {
+      "date": "2026-04-16",
+      "victim": "Fusion Superplex",
+      "domain": "fusionsuperplex.com",
+      "country": "BS",
+      "summary": "Fusion Superplex recently experienced a cybersecurity incident that temporarily impacted some of our systems. As a precaution, online ticketing has been taken offline while we complete recovery and ensure full security.",
+      "title": "Fusion Superplex",
+      "url": "https://www.facebook.com/fusionsuperplex/posts/pfbid08RGuv8M88iRKFdVFY1a6WPhg9hB276EN8RUdYDLN7PnF69GAYV2uoqpspKtP1yq7l?rdid=FIg12jWuH9tkOZs8",
+      "added": "2026-04-17",
+      "infostealer": {
+        "update": "2026-03-02 23:15:04",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-04-15",
+      "victim": "Clinton County",
+      "domain": "clintoncounty-ia.gov",
+      "country": "US",
+      "summary": "Le comté de Clinton, dans l'Iowa, a dû mettre une partie de son réseau hors ligne suite à la détection d'une tentative d'intrusion cybernétique. Bien que la cause initiale soit restée incertaine, une analyse médico-légale a confirmé qu'une menace avait été identifiée et contenue précocement grâce aux protocoles de sécurité. Les services essentiels ont été testés et rétablis après la mise en place de mesures de surveillance renforcées.",
+      "title": "Clinton County, Iowa restores systems after attempted cyber intrusion",
+      "url": "https://dysruptionhub.com/clinton-county-possible-cyber-incident/",
+      "added": "2026-04-17",
+      "infostealer": {
+        "update": "2026-04-17 16:42:56",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-04-14",
+      "victim": "Corporate Affairs Commission (CAC)",
+      "domain": "cac.gov.ng",
+      "country": "NG",
+      "summary": "La Commission des affaires corporatives du Nigeria a confirmé avoir subi une cyberattaque impliquant un accès non autorisé à certaines parties de ses systèmes d'information. L'agence a activé ses protocoles de réponse et collabore avec les autorités technologiques nationales pour évaluer l'étendue exacte de l'incident. En attendant les conclusions de l'enquête, il est conseillé aux utilisateurs de surveiller leurs dossiers et de mettre à jour leurs identifiants de connexion.",
+      "title": "CAC confirms cyber incident after unauthorised system access",
+      "url": "https://akwaibomtimes.ng/cac-confirms-cyber-incident-unauthorised-system-access/",
+      "added": "2026-04-17",
+      "infostealer": {
+        "update": "2026-04-17 16:43:16",
+        "employees": 0,
+        "users": 13000,
+        "thirdparties_domain": 2,
+        "employees_url": 0,
+        "users_url": 100,
+        "thirdparties": 5,
+        "infostealer_stats": {
+          "KPOT": 1,
+          "RedLine": 3794,
+          "CRYPTBOT": 7,
+          "Lumma": 3235,
+          "Generic Stealer": 2252,
+          "Vidar": 401,
+          "Taurus": 11,
+          "UNKNOWN": 133,
+          "StealC": 466,
+          "Mystic": 26,
+          "Predator": 8,
+          "Atomic": 21,
+          "Acreed": 10,
+          "Azorult": 195,
+          "Raccoon": 1291,
+          "Ficker": 5
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-04-13",
       "victim": "Dialogue Logique",
@@ -143,6 +223,27 @@
       "added": "2026-04-13",
       "infostealer": {
         "update": "2026-04-13 09:42:52",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-04-09",
+      "victim": "SRA",
+      "domain": "sra.nl",
+      "country": "NL",
+      "summary": "L'organisation SRA a été victime d'une cyberattaque ciblant des serveurs de fichiers inactifs contenant des données historiques de la période 2023-2025. L'incident, détecté le 9 avril 2026, n'a pas affecté les opérations quotidiennes mais a entraîné un risque de consultation non autorisée de certaines données. Des mesures d'urgence ont été prises, incluant l'intervention d'experts forensiques et le signalement de l'affaire à l'Autorité des données personnelles.",
+      "title": "SRA getroffen door een cyberaanval - 2026 - Nieuws - SRA",
+      "url": "https://www.sra.nl/nieuwsoverzicht/2026/sra-getroffen-door-een-cyberaanval",
+      "added": "2026-04-16",
+      "infostealer": {
+        "update": "2026-04-17 16:43:36",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,
@@ -1412,6 +1513,27 @@
     },
     {
       "date": "2026-03-12",
+      "victim": "Nicholas H. Safford & Co., Inc.",
+      "domain": "saffords.com",
+      "country": "US",
+      "summary": "Nicholas H. Safford & Co., Inc. experienced a security incident where unauthorized access occurred between January 30, 2026, and March 12, 2026. The incident may have exposed personal information, including names, dates of birth, social security numbers, and account numbers. The company has taken steps to secure its systems and is offering identity monitoring services to affected individuals.",
+      "title": "2026-04-10 Nicholas H. Safford & Co., Inc. - Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/2026-04-10-nicholas-h-safford-co-inc-data-breach-notice-consumers",
+      "added": "2026-04-15",
+      "infostealer": {
+        "update": "2026-04-17 16:41:34",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-03-12",
       "victim": "Duffy's Sports Grill",
       "domain": "duffys.com",
       "country": "US",
@@ -1647,6 +1769,27 @@
       "added": "2026-03-12",
       "infostealer": {
         "update": "2026-03-12 13:48:43",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-03-06",
+      "victim": "Adrian Jules",
+      "domain": "adrianjulesltd.com",
+      "country": "US",
+      "summary": "An unauthorized actor accessed certain information stored within Adrian Jules systems between March 4, 2026, and March 6, 2026, including the name, Social Security number, and/or financial account number of one Vermont resident. A cyberattack was claimed by Akira on April 7.",
+      "title": "20226-04-08 Adrian Jules LTD - Data Breach Notice to Consumers",
+      "url": "https://ago.vermont.gov/document/20226-04-08-adrian-jules-ltd-data-breach-notice-consumers",
+      "added": "2026-04-15",
+      "infostealer": {
+        "update": "2026-04-17 16:41:55",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,
@@ -4839,6 +4982,32 @@
     },
     {
       "date": "2025-12-25",
+      "victim": "Mullinax Ford of Central Florida",
+      "domain": "mullinaxford.com",
+      "country": "US",
+      "summary": "Mullinax Automotive suffered a data breach between December 4, 2025, and December 25, 2025, resulting in unauthorized access to sensitive information. The breach affected Maine residents, including name, Social Security number, and driver's license number. A cyberattack was claimed by Dragonforce on Feb. 1st, 2026.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/7b8676df-0894-41b3-9fe0-d0a2d7b81f5b.html",
+      "added": "2026-04-16",
+      "infostealer": {
+        "update": "2026-04-17 16:42:15",
+        "employees": 0,
+        "users": 1,
+        "thirdparties_domain": 3,
+        "employees_url": 0,
+        "users_url": 1,
+        "thirdparties": 2,
+        "infostealer_stats": {
+          "Lumma": 1
+        }
+      },
+      "ransomware": {
+        "group": "dragonforce",
+        "permalink": "https://www.ransomware.live/id/TXVsbGluYXggRm9yZEBkcmFnb25mb3JjZQ=="
+      }
+    },
+    {
+      "date": "2025-12-25",
       "victim": "OSI Systems, Inc.",
       "domain": "osi-systems.com",
       "country": "US",
@@ -5586,6 +5755,27 @@
     },
     {
       "date": "2025-12-11",
+      "victim": "Retail Therapy LLC",
+      "domain": "frugalfannies.com",
+      "country": "US",
+      "summary": "Retail Therapy LLC suffered a data breach between November 20, 2025, and December 11, 2025, where an unauthorized third party gained access to certain systems within its network, potentially exposing sensitive information.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/46406160-48ee-467c-9751-aaabcea6615a.html",
+      "added": "2026-04-15",
+      "infostealer": {
+        "update": "2026-04-17 16:41:14",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-12-11",
       "victim": "Adriatic Port Authority",
       "domain": "ancona.it",
       "country": "IT",
@@ -5763,6 +5953,27 @@
       "added": "2026-04-01",
       "infostealer": {
         "update": "2026-01-06 11:55:32",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-12-08",
+      "victim": "Phoenix Art Museum",
+      "domain": "phxart.org",
+      "country": "US",
+      "summary": "Unauthorized access to certain systems within the network occurred on December 3, 2025, resulting in the exposure of personal information of two Maine residents. The incident was discovered on December 8, 2025, and an investigation was launched. A cyberattack was claimed by Rhysida on February 12, 2026.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/31b603d4-f520-4425-8191-9dfebbf47b16.html",
+      "added": "2026-04-16",
+      "infostealer": {
+        "update": "2026-04-17 16:40:53",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,
@@ -13865,6 +14076,27 @@
     },
     {
       "date": "2025-08-08",
+      "victim": "Markowitz Ringel Trusty & Hartog",
+      "domain": "mrthlaw.com",
+      "country": "US",
+      "summary": "An unauthorized actor accessed or acquired certain data on August 8, 2025, which included name and Social Security number. The incident was discovered on August 8, 2025, and the organization is notifying affected individuals. A cyberattack was claimed by Akira on September 22, 2025.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/8073dd95-87ba-4af8-ac13-743fbd5c158e.html",
+      "added": "2026-04-17",
+      "infostealer": {
+        "update": "2026-04-17 16:42:36",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-08-08",
       "victim": "FuturHealth, Inc.",
       "domain": "futurhealth.com",
       "country": "US",
@@ -13931,6 +14163,27 @@
           "Lumma": 3,
           "Vidar": 1
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-08-07",
+      "victim": "Bank3",
+      "domain": "bank3.com",
+      "country": "US",
+      "summary": "Bank3 suffered a data breach between July 25, 2025, and August 7, 2025, resulting in unauthorized access to sensitive information. The breach affected various types of data, including names, Social Security numbers, driver's licenses, financial account information, and payment card information. A cyberattack was claimed by Qilin on October 13, 2025.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/d075c0d0-ef2e-4509-84e1-b89117782a9a.html",
+      "added": "2026-04-16",
+      "infostealer": {
+        "update": "2025-10-13 23:18:46",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },

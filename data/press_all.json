@@ -4,8 +4,36 @@
     "month": null,
     "country": null
   },
-  "count": 3438,
+  "count": 3439,
   "results": [
+    {
+      "date": "2026-04-19",
+      "victim": "Vercel",
+      "domain": "vercel.com",
+      "country": "US",
+      "summary": "L'entreprise Vercel a déclaré avoir subi un incident de sécurité impliquant un accès non autorisé à certains de ses systèmes internes. L'attaque a été initiée via la compromission d'un outil tiers, Context.ai, utilisé par un employé, permettant ainsi l'accès à certaines variables d'environnement non marquées comme sensibles. L'attaque a été revendiquée par ShinyHunters.",
+      "title": "Vercel April 2026 security incident | Vercel Knowledge Base",
+      "url": "https://vercel.com/kb/bulletin/vercel-april-2026-security-incident",
+      "added": "2026-04-20",
+      "infostealer": {
+        "update": "2026-04-20 09:16:48",
+        "employees": 0,
+        "users": 56,
+        "thirdparties_domain": 1,
+        "employees_url": 0,
+        "users_url": 25,
+        "thirdparties": 7,
+        "infostealer_stats": {
+          "Raccoon": 1,
+          "RedLine": 5,
+          "Vidar": 5,
+          "Lumma": 7,
+          "Generic Stealer": 30,
+          "Acreed": 2
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-04-17",
       "victim": "City of Tallahassee",

@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3440,
+  "count": 3442,
   "results": [
     {
       "date": "2026-04-20",
@@ -86,6 +86,27 @@
           "Acreed": 1,
           "Atomic": 1
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-04-16",
+      "victim": "Sprendlingen-Gensingen",
+      "domain": "sprendlingen-gensingen.de",
+      "country": "DE",
+      "summary": "L'administration et les services publics de Sprendlingen-Gensingen ont été paralysés par une attaque de ransomware survenue le jeudi 16 avril 2026. En réponse, l'ensemble des systèmes informatiques a été déconnecté du réseau, entraînant une interruption des services administratifs et des communications habituelles. Une équipe d'expertise informatique externe travaille actuellement à l'analyse des dommages et à la détermination de l'étendue de la fuite potentielle de données.",
+      "title": "IT-Forensikteam analysiert Cyberangriff auf Verbandsgemeindeverwaltung - Tourismusbeitrag-so-nicht",
+      "url": "https://tourismusbeitrag-so-nicht.de/2026/04/21/it-forensikteam-analysiert-cyberangriff-auf-verbandsgemeindeverwaltung/",
+      "added": "2026-04-21",
+      "infostealer": {
+        "update": "2026-04-21 10:50:18",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },
@@ -591,6 +612,27 @@
           "RedLine": 1,
           "Generic Stealer": 2
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-04-05",
+      "victim": "Minidoka Memorial Hospital",
+      "domain": "minidokamemorial.org",
+      "country": "US",
+      "summary": "Le Minidoka Memorial Hospital a subi un incident cybernétique le 5 avril, perturbant temporairement ses services d'imagerie et entraînant des transferts de patients en urgence. Bien que l'établissement ait rétabli l'accès complet à ses systèmes le 19 avril, il n'a pas encore précisé la nature exacte de l'attaque ni si des données ont été compromises. Parallèlement, un groupe nommé « Blackwater » a revendiqué avoir obtenu une quantité massive de fichiers liés à l'hôpital, sans preuve confirmée à ce jour.",
+      "title": "Minidoka Memorial Hospital reports cyber incident in Idaho",
+      "url": "https://dysruptionhub.com/minidoka-hospital-cyber-incident-idaho/",
+      "added": "2026-04-20",
+      "infostealer": {
+        "update": "2026-04-21 10:50:39",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },

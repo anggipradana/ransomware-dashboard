@@ -360178,5 +360178,64 @@
         "activity": "Consumer Services",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "GGI",
+        "group_name": "morpheus",
+        "discovered": "2026-04-21 13:32:27.686422",
+        "description": "**Website**: ggitokiomarine.com\n\n**Website**: ggipinsurance.com\n\n**Revenue**: $19.2 Million\n\nProvides comprehensive general and life insurance solutions, including motor, fire, marine, and specialized",
+        "website": "",
+        "published": "2026-04-21 12:50:48.031000",
+        "post_url": "",
+        "country": "",
+        "activity": "Not Found",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "MAC Construction & Excavating",
+        "group_name": "akira",
+        "discovered": "2026-04-21 14:20:01.813301",
+        "description": "MAC is a diversified construction company with integrated divisio\nns working closely together to provide a wide variety of quality \nconstruction and excavation services, quality workmanship - produ\nced by quality people. \n\nWe will upload 30gb of corporate data soon. DB data (Salary / Inc\nome 2490386 rows, Physical Address 223606 rows,Online Account 123\n070 rows, Phone / Fax 111784 rows, Bank / Financial 73100 rows, I\nP / Device 5923 rows, Password / Secret 1783 rows, Tax ID 1686 ro\nws, Name (Person) 1074 rows, Email 967 rows, Photo / Biometric 13\n7 rows, FR - Contact 100 rows, Property 28 rows, Employment 18 ro\nws, SSN / National ID 8 rows) and a lot of other internal files.\n",
+        "website": "",
+        "published": "2026-04-21 00:00:00.000000",
+        "post_url": "",
+        "country": "",
+        "activity": "Construction",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Avitrans",
+        "group_name": "qilin",
+        "discovered": "2026-04-21 15:05:29.438492",
+        "description": "N/A",
+        "website": "www.avitrans.com",
+        "published": "2026-04-21 15:05:08.839494",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=630d6424-b8e2-4d05-b67f-1d0e9054c16b",
+        "country": "",
+        "activity": "Transportation/Logistics",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "ruskcountywi.us",
+        "group_name": "qilin",
+        "discovered": "2026-04-21 15:05:45.674629",
+        "description": "N/A",
+        "website": "www.ruskcountywi.us",
+        "published": "2025-12-23 13:59:27.841000",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=52fc0d7f-7cf9-4c90-9519-d886e27197a8",
+        "country": "US",
+        "activity": "Public Sector",
+        "duplicates": [
+            {
+                "date": "2026-04-21 15:05:45.754264",
+                "group": "lynx",
+                "link": "https://www.ransomware.live/id/cnVza2NvdW50eXdpLnVzQGx5bng=",
+                "attackdate": "2025-12-23 13:59:27.841000"
+            }
+        ],
+        "extrainfos": []
     }
 ]

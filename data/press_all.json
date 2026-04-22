@@ -4,8 +4,50 @@
     "month": null,
     "country": null
   },
-  "count": 3442,
+  "count": 3452,
   "results": [
+    {
+      "date": "2026-04-21",
+      "victim": "Nara City Hospital",
+      "domain": "nara-jadecom.jp",
+      "country": "JP",
+      "summary": "L'hôpital municipal de Nara a suspendu ses services d'urgence et ses consultations externes suite à une cyberattaque présumée. L'incident, détecté le 21 avril par des dispositifs de surveillance réseau, a rendu inutilisables plusieurs systèmes informatiques, dont les dossiers médicaux électroniques. Les autorités locales collaborent actuellement avec la police pour analyser l'historique des données afin d'identifier l'origine de l'attaque.",
+      "title": "病院にサイバー攻撃か 外来と救急停止 奈良（ANNニュース）",
+      "url": "https://www.nagoyatv.com/news/1000/syakai.html?id=000500459",
+      "added": "2026-04-22",
+      "infostealer": {
+        "update": "2026-04-22 16:02:08",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-04-20",
+      "victim": "Mile Bluff Medical Center",
+      "domain": "milebluff.com",
+      "country": "US",
+      "summary": "Le Mile Bluff Medical Center subit actuellement des perturbations de ses systèmes informatiques et téléphoniques suite à un incident de cybersécurité impliquant le chiffrement de données. L'établissement a immédiatement activé ses protocoles de sécurité et lancé une enquête avec l'aide d'experts internes et de partenaires tiers. La direction travaille activement à l'évaluation de la situation afin de restaurer pleinement les fonctionnalités impactées.",
+      "title": "Mauston hospital reports cyberattack disrupting phone and computer systems",
+      "url": "https://www.wkow.com/news/mauston-hospital-reports-cyberattack-disrupting-phone-and-computer-systems/article_e7710203-4b57-49ef-8052-007b3dd4f58e.html",
+      "added": "2026-04-22",
+      "infostealer": {
+        "update": "2026-04-22 16:02:28",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-04-20",
       "victim": "Well Shin Technology Co., Ltd.",
@@ -9024,6 +9066,27 @@
     },
     {
       "date": "2025-10-21",
+      "victim": "Hallisey & D'Agostino, LLP",
+      "domain": "hdllpcpa.com",
+      "country": "US",
+      "summary": "Hallisey & D'Agostino, LLP experienced a data security incident where an unknown actor gained unauthorized access to their network between September 28, 2025, and October 22, 2025, potentially acquiring personal information. The incident was discovered on October 21, 2025. The firm is offering complimentary identity theft protection services to affected individuals.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/385fc975-ad5f-4530-82f8-93777baa83ed.html",
+      "added": "2026-04-18",
+      "infostealer": {
+        "update": "2026-04-22 16:01:07",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-10-21",
       "victim": "Cottage Hospital",
       "domain": "cottagehospital.org",
       "country": "US",
@@ -9073,6 +9136,29 @@
         "group": "safepay",
         "permalink": "https://www.ransomware.live/id/bWNpbnRvc2hsYWJzLmNvbUBzYWZlcGF5"
       }
+    },
+    {
+      "date": "2025-10-20",
+      "victim": "Basin Harbor",
+      "domain": "basinharbor.com",
+      "country": "US",
+      "summary": "Basin Harbor Resort suffered a ransomware attack on October 20, 2025, resulting in unauthorized access to personal information. The incident involved the names and Social Security numbers of 21 Maine residents. A cyberattack was claimed by Akira on November 14.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/d3a6a1b1-aa0a-4b73-b733-1d35ce0fc888.html",
+      "added": "2026-04-22",
+      "infostealer": {
+        "update": "2026-04-22 16:00:26",
+        "employees": 0,
+        "users": 1,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 1,
+        "thirdparties": 0,
+        "infostealer_stats": {
+          "UNKNOWN": 1
+        }
+      },
+      "ransomware": null
     },
     {
       "date": "2025-10-20",
@@ -14333,6 +14419,27 @@
           "Lumma": 3,
           "Vidar": 1
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-08-07",
+      "victim": "Passco Companies, LLC",
+      "domain": "passco.com",
+      "country": "US",
+      "summary": "Passco Companies, LLC suffered a data breach on August 7, 2025, where limited information was taken from its environment. The affected information includes name and Social Security number of certain individuals. Passco is providing access to credit monitoring services for 12 months to affected individuals.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/bd53318c-62f6-4145-90a1-b960bd7ba83d.html",
+      "added": "2026-04-18",
+      "infostealer": {
+        "update": "2026-04-22 16:01:47",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },
@@ -25084,6 +25191,27 @@
     },
     {
       "date": "2025-04-03",
+      "victim": "Rev Up Brands, LLC dba Revolution Dancewear",
+      "domain": "revolutiondancewear.com",
+      "country": "US",
+      "summary": "Revolution Dancewear experienced a data security incident where an unauthorized party accessed internal systems from March 16, 2025, to April 3, 2025, potentially impacting personal information. The company is offering complimentary credit monitoring and identity restoration services. No reports of identity fraud or theft have been made.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/59d1d607-17b8-4533-b7c3-e47c15bf8343.html",
+      "added": "2026-04-18",
+      "infostealer": {
+        "update": "2026-04-22 16:01:27",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-04-03",
       "victim": "Madison Elementary School District #38",
       "domain": "madisonaz.org",
       "country": "US",
@@ -26334,6 +26462,27 @@
       "added": "2025-03-21",
       "infostealer": {
         "update": "2025-03-21 15:37:45",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-03-18",
+      "victim": "Thornton Township",
+      "domain": "thorntontownship.com",
+      "country": "US",
+      "summary": "Thornton Township experienced a data security incident where an unknown actor potentially acquired certain files from their network between March 10 to March 18, 2025. The investigation revealed that some personal information was contained within the potentially affected data. The township is offering complimentary credit monitoring and identity theft protection services to affected individuals.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/b6fcf3a9-ae08-4378-9fb1-b7b1111427ad.html",
+      "added": "2026-04-21",
+      "infostealer": {
+        "update": "2026-04-22 16:00:46",
         "employees": 0,
         "users": 0,
         "thirdparties_domain": 0,
@@ -31690,6 +31839,29 @@
       "ransomware": {
         "group": "ransomhub",
         "permalink": "https://www.ransomware.live/id/d2VhdGhlcnNhLmNvLnphQHJhbnNvbWh1Yg=="
+      }
+    },
+    {
+      "date": "2025-01-25",
+      "victim": "Georgia Heritage Financial Credit Union",
+      "domain": "gaheritagefcu.org",
+      "country": "US",
+      "summary": "Georgia Heritage Financial Credit Union suffered a data breach that exposed sensitive customer information, including Social Security numbers and driver's license numbers. The breach was caused by a malicious third-party actor who gained access to Georgia Heritage Financial Credit Union's systems. A cyberattack was claimed by Ransomhub on February 4, 2025.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/7e34d55f-e53c-43cf-b51e-cc62332f2abd.html",
+      "added": "2026-04-18",
+      "infostealer": {
+        "update": "2025-02-04 06:20:16",
+        "employees": 0,
+        "users": 4,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 3,
+        "thirdparties": 0
+      },
+      "ransomware": {
+        "group": "ransomhub",
+        "permalink": "https://www.ransomware.live/id/Z2FoZXJpdGFnZWZjdS5vcmdAcmFuc29taHVi"
       }
     },
     {
@@ -42858,6 +43030,29 @@
     },
     {
       "date": "2024-08-20",
+      "victim": "Universal Pure",
+      "domain": "universalpure.com",
+      "country": "US",
+      "summary": "Universal Pure suffered a data breach between July 10, 2024, and August 20, 2024, resulting in unauthorized access to certain computer systems and potential exposure of personal information. The breach was discovered on August 20, 2024. A cyberattack was claimed by Play on August 29, 2024.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/a15ad03a-1638-4a3e-bbf4-f094f3fbb211.html",
+      "added": "2026-04-22",
+      "infostealer": {
+        "update": "2024-08-29 01:27:16",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0
+      },
+      "ransomware": {
+        "group": "play",
+        "permalink": "https://www.ransomware.live/id/VW5pdmVyc2FsIFB1cmVAcGxheQ=="
+      }
+    },
+    {
+      "date": "2024-08-20",
       "victim": "La ville de Santee",
       "domain": "cityofsanteeca.gov",
       "country": "US",
@@ -53943,6 +54138,28 @@
       "ransomware": {
         "group": "alphv",
         "permalink": "https://www.ransomware.live/id/dmVyYnJhdWNoZXJ6ZW50cmFsZSBoZXNzZW5AYWxwaHY="
+      }
+    },
+    {
+      "date": "2024-02-21",
+      "victim": "Impac Mortgage Holdings, Inc.",
+      "domain": "impaccompanies.com",
+      "country": "US",
+      "summary": "Impac Mortgage Holdings, Inc. experienced a data breach where an unknown actor may have accessed certain files and folders containing protected information between February 21, 2024, and March 20, 2024. A cyberattack was claimed by Medusa on March 23, 2024.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/a91176be-e731-48c1-92d2-df84d9c98799.html",
+      "added": "2026-04-18",
+      "infostealer": {
+        "update": "2024-03-24 09:13:32",
+        "employees": 1,
+        "users": 0,
+        "thirdparties": 0,
+        "employees_url": 1,
+        "users_url": 0
+      },
+      "ransomware": {
+        "group": "medusa",
+        "permalink": "https://www.ransomware.live/id/SW1wYWMgTW9ydGdhZ2UgSG9sZGluZ3NAbWVkdXNh"
       }
     },
     {

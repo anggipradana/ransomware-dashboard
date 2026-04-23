@@ -360704,5 +360704,116 @@
         "activity": "Technology",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Aptim",
+        "group_name": "coinbasecartel",
+        "discovered": "2026-04-23 09:54:55.782197",
+        "description": "$krb5pa$23$APTIM.COM$APTIM.COM$$9936cd67a6d3d8560aaa25bb4a7a03b0bb8dfbbdbac8fed06e9262c41dce5ee567d0f7b52928d3626e43c0a7cfac4fb1a9b90887\n$krb5pa$23$aptim.com$aptim.com$f7a8e75a2c6d3610fe9f4b34bec2a...",
+        "website": "",
+        "published": "2026-04-23 09:54:42.797316",
+        "post_url": "http://fjg4zi4opkxkvdz7mvwp7h6goe4tcby3hhkrz43pht4j3vakhy75znyd.onion/companies/aptim",
+        "country": "US",
+        "activity": "Business Services",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Peru LNG (Hunt LNG Operating Company)",
+        "group_name": "coinbasecartel",
+        "discovered": "2026-04-23 09:55:35.000167",
+        "description": "[AI generated] Peru LNG, operated by Hunt LNG Operating Company, is an energy company engaged in the liquefaction and export of natural gas in Peru. It operates a liquefied natural gas plant in Pampa Melchorita on the Peruvian coast, processing gas from the Camisea fields. The company exports LNG primarily to international markets, making it a key player in Peru's hydrocarbon and energy export sector.",
+        "website": "perulng.com",
+        "published": "2026-04-23 09:55:18.436157",
+        "post_url": "http://fjg4zi4opkxkvdz7mvwp7h6goe4tcby3hhkrz43pht4j3vakhy75znyd.onion/companies/peru",
+        "country": "PE",
+        "activity": "Energy",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Sanna Web",
+        "group_name": "coinbasecartel",
+        "discovered": "2026-04-23 09:56:11.108670",
+        "description": "[AI generated] N/A",
+        "website": "sanna.pe",
+        "published": "2026-04-23 09:55:57.600385",
+        "post_url": "http://fjg4zi4opkxkvdz7mvwp7h6goe4tcby3hhkrz43pht4j3vakhy75znyd.onion/companies/sanna",
+        "country": "PE",
+        "activity": "Technology",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Integer Holdings",
+        "group_name": "coinbasecartel",
+        "discovered": "2026-04-23 09:56:29.740666",
+        "description": "[AI generated] Integer Holdings is a US-based medical device manufacturer headquartered in Frisco, Texas. The company specializes in producing advanced technologies for the medical, non-medical, and portable medical markets, including batteries, power systems, and implantable components. It serves original equipment manufacturers across cardiac, neuromodulation, and vascular sectors, making it a key supplier in the global medical device industry.",
+        "website": "integer.net",
+        "published": "2025-11-10 11:01:00.000000",
+        "post_url": "http://fjg4zi4opkxkvdz7mvwp7h6goe4tcby3hhkrz43pht4j3vakhy75znyd.onion/companies/integer",
+        "country": "US",
+        "activity": "Manufacturing",
+        "duplicates": [
+            {
+                "date": "2026-04-23 09:56:29.957902",
+                "group": "incransom",
+                "link": "https://www.ransomware.live/id/d3d3LmludGVnZXIubmV0QGluY3JhbnNvbQ==",
+                "attackdate": "2025-11-10 11:01:00.000000"
+            }
+        ],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Precision Coating",
+        "group_name": "coinbasecartel",
+        "discovered": "2026-04-23 09:57:13.498899",
+        "description": "[AI generated] N/A\n\nThere are multiple companies operating under the name \"Precision Coating\" across various industries and countries, and without additional context such as location or sector, I cannot reliably identify a specific organization to provide an accurate and factual description without risking confusion or misinformation.",
+        "website": "precisioncoating.com",
+        "published": "2026-04-23 09:56:54.219249",
+        "post_url": "http://fjg4zi4opkxkvdz7mvwp7h6goe4tcby3hhkrz43pht4j3vakhy75znyd.onion/companies/coating",
+        "country": "US",
+        "activity": "Manufacturing",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Sea Telecom Br",
+        "group_name": "coinbasecartel",
+        "discovered": "2026-04-23 09:57:49.572651",
+        "description": "[AI generated] N/A",
+        "website": "seatelecom.com.br",
+        "published": "2026-04-23 09:57:35.965344",
+        "post_url": "http://fjg4zi4opkxkvdz7mvwp7h6goe4tcby3hhkrz43pht4j3vakhy75znyd.onion/companies/sea",
+        "country": "BR",
+        "activity": "Telecommunication",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Kementerian Pertanian",
+        "group_name": "coinbasecartel",
+        "discovered": "2026-04-23 09:58:26.600231",
+        "description": "[AI generated] Kementerian Pertanian is the Ministry of Agriculture of Indonesia, a government institution responsible for formulating and implementing agricultural policies. It oversees food crop production, horticulture, livestock, and plantation sectors. The ministry aims to achieve national food security, improve farmer welfare, and boost agricultural exports. It operates under the Indonesian central government and coordinates with regional agricultural agencies across the country.",
+        "website": "pertanian.go.id",
+        "published": "2026-04-23 09:58:11.821254",
+        "post_url": "http://fjg4zi4opkxkvdz7mvwp7h6goe4tcby3hhkrz43pht4j3vakhy75znyd.onion/companies/kementerian",
+        "country": "ID",
+        "activity": "Agriculture and Food Production",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Virginia Health Services",
+        "group_name": "worldleaks",
+        "discovered": "2026-04-23 10:54:17.239362",
+        "description": "[AI generated] Virginia Health Services is a healthcare organization based in Virginia, United States. It provides a range of senior care and rehabilitation services, including skilled nursing, assisted living, memory care, and outpatient therapy. Operating multiple facilities across the Hampton Roads region, the company serves elderly and recovering patients, focusing on long-term care, post-acute rehabilitation, and community-based health support services.",
+        "website": "www.vahs.com",
+        "published": "2026-04-23 09:16:50.000000",
+        "post_url": "https://worldleaksartrjm3c6vasllvgacbi5u3mgzkluehrzhk2jz4taufuid.onion/companies/2481593133",
+        "country": "US",
+        "activity": "Healthcare",
+        "duplicates": [],
+        "extrainfos": []
     }
 ]

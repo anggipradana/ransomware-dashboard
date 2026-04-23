@@ -360992,5 +360992,31 @@
         "activity": "Business Services",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Mother's Market & Kitchen",
+        "group_name": "AiLock",
+        "discovered": "2026-04-23 20:18:19.842640",
+        "description": "Mother's has gained a reputation for having a wide selection for specialized diets, top quality local and organic produce, the county's largest selection of supplements.The data archive contains personal data of employees: ssn+dob+name+home address+phone",
+        "website": "mothersmarket.com",
+        "published": "2026-04-23 20:18:17.322142",
+        "post_url": "",
+        "country": "US",
+        "activity": "Consumer Services",
+        "duplicates": [],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Chartwell Law",
+        "group_name": "SilentRansomGroup",
+        "discovered": "2026-04-23 20:18:57.384166",
+        "description": "[AI generated] Chartwell Law is a United States-based law firm specializing in insurance defense litigation. Operating primarily across multiple states, the firm represents insurance companies, self-insured entities, and businesses in matters including workers compensation, general liability, professional liability, and coverage disputes. It is known for providing legal counsel and courtroom representation within the broader insurance and legal services industry.",
+        "website": "",
+        "published": "2026-04-23 20:18:52.201223",
+        "post_url": "",
+        "country": "GB",
+        "activity": "Business Services",
+        "duplicates": [],
+        "extrainfos": []
     }
 ]

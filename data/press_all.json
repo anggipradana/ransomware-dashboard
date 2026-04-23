@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3456,
+  "count": 3457,
   "results": [
     {
       "date": "2026-04-21",
@@ -8745,6 +8745,27 @@
           "Azorult": 2,
           "Lumma": 2
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-10-28",
+      "victim": "Yau Yat Chuen Garden City Club",
+      "domain": "yycclub.org",
+      "country": "HK",
+      "summary": "Une enquête de la Commission de la protection de la vie privée a révélé que le club privé Yau Yat Chuen Garden City Club n'a pas pris les mesures nécessaires pour protéger les données de plus de 9 000 personnes lors d'une cyberattaque par rançongiciel. Les failles de sécurité identifiées incluent l'utilisation de logiciels obsolètes, un manque d'authentification et une conservation excessive des données de membres anciens. En réponse à l'avis d'exécution, le club a entrepris de renforcer ses protocoles de cybersécurité et de mettre à jour ses politiques de rétention des données.",
+      "title": "Over 9,000 affected in ransomware attack on club - RTHK",
+      "url": "https://news.rthk.hk/rthk/en/component/k2/1852161-20260423.htm",
+      "added": "2026-04-23",
+      "infostealer": {
+        "update": "2026-04-23 16:58:30",
+        "employees": 0,
+        "users": 0,
+        "thirdparties_domain": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "thirdparties": 0,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },

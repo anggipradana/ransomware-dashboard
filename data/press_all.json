@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3458,
+  "count": 3459,
   "results": [
     {
       "date": "2026-04-21",
@@ -270,6 +270,35 @@
           "Azorult": 195,
           "Raccoon": 1291,
           "Ficker": 5
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-04-13",
+      "victim": "Itron, Inc.",
+      "domain": "itron.com",
+      "country": "US",
+      "summary": "Le 13 avril 2026, Itron, Inc. a été notifiée d'un accès non autorisé à certains de ses systèmes par un tiers malveillant. L'entreprise a immédiatement activé son plan de réponse en cybersécurité, menant une enquête et informant les autorités compétentes. Bien que l'incident ait été contenu sans impact matériel sur ses opérations, Itron évalue actuellement les obligations réglementaires potentielles.",
+      "title": "8-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/780571/000119312526175249/d125229d8k.htm",
+      "added": "2026-04-24",
+      "infostealer": {
+        "update": "2026-04-24 14:32:11",
+        "employees": 32,
+        "users": 26,
+        "thirdparties_domain": 33,
+        "employees_url": 20,
+        "users_url": 42,
+        "thirdparties": 38,
+        "infostealer_stats": {
+          "Generic Stealer": 8,
+          "RedLine": 26,
+          "CRYPTBOT": 1,
+          "Azorult": 3,
+          "Lumma": 3,
+          "StealC": 1,
+          "Raccoon": 10
         }
       },
       "ransomware": null

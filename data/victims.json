@@ -361911,5 +361911,18 @@
         "activity": "Consumer Services",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "CHECKMARX",
+        "group_name": "lapsus$",
+        "discovered": "2026-04-25 21:11:32.063949",
+        "description": "Source Code, Employee DB, API Keys, MongoDB/MySQL Creds",
+        "website": "",
+        "published": "2026-04-24",
+        "post_url": "",
+        "country": "IL",
+        "activity": "Technology",
+        "duplicates": [],
+        "extrainfos": []
     }
 ]

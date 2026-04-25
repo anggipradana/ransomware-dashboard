@@ -361845,5 +361845,58 @@
         "activity": "Manufacturing",
         "duplicates": [],
         "extrainfos": []
+    },
+    {
+        "post_title": "Marlborough Partners",
+        "group_name": "coinbasecartel",
+        "discovered": "2026-04-25 15:09:20.055042",
+        "description": "[AI generated] Marlborough Partners is a UK-based independent corporate finance advisory firm specialising in mergers and acquisitions, private equity transactions, and strategic advisory services. The firm primarily works with mid-market companies, providing guidance on buyouts, disposals, fundraising, and growth strategies. It operates within the financial services and investment banking sector, serving clients across Europe and beyond.",
+        "website": "www.marlboroughpartners.com",
+        "published": "2025-08-25 16:59:00.000000",
+        "post_url": "http://fjg4zi4opkxkvdz7mvwp7h6goe4tcby3hhkrz43pht4j3vakhy75znyd.onion/companies/marl",
+        "country": "GB",
+        "activity": "Financial Services",
+        "duplicates": [
+            {
+                "date": "2026-04-25 15:09:20.186304",
+                "group": "incransom",
+                "link": "https://www.ransomware.live/id/bWFybGJvcm91Z2hwYXJ0bmVycy5jb21AaW5jcmFuc29t",
+                "attackdate": "2025-08-25 16:59:00.000000"
+            }
+        ],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Dreyfuss Williams & Associates CO LPA",
+        "group_name": "coinbasecartel",
+        "discovered": "2026-04-25 15:10:00.120523",
+        "description": "[AI generated] N/A",
+        "website": "dreyfuss.com",
+        "published": "2023-11-20 20:38:10.933428",
+        "post_url": "http://fjg4zi4opkxkvdz7mvwp7h6goe4tcby3hhkrz43pht4j3vakhy75znyd.onion/companies/dreyfuss-2",
+        "country": "US",
+        "activity": "Business Services",
+        "duplicates": [
+            {
+                "date": "2026-04-25 15:10:00.143389",
+                "group": "knight",
+                "link": "https://www.ransomware.live/id/RHJleWZ1c3MgV2lsbGlhbXMgJiBBc3NvY2lhdGVzIENvLiwgTFBBQGtuaWdodA==",
+                "attackdate": "2023-11-20 20:38:10.933428"
+            }
+        ],
+        "extrainfos": []
+    },
+    {
+        "post_title": "Chase Cooper Limited (RiskLogix Solutions)",
+        "group_name": "qilin",
+        "discovered": "2026-04-25 15:51:24.209514",
+        "description": "N/A",
+        "website": "Chase Cooper Limited (RiskLogix Solutions)",
+        "published": "2026-04-25 00:00:00.000000",
+        "post_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=9653e175-0e80-495b-91f8-78eb6e684399",
+        "country": "GB",
+        "activity": "Business Services",
+        "duplicates": [],
+        "extrainfos": []
     }
 ]

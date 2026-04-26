@@ -58340,7 +58340,19 @@
       "title": "Anna Jaques systems compromised after cyber issue | Local News | newburyportnews.com",
       "url": "https://www.newburyportnews.com/news/local_news/anna-jaques-systems-compromised-after-cyber-issue/article_a5a6d88e-a58e-11ee-bc90-cf662aa3badb.html",
       "added": "2023-12-28",
-      "infostealer": "",
+      "infostealer": {
+        "update": "2026-04-26 21:01:29",
+        "employees": 1,
+        "users": 1,
+        "thirdparties": 1,
+        "employees_url": 1,
+        "users_url": 1,
+        "last_employee_compromised": "2025-10-18T00:00:00.000Z",
+        "last_user_compromised": "2024-12-20T17:17:08.000Z",
+        "infostealer_stats": {
+          "Lumma": 1
+        }
+      },
       "ransomware": {
         "group": "moneymessage",
         "permalink": "https://www.ransomware.live/id/QW5uYSBKYXF1ZXMgSG9zcGl0YWxAbW9uZXltZXNzYWdl"
@@ -69534,7 +69546,17 @@
       "summary": "Une cyberattaque a touché environ un tiers des installations d'Americold, une entreprise de stockage et de transport de produits alimentaires. L'attaque n'a pas endommagé les stocks de l'entreprise. Le partenaire en cybersécurité de l'entreprise, Mandiant, a rapidement réduit l'impact de l'intrusion. L'entreprise travaille avec les autorités pour enquêter sur l'attaque. C'est la deuxième attaque majeure signalée par Americold au cours des trois dernières années.",
       "title": "Cyberattack hits a third of Americold’s facilities | SeafoodSource",
       "url": "https://www.seafoodsource.com/news/business-finance/cyberattack-hits-a-third-of-americold-s-facilities",
-      "infostealer": "",
+      "infostealer": {
+        "update": "2026-04-26 21:14:30",
+        "employees": 5,
+        "users": 66,
+        "thirdparties": 10,
+        "employees_url": 7,
+        "users_url": 15,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
       "ransomware": {
         "group": "cactus",
         "permalink": "https://www.ransomware.live/id/QW1lcmljb2xkQGNhY3R1cw=="
@@ -70690,7 +70712,28 @@
       "title": "Academy Mortgage Notifies Consumers of Data Breach Following March 2023 Cyberattack | Console and Associates, P.C. - JDSupra",
       "url": "https://www.jdsupra.com/legalnews/academy-mortgage-notifies-consumers-of-9415893/",
       "added": "2024-01-04",
-      "infostealer": "",
+      "infostealer": {
+        "update": "2026-04-26 20:47:20",
+        "employees": 0,
+        "users": 188,
+        "thirdparties": 3,
+        "employees_url": 0,
+        "users_url": 100,
+        "last_employee_compromised": "2020-12-12T00:00:00.000Z",
+        "last_user_compromised": "2026-04-23T00:00:00.000Z",
+        "infostealer_stats": {
+          "StealC": 1,
+          "Vidar": 3,
+          "RedLine": 54,
+          "UNKNOWN": 3,
+          "Mystic": 1,
+          "Azorult": 8,
+          "Atomic": 1,
+          "Raccoon": 8,
+          "Generic Stealer": 26,
+          "Lumma": 23
+        }
+      },
       "ransomware": {
         "group": "alphv",
         "permalink": "https://www.ransomware.live/id/QWNhZGVteSBNb3J0Z2FnZSBDb3Jwb3JhdGlvbkBhbHBodg=="
@@ -70784,7 +70827,33 @@
       "summary": "La plateforme de l'Autorité de l'Acqueduc et de l'Assainissement de Puerto Rico a été victime d'une cyberattaque le 13 mars 2023. Des données personnelles de clients et d'employés ont été compromises. Les autorités compétentes ont été informées et une enquête est en cours. La nature des informations personnelles exposées incluent des noms, des numéros de sécurité sociale, des permis de conduire, des cartes électorales, des passeports et d'autres identifications personnelles. Des mesures ont été prises pour renforcer la sécurité des systèmes d'information de l'AAA et les clients sont invités à changer régulièrement leurs mots de passe.",
       "title": "Confirman información de abonados AAA comprometida tras ataque cibernético • WIPR",
       "url": "https://wipr.pr/confirman-informacion-de-abonados-aaa-comprometida-tras-ataque-cibernetico/",
-      "infostealer": "",
+      "infostealer": {
+        "update": "2026-04-26 20:51:21",
+        "employees": 5,
+        "users": 2638,
+        "thirdparties": 8,
+        "employees_url": 2,
+        "users_url": 78,
+        "last_employee_compromised": "2024-06-20T01:17:42.000Z",
+        "last_user_compromised": "2026-04-19T02:00:30.000Z",
+        "infostealer_stats": {
+          "Azorult": 93,
+          "DarkCrystal": 17,
+          "Taurus": 1,
+          "UNKNOWN": 32,
+          "Predator": 6,
+          "Raccoon": 235,
+          "Generic Stealer": 459,
+          "Acreed": 6,
+          "StealC": 87,
+          "Lumma": 491,
+          "Mystic": 8,
+          "Ficker": 1,
+          "RedLine": 952,
+          "CRYPTBOT": 5,
+          "Vidar": 93
+        }
+      },
       "ransomware": {
         "group": "vicesociety",
         "permalink": "https://www.ransomware.live/id/QXV0b3JpZGFkIGRlIEFjdWVkdWN0b3MgWSBBbGNhbnRhcmlsbGFkb3NAdmljZXNvY2lldHk="

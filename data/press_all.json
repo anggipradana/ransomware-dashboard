@@ -4,8 +4,64 @@
     "month": null,
     "country": null
   },
-  "count": 3466,
+  "count": 3468,
   "results": [
+    {
+      "date": "2026-04-26",
+      "victim": "Generation Development Group (GDG)",
+      "domain": "genlife.com.au",
+      "country": "AU",
+      "summary": "Generation Development Group (GDG) a informé ses actionnaires d'un incident de cybersécurité contenu affectant sa filiale, Generation Life, suite à un accès non autorisé via un fournisseur tiers. L'entreprise a rapidement détecté et maîtrisé l'incident, sans preuve d'impact sur les systèmes principaux ou de transactions frauduleuses. GDG a notifié plusieurs organismes australiens, y compris APRA et l'ACSC, tout en menant une enquête approfondie sur la nature de cette activité.",
+      "title": "Generation Life suffers cyber incident - Money Management",
+      "url": "https://www.moneymanagement.com.au/generation-life-suffers-cyber-incident/",
+      "added": "2026-04-27",
+      "infostealer": {
+        "update": "2026-04-27 09:31:43",
+        "employees": 0,
+        "users": 8,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 2,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-04-26",
+      "victim": "Murata Manufacturing Co.",
+      "domain": "murata.com",
+      "country": "JP",
+      "summary": "Murata Manufacturing Co. a annoncé avoir subi un accès non autorisé à son environnement informatique, bien que ses opérations courantes ne soient pas affectées. Environ 73 000 dossiers d'employés et 15 000 dossiers de clients ou partenaires ont pu être compromis, incluant des données personnelles et professionnelles. La société travaille avec les autorités et des experts en cybersécurité pour surveiller les risques et renforcer ses mesures de sécurité.",
+      "title": "Murata Details Data Exposure but Says Operations Unaffected After Cyberattack - TipRanks.com",
+      "url": "https://www.tipranks.com/news/company-announcements/murata-details-data-exposure-but-says-operations-unaffected-after-cyberattack",
+      "added": "2026-04-27",
+      "infostealer": {
+        "update": "2026-04-27 09:31:44",
+        "employees": 0,
+        "users": 168,
+        "thirdparties": 122,
+        "employees_url": 0,
+        "users_url": 19,
+        "last_employee_compromised": "1970-01-01T00:00:00.000Z",
+        "last_user_compromised": "2026-04-22T00:00:00.000Z",
+        "infostealer_stats": {
+          "Mystic": 1,
+          "Predator": 1,
+          "StealC": 6,
+          "CRYPTBOT": 1,
+          "Lumma": 27,
+          "RedLine": 37,
+          "Vidar": 5,
+          "Generic Stealer": 36,
+          "Azorult": 2,
+          "UNKNOWN": 2,
+          "Raccoon": 13
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-04-21",
       "victim": "Nara City Hospital",
@@ -16,7 +72,7 @@
       "url": "https://www.nagoyatv.com/news/1000/syakai.html?id=000500459",
       "added": "2026-04-22",
       "infostealer": {
-        "update": "2026-04-26 14:02:19",
+        "update": "2026-04-27 10:21:41",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -98,7 +154,7 @@
       "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=162252&spoke_date=20260420&co_id=3501",
       "added": "2026-04-20",
       "infostealer": {
-        "update": "2026-04-26 14:02:20",
+        "update": "2026-04-27 10:21:42",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -182,7 +238,7 @@
       "url": "https://tourismusbeitrag-so-nicht.de/2026/04/21/it-forensikteam-analysiert-cyberangriff-auf-verbandsgemeindeverwaltung/",
       "added": "2026-04-21",
       "infostealer": {
-        "update": "2026-04-26 14:02:19",
+        "update": "2026-04-27 10:21:42",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -270,7 +326,7 @@
       "url": "https://dysruptionhub.com/clinton-county-possible-cyber-incident/",
       "added": "2026-04-17",
       "infostealer": {
-        "update": "2026-04-26 14:02:21",
+        "update": "2026-04-27 10:21:43",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -330,7 +386,7 @@
       "url": "https://www.wvnews.com/theet/news/services-stymied-at-harrison-county-government-offices-as-staff-deal-with-cybersecurity-attack/article_5c5b4733-70ae-4e23-8215-e7ef00471e5f.html",
       "added": "2026-04-26",
       "infostealer": {
-        "update": "2026-04-26 14:02:14",
+        "update": "2026-04-27 10:21:39",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -403,7 +459,7 @@
       "url": "https://autovista.com/service-update-1/",
       "added": "2026-04-15",
       "infostealer": {
-        "update": "2026-04-26 14:02:21",
+        "update": "2026-04-27 10:21:44",
         "employees": 0,
         "users": 0,
         "thirdparties": 1,
@@ -469,7 +525,7 @@
       "url": "https://dysruptionhub.com/anthony-nm-cybersecurity-incident/",
       "added": "2026-04-13",
       "infostealer": {
-        "update": "2026-04-26 14:02:21",
+        "update": "2026-04-27 10:21:44",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -556,7 +612,7 @@
       "url": "https://www.tvlux.be/actu/info/l-athenee-royal-d-izel-victime-d-un-piratage-informatique_51271",
       "added": "2026-04-15",
       "infostealer": {
-        "update": "2026-04-26 14:02:21",
+        "update": "2026-04-27 10:21:44",
         "employees": 0,
         "users": 0,
         "thirdparties": 20,
@@ -657,7 +713,7 @@
       "url": "https://www.tipranks.com/news/company-announcements/sumitomo-metal-mining-reports-ransomware-attack-at-philippine-nickel-subsidiary",
       "added": "2026-04-09",
       "infostealer": {
-        "update": "2026-04-26 14:02:23",
+        "update": "2026-04-27 10:21:46",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -708,7 +764,7 @@
       "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=93511&spoke_date=20260408&co_id=3004",
       "added": "2026-04-08",
       "infostealer": {
-        "update": "2026-04-26 14:02:23",
+        "update": "2026-04-27 10:21:46",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -730,7 +786,7 @@
       "url": "https://www.kttc.com/2026/04/07/national-guard-assist-winona-county-following-cyberattack/",
       "added": "2026-04-08",
       "infostealer": {
-        "update": "2026-04-26 14:02:52",
+        "update": "2026-04-27 10:22:21",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -777,7 +833,7 @@
       "url": "https://dysruptionhub.com/minidoka-hospital-cyber-incident-idaho/",
       "added": "2026-04-20",
       "infostealer": {
-        "update": "2026-04-26 14:02:19",
+        "update": "2026-04-27 10:21:42",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -912,7 +968,7 @@
       "url": "https://www.sentinelandenterprise.com/2026/04/01/patriot-regional-emergency-communications-center-in-pepperell-hit-by-cyberattack-affecting-multiple-towns/",
       "added": "2026-04-02",
       "infostealer": {
-        "update": "2026-04-26 14:02:25",
+        "update": "2026-04-27 10:21:48",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -965,7 +1021,7 @@
       "url": "https://www.lesoir.be/738882/article/2026-04-03/une-grande-entreprise-belge-cotee-en-bourse-victime-dune-cyberattaque",
       "added": "2026-04-07",
       "infostealer": {
-        "update": "2026-04-26 14:02:24",
+        "update": "2026-04-27 10:21:47",
         "employees": 0,
         "users": 0,
         "thirdparties": 1,
@@ -1012,7 +1068,7 @@
       "url": "https://www.tagesanzeiger.ch/cyberangriff-in-winterthur-hacker-legen-haepo-reifencenter-lahm-229421108182",
       "added": "2026-03-31",
       "infostealer": {
-        "update": "2026-04-26 14:02:26",
+        "update": "2026-04-27 10:21:49",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -1034,7 +1090,7 @@
       "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=211057&spoke_date=20260329&co_id=6504",
       "added": "2026-03-30",
       "infostealer": {
-        "update": "2026-04-26 14:02:27",
+        "update": "2026-04-27 10:21:50",
         "employees": 0,
         "users": 0,
         "thirdparties": 6,
@@ -1088,7 +1144,7 @@
       "url": "https://ssl4.eir-parts.net/doc/4923/tdnet/2782863/00.pdf",
       "added": "2026-03-30",
       "infostealer": {
-        "update": "2026-04-26 14:02:27",
+        "update": "2026-04-27 10:21:51",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -1110,7 +1166,7 @@
       "url": "https://dysruptionhub.com/colebrook-cyber-incident-new-hampshire/",
       "added": "2026-03-29",
       "infostealer": {
-        "update": "2026-04-26 14:02:27",
+        "update": "2026-04-27 10:21:51",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -1179,7 +1235,7 @@
       "url": "https://www.wfxrtv.com/news/local-news/southside-virginia-news/martinsville-cyberattack-impacts-services-citizen-data-safe/amp/",
       "added": "2026-03-26",
       "infostealer": {
-        "update": "2026-04-26 14:02:28",
+        "update": "2026-04-27 10:21:52",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -1223,7 +1279,7 @@
       "url": "https://www.nyk.com/english/news/2026/20260409_01.html",
       "added": "2026-04-13",
       "infostealer": {
-        "update": "2026-04-26 14:02:22",
+        "update": "2026-04-27 10:21:44",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -1334,7 +1390,7 @@
       "url": "https://wipr.pr/prits-activa-protocolo-de-respuesta-tras-detectar-intento-de-ataque-cibernetico-en-sistemas-del-dtop/",
       "added": "2026-03-25",
       "infostealer": {
-        "update": "2026-04-26 14:02:29",
+        "update": "2026-04-27 10:21:52",
         "employees": 0,
         "users": 0,
         "thirdparties": 5,
@@ -1378,7 +1434,7 @@
       "url": "https://www.bbc.com/news/articles/cm2r9m12e17o",
       "added": "2026-03-27",
       "infostealer": {
-        "update": "2026-04-26 14:02:28",
+        "update": "2026-04-27 10:21:51",
         "employees": 0,
         "users": 0,
         "thirdparties": 7,
@@ -1400,7 +1456,7 @@
       "url": "https://dysruptionhub.com/jackson-county-sheriff-ransomware-indiana/",
       "added": "2026-03-28",
       "infostealer": {
-        "update": "2026-04-26 14:02:27",
+        "update": "2026-04-27 10:21:51",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -1422,7 +1478,7 @@
       "url": "https://intracare.co.nz/information-regarding-cyber-incident/",
       "added": "2026-04-02",
       "infostealer": {
-        "update": "2026-04-26 14:02:24",
+        "update": "2026-04-27 10:21:47",
         "employees": 0,
         "users": 0,
         "thirdparties": 1,
@@ -1447,7 +1503,7 @@
       "url": "https://www.morgenpost.de/berlin/article411604318/hacker-attacke-auf-berliner-fernheizwerk-in-neukoelln-loesegeldforderung.html",
       "added": "2026-03-31",
       "infostealer": {
-        "update": "2026-04-26 14:02:26",
+        "update": "2026-04-27 10:21:49",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -1472,7 +1528,7 @@
       "url": "https://www.board-cybersecurity.com/incidents/tracker/heritage-financial-cybersecurity-incident-8066881b#8-k-filed-on-2026-03-20",
       "added": "2026-03-23",
       "infostealer": {
-        "update": "2026-04-26 14:02:29",
+        "update": "2026-04-27 10:21:53",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -1618,7 +1674,7 @@
       "url": "https://www.tipranks.com/news/company-announcements/westport-fuel-systems-discloses-cyberattack-and-warns-of-delay-to-2025-annual-results",
       "added": "2026-03-20",
       "infostealer": {
-        "update": "2026-04-26 14:02:30",
+        "update": "2026-04-27 10:21:54",
         "employees": 0,
         "users": 0,
         "thirdparties": 5,
@@ -1724,7 +1780,7 @@
       "url": "https://dysruptionhub.com/minot-water-ransomware-north-dakota/",
       "added": "2026-04-01",
       "infostealer": {
-        "update": "2026-04-26 14:02:25",
+        "update": "2026-04-27 10:21:48",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -1823,7 +1879,7 @@
       "url": "https://www.radiobeo.ch/cyberangriff-auf-gemeinde-matten/",
       "added": "2026-03-17",
       "infostealer": {
-        "update": "2026-04-26 14:02:33",
+        "update": "2026-04-27 10:21:58",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -1867,7 +1923,7 @@
       "url": "https://www.wjle.com/sheriffs-department-and-jails-main-computers-hacked/",
       "added": "2026-03-15",
       "infostealer": {
-        "update": "2026-04-26 14:02:33",
+        "update": "2026-04-27 10:21:58",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -1889,7 +1945,7 @@
       "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=160149&spoke_date=20260315&co_id=2442",
       "added": "2026-03-16",
       "infostealer": {
-        "update": "2026-04-26 14:02:33",
+        "update": "2026-04-27 10:21:58",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -1914,7 +1970,7 @@
       "url": "https://ago.vermont.gov/document/2026-04-10-nicholas-h-safford-co-inc-data-breach-notice-consumers",
       "added": "2026-04-15",
       "infostealer": {
-        "update": "2026-04-26 14:02:20",
+        "update": "2026-04-27 10:21:43",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -1936,7 +1992,7 @@
       "url": "https://dysruptionhub.com/duffys-outage-payments-florida/",
       "added": "2026-03-25",
       "infostealer": {
-        "update": "2026-04-26 14:02:28",
+        "update": "2026-04-27 10:21:52",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -2004,7 +2060,7 @@
       "url": "https://www.govtech.com/security/maine-mental-health-agency-targeted-in-russian-cyber-attack",
       "added": "2026-03-27",
       "infostealer": {
-        "update": "2026-04-26 14:02:28",
+        "update": "2026-04-27 10:21:51",
         "employees": 0,
         "users": 0,
         "thirdparties": 2,
@@ -2026,7 +2082,7 @@
       "url": "https://therecord.media/ransomware-trio-tech-semiconductor-sec",
       "added": "2026-03-23",
       "infostealer": {
-        "update": "2026-04-26 14:02:29",
+        "update": "2026-04-27 10:21:53",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -2170,7 +2226,7 @@
       "url": "https://www.theregister.com/2026/03/09/ransomware_crooks_hit_ev_charger/",
       "added": "2026-03-12",
       "infostealer": {
-        "update": "2026-04-26 14:02:34",
+        "update": "2026-04-27 10:21:58",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -2192,7 +2248,7 @@
       "url": "https://ago.vermont.gov/document/20226-04-08-adrian-jules-ltd-data-breach-notice-consumers",
       "added": "2026-04-15",
       "infostealer": {
-        "update": "2026-04-26 14:02:20",
+        "update": "2026-04-27 10:21:43",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -2309,7 +2365,7 @@
       "url": "https://www.metro.pr/noticias/2026/03/06/caribbean-medical-center-en-fajardo-sufrio-ataque-cibernetico/",
       "added": "2026-03-06",
       "infostealer": {
-        "update": "2026-04-26 14:02:36",
+        "update": "2026-04-27 10:22:00",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -2331,7 +2387,7 @@
       "url": "https://www.cbc.ca/news/canada/london/health-unit-cyber-9.7118051",
       "added": "2026-03-07",
       "infostealer": {
-        "update": "2026-04-26 14:02:35",
+        "update": "2026-04-27 10:22:00",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -2375,7 +2431,7 @@
       "url": "https://patch.com/new-jersey/wayne/cyber-attack-targets-north-jersey-county-s-phones-it-systems",
       "added": "2026-03-05",
       "infostealer": {
-        "update": "2026-04-26 14:02:37",
+        "update": "2026-04-27 10:22:02",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -2397,7 +2453,7 @@
       "url": "https://dysruptionhub.com/ohio-county-schools-outage-west-virginia/",
       "added": "2026-03-04",
       "infostealer": {
-        "update": "2026-04-26 14:02:37",
+        "update": "2026-04-27 10:22:03",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -2492,7 +2548,7 @@
       "url": "https://www.heute.at/s/cyber-angriff-legt-grosse-gemeinde-in-noe-lahm-120166017",
       "added": "2026-03-02",
       "infostealer": {
-        "update": "2026-04-26 14:02:37",
+        "update": "2026-04-27 10:22:03",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -2536,7 +2592,7 @@
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/14ba0ff3-73b2-4ee0-8de0-b6f5608ba761.html",
       "added": "2026-04-11",
       "infostealer": {
-        "update": "2026-04-26 14:02:22",
+        "update": "2026-04-27 10:21:45",
         "employees": 0,
         "users": 0,
         "thirdparties": 3,
@@ -2558,7 +2614,7 @@
       "url": "https://dysruptionhub.com/wagon-mound-schools-virus-new-mexico/",
       "added": "2026-03-10",
       "infostealer": {
-        "update": "2026-04-26 14:02:35",
+        "update": "2026-04-27 10:22:00",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -2583,7 +2639,7 @@
       "url": "https://dysruptionhub.com/peak-software-sportsman-outage-utah/",
       "added": "2026-03-05",
       "infostealer": {
-        "update": "2026-04-26 14:02:37",
+        "update": "2026-04-27 10:22:02",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -2605,7 +2661,7 @@
       "url": "https://www.virgule.lu/luxembourg/un-logiciel-malveillant-perturbe-lacces-mobile-aux-services-de-letat/137687385.html",
       "added": "2026-02-27",
       "infostealer": {
-        "update": "2026-04-26 14:02:38",
+        "update": "2026-04-27 10:22:03",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -2627,7 +2683,7 @@
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/0f2ce718-1713-4678-98e3-4b4e43475cd6.html",
       "added": "2026-04-10",
       "infostealer": {
-        "update": "2026-04-26 14:02:22",
+        "update": "2026-04-27 10:21:45",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -2671,7 +2727,7 @@
       "url": "https://ago.vermont.gov/document/2026-03-11-nelson-worldwide-data-breach-notice-consumers",
       "added": "2026-03-17",
       "infostealer": {
-        "update": "2026-04-26 14:02:30",
+        "update": "2026-04-27 10:21:54",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -2762,7 +2818,7 @@
       "url": "https://www.nordkurier.de/regional/mecklenburg-vorpommern/cyberangriff-auf-klinik-in-mv-das-muessen-patienten-jetzt-beachten-4390256",
       "added": "2026-02-25",
       "infostealer": {
-        "update": "2026-04-26 14:02:38",
+        "update": "2026-04-27 10:22:04",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -2873,7 +2929,7 @@
       "url": "https://www.abc.net.au/news/2026-02-23/cyber-attack-takes-major-chicken-processor-hazeldenes-offline/106376184",
       "added": "2026-02-24",
       "infostealer": {
-        "update": "2026-04-26 14:02:42",
+        "update": "2026-04-27 10:22:07",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -3006,7 +3062,7 @@
       "url": "https://dysruptionhub.com/orange-va-outage-lockbit-post/",
       "added": "2026-04-23",
       "infostealer": {
-        "update": "2026-04-26 14:02:18",
+        "update": "2026-04-27 10:21:40",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -3031,7 +3087,7 @@
       "url": "https://dysruptionhub.com/huntington-wv-cyber-incident/",
       "added": "2026-02-19",
       "infostealer": {
-        "update": "2026-04-26 14:02:42",
+        "update": "2026-04-27 10:22:09",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -3090,7 +3146,7 @@
       "url": "https://dysruptionhub.com/cocoa-fl-incransom-claim-it-outage/",
       "added": "2026-02-24",
       "infostealer": {
-        "update": "2026-04-26 14:02:41",
+        "update": "2026-04-27 10:22:07",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -3137,7 +3193,7 @@
       "url": "https://www.n-tv.de/regionales/hessen/Cyberangriff-auf-Kreis-Kassel-Ermittlungen-laufen-id30380886.html",
       "added": "2026-02-19",
       "infostealer": {
-        "update": "2026-04-26 14:02:42",
+        "update": "2026-04-27 10:22:08",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -3235,7 +3291,7 @@
       "url": "https://ici.radio-canada.ca/nouvelle/2229291/choc-fm-cyberattaque-radio-station",
       "added": "2026-02-16",
       "infostealer": {
-        "update": "2026-04-26 14:02:43",
+        "update": "2026-04-27 10:22:10",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -3257,7 +3313,7 @@
       "url": "https://www.securityweek.com/medical-device-maker-ufp-technologies-hit-by-cyberattack/",
       "added": "2026-02-25",
       "infostealer": {
-        "update": "2026-04-26 14:02:38",
+        "update": "2026-04-27 10:22:04",
         "employees": 0,
         "users": 0,
         "thirdparties": 1,
@@ -3279,7 +3335,7 @@
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/d74f91eb-99bb-4c57-977c-969ce2987eeb.html",
       "added": "2026-04-02",
       "infostealer": {
-        "update": "2026-04-26 14:02:24",
+        "update": "2026-04-27 10:21:48",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -3323,7 +3379,7 @@
       "url": "https://www.washingtonhotel.co.jp/corporation/news/197/",
       "added": "2026-02-17",
       "infostealer": {
-        "update": "2026-04-26 14:02:43",
+        "update": "2026-04-27 10:22:09",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -3345,7 +3401,7 @@
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/6787d585-07ff-44d9-ad99-347e0f9b6073.html",
       "added": "2026-04-03",
       "infostealer": {
-        "update": "2026-04-26 14:02:24",
+        "update": "2026-04-27 10:21:47",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -3370,7 +3426,7 @@
       "url": "https://juanpaz.net/vil-ataque-cibernetico-contra-ifmnoticias/",
       "added": "2026-02-15",
       "infostealer": {
-        "update": "2026-04-26 14:02:44",
+        "update": "2026-04-27 10:22:10",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -3392,7 +3448,7 @@
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/d39f4455-1236-43fd-8ab9-fed81121fef7.html",
       "added": "2026-04-24",
       "infostealer": {
-        "update": "2026-04-26 14:02:18",
+        "update": "2026-04-27 10:21:40",
         "employees": 0,
         "users": 0,
         "thirdparties": 2,
@@ -3414,7 +3470,7 @@
       "url": "https://www.statecollege.com/articles/local-news/state-college-borough-government-hit-by-cyberattack/",
       "added": "2026-02-12",
       "infostealer": {
-        "update": "2026-04-26 14:02:44",
+        "update": "2026-04-27 10:22:11",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -3496,7 +3552,7 @@
       "url": "https://www.carexpert.com.au/car-news/230000-australian-driver-licences-exposed-in-ransomware-attack-on-vehicle-finance-firm",
       "added": "2026-02-25",
       "infostealer": {
-        "update": "2026-04-26 14:02:39",
+        "update": "2026-04-27 10:22:04",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -3540,7 +3596,7 @@
       "url": "https://www.ilgiorno.it/legnano/cronaca/attacco-hacker-comune-di-nosate-tpm6at40",
       "added": "2026-02-11",
       "infostealer": {
-        "update": "2026-04-26 14:02:46",
+        "update": "2026-04-27 10:22:13",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -3682,7 +3738,7 @@
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/96b5a796-105d-4a3b-9e27-b56e1bd9905d.html",
       "added": "2026-04-02",
       "infostealer": {
-        "update": "2026-04-26 14:02:25",
+        "update": "2026-04-27 10:21:48",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -3726,7 +3782,7 @@
       "url": "https://www.maltatoday.com.mt/news/national/139556/gozo_channel_hit_by_cyber_attack_ferry_operations_not_affected",
       "added": "2026-02-04",
       "infostealer": {
-        "update": "2026-04-26 14:02:47",
+        "update": "2026-04-27 10:22:15",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -3839,7 +3895,7 @@
       "url": "https://www.chioggianotizie.it/cronaca/2026/02/04/news/attacco-informatico-ai-sistemi-di-sst-387842/",
       "added": "2026-02-05",
       "infostealer": {
-        "update": "2026-04-26 14:02:47",
+        "update": "2026-04-27 10:22:14",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -3861,7 +3917,7 @@
       "url": "https://www.butenunbinnen.de/nachrichten/cyberangriff-polizei-werkstatt-bremen-100.html",
       "added": "2026-02-04",
       "infostealer": {
-        "update": "2026-04-26 14:02:47",
+        "update": "2026-04-27 10:22:14",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -3904,7 +3960,7 @@
       "url": "https://ago.vermont.gov/document/2026-02-20-beacon-pointe-advisors-data-breach-notice-consumers",
       "added": "2026-02-24",
       "infostealer": {
-        "update": "2026-04-26 14:02:41",
+        "update": "2026-04-27 10:22:06",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -3926,7 +3982,7 @@
       "url": "https://www.letelegramme.fr/bretagne/lordre-des-experts-comptables-de-bretagne-a-ete-victime-dune-cyberattaque-majeure-et-confirme-une-fuite-de-donnees-6985852.php",
       "added": "2026-02-18",
       "infostealer": {
-        "update": "2026-04-26 14:02:43",
+        "update": "2026-04-27 10:22:09",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -3974,7 +4030,7 @@
       "url": "https://www.lesoir.be/725744/article/2026-01-30/une-ecole-victime-dune-cyberattaque-des-parents-deleves-menaces-de-chantage",
       "added": "2026-02-02",
       "infostealer": {
-        "update": "2026-04-26 14:02:49",
+        "update": "2026-04-27 10:22:17",
         "employees": 0,
         "users": 0,
         "thirdparties": 5,
@@ -4125,7 +4181,7 @@
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/0361bd2e-0343-45ca-893c-4bdaf1102281.html",
       "added": "2026-03-18",
       "infostealer": {
-        "update": "2026-04-26 14:02:31",
+        "update": "2026-04-27 10:21:56",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -4147,7 +4203,7 @@
       "url": "https://www.thepeterboroughexaminer.com/news/health-unit-cyber-attack-response/article_df372ec0-e998-571f-8a92-ee260a46d408.html",
       "added": "2026-02-04",
       "infostealer": {
-        "update": "2026-04-26 14:02:47",
+        "update": "2026-04-27 10:22:15",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -4192,7 +4248,7 @@
       "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=140832&spoke_date=20260127&co_id=3518",
       "added": "2026-01-27",
       "infostealer": {
-        "update": "2026-04-26 14:02:51",
+        "update": "2026-04-27 10:22:20",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -4301,7 +4357,7 @@
       "url": "https://www.tipranks.com/news/company-announcements/enviro-hub-reports-ransomware-attack-with-no-material-operational-impact-so-far",
       "added": "2026-01-26",
       "infostealer": {
-        "update": "2026-04-26 14:02:51",
+        "update": "2026-04-27 10:22:20",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -4402,7 +4458,7 @@
       "url": "https://www.swp.de/lokales/reutlingen/mineralwasser-aus-reutlingen-keine-e-mails-kein-festnetz-cyberattacke-auf-romina-78622235.html",
       "added": "2026-02-03",
       "infostealer": {
-        "update": "2026-04-26 14:02:48",
+        "update": "2026-04-27 10:22:15",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -4424,7 +4480,7 @@
       "url": "https://www.krone.at/4031198",
       "added": "2026-01-30",
       "infostealer": {
-        "update": "2026-04-26 14:02:50",
+        "update": "2026-04-27 10:22:17",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -4446,7 +4502,7 @@
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/3b8a2ed3-e380-4ee6-a0d5-ee5b9a7d7a6d.html",
       "added": "2026-03-21",
       "infostealer": {
-        "update": "2026-04-26 14:02:30",
+        "update": "2026-04-27 10:21:54",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -4468,7 +4524,7 @@
       "url": "https://www.winonapost.com/news/winona-county-suffers-ransomware-attack-affecting-networks-phones/article_688c540b-f8bc-47fc-9b31-62a507ba9a06.html",
       "added": "2026-01-25",
       "infostealer": {
-        "update": "2026-04-26 14:02:52",
+        "update": "2026-04-27 10:22:21",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -4574,7 +4630,7 @@
       "url": "https://www.main-tauber-kreis.de/Landratsamt/Aktuelles/Pressemitteilungen/VGMT-und-Mobilitätszentrale-von-Cyberangriff-betroffen.php",
       "added": "2026-01-22",
       "infostealer": {
-        "update": "2026-04-26 14:02:52",
+        "update": "2026-04-27 10:22:21",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -4596,7 +4652,7 @@
       "url": "https://www.nieuwsblad.be/regio/oost-vlaanderen/denderregio/dendermonde/blijdorp-getroffen-door-cyberattack-geen-hinder-voor-clienten/125675899.html",
       "added": "2026-01-22",
       "infostealer": {
-        "update": "2026-04-26 14:02:52",
+        "update": "2026-04-27 10:22:21",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -4618,7 +4674,7 @@
       "url": "https://www.pryorinfopub.com/news/state/tulsa-airports-issues-notice-of-data-security-incident/article_179c1954-1774-555b-97f9-844012c3e10e.html",
       "added": "2026-02-15",
       "infostealer": {
-        "update": "2026-04-26 14:02:44",
+        "update": "2026-04-27 10:22:11",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -4689,7 +4745,7 @@
       "url": "https://www.mz.de/lokal/merseburg/sirene-alarm-lka-cyberangriff-4184205",
       "added": "2026-01-20",
       "infostealer": {
-        "update": "2026-04-26 14:02:53",
+        "update": "2026-04-27 10:22:23",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -4711,7 +4767,7 @@
       "url": "https://www1.wdr.de/nachrichten/rheinland/mutmasslicher-cyberangriff-heinsberg-100.html",
       "added": "2026-02-20",
       "infostealer": {
-        "update": "2026-04-26 14:02:52",
+        "update": "2026-04-27 10:22:21",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -4759,7 +4815,7 @@
       "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=182007&spoke_date=20260119&co_id=2393",
       "added": "2026-01-20",
       "infostealer": {
-        "update": "2026-04-26 14:02:53",
+        "update": "2026-04-27 10:22:22",
         "employees": 0,
         "users": 0,
         "thirdparties": 4,
@@ -4781,7 +4837,7 @@
       "url": "https://www.inverclyde.gov.uk/news/2026/jan/cyber-incidents",
       "added": "2026-01-20",
       "infostealer": {
-        "update": "2026-04-26 14:02:54",
+        "update": "2026-04-27 10:22:23",
         "employees": 0,
         "users": 0,
         "thirdparties": 1,
@@ -4803,7 +4859,7 @@
       "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=181351&spoke_date=20260118&co_id=1339",
       "added": "2026-01-19",
       "infostealer": {
-        "update": "2026-04-26 14:02:54",
+        "update": "2026-04-27 10:22:23",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -4825,7 +4881,7 @@
       "url": "https://www.aachener-zeitung.de/region-nrw/hackerangriff-legt-heinsberger-stadtverwaltung-lahm/124334660.html",
       "added": "2026-01-23",
       "infostealer": {
-        "update": "2026-04-26 14:02:52",
+        "update": "2026-04-27 10:22:21",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -4893,7 +4949,7 @@
       "url": "https://www.mittelbayerische.de/lokales/stadt-regensburg/cyber-attacke-betroffenes-regensburger-unternehmen-nimmt-stellung-20331400",
       "added": "2026-01-19",
       "infostealer": {
-        "update": "2026-04-26 14:02:54",
+        "update": "2026-04-27 10:22:23",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -4915,7 +4971,7 @@
       "url": "https://www.lamanchelibre.fr/actualite-1208396-la-hague-la-mairie-est-victime-d-une-intrusion-dans-son-systeme-informatique",
       "added": "2026-01-13",
       "infostealer": {
-        "update": "2026-04-26 14:02:57",
+        "update": "2026-04-27 10:22:26",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -4990,7 +5046,7 @@
       "url": "https://www.langleytwigg.co.nz/cyber-security-incident-at-langley-twigg",
       "added": "2026-01-27",
       "infostealer": {
-        "update": "2026-04-26 14:02:51",
+        "update": "2026-04-27 10:22:19",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -5126,7 +5182,7 @@
       "url": "https://www.cronachedellacampania.it/2026/02/attacco-informatico-di-giacomo-sistemi-dati-inaccessibili/",
       "added": "2026-02-11",
       "infostealer": {
-        "update": "2026-04-26 14:02:46",
+        "update": "2026-04-27 10:22:13",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -5172,7 +5228,7 @@
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/4ef9d2e4-7ded-4352-b03c-155aa107eb0e.html",
       "added": "2026-03-11",
       "infostealer": {
-        "update": "2026-04-26 14:02:34",
+        "update": "2026-04-27 10:21:59",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -5194,7 +5250,7 @@
       "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/harte-bavendamm-ransomware-angriff-trifft-renommierte-kanzlei/68517396",
       "added": "2026-01-25",
       "infostealer": {
-        "update": "2026-04-26 14:02:51",
+        "update": "2026-04-27 10:22:20",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -5216,7 +5272,7 @@
       "url": "https://www.nationalerecreatiegids.nl/cultuur/veenkoloniaal-museum-getroffen-door-hack-gestolen-data-dreigt-openbaar-te-worden/",
       "added": "2026-01-21",
       "infostealer": {
-        "update": "2026-04-26 14:02:53",
+        "update": "2026-04-27 10:22:22",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -5241,7 +5297,7 @@
       "url": "https://www.nn.de/region/roth/cyberangriff-abgewehrt-kreisklinik-roth-untersucht-weiter-ihre-it-systeme-nach-attacke-1.14970026",
       "added": "2026-01-16",
       "infostealer": {
-        "update": "2026-04-26 14:02:56",
+        "update": "2026-04-27 10:22:25",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -5263,7 +5319,7 @@
       "url": "https://dysruptionhub.com/anchorage-police-cyber-incident-alaska/",
       "added": "2026-01-14",
       "infostealer": {
-        "update": "2026-04-26 14:02:56",
+        "update": "2026-04-27 10:22:26",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -5285,7 +5341,7 @@
       "url": "https://ago.vermont.gov/document/2026-03-13-grayback-forestry-data-breach-notice-consumers",
       "added": "2026-03-17",
       "infostealer": {
-        "update": "2026-04-26 14:02:32",
+        "update": "2026-04-27 10:21:56",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -5307,7 +5363,7 @@
       "url": "https://www.fox43.com/article/news/local/manheim-pike-veterinary-hospital-lancaster-county-cyberattack/521-2bcae288-2dce-4244-bd33-9ca18272a04c",
       "added": "2026-01-08",
       "infostealer": {
-        "update": "2026-04-26 14:02:59",
+        "update": "2026-04-27 10:22:28",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -5356,7 +5412,7 @@
       "url": "https://mybroadband.co.za/news/security/623956-hacker-rescues-south-african-pharmacy-from-cyber-attack.html",
       "added": "2026-01-05",
       "infostealer": {
-        "update": "2026-04-26 14:03:01",
+        "update": "2026-04-27 10:22:31",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -5510,7 +5566,7 @@
       "url": "https://www.leprogresstaffricain.fr/actualite-14607-cyberattaque-a-l-epi-du-rouergue-l-entreprise-aveyronnaise-perturbee-mais-ses-magasins-restent-ouverts",
       "added": "2026-01-06",
       "infostealer": {
-        "update": "2026-04-26 14:03:00",
+        "update": "2026-04-27 10:22:30",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -5639,7 +5695,7 @@
       "url": "https://dysruptionhub.com/oakland-cusd5-cyberattack-illinois/",
       "added": "2026-01-07",
       "infostealer": {
-        "update": "2026-04-26 14:02:59",
+        "update": "2026-04-27 10:22:29",
         "employees": 0,
         "users": 0,
         "thirdparties": 1,
@@ -5835,7 +5891,7 @@
       "url": "https://www.wbko.com/2026/03/05/wcso-investigate-cyber-attack/",
       "added": "2026-03-06",
       "infostealer": {
-        "update": "2026-04-26 14:02:37",
+        "update": "2026-04-27 10:22:02",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -5860,7 +5916,7 @@
       "url": "https://www.tecnicadellascuola.it/attacco-hacker-a-una-scuola-di-treviso-registro-elettronico-inaccessibile-dati-e-valutazioni-spariti-nel-nulla",
       "added": "2026-01-05",
       "infostealer": {
-        "update": "2026-04-26 14:03:01",
+        "update": "2026-04-27 10:22:31",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -5882,7 +5938,7 @@
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/943aa634-bf66-42d0-a5ee-549a66c84da3.html",
       "added": "2026-03-17",
       "infostealer": {
-        "update": "2026-04-26 14:02:31",
+        "update": "2026-04-27 10:21:55",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -5927,7 +5983,7 @@
       "url": "https://ago.vermont.gov/document/2026-03-12-earthbound-holding-data-breach-notice-consumers",
       "added": "2026-03-17",
       "infostealer": {
-        "update": "2026-04-26 14:02:31",
+        "update": "2026-04-27 10:21:55",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -6080,7 +6136,7 @@
       "url": "https://www.saechsische.de/lokales/chemnitz/chemnitz-cyberangriff-macht-ford-autohaus-zahlungsunfaehig-VDRZXMZ53FEWPNK4ZTY2MUJK2M.html",
       "added": "2026-03-02",
       "infostealer": {
-        "update": "2026-04-26 14:02:38",
+        "update": "2026-04-27 10:22:03",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -6102,7 +6158,7 @@
       "url": "https://www.theclinic.cl/2026/01/09/copec-logro-frenar-ataque-cibernetico-de-grupo-de-hackers-internacionales-empresa-asegura-que-datos-de-clientes-no-se-vieron-comprometidos/",
       "added": "2026-01-11",
       "infostealer": {
-        "update": "2026-04-26 14:02:58",
+        "update": "2026-04-27 10:22:27",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -6124,7 +6180,7 @@
       "url": "https://www.parkrecord.com/2025/12/26/reclamation-district-says-it-fended-off-an-international-cyber-attack/",
       "added": "2026-01-05",
       "infostealer": {
-        "update": "2026-04-26 14:03:01",
+        "update": "2026-04-27 10:22:30",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -6367,7 +6423,7 @@
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/46406160-48ee-467c-9751-aaabcea6615a.html",
       "added": "2026-04-15",
       "infostealer": {
-        "update": "2026-04-26 14:02:20",
+        "update": "2026-04-27 10:21:42",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -6464,7 +6520,7 @@
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/cc5cfef7-8eda-492e-9a93-292026a891da.html",
       "added": "2026-02-26",
       "infostealer": {
-        "update": "2026-04-26 14:02:36",
+        "update": "2026-04-27 10:22:01",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -6486,7 +6542,7 @@
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/129fa84f-566e-45ad-bae2-dfe8b1c3bfb3.html",
       "added": "2026-02-19",
       "infostealer": {
-        "update": "2026-04-26 14:02:39",
+        "update": "2026-04-27 10:22:05",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -6559,7 +6615,7 @@
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/c3cbb599-b88d-480e-a3f2-0842b4da214f.html",
       "added": "2026-04-01",
       "infostealer": {
-        "update": "2026-04-26 14:02:25",
+        "update": "2026-04-27 10:21:48",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -6629,7 +6685,7 @@
       "url": "https://www.hipaajournal.com/carolina-foot-ankle-associates-new-age-dermatology-marin-cancer-care-breach/",
       "added": "2026-02-26",
       "infostealer": {
-        "update": "2026-04-26 14:02:38",
+        "update": "2026-04-27 10:22:04",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -6651,7 +6707,7 @@
       "url": "https://dysruptionhub.com/cheyenne-arapaho-ransomware-oklahoma/",
       "added": "2026-02-18",
       "infostealer": {
-        "update": "2026-04-26 14:02:43",
+        "update": "2026-04-27 10:22:09",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -6673,7 +6729,7 @@
       "url": "https://ago.vermont.gov/document/2026-01-20-chatham-asset-management-data-breach-notice-consumers",
       "added": "2026-01-22",
       "infostealer": {
-        "update": "2026-04-26 14:02:53",
+        "update": "2026-04-27 10:22:22",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -6761,7 +6817,7 @@
       "url": "https://ago.vermont.gov/document/2026-01-16-kms-solutions-data-breach-notice-consumers",
       "added": "2026-01-21",
       "infostealer": {
-        "update": "2026-04-26 14:02:53",
+        "update": "2026-04-27 10:22:22",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -6876,7 +6932,7 @@
       "url": "https://www.wtxl.com/news/local-news/city-of-midway-confirms-ransomware-breach-involving-police-records-system",
       "added": "2026-01-11",
       "infostealer": {
-        "update": "2026-04-26 14:02:58",
+        "update": "2026-04-27 10:22:27",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -6923,7 +6979,7 @@
       "url": "https://ago.vermont.gov/document/2026-02-25-nacca-capizzi-data-breach-notice-consumers",
       "added": "2026-03-12",
       "infostealer": {
-        "update": "2026-04-26 14:02:32",
+        "update": "2026-04-27 10:21:56",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -6945,7 +7001,7 @@
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/1ec335d8-e7b4-445f-b59d-034e198ffa8e.html",
       "added": "2026-02-05",
       "infostealer": {
-        "update": "2026-04-26 14:02:46",
+        "update": "2026-04-27 10:22:14",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -6967,7 +7023,7 @@
       "url": "https://ago.vermont.gov/document/2026-01-05-garten-services-dara-breach-notice-consumers",
       "added": "2026-01-09",
       "infostealer": {
-        "update": "2026-04-26 14:02:58",
+        "update": "2026-04-27 10:22:28",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -7010,7 +7066,7 @@
       "url": "https://ago.vermont.gov/document/2026-02-20-hn-tax-data-breach-notice-consumers",
       "added": "2026-02-24",
       "infostealer": {
-        "update": "2026-04-26 14:02:41",
+        "update": "2026-04-27 10:22:06",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -7094,7 +7150,7 @@
       "url": "https://www.agriland.ie/farming-news/j-grennan-sons-advises-customers-it-was-the-victim-of-a-cyber-attack/",
       "added": "2026-01-16",
       "infostealer": {
-        "update": "2026-04-26 14:02:56",
+        "update": "2026-04-27 10:22:26",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -7184,7 +7240,7 @@
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/f69c9266-6168-4e29-9bd2-1ee0920d57f3.html",
       "added": "2026-04-26",
       "infostealer": {
-        "update": "2026-04-26 14:02:17",
+        "update": "2026-04-27 10:21:39",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -7350,7 +7406,7 @@
       "url": "https://ago.vermont.gov/document/2026-01-29-office-peeps-data-breach-notice-consumers",
       "added": "2026-01-31",
       "infostealer": {
-        "update": "2026-04-26 14:02:49",
+        "update": "2026-04-27 10:22:16",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -7642,7 +7698,7 @@
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/c8d90fe1-7835-42c6-8400-e2d58b0779d9.html",
       "added": "2026-01-14",
       "infostealer": {
-        "update": "2026-04-26 14:02:55",
+        "update": "2026-04-27 10:22:24",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -7691,7 +7747,7 @@
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/f8032569-51bb-4a43-9f7e-72318de53506.html",
       "added": "2026-03-24",
       "infostealer": {
-        "update": "2026-04-26 14:02:29",
+        "update": "2026-04-27 10:21:53",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -7713,7 +7769,7 @@
       "url": "https://static1.squarespace.com/static/681a3d1730e6d15b8dab6cc2/t/6973b0056b0e6e23ca6ebfd4/1769189381629/MACT_Notice_of_Data_Privacy_Incident.pdf",
       "added": "2026-01-29",
       "infostealer": {
-        "update": "2026-04-26 14:02:50",
+        "update": "2026-04-27 10:22:17",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -7847,7 +7903,7 @@
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/e1d2215a-37f2-4cd5-b209-aebca23e840b.html",
       "added": "2026-03-17",
       "infostealer": {
-        "update": "2026-04-26 14:02:32",
+        "update": "2026-04-27 10:21:56",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -8139,7 +8195,7 @@
       "url": "https://www.cyberdaily.au/security/13054-exclusive-major-australian-gold-producer-confirms-cyber-attack",
       "added": "2026-01-07",
       "infostealer": {
-        "update": "2026-04-26 14:02:59",
+        "update": "2026-04-27 10:22:29",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -8293,7 +8349,7 @@
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/3a8fcd04-943e-48d8-bfaa-3f64f737d68d.html",
       "added": "2026-04-01",
       "infostealer": {
-        "update": "2026-04-26 14:02:25",
+        "update": "2026-04-27 10:21:49",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -8315,7 +8371,7 @@
       "url": "https://ago.vermont.gov/document/2026-01-30-thornton-plumbing-and-heating-data-breach-notice-consumers",
       "added": "2026-02-03",
       "infostealer": {
-        "update": "2026-04-26 14:02:48",
+        "update": "2026-04-27 10:22:16",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -8464,7 +8520,7 @@
       "url": "https://www.dapeer.com/databreaches/office-peeps",
       "added": "2026-03-30",
       "infostealer": {
-        "update": "2026-04-26 14:02:49",
+        "update": "2026-04-27 10:22:16",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -8486,7 +8542,7 @@
       "url": "https://ago.vermont.gov/document/2026-01-29-gs-engineering-data-breach-notice-consumers",
       "added": "2026-01-31",
       "infostealer": {
-        "update": "2026-04-26 14:02:49",
+        "update": "2026-04-27 10:22:16",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -8508,7 +8564,7 @@
       "url": "https://ago.vermont.gov/document/2026-01-09-med-atlantic-data-breach-notice-consumers",
       "added": "2026-01-13",
       "infostealer": {
-        "update": "2026-04-26 14:02:56",
+        "update": "2026-04-27 10:22:25",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -8724,7 +8780,7 @@
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/4d8d003f-1b63-4f61-8564-32582d217590.html",
       "added": "2026-01-01",
       "infostealer": {
-        "update": "2026-04-26 14:03:00",
+        "update": "2026-04-27 10:22:29",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -8858,7 +8914,7 @@
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/78eb57c4-a3d1-4ab8-95de-385f536c0e3c.html",
       "added": "2026-04-25",
       "infostealer": {
-        "update": "2026-04-26 14:02:16",
+        "update": "2026-04-27 10:21:39",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -8963,7 +9019,7 @@
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/a14e0fca-0983-429b-806d-3aec483aa591.html",
       "added": "2026-03-11",
       "infostealer": {
-        "update": "2026-04-26 14:02:34",
+        "update": "2026-04-27 10:21:59",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -9006,7 +9062,7 @@
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/b50dda5b-cb33-4a52-9f2b-c7b7834e6329.html",
       "added": "2026-03-18",
       "infostealer": {
-        "update": "2026-04-26 14:02:33",
+        "update": "2026-04-27 10:21:57",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -9180,7 +9236,7 @@
       "url": "https://news.rthk.hk/rthk/en/component/k2/1852161-20260423.htm",
       "added": "2026-04-23",
       "infostealer": {
-        "update": "2026-04-26 14:02:18",
+        "update": "2026-04-27 10:21:40",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -9305,7 +9361,7 @@
       "url": "https://ago.vermont.gov/document/2026-03-12-jacobson-adler-data-breach-notice-consumers",
       "added": "2026-03-17",
       "infostealer": {
-        "update": "2026-04-26 14:02:31",
+        "update": "2026-04-27 10:21:55",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -9564,7 +9620,7 @@
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/385fc975-ad5f-4530-82f8-93777baa83ed.html",
       "added": "2026-04-18",
       "infostealer": {
-        "update": "2026-04-26 14:02:19",
+        "update": "2026-04-27 10:21:41",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -9586,7 +9642,7 @@
       "url": "https://ago.vermont.gov/document/2026-02-06-cottage-hospital-data-breach-notice-consumers",
       "added": "2026-02-10",
       "infostealer": {
-        "update": "2026-04-26 14:02:45",
+        "update": "2026-04-27 10:22:12",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -9865,7 +9921,7 @@
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/877ffa05-de26-4cee-b8ba-bee1810fb744.html",
       "added": "2026-01-18",
       "infostealer": {
-        "update": "2026-04-26 14:02:55",
+        "update": "2026-04-27 10:22:25",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -9887,7 +9943,7 @@
       "url": "https://ago.vermont.gov/document/2026-01-02-medical-center-llp-data-breach-notice-consumers",
       "added": "2026-01-06",
       "infostealer": {
-        "update": "2026-04-26 14:03:00",
+        "update": "2026-04-27 10:22:30",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -10253,7 +10309,7 @@
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/f5eb5538-d3ae-47c1-8857-ffa3fb2f180e.html",
       "added": "2026-01-10",
       "infostealer": {
-        "update": "2026-04-26 14:02:57",
+        "update": "2026-04-27 10:22:26",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -10332,7 +10388,7 @@
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/bdbef0ad-7ee7-42ad-a956-97892ae6e232.html",
       "added": "2026-04-23",
       "infostealer": {
-        "update": "2026-04-26 14:02:18",
+        "update": "2026-04-27 10:21:40",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -10354,7 +10410,7 @@
       "url": "https://ago.vermont.gov/document/2026-01-23-wisner-baum-data-breach-notice-consumers",
       "added": "2026-01-27",
       "infostealer": {
-        "update": "2026-04-26 14:02:51",
+        "update": "2026-04-27 10:22:20",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -10859,7 +10915,7 @@
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/0cb91b89-e801-443a-97ec-6d70f8c96d0c.html",
       "added": "2026-03-31",
       "infostealer": {
-        "update": "2026-04-26 14:02:26",
+        "update": "2026-04-27 10:21:49",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -11244,7 +11300,7 @@
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/0b458342-f865-4ca9-94b7-1bb1de46afba.html",
       "added": "2026-03-21",
       "infostealer": {
-        "update": "2026-04-26 14:02:29",
+        "update": "2026-04-27 10:21:53",
         "employees": 0,
         "users": 0,
         "thirdparties": 1,
@@ -11266,7 +11322,7 @@
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/2125231e-1105-4d5c-97cf-10d357b30a89.html",
       "added": "2026-03-10",
       "infostealer": {
-        "update": "2026-04-26 14:02:34",
+        "update": "2026-04-27 10:21:58",
         "employees": 0,
         "users": 0,
         "thirdparties": 5,
@@ -11380,7 +11436,7 @@
       "url": "https://ago.vermont.gov/document/2026-01-28-insightin-health-data-breach-notice-consumers",
       "added": "2026-01-30",
       "infostealer": {
-        "update": "2026-04-26 14:02:49",
+        "update": "2026-04-27 10:22:17",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -11585,7 +11641,7 @@
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/6fe86133-f326-439e-8396-18f75e5cc96d.html",
       "added": "2026-03-28",
       "infostealer": {
-        "update": "2026-04-26 14:02:26",
+        "update": "2026-04-27 10:21:50",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -11678,7 +11734,7 @@
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/0ac42a17-a93b-4985-83e2-ea8bb4aeefae.html",
       "added": "2026-03-18",
       "infostealer": {
-        "update": "2026-04-26 14:02:33",
+        "update": "2026-04-27 10:21:57",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -11796,7 +11852,7 @@
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/2849eb54-b409-450a-9c3c-64030c5278e6.html",
       "added": "2026-01-08",
       "infostealer": {
-        "update": "2026-04-26 14:02:59",
+        "update": "2026-04-27 10:22:28",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -11913,7 +11969,7 @@
       "url": "https://ago.vermont.gov/document/2026-02-26-jeff-anderson-associates-data-breach-notice-consumers",
       "added": "2026-03-12",
       "infostealer": {
-        "update": "2026-04-26 14:02:32",
+        "update": "2026-04-27 10:21:57",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -11935,7 +11991,7 @@
       "url": "https://ago.vermont.gov/document/2026-01-30-first-atlantic-capital-data-breach-notice-consumers",
       "added": "2026-02-03",
       "infostealer": {
-        "update": "2026-04-26 14:02:48",
+        "update": "2026-04-27 10:22:16",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -12264,7 +12320,7 @@
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/d03e9630-c27c-4e8a-a661-32cbeda46e5e.html",
       "added": "2026-01-16",
       "infostealer": {
-        "update": "2026-04-26 14:02:55",
+        "update": "2026-04-27 10:22:24",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -12352,7 +12408,7 @@
       "url": "https://ago.vermont.gov/document/2025-12-30-sasserath-co-data-breach-notice-consumers",
       "added": "2026-01-06",
       "infostealer": {
-        "update": "2026-04-26 14:03:00",
+        "update": "2026-04-27 10:22:29",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -12457,7 +12513,7 @@
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/c0502bd2-4671-473f-bf6c-8064ff699ff3.html",
       "added": "2026-02-05",
       "infostealer": {
-        "update": "2026-04-26 14:02:47",
+        "update": "2026-04-27 10:22:14",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -12699,7 +12755,7 @@
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/bf4ffd34-5d3e-4655-8703-c564a47bb932.html",
       "added": "2026-03-30",
       "infostealer": {
-        "update": "2026-04-26 14:02:27",
+        "update": "2026-04-27 10:21:50",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -12742,7 +12798,7 @@
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/073e2a3e-ca04-4c49-8ebe-d42f736a2632.html",
       "added": "2026-03-19",
       "infostealer": {
-        "update": "2026-04-26 14:02:31",
+        "update": "2026-04-27 10:21:55",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -12848,7 +12904,7 @@
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/8a400b3d-1668-40ec-beff-e92f8d0934d8.html",
       "added": "2026-03-11",
       "infostealer": {
-        "update": "2026-04-26 14:02:35",
+        "update": "2026-04-27 10:21:59",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -12891,7 +12947,7 @@
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/43a9ee92-af3a-4421-b653-ab550d8a2120.html",
       "added": "2026-03-17",
       "infostealer": {
-        "update": "2026-04-26 14:02:32",
+        "update": "2026-04-27 10:21:57",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -13127,7 +13183,7 @@
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/81a69456-0618-4878-a74f-47ab848d9b5b.html",
       "added": "2026-02-05",
       "infostealer": {
-        "update": "2026-04-26 14:02:46",
+        "update": "2026-04-27 10:22:14",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -13202,7 +13258,7 @@
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/c01462de-3b11-4909-9d87-d7688af1cf39.html",
       "added": "2026-03-10",
       "infostealer": {
-        "update": "2026-04-26 14:02:35",
+        "update": "2026-04-27 10:21:59",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -13293,7 +13349,7 @@
       "url": "https://ago.vermont.gov/document/2026-02-20-saint-marys-home-erie-data-breach-notice-consumers",
       "added": "2026-02-24",
       "infostealer": {
-        "update": "2026-04-26 14:02:41",
+        "update": "2026-04-27 10:22:06",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -13782,7 +13838,7 @@
       "url": "https://ago.vermont.gov/document/2026-01-06-cohen-sprung-associates-data-breach-notice-consumers",
       "added": "2026-01-10",
       "infostealer": {
-        "update": "2026-04-26 14:02:57",
+        "update": "2026-04-27 10:22:27",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -14004,7 +14060,7 @@
       "url": "https://ago.vermont.gov/document/2026-01-26-melwood-data-breach-notice-consumers",
       "added": "2026-01-28",
       "infostealer": {
-        "update": "2026-04-26 14:02:50",
+        "update": "2026-04-27 10:22:19",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -14243,7 +14299,7 @@
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/044131fe-1fa4-416e-bbd8-904dc12a7e5b.html",
       "added": "2026-01-31",
       "infostealer": {
-        "update": "2026-04-26 14:02:48",
+        "update": "2026-04-27 10:22:16",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -14405,7 +14461,7 @@
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/71697961-6085-4ab7-803f-aee11d4a40df.html",
       "added": "2026-02-12",
       "infostealer": {
-        "update": "2026-04-26 14:02:45",
+        "update": "2026-04-27 10:22:12",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -14560,7 +14616,7 @@
       "url": "https://ago.vermont.gov/document/2026-02-20-tak-broadband-data-breach-notice-consumers",
       "added": "2026-02-21",
       "infostealer": {
-        "update": "2026-04-26 14:02:41",
+        "update": "2026-04-27 10:22:07",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -14812,7 +14868,7 @@
       "url": "https://ago.vermont.gov/document/2026-02-20-greater-pittsburgh-orthopedic-associates-data-breach-notice-consumers",
       "added": "2026-02-24",
       "infostealer": {
-        "update": "2026-04-26 14:02:40",
+        "update": "2026-04-27 10:22:06",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -14890,7 +14946,7 @@
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/8073dd95-87ba-4af8-ac13-743fbd5c158e.html",
       "added": "2026-04-17",
       "infostealer": {
-        "update": "2026-04-26 14:02:21",
+        "update": "2026-04-27 10:21:43",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -14984,7 +15040,7 @@
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/bd53318c-62f6-4145-90a1-b960bd7ba83d.html",
       "added": "2026-04-18",
       "infostealer": {
-        "update": "2026-04-26 14:02:19",
+        "update": "2026-04-27 10:21:41",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -15006,7 +15062,7 @@
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/d075c0d0-ef2e-4509-84e1-b89117782a9a.html",
       "added": "2026-04-16",
       "infostealer": {
-        "update": "2026-04-26 14:02:20",
+        "update": "2026-04-27 10:21:43",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -15257,7 +15313,7 @@
       "url": "https://ago.vermont.gov/document/2026-02-04-compensation-rating-inspection-bureau-data-breach-notice-consumers",
       "added": "2026-02-10",
       "infostealer": {
-        "update": "2026-04-26 14:02:45",
+        "update": "2026-04-27 10:22:12",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -15701,7 +15757,7 @@
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/7d576517-a4c2-4602-a637-9a03536ecbf1.html",
       "added": "2026-01-15",
       "infostealer": {
-        "update": "2026-04-26 14:02:55",
+        "update": "2026-04-27 10:22:24",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -15770,7 +15826,7 @@
       "url": "https://ago.vermont.gov/document/2026-01-09-avosina-healthcare-solutions-data-breach-notice-consumers",
       "added": "2026-01-15",
       "infostealer": {
-        "update": "2026-04-26 14:02:56",
+        "update": "2026-04-27 10:22:25",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -15922,7 +15978,7 @@
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/9d8565da-6f40-48a3-9d2b-4e160357e230.html",
       "added": "2026-04-11",
       "infostealer": {
-        "update": "2026-04-26 14:02:22",
+        "update": "2026-04-27 10:21:45",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -15944,7 +16000,7 @@
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/1acfb5b1-acbd-4fdc-a7e6-4b39c018f406.html",
       "added": "2026-04-02",
       "infostealer": {
-        "update": "2026-04-26 14:02:24",
+        "update": "2026-04-27 10:21:47",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -15997,7 +16053,7 @@
       "url": "https://ago.vermont.gov/document/2026-03-13-philadelphia-corporation-aging-data-breach-notice-consumers",
       "added": "2026-03-17",
       "infostealer": {
-        "update": "2026-04-26 14:02:31",
+        "update": "2026-04-27 10:21:55",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -16258,7 +16314,7 @@
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/0c20e423-1a40-4380-8fe3-e4ddf1425aa2.html",
       "added": "2026-01-28",
       "infostealer": {
-        "update": "2026-04-26 14:02:50",
+        "update": "2026-04-27 10:22:18",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -17144,7 +17200,7 @@
       "url": "https://www.ydr.com/story/news/local/2026/02/13/york-city-cyberattack-led-to-500k-ransom-payout-former-mayor-says/88644911007/",
       "added": "2026-02-15",
       "infostealer": {
-        "update": "2026-04-26 14:02:44",
+        "update": "2026-04-27 10:22:11",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -17187,7 +17243,7 @@
       "url": "https://ago.vermont.gov/document/2026-02-09-city-peabody-data-breach-notice-consumers",
       "added": "2026-02-11",
       "infostealer": {
-        "update": "2026-04-26 14:02:45",
+        "update": "2026-04-27 10:22:12",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -18838,7 +18894,7 @@
       "url": "https://www.foxcarolina.com/2026/01/09/inman-city-officials-confirm-cyber-attack/",
       "added": "2026-01-11",
       "infostealer": {
-        "update": "2026-04-26 14:02:58",
+        "update": "2026-04-27 10:22:28",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -19436,7 +19492,7 @@
       "url": "https://ago.vermont.gov/document/2026-02-12-gehry-partners-data-breach-notice-consumers",
       "added": "2026-02-18",
       "infostealer": {
-        "update": "2026-04-26 14:02:40",
+        "update": "2026-04-27 10:22:05",
         "employees": 0,
         "users": 0,
         "thirdparties": 4,
@@ -19537,7 +19593,7 @@
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/bf3eddfd-ec1a-473f-b09f-726ccbf9668c.html",
       "added": "2026-01-22",
       "infostealer": {
-        "update": "2026-04-26 14:02:52",
+        "update": "2026-04-27 10:22:22",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -20468,7 +20524,7 @@
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/9ba6f732-3464-4c89-aa66-a0b2ca1394cc.html",
       "added": "2026-01-28",
       "infostealer": {
-        "update": "2026-04-26 14:02:50",
+        "update": "2026-04-27 10:22:19",
         "employees": 0,
         "users": 0,
         "thirdparties": 1,
@@ -20807,7 +20863,7 @@
       "url": "https://ago.vermont.gov/document/2026-02-12-academic-urology-urogynecology-arizona-data-breach-notice-consumers",
       "added": "2026-02-18",
       "infostealer": {
-        "update": "2026-04-26 14:02:39",
+        "update": "2026-04-27 10:22:05",
         "employees": 0,
         "users": 0,
         "thirdparties": 1,
@@ -20829,7 +20885,7 @@
       "url": "https://ago.vermont.gov/document/2026-02-12-academic-urology-urogynecology-arizona-data-breach-notice-consumers",
       "added": "2026-02-18",
       "infostealer": {
-        "update": "2026-04-26 14:02:39",
+        "update": "2026-04-27 10:22:05",
         "employees": 0,
         "users": 0,
         "thirdparties": 1,
@@ -21427,7 +21483,7 @@
       "url": "https://ago.vermont.gov/document/2026-04-02-imblum-law-offices-pc-date-breach-notice-consumers",
       "added": "2026-04-09",
       "infostealer": {
-        "update": "2026-04-26 14:02:23",
+        "update": "2026-04-27 10:21:45",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -22012,7 +22068,7 @@
       "url": "https://ago.vermont.gov/document/2026-02-23-cyrus-d-mehta-partners-data-breach-notice-consumers",
       "added": "2026-02-25",
       "infostealer": {
-        "update": "2026-04-26 14:02:36",
+        "update": "2026-04-27 10:22:01",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -22252,7 +22308,7 @@
       "url": "https://ago.vermont.gov/document/2026-02-13-west-florida-bank-corporation-data-breach-notice-consumers",
       "added": "2026-02-18",
       "infostealer": {
-        "update": "2026-04-26 14:02:40",
+        "update": "2026-04-27 10:22:06",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -23765,7 +23821,7 @@
       "url": "https://ago.vermont.gov/document/2026-03-16-gearhiser-peters-elliott-cannon-data-breach-notice-consumers",
       "added": "2026-03-21",
       "infostealer": {
-        "update": "2026-04-26 14:02:30",
+        "update": "2026-04-27 10:21:54",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -23995,7 +24051,7 @@
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/8ea28854-a8cb-4104-ba5c-5eaf3b414097.html",
       "added": "2026-01-08",
       "infostealer": {
-        "update": "2026-04-26 14:02:59",
+        "update": "2026-04-27 10:22:28",
         "employees": 0,
         "users": 0,
         "thirdparties": 2,
@@ -25363,7 +25419,7 @@
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/6ebf2eab-a5be-4938-a27d-9cc8bb6122e5.html",
       "added": "2026-01-14",
       "infostealer": {
-        "update": "2026-04-26 14:02:54",
+        "update": "2026-04-27 10:22:24",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -26141,7 +26197,7 @@
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/e7c69f03-e6e0-474a-b6e0-b9f26b728951.html",
       "added": "2026-02-25",
       "infostealer": {
-        "update": "2026-04-26 14:02:36",
+        "update": "2026-04-27 10:22:01",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -27062,7 +27118,7 @@
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/b6fcf3a9-ae08-4378-9fb1-b7b1111427ad.html",
       "added": "2026-04-21",
       "infostealer": {
-        "update": "2026-04-26 14:02:18",
+        "update": "2026-04-27 10:21:41",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -27139,7 +27195,7 @@
       "url": "https://ago.vermont.gov/document/2025-12-31-bdmpa-llc-dba-austin-associates-data-breach-notice-consumers",
       "added": "2026-01-06",
       "infostealer": {
-        "update": "2026-04-26 14:03:00",
+        "update": "2026-04-27 10:22:30",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -28159,7 +28215,7 @@
       "url": "https://ago.vermont.gov/document/2026-01-14-florence-county-commission-alcohol-drug-abuse-dba-circle-park-behavioral-health-services",
       "added": "2026-01-16",
       "infostealer": {
-        "update": "2026-04-26 14:02:55",
+        "update": "2026-04-27 10:22:25",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -28710,7 +28766,7 @@
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/4c461eec-6961-42db-958f-d073889ec7a5.html",
       "added": "2026-02-10",
       "infostealer": {
-        "update": "2026-04-26 14:02:44",
+        "update": "2026-04-27 10:22:11",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -29280,7 +29336,7 @@
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/d2eecdb4-aae0-45a4-8fbc-e6e270d13370.html",
       "added": "2026-03-11",
       "infostealer": {
-        "update": "2026-04-26 14:02:34",
+        "update": "2026-04-27 10:21:59",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -29861,7 +29917,7 @@
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/1fe3b745-27a7-416c-8f7a-2c2917026268.html",
       "added": "2026-01-28",
       "infostealer": {
-        "update": "2026-04-26 14:02:50",
+        "update": "2026-04-27 10:22:19",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -30301,7 +30357,7 @@
       "url": "https://ago.vermont.gov/document/2026-02-12-terra-holdings-data-breach-notice-consumers",
       "added": "2026-02-14",
       "infostealer": {
-        "update": "2026-04-26 14:02:43",
+        "update": "2026-04-27 10:22:10",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -31660,7 +31716,7 @@
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/4fe222ad-0992-483c-954f-70c10623831a.html",
       "added": "2026-02-07",
       "infostealer": {
-        "update": "2026-04-26 14:02:44",
+        "update": "2026-04-27 10:22:11",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -31997,7 +32053,7 @@
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/f98b68b1-17b0-4ec2-9005-fe4f1df33efe.html",
       "added": "2026-04-03",
       "infostealer": {
-        "update": "2026-04-26 14:02:24",
+        "update": "2026-04-27 10:21:47",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -32354,7 +32410,7 @@
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/73d0db90-0bf4-4fa6-b551-3d73482368ea.html",
       "added": "2026-04-23",
       "infostealer": {
-        "update": "2026-04-26 14:02:18",
+        "update": "2026-04-27 10:21:40",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -32618,7 +32674,7 @@
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/0a8d5d97-0452-489c-b04f-cbd04a392aa6.html",
       "added": "2026-02-24",
       "infostealer": {
-        "update": "2026-04-26 14:02:39",
+        "update": "2026-04-27 10:22:05",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -33363,7 +33419,7 @@
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/5f74a06f-8508-4e48-822b-98057fadd093.html",
       "added": "2026-01-15",
       "infostealer": {
-        "update": "2026-04-26 14:02:54",
+        "update": "2026-04-27 10:22:24",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -35511,7 +35567,7 @@
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/d2b13dca-7087-4fa7-b2e7-ffdde4d72e7a.html",
       "added": "2025-08-14",
       "infostealer": {
-        "update": "2026-04-26 14:03:00",
+        "update": "2026-04-27 10:22:29",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -37012,7 +37068,7 @@
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/20cb3fde-af2f-4f1f-a4fb-56e85d56f6aa.html",
       "added": "2026-01-31",
       "infostealer": {
-        "update": "2026-04-26 14:02:48",
+        "update": "2026-04-27 10:22:15",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -41117,7 +41173,7 @@
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/0bc65e65-1c76-40b2-a692-b13bcc459a47.html",
       "added": "2026-02-07",
       "infostealer": {
-        "update": "2026-04-26 14:02:45",
+        "update": "2026-04-27 10:22:13",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -44415,7 +44471,7 @@
       "url": "https://ago.vermont.gov/document/2025-12-30-chesapeake-bay-maritime-museum-data-breach-notice-consumers",
       "added": "2026-01-06",
       "infostealer": {
-        "update": "2026-04-26 14:03:00",
+        "update": "2026-04-27 10:22:29",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -52241,7 +52297,7 @@
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/857ab65e-ee4e-4de5-a021-a48b2ef72c3e.html",
       "added": "2026-03-28",
       "infostealer": {
-        "update": "2026-04-26 14:02:27",
+        "update": "2026-04-27 10:21:50",
         "employees": 0,
         "users": 0,
         "thirdparties": 1,
@@ -58073,7 +58129,7 @@
       "url": "https://siliconangle.com/2026/01/05/sedgwick-confirms-cyberattack-subsidiary-tridentlocker-claims-data-theft/",
       "added": "2026-01-06",
       "infostealer": {
-        "update": "2026-04-26 14:03:01",
+        "update": "2026-04-27 10:22:30",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -71810,7 +71866,7 @@
       "url": "https://www.lemonde.fr/pixels/article/2026/02/11/a-paris-la-cybercriminalite-ordinaire-au-proces-d-un-couple-accuse-d-attaques-par-rancongiciel_6666255_4408996.html",
       "added": "2026-02-11",
       "infostealer": {
-        "update": "2026-04-26 14:02:46",
+        "update": "2026-04-27 10:22:13",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,

@@ -1,245 +1,69 @@
 {
-  "count": 60,
+  "count": 16,
   "sectors": [
     {
-      "sector": "Advertising, Marketing & Public Relations",
-      "count": 5
-    },
-    {
-      "sector": "Aerospace",
-      "count": 2
-    },
-    {
-      "sector": "Agriculture",
-      "count": 2
-    },
-    {
       "sector": "Agriculture and Food Production",
-      "count": 543
-    },
-    {
-      "sector": "Automotive",
-      "count": 3
-    },
-    {
-      "sector": "Broadcasting",
-      "count": 2
+      "count": 1113
     },
     {
       "sector": "Business Services",
-      "count": 2269
-    },
-    {
-      "sector": "Business Services, Technology",
-      "count": 1
-    },
-    {
-      "sector": "Chemical",
-      "count": 5
-    },
-    {
-      "sector": "Commercial Facilities",
-      "count": 26
-    },
-    {
-      "sector": "Communication",
-      "count": 29
-    },
-    {
-      "sector": "Community, Social Services & Non-Profit Organisations",
-      "count": 3
+      "count": 4765
     },
     {
       "sector": "Construction",
-      "count": 477
+      "count": 1273
     },
     {
       "sector": "Consumer Services",
-      "count": 466
+      "count": 1610
     },
     {
       "sector": "Consumer services",
       "count": 1
     },
     {
-      "sector": "Critical Manufacturing",
-      "count": 57
-    },
-    {
-      "sector": "Defense Industrial Base",
-      "count": 4
-    },
-    {
       "sector": "Education",
-      "count": 500
-    },
-    {
-      "sector": "Education Facilities",
-      "count": 31
-    },
-    {
-      "sector": "Emergency Services",
-      "count": 11
+      "count": 1232
     },
     {
       "sector": "Energy",
-      "count": 418
-    },
-    {
-      "sector": "Energy & Utilities",
-      "count": 5
-    },
-    {
-      "sector": "Engineering",
-      "count": 6
-    },
-    {
-      "sector": "Entertainment",
-      "count": 1
-    },
-    {
-      "sector": "Financial",
-      "count": 391
+      "count": 781
     },
     {
       "sector": "Financial Services",
-      "count": 521
-    },
-    {
-      "sector": "Food & Beverages",
-      "count": 2
-    },
-    {
-      "sector": "Food and Agriculture",
-      "count": 16
-    },
-    {
-      "sector": "Government",
-      "count": 385
-    },
-    {
-      "sector": "Government Facilities",
-      "count": 86
-    },
-    {
-      "sector": "Healtcare",
-      "count": 1
+      "count": 1556
     },
     {
       "sector": "Healthcare",
-      "count": 1412
-    },
-    {
-      "sector": "Healthcare and Public Health",
-      "count": 57
-    },
-    {
-      "sector": "Healthcare Services",
-      "count": 8
+      "count": 2273
     },
     {
       "sector": "Hospitality and Tourism",
-      "count": 387
-    },
-    {
-      "sector": "Information Technology",
-      "count": 65
-    },
-    {
-      "sector": "Internet & Telecommunication Services",
-      "count": 5
-    },
-    {
-      "sector": "IT Manufacturing",
-      "count": 1
-    },
-    {
-      "sector": "Law Firms & Legal Services",
-      "count": 3
-    },
-    {
-      "sector": "Legal",
-      "count": 1
-    },
-    {
-      "sector": "Manufacturer",
-      "count": 2
+      "count": 709
     },
     {
       "sector": "Manufacturing",
-      "count": 2083
+      "count": 4171
     },
     {
       "sector": "Not Found",
-      "count": 4342
-    },
-    {
-      "sector": "Nuclear Reactors, Materials, and Waste",
-      "count": 1
-    },
-    {
-      "sector": "Others",
-      "count": 2
+      "count": 2465
     },
     {
       "sector": "Public Sector",
-      "count": 350
-    },
-    {
-      "sector": "Real Estate",
-      "count": 2
-    },
-    {
-      "sector": "Real Estate is not on the list you provided. Therefore, the answer would be \"Not Found\".",
-      "count": 1
-    },
-    {
-      "sector": "Real Estate is not on the list, so the answer would be \"Not Found\".",
-      "count": 1
-    },
-    {
-      "sector": "Real Estate is not on the provided list, so the answer would be \"Not Found\".",
-      "count": 1
-    },
-    {
-      "sector": "Retail",
-      "count": 9
-    },
-    {
-      "sector": "Shipping & Logistics",
-      "count": 1
+      "count": 1203
     },
     {
       "sector": "Technology",
-      "count": 2017
-    },
-    {
-      "sector": "Technology, Not Found, Education",
-      "count": 1
+      "count": 2955
     },
     {
       "sector": "Telecommunication",
-      "count": 138
-    },
-    {
-      "sector": "Transportation",
-      "count": 4
-    },
-    {
-      "sector": "Transportation Systems",
-      "count": 32
+      "count": 326
     },
     {
       "sector": "Transportation/Logistics",
-      "count": 730
-    },
-    {
-      "sector": "Water and Wastewater Systems",
-      "count": 1
-    },
-    {
-      "sector": "Wholesale & Retail",
-      "count": 6
+      "count": 1242
     }
   ]
 }

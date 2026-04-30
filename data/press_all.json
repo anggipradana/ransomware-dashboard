@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3478,
+  "count": 3479,
   "results": [
     {
       "date": "2026-04-28",
@@ -301,6 +301,28 @@
           "Generic Stealer": 30,
           "Acreed": 2
         }
+      },
+      "ransomware": null
+    },
+    {
+      "added": "2026-04-30",
+      "country": "US",
+      "date": "2026-04-17",
+      "domain": "adamscountyms.net",
+      "summary": "Les bureaux du comté d'Adams ont été paralysés pendant plus d'une semaine suite à une attaque par rançongiciel, empêchant toute activité en ligne et la collecte de paiements. Pour rétablir les services, une refonte complète du système informatique a été commandée pour un coût dépassant 250 000 dollars. Le FBI enquête sur cette intrusion, qui a exploité une vulnérabilité dans un ordinateur fonctionnant sous Windows 7 obsolète.",
+      "title": "Cyber attack shuts down Adams County servers; Week-long restoration ef...",
+      "url": "https://www.natchezdemocrat.com/news/cyber-attack-shuts-down-adams-county-servers-week-long-restoration-effort-continues-45c565af",
+      "victim": "Adams County",
+      "infostealer": {
+        "update": "2026-04-30T07:30:05",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },

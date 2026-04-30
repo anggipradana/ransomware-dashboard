@@ -3491,7 +3491,7 @@
       "url": "https://www.securityweek.com/medical-device-maker-ufp-technologies-hit-by-cyberattack/",
       "added": "2026-02-25",
       "infostealer": {
-        "update": "2026-04-28T14:42:37",
+        "update": "2026-04-30T00:54:44",
         "employees": 0,
         "users": 0,
         "thirdparties": 1,
@@ -3501,7 +3501,10 @@
         "last_user_compromised": null,
         "infostealer_stats": {}
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "payoutsking",
+        "permalink": "https://www.ransomware.live/id/VUZQIFRlY2hub2xvZ2llc0BwYXlvdXRza2luZw=="
+      }
     },
     {
       "date": "2026-02-13",

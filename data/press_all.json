@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3481,
+  "count": 3482,
   "results": [
     {
       "date": "2026-04-29",
@@ -845,6 +845,28 @@
         "thirdparties": 0,
         "employees_url": 0,
         "users_url": 3,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-04-08",
+      "victim": "City of Ardmore",
+      "domain": "ardmorecity.org",
+      "country": "US",
+      "summary": "La ville d'Ardmore, dans l'Oklahoma, a alerté le public suite à une cyberattaque par rançongiciel survenue plus tôt ce mois-ci. Cette attaque pourrait avoir entraîné une compromission de données personnelles des citoyens. Les autorités locales sont en train d'informer la population sur les risques potentiels liés à cet incident de sécurité.",
+      "title": "City of Ardmore issues alert after ransomware attack",
+      "url": "https://www.kten.com/news/city-of-ardmore-issues-alert-after-ransomware-attack/article_5592d16e-bb75-477e-8aaf-0333b6f6a19d.html",
+      "added": "2026-04-30",
+      "infostealer": {
+        "update": "2026-04-30T11:00:05",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 0,
         "last_employee_compromised": null,
         "last_user_compromised": null,
         "infostealer_stats": {}

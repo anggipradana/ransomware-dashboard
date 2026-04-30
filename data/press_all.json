@@ -8509,31 +8509,34 @@
       "url": "https://www.cnbctv18.com/market/stocks/medi-assist-healthcare-services-share-price-says-subsidiary-paramount-tpa-faced-cyber-incident-systems-restored-19767014.htm",
       "added": "2025-11-20",
       "infostealer": {
-        "update": "2025-11-20T10:26:42",
-        "employees": 58,
-        "users": 1810,
-        "thirdparties": 12,
+        "update": "2026-04-30T23:22:53.243513",
+        "employees": 60,
+        "users": 1970,
+        "thirdparties": 13,
         "employees_url": 18,
         "users_url": 100,
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
+        "last_employee_compromised": "2025-11-25T00:00:00+00:00",
+        "last_user_compromised": "2026-04-29T00:00:00+00:00",
         "infostealer_stats": {
+          "Vidar": 72,
           "Lumma": 563,
-          "Generic Stealer": 410,
-          "RedLine": 409,
-          "Raccoon": 199,
-          "StealC": 131,
-          "Vidar": 64,
-          "Azorult": 20,
-          "UNKNOWN": 14,
           "CRYPTBOT": 9,
-          "Acreed": 2,
-          "Ficker": 1,
           "Taurus": 1,
-          "Predator": 1
+          "Predator": 1,
+          "StealC": 131,
+          "Ficker": 1,
+          "Raccoon": 199,
+          "Acreed": 3,
+          "UNKNOWN": 14,
+          "Generic Stealer": 430,
+          "Azorult": 20,
+          "RedLine": 411
         }
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "blacknevas",
+        "permalink": "https://www.ransomware.live/id/UGFyYW1vdW50IEhlYWx0aCBTZXJ2aWNlcyAmIEluc3VyYW5jZSBUUEEgUHZ0LiBMdGRAYmxhY2tuZXZhcw=="
+      }
     },
     {
       "date": "2025-11-19",

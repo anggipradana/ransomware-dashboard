@@ -4,8 +4,30 @@
     "month": null,
     "country": null
   },
-  "count": 3484,
+  "count": 3485,
   "results": [
+    {
+      "date": "2026-04-29",
+      "victim": "Columbia Surgical Partners",
+      "domain": "columbiasurgicalpartners.com",
+      "country": "US",
+      "summary": "La société mère de la clinique Columbia Surgical Partners a été victime d'une attaque par rançongiciel cette semaine, rendant les dossiers médicaux électroniques inaccessibles aux patients. La clinique, qui opère dans le comté de Maury au Tennessee, a informé ses usagers de cette cyberattaque. L'entité est gérée par Advanced Diagnostic Imaging (ADI) à Nashville, et les autorités travaillent à résoudre le problème.",
+      "title": "Patient medical records compromised by cyberattack at Columbia surgical clinic",
+      "url": "https://www.wsmv.com/2026/04/30/patient-medical-records-compromised-by-cyberattack-columbia-surgical-clinic/",
+      "added": "2026-05-01",
+      "infostealer": {
+        "update": "2026-05-01T11:00:06",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-04-29",
       "victim": "Syntec Technology Co., Ltd.",
@@ -1059,7 +1081,7 @@
       "url": "https://www.kttc.com/2026/04/07/national-guard-assist-winona-county-following-cyberattack/",
       "added": "2026-04-08",
       "infostealer": {
-        "update": "2026-04-28T14:42:44",
+        "update": "2026-05-01T10:51:36",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -1069,7 +1091,10 @@
         "last_user_compromised": null,
         "infostealer_stats": {}
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "interlock",
+        "permalink": "https://www.ransomware.live/id/V2lub25hIENvdW50eUBpbnRlcmxvY2s="
+      }
     },
     {
       "date": "2026-04-06",
@@ -4854,7 +4879,7 @@
       "url": "https://www.winonapost.com/news/winona-county-suffers-ransomware-attack-affecting-networks-phones/article_688c540b-f8bc-47fc-9b31-62a507ba9a06.html",
       "added": "2026-01-25",
       "infostealer": {
-        "update": "2026-04-28T14:42:44",
+        "update": "2026-05-01T10:51:36",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -4864,7 +4889,10 @@
         "last_user_compromised": null,
         "infostealer_stats": {}
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "interlock",
+        "permalink": "https://www.ransomware.live/id/V2lub25hIENvdW50eUBpbnRlcmxvY2s="
+      }
     },
     {
       "date": "2026-01-22",

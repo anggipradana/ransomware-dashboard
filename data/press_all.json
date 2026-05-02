@@ -1135,7 +1135,7 @@
       "url": "https://dysruptionhub.com/minidoka-hospital-cyber-incident-idaho/",
       "added": "2026-04-20",
       "infostealer": {
-        "update": "2026-04-28T14:42:25",
+        "update": "2026-05-02T08:48:52.911754",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -1145,7 +1145,10 @@
         "last_user_compromised": null,
         "infostealer_stats": {}
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "blackwater",
+        "permalink": "https://www.ransomware.live/id/TWluaWRva2EgTWVtb3JpYWwgSG9zcGl0YWxAYmxhY2t3YXRlcg=="
+      }
     },
     {
       "date": "2026-04-03",
@@ -9733,8 +9736,8 @@
         }
       },
       "ransomware": {
-        "group": "rhysida",
-        "permalink": "https://www.ransomware.live/id/Q3l0ZWsgQmlvc2NpZW5jZXNAcmh5c2lkYQ=="
+        "group": "cmdorganization",
+        "permalink": "https://www.ransomware.live/id/Q3l0ZWsgQmlvc2NpZW5jZXNAY21kb3JnYW5pemF0aW9u"
       }
     },
     {

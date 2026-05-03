@@ -1,6 +1,6 @@
 {
   "filter_type": null,
-  "count": 78,
+  "count": 79,
   "groups": [
     {
       "group": "0apt",
@@ -478,6 +478,13 @@
       "group": "Skira",
       "ioc_types": {
         "session": 1
+      }
+    },
+    {
+      "group": "Sorry",
+      "ioc_types": {
+        "sha256": 2,
+        "ip": 15
       }
     },
     {

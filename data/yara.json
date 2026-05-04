@@ -1,6 +1,26 @@
 {
-  "count": 62,
+  "count": 358,
   "groups": [
+    {
+      "group": "0apt",
+      "yara_count": 1
+    },
+    {
+      "group": "0mega",
+      "yara_count": 1
+    },
+    {
+      "group": "8base",
+      "yara_count": 1
+    },
+    {
+      "group": "ALP-001",
+      "yara_count": 1
+    },
+    {
+      "group": "Abrahams_Ax",
+      "yara_count": 1
+    },
     {
       "group": "Ailock",
       "yara_count": 1
@@ -11,6 +31,10 @@
     },
     {
       "group": "Alphv",
+      "yara_count": 1
+    },
+    {
+      "group": "AuditTeam",
       "yara_count": 1
     },
     {
@@ -58,6 +82,14 @@
       "yara_count": 1
     },
     {
+      "group": "BrainCipher",
+      "yara_count": 1
+    },
+    {
+      "group": "CMDOrganization",
+      "yara_count": 1
+    },
+    {
       "group": "Cactus",
       "yara_count": 1
     },
@@ -67,6 +99,10 @@
     },
     {
       "group": "CobaltStrike",
+      "yara_count": 1
+    },
+    {
+      "group": "ContFR",
       "yara_count": 1
     },
     {
@@ -86,7 +122,15 @@
       "yara_count": 1
     },
     {
+      "group": "ElDorado",
+      "yara_count": 1
+    },
+    {
       "group": "Enmity",
+      "yara_count": 1
+    },
+    {
+      "group": "GDLockerSec",
       "yara_count": 1
     },
     {
@@ -110,12 +154,24 @@
       "yara_count": 1
     },
     {
+      "group": "IMNCrew",
+      "yara_count": 1
+    },
+    {
       "group": "Incransom",
       "yara_count": 1
     },
     {
+      "group": "J",
+      "yara_count": 1
+    },
+    {
       "group": "LockBit3",
-      "yara_count": 2
+      "yara_count": 1
+    },
+    {
+      "group": "Loki",
+      "yara_count": 1
     },
     {
       "group": "Lorenz",
@@ -202,6 +258,26 @@
       "yara_count": 1
     },
     {
+      "group": "RunSomeWares",
+      "yara_count": 1
+    },
+    {
+      "group": "SenSayQ",
+      "yara_count": 1
+    },
+    {
+      "group": "ShadowByt3$",
+      "yara_count": 1
+    },
+    {
+      "group": "ShinySp1d3r",
+      "yara_count": 1
+    },
+    {
+      "group": "SilentRansomGroup",
+      "yara_count": 1
+    },
+    {
       "group": "Snatch",
       "yara_count": 1
     },
@@ -211,6 +287,10 @@
     },
     {
       "group": "Thanos",
+      "yara_count": 1
+    },
+    {
+      "group": "TiMc",
       "yara_count": 1
     },
     {
@@ -226,6 +306,14 @@
       "yara_count": 1
     },
     {
+      "group": "ValenciaLeaks",
+      "yara_count": 1
+    },
+    {
+      "group": "VanHelsing",
+      "yara_count": 1
+    },
+    {
       "group": "VoidCrypt",
       "yara_count": 1
     },
@@ -234,7 +322,679 @@
       "yara_count": 1
     },
     {
+      "group": "aGl0bGVyCg",
+      "yara_count": 1
+    },
+    {
+      "group": "abyss",
+      "yara_count": 1
+    },
+    {
+      "group": "adminlocker",
+      "yara_count": 1
+    },
+    {
+      "group": "againstthewest",
+      "yara_count": 1
+    },
+    {
+      "group": "ako",
+      "yara_count": 1
+    },
+    {
+      "group": "alphalocker",
+      "yara_count": 1
+    },
+    {
+      "group": "anubis",
+      "yara_count": 1
+    },
+    {
+      "group": "apos",
+      "yara_count": 1
+    },
+    {
+      "group": "apt73",
+      "yara_count": 1
+    },
+    {
+      "group": "arcusmedia",
+      "yara_count": 1
+    },
+    {
+      "group": "argonauts",
+      "yara_count": 1
+    },
+    {
+      "group": "arkana",
+      "yara_count": 1
+    },
+    {
+      "group": "arvinclub",
+      "yara_count": 1
+    },
+    {
+      "group": "atomsilo",
+      "yara_count": 1
+    },
+    {
+      "group": "aurora",
+      "yara_count": 1
+    },
+    {
+      "group": "avaddon",
+      "yara_count": 1
+    },
+    {
+      "group": "avos",
+      "yara_count": 1
+    },
+    {
+      "group": "aware",
+      "yara_count": 1
+    },
+    {
+      "group": "aztroteam",
+      "yara_count": 1
+    },
+    {
+      "group": "babuk2",
+      "yara_count": 1
+    },
+    {
+      "group": "babyduck",
+      "yara_count": 1
+    },
+    {
+      "group": "benzona",
+      "yara_count": 1
+    },
+    {
+      "group": "bert",
+      "yara_count": 1
+    },
+    {
+      "group": "blacklock",
+      "yara_count": 1
+    },
+    {
+      "group": "blacknevas",
+      "yara_count": 1
+    },
+    {
+      "group": "blackout",
+      "yara_count": 1
+    },
+    {
+      "group": "blackshadow",
+      "yara_count": 1
+    },
+    {
+      "group": "blackshrantac",
+      "yara_count": 1
+    },
+    {
+      "group": "blacktor",
+      "yara_count": 1
+    },
+    {
+      "group": "blackwater",
+      "yara_count": 1
+    },
+    {
+      "group": "bluebox",
+      "yara_count": 1
+    },
+    {
+      "group": "bluesky",
+      "yara_count": 1
+    },
+    {
+      "group": "bonacigroup",
+      "yara_count": 1
+    },
+    {
+      "group": "bqtlock",
+      "yara_count": 1
+    },
+    {
+      "group": "bravox",
+      "yara_count": 1
+    },
+    {
+      "group": "brotherhood",
+      "yara_count": 1
+    },
+    {
+      "group": "cephalus",
+      "yara_count": 1
+    },
+    {
+      "group": "cheers",
+      "yara_count": 1
+    },
+    {
+      "group": "chilelocker",
+      "yara_count": 1
+    },
+    {
+      "group": "chort",
+      "yara_count": 1
+    },
+    {
+      "group": "cicada3301",
+      "yara_count": 1
+    },
+    {
+      "group": "ciphbit",
+      "yara_count": 1
+    },
+    {
+      "group": "cipherforce",
+      "yara_count": 1
+    },
+    {
+      "group": "cloak",
+      "yara_count": 1
+    },
+    {
       "group": "clop",
+      "yara_count": 1
+    },
+    {
+      "group": "coinbasecartel",
+      "yara_count": 1
+    },
+    {
+      "group": "cooming",
+      "yara_count": 1
+    },
+    {
+      "group": "crazyhunter",
+      "yara_count": 1
+    },
+    {
+      "group": "crosslock",
+      "yara_count": 1
+    },
+    {
+      "group": "cry0",
+      "yara_count": 1
+    },
+    {
+      "group": "crylock",
+      "yara_count": 1
+    },
+    {
+      "group": "cryp70n1c0d3",
+      "yara_count": 1
+    },
+    {
+      "group": "cryptbb",
+      "yara_count": 1
+    },
+    {
+      "group": "cryptnet",
+      "yara_count": 1
+    },
+    {
+      "group": "crypto24",
+      "yara_count": 1
+    },
+    {
+      "group": "cuba",
+      "yara_count": 1
+    },
+    {
+      "group": "cyclops",
+      "yara_count": 1
+    },
+    {
+      "group": "d4rk4rmy",
+      "yara_count": 1
+    },
+    {
+      "group": "dAn0n",
+      "yara_count": 1
+    },
+    {
+      "group": "dagonlocker",
+      "yara_count": 1
+    },
+    {
+      "group": "daixin",
+      "yara_count": 1
+    },
+    {
+      "group": "darkangels",
+      "yara_count": 1
+    },
+    {
+      "group": "darkbit",
+      "yara_count": 1
+    },
+    {
+      "group": "darkleakmarket",
+      "yara_count": 1
+    },
+    {
+      "group": "darkpower",
+      "yara_count": 1
+    },
+    {
+      "group": "darkrace",
+      "yara_count": 1
+    },
+    {
+      "group": "darkvault",
+      "yara_count": 1
+    },
+    {
+      "group": "datacarry",
+      "yara_count": 1
+    },
+    {
+      "group": "datakeeper",
+      "yara_count": 1
+    },
+    {
+      "group": "dataleak",
+      "yara_count": 1
+    },
+    {
+      "group": "desolator",
+      "yara_count": 1
+    },
+    {
+      "group": "devman",
+      "yara_count": 1
+    },
+    {
+      "group": "diavol",
+      "yara_count": 1
+    },
+    {
+      "group": "direwolf",
+      "yara_count": 1
+    },
+    {
+      "group": "dispossessor",
+      "yara_count": 1
+    },
+    {
+      "group": "donex",
+      "yara_count": 1
+    },
+    {
+      "group": "donutleaks",
+      "yara_count": 1
+    },
+    {
+      "group": "doppelpaymer",
+      "yara_count": 1
+    },
+    {
+      "group": "dragonforce",
+      "yara_count": 1
+    },
+    {
+      "group": "dragonransomware",
+      "yara_count": 1
+    },
+    {
+      "group": "dread",
+      "yara_count": 1
+    },
+    {
+      "group": "dunghill",
+      "yara_count": 1
+    },
+    {
+      "group": "ech0raix",
+      "yara_count": 1
+    },
+    {
+      "group": "embargo",
+      "yara_count": 1
+    },
+    {
+      "group": "entropy",
+      "yara_count": 1
+    },
+    {
+      "group": "ep918",
+      "yara_count": 1
+    },
+    {
+      "group": "esxiargs",
+      "yara_count": 1
+    },
+    {
+      "group": "everest",
+      "yara_count": 1
+    },
+    {
+      "group": "exitium",
+      "yara_count": 1
+    },
+    {
+      "group": "exorcist",
+      "yara_count": 1
+    },
+    {
+      "group": "fletchen",
+      "yara_count": 1
+    },
+    {
+      "group": "flocker",
+      "yara_count": 1
+    },
+    {
+      "group": "fog",
+      "yara_count": 1
+    },
+    {
+      "group": "frag",
+      "yara_count": 1
+    },
+    {
+      "group": "freecivilian",
+      "yara_count": 1
+    },
+    {
+      "group": "fsteam",
+      "yara_count": 1
+    },
+    {
+      "group": "fulcrumsec",
+      "yara_count": 1
+    },
+    {
+      "group": "funksec",
+      "yara_count": 1
+    },
+    {
+      "group": "genesis",
+      "yara_count": 1
+    },
+    {
+      "group": "global",
+      "yara_count": 1
+    },
+    {
+      "group": "groove",
+      "yara_count": 1
+    },
+    {
+      "group": "gunra",
+      "yara_count": 1
+    },
+    {
+      "group": "hades",
+      "yara_count": 1
+    },
+    {
+      "group": "handala",
+      "yara_count": 1
+    },
+    {
+      "group": "haron",
+      "yara_count": 1
+    },
+    {
+      "group": "hellcat",
+      "yara_count": 1
+    },
+    {
+      "group": "helldown",
+      "yara_count": 1
+    },
+    {
+      "group": "hellogookie",
+      "yara_count": 1
+    },
+    {
+      "group": "holyghost",
+      "yara_count": 1
+    },
+    {
+      "group": "hotarus",
+      "yara_count": 1
+    },
+    {
+      "group": "hunters",
+      "yara_count": 1
+    },
+    {
+      "group": "icefire",
+      "yara_count": 1
+    },
+    {
+      "group": "insane",
+      "yara_count": 1
+    },
+    {
+      "group": "insomnia",
+      "yara_count": 1
+    },
+    {
+      "group": "interlock",
+      "yara_count": 1
+    },
+    {
+      "group": "kairos",
+      "yara_count": 1
+    },
+    {
+      "group": "karakurt",
+      "yara_count": 1
+    },
+    {
+      "group": "karma",
+      "yara_count": 1
+    },
+    {
+      "group": "kawa4096",
+      "yara_count": 1
+    },
+    {
+      "group": "kazu",
+      "yara_count": 1
+    },
+    {
+      "group": "kelvinsecurity",
+      "yara_count": 1
+    },
+    {
+      "group": "killsec",
+      "yara_count": 1
+    },
+    {
+      "group": "kittykatkrew",
+      "yara_count": 1
+    },
+    {
+      "group": "knight",
+      "yara_count": 1
+    },
+    {
+      "group": "kraken",
+      "yara_count": 1
+    },
+    {
+      "group": "krybit",
+      "yara_count": 1
+    },
+    {
+      "group": "kryptos",
+      "yara_count": 1
+    },
+    {
+      "group": "kyber",
+      "yara_count": 1
+    },
+    {
+      "group": "la_piovra",
+      "yara_count": 1
+    },
+    {
+      "group": "lamashtu",
+      "yara_count": 1
+    },
+    {
+      "group": "lapsus$",
+      "yara_count": 1
+    },
+    {
+      "group": "leaktheanalyst",
+      "yara_count": 1
+    },
+    {
+      "group": "lilith",
+      "yara_count": 1
+    },
+    {
+      "group": "linkc",
+      "yara_count": 1
+    },
+    {
+      "group": "lockbit",
+      "yara_count": 1
+    },
+    {
+      "group": "lockbit2",
+      "yara_count": 1
+    },
+    {
+      "group": "lockbit3_fs",
+      "yara_count": 1
+    },
+    {
+      "group": "lockbit5",
+      "yara_count": 1
+    },
+    {
+      "group": "lockdata",
+      "yara_count": 1
+    },
+    {
+      "group": "lolnek",
+      "yara_count": 1
+    },
+    {
+      "group": "lunalock",
+      "yara_count": 1
+    },
+    {
+      "group": "lv",
+      "yara_count": 1
+    },
+    {
+      "group": "lynx",
+      "yara_count": 1
+    },
+    {
+      "group": "m3rx",
+      "yara_count": 1
+    },
+    {
+      "group": "madcat",
+      "yara_count": 1
+    },
+    {
+      "group": "madliberator",
+      "yara_count": 1
+    },
+    {
+      "group": "malas",
+      "yara_count": 1
+    },
+    {
+      "group": "malekteam",
+      "yara_count": 1
+    },
+    {
+      "group": "mamona",
+      "yara_count": 1
+    },
+    {
+      "group": "marketo",
+      "yara_count": 1
+    },
+    {
+      "group": "mbc",
+      "yara_count": 1
+    },
+    {
+      "group": "meow",
+      "yara_count": 1
+    },
+    {
+      "group": "metaencryptor",
+      "yara_count": 1
+    },
+    {
+      "group": "midas",
+      "yara_count": 1
+    },
+    {
+      "group": "mindware",
+      "yara_count": 1
+    },
+    {
+      "group": "minteye",
+      "yara_count": 1
+    },
+    {
+      "group": "mnt6",
+      "yara_count": 1
+    },
+    {
+      "group": "mogilevich",
+      "yara_count": 1
+    },
+    {
+      "group": "moneymessage",
+      "yara_count": 1
+    },
+    {
+      "group": "morpheus",
+      "yara_count": 1
+    },
+    {
+      "group": "mosesstaff",
+      "yara_count": 1
+    },
+    {
+      "group": "mountlocker",
+      "yara_count": 1
+    },
+    {
+      "group": "ms13089",
+      "yara_count": 1
+    },
+    {
+      "group": "mydecryptor",
+      "yara_count": 1
+    },
+    {
+      "group": "n3tworm",
+      "yara_count": 1
+    },
+    {
+      "group": "nasirsecurity",
+      "yara_count": 1
+    },
+    {
+      "group": "nefilim",
+      "yara_count": 1
+    },
+    {
+      "group": "nemty",
+      "yara_count": 1
+    },
+    {
+      "group": "netrunner",
       "yara_count": 1
     },
     {
@@ -242,11 +1002,435 @@
       "yara_count": 1
     },
     {
+      "group": "nightsky",
+      "yara_count": 1
+    },
+    {
+      "group": "nightspire",
+      "yara_count": 1
+    },
+    {
+      "group": "nitrogen",
+      "yara_count": 1
+    },
+    {
+      "group": "noname",
+      "yara_count": 1
+    },
+    {
+      "group": "nova",
+      "yara_count": 1
+    },
+    {
+      "group": "obscura",
+      "yara_count": 1
+    },
+    {
+      "group": "onepercent",
+      "yara_count": 1
+    },
+    {
+      "group": "onyx",
+      "yara_count": 1
+    },
+    {
+      "group": "orca",
+      "yara_count": 1
+    },
+    {
+      "group": "orion",
+      "yara_count": 1
+    },
+    {
+      "group": "osiris",
+      "yara_count": 1
+    },
+    {
+      "group": "pandora",
+      "yara_count": 1
+    },
+    {
+      "group": "pay2key",
+      "yara_count": 1
+    },
+    {
+      "group": "payload",
+      "yara_count": 1
+    },
+    {
+      "group": "payloadbin",
+      "yara_count": 1
+    },
+    {
+      "group": "payoutsking",
+      "yara_count": 1
+    },
+    {
+      "group": "pear",
+      "yara_count": 1
+    },
+    {
+      "group": "playboy",
+      "yara_count": 1
+    },
+    {
+      "group": "projectrelic",
+      "yara_count": 1
+    },
+    {
+      "group": "prolock",
+      "yara_count": 1
+    },
+    {
+      "group": "prometheus",
+      "yara_count": 1
+    },
+    {
+      "group": "promptlock",
+      "yara_count": 1
+    },
+    {
+      "group": "pysa",
+      "yara_count": 1
+    },
+    {
+      "group": "qiulong",
+      "yara_count": 1
+    },
+    {
+      "group": "qlocker",
+      "yara_count": 1
+    },
+    {
+      "group": "rabbithole",
+      "yara_count": 1
+    },
+    {
+      "group": "radar",
+      "yara_count": 1
+    },
+    {
+      "group": "radiant",
+      "yara_count": 1
+    },
+    {
       "group": "ragnarlocker",
       "yara_count": 1
     },
     {
+      "group": "ragnarok",
+      "yara_count": 1
+    },
+    {
+      "group": "ralord",
+      "yara_count": 1
+    },
+    {
+      "group": "ramp",
+      "yara_count": 1
+    },
+    {
+      "group": "rancoz",
+      "yara_count": 1
+    },
+    {
+      "group": "ranion",
+      "yara_count": 1
+    },
+    {
+      "group": "ransombay",
+      "yara_count": 1
+    },
+    {
+      "group": "ransomcartel",
+      "yara_count": 1
+    },
+    {
+      "group": "ransomcortex",
+      "yara_count": 1
+    },
+    {
+      "group": "ransomed",
+      "yara_count": 1
+    },
+    {
+      "group": "ransomexx",
+      "yara_count": 1
+    },
+    {
+      "group": "ransomhub",
+      "yara_count": 1
+    },
+    {
+      "group": "ranstreet",
+      "yara_count": 1
+    },
+    {
+      "group": "ranzy",
+      "yara_count": 1
+    },
+    {
       "group": "raworld",
+      "yara_count": 1
+    },
+    {
+      "group": "raznatovic",
+      "yara_count": 1
+    },
+    {
+      "group": "rebornvc",
+      "yara_count": 1
+    },
+    {
+      "group": "redalert",
+      "yara_count": 1
+    },
+    {
+      "group": "redransomware",
+      "yara_count": 1
+    },
+    {
+      "group": "revil",
+      "yara_count": 1
+    },
+    {
+      "group": "reynolds",
+      "yara_count": 1
+    },
+    {
+      "group": "robinhood",
+      "yara_count": 1
+    },
+    {
+      "group": "rook",
+      "yara_count": 1
+    },
+    {
+      "group": "rransom",
+      "yara_count": 1
+    },
+    {
+      "group": "sabbath",
+      "yara_count": 1
+    },
+    {
+      "group": "safepay",
+      "yara_count": 1
+    },
+    {
+      "group": "sarcoma",
+      "yara_count": 1
+    },
+    {
+      "group": "satanlockv2",
+      "yara_count": 1
+    },
+    {
+      "group": "secp0",
+      "yara_count": 1
+    },
+    {
+      "group": "securotrop",
+      "yara_count": 1
+    },
+    {
+      "group": "shadow",
+      "yara_count": 1
+    },
+    {
+      "group": "shaoleaks",
+      "yara_count": 1
+    },
+    {
+      "group": "shinyhunters",
+      "yara_count": 1
+    },
+    {
+      "group": "sicarii",
+      "yara_count": 1
+    },
+    {
+      "group": "siegedsec",
+      "yara_count": 1
+    },
+    {
+      "group": "silent",
+      "yara_count": 1
+    },
+    {
+      "group": "sinobi",
+      "yara_count": 1
+    },
+    {
+      "group": "skira",
+      "yara_count": 1
+    },
+    {
+      "group": "slug",
+      "yara_count": 1
+    },
+    {
+      "group": "solidbit",
+      "yara_count": 1
+    },
+    {
+      "group": "spacebears",
+      "yara_count": 1
+    },
+    {
+      "group": "sparta",
+      "yara_count": 1
+    },
+    {
+      "group": "spook",
+      "yara_count": 1
+    },
+    {
+      "group": "stormous",
+      "yara_count": 1
+    },
+    {
+      "group": "sugar",
+      "yara_count": 1
+    },
+    {
+      "group": "synack",
+      "yara_count": 1
+    },
+    {
+      "group": "teamxxx",
+      "yara_count": 1
+    },
+    {
+      "group": "tengu",
+      "yara_count": 1
+    },
+    {
+      "group": "termite",
+      "yara_count": 1
+    },
+    {
+      "group": "thegentlemen",
+      "yara_count": 1
+    },
+    {
+      "group": "thegreenbloodgroup",
+      "yara_count": 1
+    },
+    {
+      "group": "threeam",
+      "yara_count": 1
+    },
+    {
+      "group": "toufan",
+      "yara_count": 1
+    },
+    {
+      "group": "tridentlocker",
+      "yara_count": 1
+    },
+    {
+      "group": "trigona",
+      "yara_count": 1
+    },
+    {
+      "group": "trisec",
+      "yara_count": 1
+    },
+    {
+      "group": "u-bomb",
+      "yara_count": 1
+    },
+    {
+      "group": "underground",
+      "yara_count": 1
+    },
+    {
+      "group": "unknown",
+      "yara_count": 1
+    },
+    {
+      "group": "unsafe",
+      "yara_count": 1
+    },
+    {
+      "group": "vanirgroup",
+      "yara_count": 1
+    },
+    {
+      "group": "vect",
+      "yara_count": 1
+    },
+    {
+      "group": "vendetta",
+      "yara_count": 1
+    },
+    {
+      "group": "vfokx",
+      "yara_count": 1
+    },
+    {
+      "group": "vicesociety",
+      "yara_count": 1
+    },
+    {
+      "group": "walocker",
+      "yara_count": 1
+    },
+    {
+      "group": "wannacry",
+      "yara_count": 1
+    },
+    {
+      "group": "warlock",
+      "yara_count": 1
+    },
+    {
+      "group": "werewolves",
+      "yara_count": 1
+    },
+    {
+      "group": "weyhro",
+      "yara_count": 1
+    },
+    {
+      "group": "worldleaks",
+      "yara_count": 1
+    },
+    {
+      "group": "x001xs",
+      "yara_count": 1
+    },
+    {
+      "group": "xinglocker",
+      "yara_count": 1
+    },
+    {
+      "group": "xinof",
+      "yara_count": 1
+    },
+    {
+      "group": "xp95",
+      "yara_count": 1
+    },
+    {
+      "group": "yanluowang",
+      "yara_count": 1
+    },
+    {
+      "group": "yurei",
+      "yara_count": 1
+    },
+    {
+      "group": "zeon",
+      "yara_count": 1
+    },
+    {
+      "group": "zerolockersec",
+      "yara_count": 1
+    },
+    {
+      "group": "zerotolerance",
       "yara_count": 1
     }
   ]

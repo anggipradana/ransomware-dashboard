@@ -1,5 +1,5 @@
 {
-  "count": 224,
+  "count": 226,
   "groups": [
     {
       "group": ".git",
@@ -147,6 +147,10 @@
     },
     {
       "group": "blacksuit",
+      "ransomnotes_count": 1
+    },
+    {
+      "group": "blackwater",
       "ransomnotes_count": 1
     },
     {
@@ -555,6 +559,10 @@
     },
     {
       "group": "naga",
+      "ransomnotes_count": 1
+    },
+    {
+      "group": "nblock",
       "ransomnotes_count": 1
     },
     {

@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3503,
+  "count": 3507,
   "results": [
     {
       "date": "2026-05-04",
@@ -8489,6 +8489,28 @@
     },
     {
       "date": "2025-11-24",
+      "victim": "D'Ambrosio Dodge Inc.",
+      "domain": "jeffdambrosio.com",
+      "country": "US",
+      "summary": "D'Ambrosio Dodge suffered a data security incident that may have involved customer and employee personal information, including names, addresses, and other data elements. The incident occurred on November 24, 2025, and was discovered on January 21, 2026. A cyberattack was claimed by Qilin on December 12.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/db1cb413-5b6f-4e14-8b29-df5f214ee59c.html",
+      "added": "2026-05-06",
+      "infostealer": {
+        "update": "2026-05-04T21:35:37",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-11-24",
       "victim": "Milano Ristorazione",
       "domain": "milanoristorazione.it",
       "country": "IT",
@@ -10546,6 +10568,28 @@
     },
     {
       "date": "2025-10-23",
+      "victim": "Empire Express",
+      "domain": "empireexpress.com",
+      "country": "US",
+      "summary": "Empire Express learned of a cyberattack on October 23, 2025. They immediately commenced a prompt and thorough investigation. As part of the investigation, they have been working very closely with external cybersecurty protessionals experienced in handling these types of incidents. They discovered on or about April 13, 2026, that certain files containing PII may have been subject to unauthorized acquisition between June 27, 2025, and October 23, 2025. A cyberattack was claimed by Dragonforce on Feb. 13, 2026.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/e09bcf1c-0681-4cd7-b06d-36eb562c8468.html",
+      "added": "2026-05-06",
+      "infostealer": {
+        "update": "2026-05-04T16:33:25",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 1,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-10-23",
       "victim": "Fried, Frank, Harris, Shriver & Jacobson LLP",
       "domain": "friedfrank.com",
       "country": "US",
@@ -10775,6 +10819,28 @@
         "group": "safepay",
         "permalink": "https://www.ransomware.live/id/bWNpbnRvc2hsYWJzLmNvbUBzYWZlcGF5"
       }
+    },
+    {
+      "date": "2025-10-20",
+      "victim": "Hy LaBonne & Sons, Inc.",
+      "domain": "labonnes.com",
+      "country": "US",
+      "summary": "LaBonne's Markets suffered a data breach on October 20, 2025, where unauthorized access to a subset of their network occurred, resulting in the access or download of certain files without authorization. The impacted information may include names and other personal data. A cyberattack was claimed by Play on October 26, 2025.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/09db7d0d-4847-4b8a-b55b-74cf0b5dc4c0.html",
+      "added": "2026-05-06",
+      "infostealer": {
+        "update": "2026-05-04T22:37:07",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
     },
     {
       "date": "2025-10-20",
@@ -14297,6 +14363,28 @@
       "added": "2025-10-25",
       "infostealer": {
         "update": "2026-05-04T08:27:06",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-09-02",
+      "victim": "Diamond Chemical Co, LLC",
+      "domain": "diamondchemical.com",
+      "country": "US",
+      "summary": "Diamond Chemical Co, LLC suffered a data breach where an unauthorized actor accessed certain systems between July 26, 2025, and September 2, 2025, and copied some files without permission. The breach involved name and Social Security Number information. Diamond Chemical is providing credit monitoring services for 12 months to affected individuals.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/aeaff3dd-331f-4833-8830-f13ccdd99e3b.html",
+      "added": "2026-05-06",
+      "infostealer": {
+        "update": "2026-05-06T07:00:09",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,

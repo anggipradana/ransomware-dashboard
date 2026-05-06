@@ -1,5 +1,5 @@
 {
-  "count": 226,
+  "count": 229,
   "groups": [
     {
       "group": ".git",
@@ -71,6 +71,10 @@
     },
     {
       "group": "auditteam",
+      "ransomnotes_count": 1
+    },
+    {
+      "group": "aurora",
       "ransomnotes_count": 1
     },
     {
@@ -470,6 +474,10 @@
       "ransomnotes_count": 1
     },
     {
+      "group": "lamashtu",
+      "ransomnotes_count": 1
+    },
+    {
       "group": "lambda",
       "ransomnotes_count": 1
     },
@@ -855,6 +863,10 @@
     },
     {
       "group": "vanhelsing",
+      "ransomnotes_count": 1
+    },
+    {
+      "group": "vect",
       "ransomnotes_count": 1
     },
     {

@@ -4,8 +4,30 @@
     "month": null,
     "country": null
   },
-  "count": 3507,
+  "count": 3512,
   "results": [
+    {
+      "date": "2026-05-06",
+      "victim": "Ayuntamiento de Valdemoro",
+      "domain": "valdemoro.es",
+      "country": "ES",
+      "summary": "Une incidence réseau, potentiellement due à une cyberattaque, a affecté les serveurs de l'Ayuntamiento de Valdemoro, empêchant actuellement la réalisation de démarches et consultations municipales en ligne. La municipalité a notifié l'incident au Centro Criptológico Nacional et travaille à la résolution du problème après avoir déconnecté les serveurs par mesure préventive. Les autorités conseillent aux citoyens de rester vigilants face aux tentatives de fraude et de changer leurs mots de passe en prévision d'un possible accès à des données personnelles.",
+      "title": "Un posible ciberataque afecta a los servidores del Ayuntamiento de Valdemoro e impide realizar trámites",
+      "url": "https://alcabodelacalle.es/en-portada/un-posible-ciberataque-afecta-a-los-servidores-del-ayuntamiento-de-valdemoro-e-impide-realizar-tramites/",
+      "added": "2026-05-07",
+      "infostealer": {
+        "update": "2026-05-07T07:30:07",
+        "employees": 0,
+        "users": 15,
+        "thirdparties": 2,
+        "employees_url": 0,
+        "users_url": 6,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-05-04",
       "victim": "ALS Limited",
@@ -1034,6 +1056,28 @@
         "group": "shinyhunters",
         "permalink": "https://www.ransomware.live/id/Um9ja3N0YXIgR2FtZXNAc2hpbnlodW50ZXJz"
       }
+    },
+    {
+      "date": "2026-04-10",
+      "victim": "株式会社ホテルオークラ福岡",
+      "domain": "hotelokura.co.jp",
+      "country": "JP",
+      "summary": "Le 10 avril, le Hotel Okura Fukuoka a annoncé avoir été victime d'une attaque par rançongiciel ciblant les informations de ses employés. L'incident est survenu suite à un accès non autorisé à un serveur hébergé dans le cloud, utilisé pour les fonctions RH. Les données potentiellement compromises concernent 9 501 employés depuis janvier 2011, incluant des informations personnelles sensibles.",
+      "title": "ホテルオークラ福岡が人事関係業務を行うサーバにランサムウェア攻撃、システムニシツウがクラウドシステム上に構築 | ScanNetSecurity",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/05/07/55205.html",
+      "added": "2026-05-07",
+      "infostealer": {
+        "update": "2026-05-07T06:30:05",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
     },
     {
       "date": "2026-04-10",
@@ -2306,6 +2350,31 @@
     },
     {
       "date": "2026-03-16",
+      "victim": "Omikenshi Co., Ltd.",
+      "domain": "omikenshi.co.jp",
+      "country": "JP",
+      "summary": "La société Omikenji a publié un communiqué faisant le point sur la panne informatique survenue le 16 mars à la suite d'un accès non autorisé. L'enquête a révélé qu'une intrusion via un VPN et un chiffrement par ransomware avaient eu lieu, et qu'une partie des données de certains serveurs avait été transmise. La société a indiqué que les données personnelles de ses clients n'étaient pas concernées et a annoncé le report de la publication de ses résultats financiers.",
+      "title": "オーミケンシへのサイバー攻撃、基幹システムの停止で決算手続きに遅延 | ScanNetSecurity",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/05/07/55204.html",
+      "added": "2026-05-07",
+      "infostealer": {
+        "update": "2026-03-23T14:35:55",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "thegentlemen",
+        "permalink": "https://www.ransomware.live/id/T21pa2Vuc2hpQHRoZWdlbnRsZW1lbg=="
+      }
+    },
+    {
+      "date": "2026-03-16",
       "victim": "CareCloud, Inc.",
       "domain": "carecloud.com",
       "country": "US",
@@ -2732,6 +2801,28 @@
     },
     {
       "date": "2026-03-10",
+      "victim": "株式会社ナンブ",
+      "domain": "ipros.com",
+      "country": "JP",
+      "summary": "Le 13 avril, la société Nambu a annoncé une possible fuite de données personnelles suite à un accès non autorisé sur le serveur de sa société sous-traitante, Higashiyama Sangyo Co., Ltd. Cet incident, survenu le 10 mars, a impliqué une attaque par rançongiciel ayant potentiellement compromis les noms, adresses et numéros de téléphone de certains clients utilisant le service de location d'aides médicales. Nambu est en train de contacter individuellement les clients concernés et mène une enquête, tandis qu'Higashiyama Sangyo prévoit de publier ses résultats finaux début mai 2026.",
+      "title": "東山産業にランサムウェア攻撃、事態重く受けとめ委託先セキュリティ管理体制の再評価ほかの再発防止策 | ScanNetSecurity",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/05/07/55197.html",
+      "added": "2026-05-07",
+      "infostealer": {
+        "update": "2026-05-07T07:30:06",
+        "employees": 0,
+        "users": 17,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 3,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-03-10",
       "victim": "Stryker",
       "domain": "stryker.com",
       "country": "IE",
@@ -2764,6 +2855,28 @@
         "group": "handala",
         "permalink": "https://www.ransomware.live/id/U3RyeWtlciBDb3Jwb3JhdGlvbkBoYW5kYWxh"
       }
+    },
+    {
+      "date": "2026-03-09",
+      "victim": "日本テレネット株式会社",
+      "domain": "nippon-tele.net",
+      "country": "JP",
+      "summary": "Le 17 mars, la société japonaise Nippon Telenet a annoncé qu'un dysfonctionnement de son système était dû à une cyberattaque par rançongiciel survenu le 9 mars. Il est possible que des informations de clients et des données personnelles d'employés aient été compromises, bien qu'aucune fuite externe n'ait été confirmée à ce jour. L'entreprise a isolé son réseau et travaille avec des experts externes pour évaluer les dommages, identifier la cause et rétablir ses opérations.",
+      "title": "日本テレネットにランサムウェア型サイバー攻撃、サーバのファイルの一部が暗号化 | ScanNetSecurity",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/05/07/55202.html",
+      "added": "2026-05-07",
+      "infostealer": {
+        "update": "2026-05-07T07:30:07",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
     },
     {
       "date": "2026-03-09",

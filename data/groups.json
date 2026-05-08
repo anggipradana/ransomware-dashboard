@@ -8323,10 +8323,10 @@
                 "enabled": true,
                 "version": null,
                 "delay": null,
-                "updated": "2026-05-06T22:37:32.375885+00:00",
-                "lastscrape": "2026-05-06T22:37:32.375885+00:00",
+                "updated": "2026-05-08T07:17:45.455916+00:00",
+                "lastscrape": "2026-05-08T07:17:45.455916+00:00",
                 "http": {
-                    "fetched_at": "2026-05-06T22:37:32+00:00",
+                    "fetched_at": "2026-05-08T07:17:45+00:00",
                     "start_url": "http://4e3p3in2bl67hxchuwza7qvnpe7pyeloyztr5fnh257fxkovfhappjyd.onion",
                     "final_url": "http://4e3p3in2bl67hxchuwza7qvnpe7pyeloyztr5fnh257fxkovfhappjyd.onion",
                     "status": 200,
@@ -8343,12 +8343,12 @@
                         "set_cookie_present": false
                     },
                     "headers": {
-                        "date": "Wed, 06 May 2026 22:37:33 GMT",
-                        "etag": "W/\"69fabb85-2b49\"",
+                        "date": "Fri, 08 May 2026 07:17:46 GMT",
+                        "etag": "W/\"69fd47fc-2b32\"",
                         "server": "nginx/1.24.0 (Ubuntu)",
                         "connection": "keep-alive",
                         "content-type": "text/html",
-                        "last-modified": "Wed, 06 May 2026 03:54:45 GMT",
+                        "last-modified": "Fri, 08 May 2026 02:18:36 GMT",
                         "content-encoding": "gzip"
                     },
                     "redirect_chain": []
@@ -8363,10 +8363,10 @@
                 "enabled": true,
                 "version": null,
                 "delay": null,
-                "updated": "2026-05-06T22:36:21.504636+00:00",
-                "lastscrape": "2026-05-06T22:36:21.504636+00:00",
+                "updated": "2026-05-08T07:16:38.381867+00:00",
+                "lastscrape": "2026-05-08T07:16:38.381867+00:00",
                 "http": {
-                    "fetched_at": "2026-05-06T22:36:23+00:00",
+                    "fetched_at": "2026-05-08T07:16:39+00:00",
                     "start_url": "http://4e3p3in2bl67hxchuwza7qvnpe7pyeloyztr5fnh257fxkovfhappjyd.onion/shame/",
                     "final_url": "http://4e3p3in2bl67hxchuwza7qvnpe7pyeloyztr5fnh257fxkovfhappjyd.onion/shame/",
                     "status": 200,
@@ -8383,12 +8383,12 @@
                         "set_cookie_present": false
                     },
                     "headers": {
-                        "date": "Wed, 06 May 2026 22:36:24 GMT",
-                        "etag": "W/\"69fa7532-1a3d\"",
+                        "date": "Fri, 08 May 2026 07:16:40 GMT",
+                        "etag": "W/\"69fd3e19-1ae5\"",
                         "server": "nginx/1.24.0 (Ubuntu)",
                         "connection": "keep-alive",
                         "content-type": "text/html",
-                        "last-modified": "Tue, 05 May 2026 22:54:42 GMT",
+                        "last-modified": "Fri, 08 May 2026 01:36:25 GMT",
                         "content-encoding": "gzip"
                     },
                     "redirect_chain": []
@@ -8404,9 +8404,9 @@
                 "version": null,
                 "delay": null,
                 "updated": "2026-05-05T16:40:18.427968+00:00",
-                "lastscrape": "2026-05-06T23:35:11.952332+00:00",
+                "lastscrape": "2026-05-08T07:17:54.620687+00:00",
                 "http": {
-                    "fetched_at": "2026-05-06T23:35:12+00:00",
+                    "fetched_at": "2026-05-08T07:17:54+00:00",
                     "start_url": "http://fulcrumsec.net",
                     "final_url": null,
                     "status": null,
@@ -8427,9 +8427,9 @@
                 "version": null,
                 "delay": null,
                 "updated": "2026-05-05T17:36:07.391628+00:00",
-                "lastscrape": "2026-05-06T23:35:08.284831+00:00",
+                "lastscrape": "2026-05-08T07:17:47.771142+00:00",
                 "http": {
-                    "fetched_at": "2026-05-06T23:35:08+00:00",
+                    "fetched_at": "2026-05-08T07:17:47+00:00",
                     "start_url": "https://fulcrumsec.net/shame/",
                     "final_url": null,
                     "status": null,
@@ -9895,10 +9895,10 @@
                 "enabled": true,
                 "version": 3,
                 "delay": null,
-                "updated": "2026-05-06T23:37:34.751943+00:00",
-                "lastscrape": "2026-05-06T23:37:34.751943+00:00",
+                "updated": "2026-05-08T07:29:14.377339+00:00",
+                "lastscrape": "2026-05-08T07:29:14.377339+00:00",
                 "http": {
-                    "fetched_at": "2026-05-06T23:37:34+00:00",
+                    "fetched_at": "2026-05-08T07:29:14+00:00",
                     "start_url": "http://incbacg6bfwtrlzwdbqc55gsfl763s3twdtwhp27dzuik6s6rwdcityd.onion/api/v1/blog/get/announcements?page=1&perPage=15",
                     "final_url": "http://incbacg6bfwtrlzwdbqc55gsfl763s3twdtwhp27dzuik6s6rwdcityd.onion/api/v1/blog/get/announcements?page=1&perPage=15",
                     "status": 200,
@@ -9910,18 +9910,18 @@
                         "server": null,
                         "content_type": "application/json; charset=utf-8",
                         "x_powered_by": "Express",
-                        "content_length": "18130",
+                        "content_length": "16418",
                         "security_headers": {},
                         "set_cookie_present": false
                     },
                     "headers": {
-                        "date": "Wed, 06 May 2026 23:37:35 GMT",
-                        "etag": "W/\"46d2-kUYgzLHBTXccLJPPLh8KJSk4qQA\"",
+                        "date": "Fri, 08 May 2026 07:29:14 GMT",
+                        "etag": "W/\"4022-KaJQYOK008exGhYhBvyCqKweXus\"",
                         "connection": "keep-alive",
                         "keep-alive": "timeout=5",
                         "content-type": "application/json; charset=utf-8",
                         "x-powered-by": "Express",
-                        "content-length": "18130",
+                        "content-length": "16418",
                         "access-control-allow-origin": "*"
                     },
                     "redirect_chain": []
@@ -9982,10 +9982,10 @@
                 "enabled": true,
                 "version": 3,
                 "delay": null,
-                "updated": "2026-05-06T23:36:31.892651+00:00",
-                "lastscrape": "2026-05-06T23:36:31.892651+00:00",
+                "updated": "2026-05-08T07:28:11.6003+00:00",
+                "lastscrape": "2026-05-08T07:28:11.6003+00:00",
                 "http": {
-                    "fetched_at": "2026-05-06T23:36:31+00:00",
+                    "fetched_at": "2026-05-08T07:28:11+00:00",
                     "start_url": "http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures",
                     "final_url": "http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures",
                     "status": 200,
@@ -10002,7 +10002,7 @@
                         "set_cookie_present": false
                     },
                     "headers": {
-                        "date": "Wed, 06 May 2026 23:36:32 GMT",
+                        "date": "Fri, 08 May 2026 07:28:12 GMT",
                         "etag": "\"6622b950-1c0\"",
                         "server": "nginx/1.27.5",
                         "connection": "keep-alive",
@@ -18284,7 +18284,9 @@
         "meta": null,
         "description": "Payload is a ransomware group that emerged in early 2026, using Babuk-derived source code targeting both Windows and ESXi systems with cross-platform double-extortion attacks against healthcare, energy, real estate, and agriculture sectors, claiming 12 victims across seven countries within hours of launching its leak site.",
         "type": {},
-        "extensions ": null,
+        "extensions ": [
+            ".payload"
+        ],
         "profile": [],
         "locations": [
             {
@@ -18571,10 +18573,10 @@
                 "enabled": true,
                 "version": null,
                 "delay": null,
-                "updated": "2026-05-06T23:36:50.601021+00:00",
-                "lastscrape": "2026-05-06T23:36:50.601021+00:00",
+                "updated": "2026-05-08T07:24:56.418269+00:00",
+                "lastscrape": "2026-05-08T07:24:56.418269+00:00",
                 "http": {
-                    "fetched_at": "2026-05-06T23:36:50+00:00",
+                    "fetched_at": "2026-05-08T07:24:56+00:00",
                     "start_url": "http://j75o7xvvsm4lpsjhkjvb4wl2q6ajegvabe6oswthuaubbykk4xkzgpid.onion",
                     "final_url": "http://j75o7xvvsm4lpsjhkjvb4wl2q6ajegvabe6oswthuaubbykk4xkzgpid.onion",
                     "status": 200,
@@ -18591,7 +18593,7 @@
                         "set_cookie_present": false
                     },
                     "headers": {
-                        "date": "Wed, 06 May 2026 23:36:55 GMT",
+                        "date": "Fri, 08 May 2026 07:25:02 GMT",
                         "server": "nginx/1.26.1",
                         "connection": "keep-alive",
                         "content-type": "text/html; charset=UTF-8"
@@ -18608,10 +18610,10 @@
                 "enabled": true,
                 "version": 3,
                 "delay": null,
-                "updated": "2026-05-06T23:39:11.128698+00:00",
-                "lastscrape": "2026-05-06T23:39:11.128698+00:00",
+                "updated": "2026-05-08T07:27:15.425325+00:00",
+                "lastscrape": "2026-05-08T07:27:15.425325+00:00",
                 "http": {
-                    "fetched_at": "2026-05-06T23:39:11+00:00",
+                    "fetched_at": "2026-05-08T07:27:15+00:00",
                     "start_url": "http://k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion/",
                     "final_url": "http://k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion/",
                     "status": 200,
@@ -18628,7 +18630,7 @@
                         "set_cookie_present": false
                     },
                     "headers": {
-                        "date": "Wed, 06 May 2026 23:39:16 GMT",
+                        "date": "Fri, 08 May 2026 07:27:26 GMT",
                         "server": "nginx/1.26.1",
                         "connection": "keep-alive",
                         "content-type": "text/html; charset=UTF-8"
@@ -18638,37 +18640,39 @@
             },
             {
                 "fqdn": "mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion",
-                "title": "PLAY NEWS",
+                "title": "Error",
                 "slug": "http://mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion/index.php?page=1",
                 "type": "DLS",
                 "available": true,
                 "enabled": true,
                 "version": 3,
                 "delay": null,
-                "updated": "2026-05-06T23:38:00.742034+00:00",
-                "lastscrape": "2026-05-06T23:38:00.742034+00:00",
+                "updated": "2026-05-08T07:26:06.392727+00:00",
+                "lastscrape": "2026-05-08T07:26:06.392727+00:00",
                 "http": {
-                    "fetched_at": "2026-05-06T23:38:00+00:00",
+                    "fetched_at": "2026-05-08T07:26:06+00:00",
                     "start_url": "http://mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion/index.php?page=1",
                     "final_url": "http://mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion/index.php?page=1",
-                    "status": 200,
+                    "status": 502,
                     "http_version": "HTTP/1.1",
                     "error": null,
                     "fingerprint": {
                         "cdn": null,
                         "via": null,
                         "server": "nginx/1.27.0",
-                        "content_type": "text/html; charset=UTF-8",
+                        "content_type": "text/html",
                         "x_powered_by": null,
-                        "content_length": null,
+                        "content_length": "497",
                         "security_headers": {},
                         "set_cookie_present": false
                     },
                     "headers": {
-                        "date": "Wed, 06 May 2026 23:38:04 GMT",
+                        "date": "Fri, 08 May 2026 07:26:08 GMT",
+                        "etag": "\"6655da96-1f1\"",
                         "server": "nginx/1.27.0",
                         "connection": "keep-alive",
-                        "content-type": "text/html; charset=UTF-8"
+                        "content-type": "text/html",
+                        "content-length": "497"
                     },
                     "redirect_chain": []
                 }
@@ -20178,21 +20182,58 @@
                 "title": "",
                 "slug": "http://zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion/a",
                 "type": "DLS",
-                "available": false,
+                "available": true,
                 "enabled": true,
                 "version": 3,
                 "delay": null,
-                "updated": "2026-05-06T22:07:08.426077+00:00",
-                "lastscrape": "2026-05-06T23:37:01.755801+00:00",
+                "updated": "2026-05-08T07:28:50.157596+00:00",
+                "lastscrape": "2026-05-08T07:28:50.157596+00:00",
                 "http": {
-                    "fetched_at": "2026-05-06T23:37:01+00:00",
+                    "fetched_at": "2026-05-08T07:28:50+00:00",
                     "start_url": "http://zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion/a",
-                    "final_url": null,
-                    "status": null,
-                    "http_version": null,
-                    "error": "(no message)",
-                    "fingerprint": {},
-                    "headers": {},
+                    "final_url": "http://zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion/a",
+                    "status": 200,
+                    "http_version": "HTTP/1.1",
+                    "error": null,
+                    "fingerprint": {
+                        "cdn": null,
+                        "via": null,
+                        "server": "nginx/1.22.1",
+                        "content_type": "application/json; charset=utf-8",
+                        "x_powered_by": null,
+                        "content_length": "144668",
+                        "security_headers": {
+                            "referrer-policy": "no-referrer",
+                            "x-frame-options": "SAMEORIGIN",
+                            "x-xss-protection": "0",
+                            "x-content-type-options": "nosniff",
+                            "content-security-policy": "default-src 'self';base-uri 'self';block-all-mixed-content;font-src 'self' https: data:;frame-ancestors 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests",
+                            "strict-transport-security": "max-age=15552000; includeSubDomains"
+                        },
+                        "set_cookie_present": false
+                    },
+                    "headers": {
+                        "date": "Fri, 08 May 2026 07:28:50 GMT",
+                        "etag": "W/\"2351c-t2uNHwSESJ3D2vQj3qHLmhLqs7k\"",
+                        "server": "nginx/1.22.1",
+                        "expect-ct": "max-age=0",
+                        "connection": "keep-alive",
+                        "content-type": "application/json; charset=utf-8",
+                        "content-length": "144668",
+                        "referrer-policy": "no-referrer",
+                        "x-frame-options": "SAMEORIGIN",
+                        "x-xss-protection": "0",
+                        "x-ratelimit-limit": "100000",
+                        "x-ratelimit-reset": "1778225332",
+                        "x-download-options": "noopen",
+                        "x-ratelimit-remaining": "99999",
+                        "x-content-type-options": "nosniff",
+                        "x-dns-prefetch-control": "off",
+                        "content-security-policy": "default-src 'self';base-uri 'self';block-all-mixed-content;font-src 'self' https: data:;frame-ancestors 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests",
+                        "strict-transport-security": "max-age=15552000; includeSubDomains",
+                        "access-control-allow-origin": "*",
+                        "x-permitted-cross-domain-policies": "none"
+                    },
                     "redirect_chain": []
                 }
             }

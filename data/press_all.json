@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3514,
+  "count": 3522,
   "results": [
     {
       "date": "2026-05-07",
@@ -643,6 +643,53 @@
       "ransomware": null
     },
     {
+      "date": "2026-04-17",
+      "victim": "株式会社メディカ出版基礎教育営業課",
+      "domain": "medica.co.jp",
+      "country": "JP",
+      "summary": "Le 17 avril, la société Medica Publishing a annoncé avoir été victime d'une attaque par rançongiciel, dont l'origine a été identifiée comme une intrusion tierce survenue au début de mars. Il a été confirmé qu'une partie des informations personnelles détenues par la société et ses filiales pourrait avoir été divulguée à l'extérieur. Bien que les plateformes d'apprentissage spécifiques soient sécurisées et séparées du système attaqué, l'entreprise travaille à renforcer sa sécurité pour prévenir de futures incidents.",
+      "title": "メディカ出版へのランサムウェア攻撃、別システムで構築されたサービスの安全性を確認 | ScanNetSecurity",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/05/08/55216.html",
+      "added": "2026-05-08",
+      "infostealer": {
+        "update": "2026-03-21T12:09:23",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "thegentlemen",
+        "permalink": "https://www.ransomware.live/id/TUVESUNVUyBTSFVQUEFOQHRoZWdlbnRsZW1lbg=="
+      }
+    },
+    {
+      "date": "2026-04-17",
+      "victim": "松山市営住宅管理センター (Anabuki Housing Service)",
+      "domain": "matsuyama-shijyu.com",
+      "country": "JP",
+      "summary": "Le centre de gestion des logements municipaux de Matsuyama a annoncé le 17 avril une fuite de données concernant les résidents suite à une attaque par rançongiciel. L'incident a été détecté le 3 février sur les serveurs de la société gestionnaire, Anabuki Housing Service. Au total, 7 237 dossiers de résidents ont été compromis, incluant des informations personnelles telles que noms et dates de naissance.",
+      "title": "穴吹ハウジングサービスへのランサムウェア攻撃、松山市営住宅入居者の個人情報が漏えい | ScanNetSecurity",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/05/08/55212.html",
+      "added": "2026-05-08",
+      "infostealer": {
+        "update": "2026-05-08T09:30:07",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
       "added": "2026-04-30",
       "country": "US",
       "date": "2026-04-17",
@@ -1078,6 +1125,28 @@
         "group": "shinyhunters",
         "permalink": "https://www.ransomware.live/id/Um9ja3N0YXIgR2FtZXNAc2hpbnlodW50ZXJz"
       }
+    },
+    {
+      "date": "2026-04-10",
+      "victim": "新エフエイコム株式会社",
+      "domain": "s-facom.jp",
+      "country": "JP",
+      "summary": "Le 14 avril, la société Shin-Facom a annoncé une panne de système suite à un accès non autorisé par des tiers. Cet incident est survenu au début de la matinée du 10 avril, impliquant une infection par rançongiciel. L'entreprise a isolé son réseau interne pour contenir l'impact et est actuellement en cours de restauration et d'enquête, tout en vérifiant si des données personnelles ou clients ont été divulguées.",
+      "title": "新エフエイコムにランサムウェア攻撃、個人情報外部流出について調査中 | ScanNetSecurity",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/05/08/55211.html",
+      "added": "2026-05-08",
+      "infostealer": {
+        "update": "2026-05-08T09:30:07",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 2,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
     },
     {
       "date": "2026-04-10",
@@ -1868,6 +1937,28 @@
         "thirdparties": 0,
         "employees_url": 0,
         "users_url": 16,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-03-25",
+      "victim": "第一工業株式会社",
+      "domain": "dks-web.co.jp",
+      "country": "JP",
+      "summary": "La société Dai-ichi Kogyo a publié un deuxième rapport concernant une cyberattaque survenue le 25 mars, suite à une première annonce faite le 16 avril. Les premières investigations indiquent que l'attaquant a probablement pénétré via un dispositif VPN situé dans le centre de données de l'entreprise. Bien que des systèmes critiques aient été affectés, aucune preuve de fuite de données personnelles ou clients vers l'extérieur n'a été confirmée à ce stade.",
+      "title": "第一工業にサイバー攻撃、一部のサーバでシステム障害が発生 | ScanNetSecurity",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/05/08/55220.html",
+      "added": "2026-05-08",
+      "infostealer": {
+        "update": "2026-05-08T09:30:06",
+        "employees": 0,
+        "users": 1,
+        "thirdparties": 1,
+        "employees_url": 0,
+        "users_url": 1,
         "last_employee_compromised": null,
         "last_user_compromised": null,
         "infostealer_stats": {}
@@ -3573,6 +3664,28 @@
         "thirdparties": 0,
         "employees_url": 0,
         "users_url": 4,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-02-24",
+      "victim": "F-One Co., Ltd.",
+      "domain": "f-one.co.jp",
+      "country": "JP",
+      "summary": "La société Sato a annoncé le 16 avril qu'une attaque par rançongiciel avait affecté l'un de ses sous-traitants, la société F1 Corporation. Cette attaque a potentiellement entraîné une fuite de données personnelles concernant des clients ayant commandé des costumes. Les investigations ont révélé que les informations de 109 personnes et celles de 131 autres clients ont pu être compromises entre 2016 et 2025.",
+      "title": "エフワンにランサムウェア攻撃、スーツ購入顧客の情報が漏えいした可能性 | ScanNetSecurity",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/05/08/55215.html",
+      "added": "2026-05-08",
+      "infostealer": {
+        "update": "2026-05-08T10:00:07",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 0,
         "last_employee_compromised": null,
         "last_user_compromised": null,
         "infostealer_stats": {}
@@ -12034,6 +12147,32 @@
     },
     {
       "date": "2025-10-06",
+      "victim": "Alliance Roofing Company, Inc.",
+      "domain": "allianceroofingcal.com",
+      "country": "US",
+      "summary": "Alliance Roofing Company, Inc. experienced a network disruption on October 6, 2025, which led to unauthorized access to their network and potential acquisition of personal data. The breach involved names, Social Security Numbers, and Driver License Numbers. A cyberattack was claimed by Akira on April 1st, 2026.",
+      "title": "Data Breach Notification",
+      "url": "https://oag.ca.gov/ecrime/databreach/reports/sb24-622966",
+      "added": "2026-05-08",
+      "pdf_url": "https://oag.ca.gov/system/files/Alliance_Roofing_Adult_Letter_Final_Live_Proof_R1_Redacted.pdf",
+      "infostealer": {
+        "update": "2026-04-26T21:07:34",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "akira",
+        "permalink": "https://www.ransomware.live/id/QWxsaWFuY2UgUm9vZmluZ0Bha2lyYQ=="
+      }
+    },
+    {
+      "date": "2025-10-06",
       "victim": "Stadt Hohen Neuendorf",
       "domain": "hohen-neuendorf.de",
       "country": "DE",
@@ -13332,6 +13471,28 @@
           "Vidar": 5,
           "RedLine": 19
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-09-19",
+      "victim": "Johnson, Webbert, & Beard LLP",
+      "domain": "johnsonwebbert.com",
+      "country": "US",
+      "summary": "Unauthorized access to Johnson, Webbert, & Beard, LLP's network occurred between September 15, 2025, and September 19, 2025, potentially exposing personal information. An investigation was conducted, and complimentary identity monitoring services were made available to affected individuals. The incident was reported to law enforcement.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/9557088b-9982-485e-972e-8f4e8381edf6.html",
+      "added": "2026-05-08",
+      "infostealer": {
+        "update": "2026-05-04T08:31:58",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },
@@ -23633,6 +23794,28 @@
         "group": "akira",
         "permalink": "https://www.ransomware.live/id/RWxpdGUgQWR2YW5jZWQgTGFzZXIgQ29ycG9yYXRpb25AYWtpcmE="
       }
+    },
+    {
+      "date": "2025-05-15",
+      "victim": "54 Below Inc.",
+      "domain": "54below.org",
+      "country": "US",
+      "summary": "An unknown actor gained unauthorized access to 54 Below's network environment on May 15, 2025, potentially accessing and acquiring certain files containing individuals' personal information. The incident was discovered on May 15, 2025, and a comprehensive review of the affected data concluded on April 24, 2026. The breach may have involved personal information including names and other details.",
+      "title": "Data Breach Notification",
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/f4524e3e-0526-4c8f-9f1a-08e90a686f50.html",
+      "added": "2026-05-08",
+      "infostealer": {
+        "update": "2026-05-08T10:30:05",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
     },
     {
       "date": "2025-05-15",

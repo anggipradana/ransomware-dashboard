@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3523,
+  "count": 3524,
   "results": [
     {
       "date": "2026-05-07",
@@ -44,6 +44,28 @@
         "thirdparties": 2,
         "employees_url": 0,
         "users_url": 6,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-05-04",
+      "victim": "West Pharmaceutical",
+      "domain": "westpharma.com",
+      "country": "FR",
+      "summary": "L'entreprise West Pharmaceutical a confirmé avoir été victime d'une cyberattaque sur son site du Nouvion-en-Thiérache, qui était déjà à l'arrêt depuis le 4 mai. Une enquête est actuellement menée pour déterminer la nature et l'étendue de cet incident informatique. Aucune date de reprise d'activité n'a été communiquée par l'entreprise à ce stade.",
+      "title": "Le Nouvion-en-Thiérache : l’usine West Pharmaceutical est bel et bien victime d’un piratage informatique",
+      "url": "https://www.aisnenouvelle.fr/id716500/article/2026-05-08/nouvion-en-thierache-lusine-west-pharmaceutical-est-bel-et-bien-victime-dun",
+      "added": "2026-05-09",
+      "infostealer": {
+        "update": "2026-05-09T08:30:05",
+        "employees": 2,
+        "users": 13,
+        "thirdparties": 15,
+        "employees_url": 2,
+        "users_url": 9,
         "last_employee_compromised": null,
         "last_user_compromised": null,
         "infostealer_stats": {}
@@ -25447,7 +25469,7 @@
       "url": "https://www.24heures.ch/cyberattaque-le-groupe-3r-de-radiologie-a-nouveau-pirate-897127876847",
       "added": "2026-05-05",
       "infostealer": {
-        "update": "2026-05-04T08:04:32",
+        "update": "2026-05-09T09:01:40.699665",
         "employees": 0,
         "users": 65,
         "thirdparties": 0,
@@ -25463,7 +25485,10 @@
           "Lumma": 11
         }
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "akira",
+        "permalink": "https://www.ransomware.live/id/UsOpc2VhdSBSYWRpb2xvZ2lxdWUgUm9tYW5kQGFraXJh"
+      }
     },
     {
       "date": "2025-04-30",
@@ -27649,7 +27674,7 @@
       "url": "https://www.bluewin.ch/fr/infos/suisse/radiologie-le-groupe-3r-victime-d-une-cyberattaque-2657614.html",
       "added": "2025-04-18",
       "infostealer": {
-        "update": "2026-05-04T08:04:32",
+        "update": "2026-05-09T09:01:40.699665",
         "employees": 0,
         "users": 65,
         "thirdparties": 0,
@@ -27665,7 +27690,10 @@
           "Lumma": 11
         }
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "akira",
+        "permalink": "https://www.ransomware.live/id/UsOpc2VhdSBSYWRpb2xvZ2lxdWUgUm9tYW5kQGFraXJh"
+      }
     },
     {
       "date": "2025-04-12",

@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3545,
+  "count": 3546,
   "results": [
     {
       "date": "2026-05-11",
@@ -2273,6 +2273,31 @@
       "ransomware": {
         "group": "LeakBazaar",
         "permalink": "https://www.ransomware.live/id/T21heCBBdXRvc0BMZWFrQmF6YWFy"
+      }
+    },
+    {
+      "date": "2026-03-26",
+      "victim": "株式会社ホクヨー",
+      "domain": "hokuyo2006.co.jp",
+      "country": "JP",
+      "summary": "La société Hokuyo a annoncé qu'une panne informatique due à une infection par un rançongiciel s'était produite le 26 mars 2026. Bien que l'entreprise affirme avoir achevé la restauration de ses systèmes et que ses activités ne soient pas perturbées, elle mène actuellement une enquête avec des experts externes afin de déterminer s'il y a eu fuite de données personnelles. Les parties concernées doivent suivre de près l'évolution de la gestion de cet incident, notamment l'identification de la voie d'intrusion après la restauration et l'utilisation abusive des identifiants.",
+      "title": "ホクヨーがランサムウェア 感染によるシステム障害を公表、復旧は完了も個人情報流出は調査中|セキュリティニュースのセキュリティ対策Lab",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/hokuyo-ransomware-recovery-data-leak-investigation/",
+      "added": "2026-05-13",
+      "infostealer": {
+        "update": "2026-05-04T21:28:47",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "safepay",
+        "permalink": "https://www.ransomware.live/id/aG9rdXlvMjAwNi5jby5qcEBzYWZlcGF5"
       }
     },
     {

@@ -1,5 +1,5 @@
 {
-  "count": 230,
+  "count": 231,
   "groups": [
     {
       "group": ".git",
@@ -188,6 +188,10 @@
     {
       "group": "cerber",
       "ransomnotes_count": 4
+    },
+    {
+      "group": "chaos",
+      "ransomnotes_count": 1
     },
     {
       "group": "chilelocker",

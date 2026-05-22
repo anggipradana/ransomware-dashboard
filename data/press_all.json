@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3591,
+  "count": 3592,
   "results": [
     {
       "date": "2026-05-21",
@@ -2936,6 +2936,28 @@
         "group": "LeakBazaar",
         "permalink": "https://www.ransomware.live/id/T21heCBBdXRvc0BMZWFrQmF6YWFy"
       }
+    },
+    {
+      "date": "2026-03-26",
+      "victim": "Hokuyo Co., Ltd.",
+      "domain": "hokuyo-aut.jp",
+      "country": "JP",
+      "summary": "La société Hokuyo a annoncé un incident de défaillance système dû à une infection par rançongiciel. L'incident initial a eu lieu le 26 mars, mais la restauration du système est maintenant terminée et les opérations ne sont plus affectées. La société enquête actuellement avec des experts externes concernant la fuite d'informations personnelles.",
+      "title": "ホクヨーにランサムウェア攻撃、システム障害発生するも現在は復旧 | ScanNetSecurity",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/05/22/55332.html",
+      "added": "2026-05-22",
+      "infostealer": {
+        "update": "2026-05-22T07:00:07",
+        "employees": 0,
+        "users": 172,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 4,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
     },
     {
       "date": "2026-03-26",

@@ -1,5 +1,5 @@
 {
-  "count": 231,
+  "count": 232,
   "groups": [
     {
       "group": ".git",
@@ -574,6 +574,10 @@
       "ransomnotes_count": 1
     },
     {
+      "group": "mortar",
+      "ransomnotes_count": 1
+    },
+    {
       "group": "naga",
       "ransomnotes_count": 1
     },
@@ -607,7 +611,7 @@
     },
     {
       "group": "nightspire",
-      "ransomnotes_count": 3
+      "ransomnotes_count": 4
     },
     {
       "group": "nitrogen",

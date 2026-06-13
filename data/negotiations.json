@@ -1,5 +1,5 @@
 {
-  "count": 26,
+  "count": 27,
   "groups": [
     {
       "group": "Akira",
@@ -100,6 +100,10 @@
     {
       "group": "mount-locker",
       "chats": 1
+    },
+    {
+      "group": "nova",
+      "chats": 2
     },
     {
       "group": "trinity",

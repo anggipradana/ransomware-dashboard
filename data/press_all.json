@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3672,
+  "count": 3673,
   "results": [
     {
       "date": "2026-06-11",
@@ -297,6 +297,29 @@
         "employees": 0,
         "users": 0,
         "thirdparties": 60,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-06-06",
+      "victim": "MagaluPay",
+      "domain": "magalupay.com.br",
+      "country": "BR",
+      "summary": "MagaluPay, une institution de paiement réglementée, a été victime d'une cyberattaque qui a empêché ses clients d'effectuer des transactions financières. Bien que l'entreprise ait confirmé l'incident et assuré que les données personnelles n'ont pas été compromises, les services de paiement via Pix ont été temporairement suspendus par mesure de sécurité. L'attaque a entraîné des difficultés pour les utilisateurs à payer des factures et à accéder au support client. Cet événement s'inscrit dans une tendance croissante de fraudes et d'attaques cibernées dans le système financier brésilien.",
+      "description": "",
+      "title": "MagaluPay sofre ataque cibernético e deixa clientes impossibilitados de acessar seus recursos financeiros por dias, gerando frustração e reclamações em massa.",
+      "url": "https://reportermaceio.com.br/magalupay-sofre-ataque-cibernetico-e-deixa-clientes-impossibilitados-de-acessar-seus-recursos-financeiros-por-dias-gerando-frustracao-e-reclamacoes-em-massa/",
+      "added": "2026-06-13",
+      "infostealer": {
+        "update": "2026-06-13T16:00:06",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 0,
         "employees_url": 0,
         "users_url": 0,
         "last_employee_compromised": null,

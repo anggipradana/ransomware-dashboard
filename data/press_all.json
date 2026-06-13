@@ -4,8 +4,31 @@
     "month": null,
     "country": null
   },
-  "count": 3671,
+  "count": 3672,
   "results": [
+    {
+      "date": "2026-06-11",
+      "victim": "Kredietbank Limburg",
+      "domain": "kredietbanklimburg.nl",
+      "country": "NL",
+      "summary": "La Kredietbank Limburg a subi une intrusion numérique. La banque a déclaré que les conséquences de cette cyberattaque sont restées limitées et que les dégâts sont mineurs. Aucun détail supplémentaire sur la nature de l'intrusion ou l'ampleur des dommages n'a été fourni.",
+      "description": "",
+      "title": "Schade door computerhack bij Kredietbank Limburg lijkt mee te vallen",
+      "url": "https://www.nieuwslens.nl/article/economie/schade-door-computerhack-bij-kredietbank-limburg-lijkt-mee-te-vallen--49ed22dded6d467a",
+      "added": "2026-06-13",
+      "infostealer": {
+        "update": "2026-06-13T15:00:06",
+        "employees": 0,
+        "users": 17,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 2,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-06-10",
       "victim": "Onslow County Schools",

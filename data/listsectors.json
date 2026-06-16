@@ -3,11 +3,11 @@
   "sectors": [
     {
       "sector": "Agriculture and Food Production",
-      "count": 1172
+      "count": 1173
     },
     {
       "sector": "Business Services",
-      "count": 5038
+      "count": 5041
     },
     {
       "sector": "Construction",
@@ -15,7 +15,7 @@
     },
     {
       "sector": "Consumer Services",
-      "count": 1718
+      "count": 1719
     },
     {
       "sector": "Consumer services",
@@ -35,7 +35,7 @@
     },
     {
       "sector": "Healthcare",
-      "count": 2377
+      "count": 2379
     },
     {
       "sector": "Hospitality and Tourism",
@@ -43,7 +43,7 @@
     },
     {
       "sector": "Manufacturing",
-      "count": 4342
+      "count": 4345
     },
     {
       "sector": "Not Found",
@@ -63,7 +63,7 @@
     },
     {
       "sector": "Transportation/Logistics",
-      "count": 1295
+      "count": 1296
     }
   ]
 }

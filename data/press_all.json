@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3690,
+  "count": 3691,
   "results": [
     {
       "date": "2026-06-16",
@@ -76,6 +76,29 @@
         "thirdparties": 1,
         "employees_url": 0,
         "users_url": 11,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-06-11",
+      "victim": "Prince George County",
+      "domain": "princegeorgecountyva.gov",
+      "country": "US",
+      "summary": "Le comté de Prince George en Virginie a été victime d'un incident de cybersécurité qui a perturbé son système d'information à partir du 11 juin 2026. L'attaque a affecté les services téléphoniques, Internet et de paiement en ligne, tandis que les services d'urgence 911 et de dispatch de la sécurité civile restaient disponibles. La plupart des systèmes ont été restaurés. Le groupe de ransomware RansomHouse a inclus le comté dans son site de fuites, affirmant que les systèmes avaient été chiffrés le 10 juin. Aucune confirmation n'a été donnée concernant le vol de données ou une demande de rançon.",
+      "description": "",
+      "title": "Prince George County, Virginia, restores most systems after cyber incident",
+      "url": "https://dysruptionhub.com/prince-george-county-cyber-claim/",
+      "added": "2026-06-18",
+      "infostealer": {
+        "update": "2026-06-17T17:25:11",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 0,
         "last_employee_compromised": null,
         "last_user_compromised": null,
         "infostealer_stats": {}

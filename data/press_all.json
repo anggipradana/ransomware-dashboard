@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3693,
+  "count": 3694,
   "results": [
     {
       "date": "2026-06-18",
@@ -69,6 +69,29 @@
         "thirdparties": 0,
         "employees_url": 0,
         "users_url": 4,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-06-15",
+      "victim": "Cour des comptes du Sénégal",
+      "domain": "courdescomptes.sn",
+      "country": "SN",
+      "summary": "La Cour des comptes du Sénégal a été victime d'un incident technique majeur de son système d'information le 15 juin 2026. Cet incident s'inscrit dans une série d'attaques ciblant les administrations financières et stratégiques du pays, incluant la Dgid, la Daf et le Trésor public. Les experts soulignent l'urgence de renforcer la cybersécurité nationale dans le cadre du programme 'New Deal technologique'.",
+      "description": "",
+      "title": "Nouvelle cyberattaque : La Cour des comptes touchée",
+      "url": "https://lequotidien.sn/nouvelle-cyberattaque-la-cour-des-comptes-touchee/",
+      "added": "2026-06-19",
+      "infostealer": {
+        "update": "2026-06-17T10:23:34",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 5,
+        "employees_url": 0,
+        "users_url": 0,
         "last_employee_compromised": null,
         "last_user_compromised": null,
         "infostealer_stats": {}

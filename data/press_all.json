@@ -4,8 +4,31 @@
     "month": null,
     "country": null
   },
-  "count": 3705,
+  "count": 3707,
   "results": [
+    {
+      "date": "2026-06-23",
+      "victim": "Nowa Ruda",
+      "domain": "nowaruda.pl",
+      "country": "PL",
+      "summary": "L'administration municipale de Nowa Ruda a été victime d'une cyberattaque par ransomware le 23 juin 2026. Cette attaque a chiffré des données sur les serveurs et les ordinateurs des employés, entraînant une situation de crise. Bien que des mesures immédiates aient été prises pour isoler les serveurs, il est possible que des données personnelles sensibles aient été compromises. Les catégories de données potentiellement affectées incluent le nom, le prénom, l'adresse, la date et le lieu de naissance, le numéro PESEL, le numéro de pièce d'identité, le numéro de téléphone, l'adresse e-mail et les prénoms des parents. Les autorités compétentes, y compris le CSIRT NASK et la Police, ont été informées.",
+      "description": "",
+      "title": "Uwaga. Atak cybernetyczny w Urzędzie Miejskim w Nowej Rudzie",
+      "url": "https://klodzko24.eu/wiadomosci/uwaga-atak-cybernetyczny-w-urzedzie-miejskim-w-nowej-rudzie/QERlbEmnuRQShWvTP1TB",
+      "added": "2026-06-24",
+      "infostealer": {
+        "update": "2026-06-24T16:30:05",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 1,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-06-23",
       "victim": "Bajaj Auto Limited",
@@ -111,6 +134,29 @@
         "thirdparties": 0,
         "employees_url": 0,
         "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-06-18",
+      "victim": "Stadttheater Gießen",
+      "domain": "stadttheater-giessen.de",
+      "country": "DE",
+      "summary": "Le Stadttheater Gießen a été victime d'une cyberattaque menée par un groupe qualifié de « hautement professionnel et mondial ». L'attaque, survenue le 18 juin, a rendu inaccessibles toutes les données et sauvegardes du théâtre. Bien que les canaux de communication réguliers soient hors service, les représentations se poursuivent normalement. La direction a mis en place une équipe de crise et estime que la remise en état de tous les systèmes prendra plusieurs mois.",
+      "description": "",
+      "title": "Cyberangriff trifft Stadttheater Gießen: „Wir spielen weiter“",
+      "url": "https://www.mittelhessen.de/lokales/kreis-giessen/giessen/cyberangriff-auf-stadttheater-giessen-wir-spielen-weiter-5818068",
+      "added": "2026-06-24",
+      "infostealer": {
+        "update": "2026-06-24T17:00:06",
+        "employees": 0,
+        "users": 2,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 2,
         "last_employee_compromised": null,
         "last_user_compromised": null,
         "infostealer_stats": {}

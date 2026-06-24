@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3703,
+  "count": 3704,
   "results": [
     {
       "date": "2026-06-23",
@@ -22475,6 +22475,29 @@
         "thirdparties": 0,
         "employees_url": 0,
         "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-07-20",
+      "victim": "Agrolab's",
+      "domain": "agrolabs.fr",
+      "country": "FR",
+      "summary": "Le laboratoire d'analyses Agrolab's, plus grand laboratoire interprofessionnel laitier français, a subi une cyberattaque massive qui l'a paralysé pendant neuf jours. Bien que fortement impacté, l'entreprise s'est rétablie grâce à des sauvegardes épargnées et a atteint un chiffre d'affaires record de 20 M€. L'attaque, qui a touché l'intégralité de son système d'information, n'a pas nécessité de rançon. L'entreprise a subi des pertes financières de 250 000 € et a renforcé ses dispositifs de sécurité. Malgré l'incident, Agrolab's a maintenu une performance notable, atteignant 80 % de ses objectifs.",
+      "description": "",
+      "title": "La cyberattaque qui aurait pu sceller le sort du plus gros labo interprofessionnel laitier",
+      "url": "https://www.reussir.fr/agriculture-massif-central/la-cyberattaque-qui-aurait-pu-sceller-le-sort-du-plus-gros-labo-interprofessionnel-laitier",
+      "added": "2026-06-24",
+      "infostealer": {
+        "update": "2026-06-24T06:00:06",
+        "employees": 0,
+        "users": 2,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 1,
         "last_employee_compromised": null,
         "last_user_compromised": null,
         "infostealer_stats": {}

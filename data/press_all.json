@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3723,
+  "count": 3724,
   "results": [
     {
       "date": "2026-06-25",
@@ -644,6 +644,32 @@
         "infostealer_stats": {}
       },
       "ransomware": null
+    },
+    {
+      "date": "2026-06-11",
+      "victim": "National Association of Insurance Commissioners (NAIC)",
+      "domain": "naic.org",
+      "country": "US",
+      "summary": "La National Association of Insurance Commissioners (NAIC) a été victime d'une cyberattaque le 11 juin, exploitant une vulnérabilité zero-day dans ses systèmes Oracle PeopleSoft. Le groupe d'extorsion ShinyHunters a revendiqué l'attaque. La NAIC a confirmé que des informations réglementaires sensibles et des données d'agences de notation de crédit ont été exposées. Des groupes de l'industrie et des think tanks ont critiqué la NAIC pour ses failles de sécurité, son manque de communication et le délai de divulgation de l'incident.",
+      "description": "",
+      "title": "NAIC criticized over network flaws and communication after cyberattack",
+      "url": "https://insurancenewsnet.com/innarticle/naic-criticized-over-network-flaws-and-communication-after-cyberattack",
+      "added": "2026-06-26",
+      "infostealer": {
+        "update": "2026-06-18T04:25:32",
+        "employees": 7,
+        "users": 384,
+        "thirdparties": 6,
+        "employees_url": 8,
+        "users_url": 42,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "shinyhunters",
+        "permalink": "https://www.ransomware.live/id/TkFJQy5vcmdAc2hpbnlodW50ZXJz"
+      }
     },
     {
       "date": "2026-06-11",

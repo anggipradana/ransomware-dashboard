@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3725,
+  "count": 3726,
   "results": [
     {
       "date": "2026-06-25",
@@ -8621,6 +8621,29 @@
         "thirdparties": 1,
         "employees_url": 1,
         "users_url": 1,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-02-02",
+      "victim": "Ministère de la Transition Écologique (Espagne)",
+      "domain": "miteco.gob.es",
+      "country": "ES",
+      "summary": "Le visualisateur national de la qualité de l'air est hors service depuis février en raison d'une cyberattaque. Ce dysfonctionnement empêche les citoyens d'accéder facilement aux données sur les pics d'ozone, un gaz irritant qui augmente fortement pendant les vagues de chaleur. Les mesures continuent d'être prises et envoyées à la Commission Européenne, mais l'interface publique unifiée est inaccessible, forçant les utilisateurs à consulter des portails régionaux fragmentés. Les organisations écologistes dénoncent ce 'vide informationnel' critique, tandis que le ministère assure que la réparation est imminente sans donner de délai précis.",
+      "description": "",
+      "title": "Lo que el hackeo del ministerio te oculta sobre la contaminación durante la ola de calor",
+      "url": "https://www.que.es/2026/06/27/contaminacion-aire-ola-calor-hackeo/",
+      "added": "2026-06-27",
+      "infostealer": {
+        "update": "2026-06-27T12:00:06",
+        "employees": 0,
+        "users": 14,
+        "thirdparties": 1,
+        "employees_url": 0,
+        "users_url": 3,
         "last_employee_compromised": null,
         "last_user_compromised": null,
         "infostealer_stats": {}

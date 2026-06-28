@@ -11,23 +11,23 @@
     {
       "group": "Ailock",
       "ioc_types": {
-        "sha256": 1,
-        "md5": 1
+        "md5": 1,
+        "sha256": 1
       }
     },
     {
       "group": "Akira",
       "ioc_types": {
+        "md5": 321,
         "sha256": 37,
-        "btc": 7,
-        "md5": 321
+        "btc": 7
       }
     },
     {
       "group": "Anubis",
       "ioc_types": {
-        "md5": 25,
         "twitter": 1,
+        "md5": 25,
         "ip": 4
       }
     },
@@ -46,19 +46,19 @@
     {
       "group": "Beast",
       "ioc_types": {
-        "sha256": 1,
-        "session": 1,
-        "tox": 1,
         "mail": 8,
-        "ip": 1
+        "sha256": 1,
+        "tox": 1,
+        "ip": 1,
+        "session": 1
       }
     },
     {
       "group": "Benzona",
       "ioc_types": {
-        "sha256": 1,
         "pgp": 9,
         "md5": 1,
+        "sha256": 1,
         "tox": 1,
         "ip": 1
       }
@@ -104,8 +104,8 @@
     {
       "group": "Bluebox",
       "ioc_types": {
-        "email": 1,
-        "tox": 1
+        "tox": 1,
+        "email": 1
       }
     },
     {
@@ -118,16 +118,16 @@
     {
       "group": "Bqtlock",
       "ioc_types": {
+        "twitter": 1,
         "telegram": 5,
-        "xmr": 1,
-        "twitter": 1
+        "xmr": 1
       }
     },
     {
       "group": "BrainCipher",
       "ioc_types": {
-        "email": 3,
-        "md5": 12
+        "md5": 12,
+        "email": 3
       }
     },
     {
@@ -145,8 +145,8 @@
     {
       "group": "Chaos",
       "ioc_types": {
-        "sha256": 3,
         "md5": 3,
+        "sha256": 3,
         "ip": 3
       }
     },
@@ -173,8 +173,8 @@
     {
       "group": "Crypto24",
       "ioc_types": {
-        "email": 1,
-        "ip": 1
+        "ip": 1,
+        "email": 1
       }
     },
     {
@@ -186,18 +186,18 @@
     {
       "group": "Datacarry",
       "ioc_types": {
-        "sha256": 2,
-        "email": 1,
-        "session": 1,
         "md5": 1,
-        "ip": 2
+        "sha256": 2,
+        "ip": 2,
+        "session": 1,
+        "email": 1
       }
     },
     {
       "group": "Devman",
       "ioc_types": {
-        "tox": 1,
         "twitter": 1,
+        "tox": 1,
         "ip": 3
       }
     },
@@ -230,15 +230,15 @@
     {
       "group": "GDLockrSec",
       "ioc_types": {
-        "tox": 1,
-        "twitter": 1
+        "twitter": 1,
+        "tox": 1
       }
     },
     {
       "group": "Ghostsec",
       "ioc_types": {
-        "sha256": 4,
         "url": 5,
+        "sha256": 4,
         "ip": 1
       }
     },
@@ -270,9 +270,9 @@
     {
       "group": "Interlock",
       "ioc_types": {
-        "sha256": 3,
         "md5": 9,
         "url": 4,
+        "sha256": 3,
         "ip": 3
       }
     },
@@ -286,8 +286,8 @@
       "group": "Kawa4096",
       "ioc_types": {
         "sha256": 1,
-        "email": 1,
-        "tox": 1
+        "tox": 1,
+        "email": 1
       }
     },
     {
@@ -325,9 +325,9 @@
       "group": "Medusa",
       "ioc_types": {
         "telegram": 1,
-        "email": 2,
         "md5": 18,
-        "tox": 3
+        "tox": 3,
+        "email": 2
       }
     },
     {
@@ -354,8 +354,8 @@
       "ioc_types": {
         "telegram": 2,
         "sha256": 2,
-        "email": 4,
-        "tox": 1
+        "tox": 1,
+        "email": 4
       }
     },
     {
@@ -368,8 +368,8 @@
     {
       "group": "Nova",
       "ioc_types": {
-        "session": 1,
-        "tox": 1
+        "tox": 1,
+        "session": 1
       }
     },
     {
@@ -394,8 +394,8 @@
     {
       "group": "Pear",
       "ioc_types": {
-        "email": 1,
-        "tox": 1
+        "tox": 1,
+        "email": 1
       }
     },
     {
@@ -407,25 +407,25 @@
     {
       "group": "Qilin",
       "ioc_types": {
-        "ftp": 2,
         "md5": 60,
-        "ip": 8
+        "ip": 8,
+        "ftp": 2
       }
     },
     {
       "group": "Radar",
       "ioc_types": {
-        "session": 1,
-        "tox": 1
+        "tox": 1,
+        "session": 1
       }
     },
     {
       "group": "RaLord",
       "ioc_types": {
-        "session": 1,
         "md5": 2,
         "tox": 2,
-        "ip": 1
+        "ip": 1,
+        "session": 1
       }
     },
     {
@@ -496,9 +496,9 @@
     {
       "group": "Termite",
       "ioc_types": {
-        "md5": 2,
-        "sha-256": 2,
         "sha-1": 2,
+        "sha-256": 2,
+        "md5": 2,
         "ip": 2
       }
     },
@@ -512,8 +512,8 @@
     {
       "group": "Thegreenbloodgroup",
       "ioc_types": {
-        "email": 1,
-        "tox": 1
+        "tox": 1,
+        "email": 1
       }
     },
     {
@@ -531,10 +531,10 @@
     {
       "group": "VanHelsing",
       "ioc_types": {
-        "btc": 2,
         "md5": 7,
         "tox": 1,
-        "ip": 2
+        "ip": 2,
+        "btc": 2
       }
     },
     {

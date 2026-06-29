@@ -4,8 +4,31 @@
     "month": null,
     "country": null
   },
-  "count": 3726,
+  "count": 3733,
   "results": [
+    {
+      "date": "2026-06-28",
+      "victim": "Prefeitura da Barra dos Coqueiros",
+      "domain": "barradoscoqueiros.se.gov.br",
+      "country": "BR",
+      "summary": "La municipalité de Barra dos Coqueiros a identifié une tentative d'attaque cybernétique contre les serveurs de technologie de l'administration municipale. Les équipes responsables ont pris toutes les mesures techniques nécessaires pour maintenir la situation sous contrôle et préserver le fonctionnement des systèmes. Étant donné que l'incident implique des systèmes publics et des données sensibles, la gestion municipale a immédiatement alerté la Police Civile et la Police Fédérale pour les procédures d'enquête.",
+      "description": "",
+      "title": "Prefeitura da Barra dos Coqueiros reforça segurança dos sistemas após identificar tentativa de ataque cibernético e aciona forças policiais",
+      "url": "https://www.barradoscoqueiros.se.gov.br/noticias/prefeitura-da-barra-dos-coqueiros-reforça-segurança-dos-sistemas-após-identificar-tentativa",
+      "added": "2026-06-29",
+      "infostealer": {
+        "update": "2026-06-29T11:00:08",
+        "employees": 0,
+        "users": 20,
+        "thirdparties": 12,
+        "employees_url": 0,
+        "users_url": 4,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-06-25",
       "victim": "Ukrposhta",
@@ -146,6 +169,42 @@
         }
       },
       "ransomware": null
+    },
+    {
+      "date": "2026-06-23",
+      "victim": "AYA Bank",
+      "domain": "ayabank.com",
+      "country": "MM",
+      "summary": "AYA Bank in Myanmar reported a cyber attack targeting its digital infrastructure. The attack specifically affected an outdated application portal, leading to the alleged leakage of some customer information. The bank confirmed that its core banking systems, including the AYA Pay wallet and card payment systems, remained unaffected. The attack was attributed to a hacker group calling itself 'Lapsus$'.",
+      "description": "",
+      "title": "ããã£ã³ãã¼ãï¼¡ï¼¹ï¼¡éã«ãµã¤ãã¼æ»æãåºå¹¹ç³»ã¯å½±é¿ãªãï¼»éèï¼½ | ãããã¬ï¼ãã©ã¹",
+      "url": "https://www.chiba-tv.com/plus/detail/2026061795611",
+      "added": "2026-06-29",
+      "infostealer": {
+        "update": "2026-06-26T18:11:39.458303",
+        "employees": 16,
+        "users": 297,
+        "thirdparties": 92,
+        "employees_url": 7,
+        "users_url": 20,
+        "last_employee_compromised": "2025-06-10T13:16:18+00:00",
+        "last_user_compromised": "2026-06-19T00:00:00+00:00",
+        "infostealer_stats": {
+          "Azorult": 2,
+          "UNKNOWN": 7,
+          "StealC": 13,
+          "Lumma": 16,
+          "Mystic": 1,
+          "Vidar": 10,
+          "RedLine": 157,
+          "Raccoon": 20,
+          "Generic Stealer": 34
+        }
+      },
+      "ransomware": {
+        "group": "lapsus$",
+        "permalink": "https://www.ransomware.live/id/QVlBIEJBTktAbGFwc3VzJA=="
+      }
     },
     {
       "date": "2026-06-23",
@@ -430,6 +489,29 @@
     },
     {
       "date": "2026-06-17",
+      "victim": "SLEEMAN BREWERIES LTD.",
+      "domain": "sleemanbreweries.ca",
+      "country": "CA",
+      "summary": "Sapporo Holdings Corporation a annoncé qu'elle avait détecté des accès non autorisés à deux de ses filiales étrangères, POKKA PTE. LTD. et SLEEMAN BREWERIES LTD. Ces accès ont été identifiés suite à la détection de journaux de communication suspects. Les deux filiales ont isolé les systèmes concernés et mènent des enquêtes avec l'aide d'experts externes. À ce jour, aucun impact n'a été constaté sur les activités nationales de la société, et il n'y a pas de lien de causalité établi entre les accès non autorisés des deux filiales.",
+      "description": "",
+      "title": "サッポロホールディングスの海外2社に不正アクセス | ScanNetSecurity",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/06/29/55590.html",
+      "added": "2026-06-29",
+      "infostealer": {
+        "update": "2026-06-29T12:00:08",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 2,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-06-17",
       "victim": "Pricon Microelectronics",
       "domain": "pricon.com.ph",
       "country": "PH",
@@ -573,6 +655,29 @@
           "RedLine": 18,
           "StealC": 1
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-06-14",
+      "victim": "POKKA PTE. LTD.",
+      "domain": "pokka.co",
+      "country": "SG",
+      "summary": "Sapporo Holdings Corporation a annoncé qu'elle avait détecté des accès non autorisés à deux de ses filiales étrangères, POKKA PTE. LTD. et SLEEMAN BREWERIES LTD. Ces accès ont été détectés suite à des journaux de communication suspects. Les deux filiales ont isolé les systèmes concernés et mènent une enquête avec l'aide d'experts externes. À ce jour, l'impact sur les activités nationales de la société n'a pas été confirmé, et il n'y a pas de lien de causalité établi entre les accès non autorisés des deux filiales.",
+      "description": "",
+      "title": "サッポロホールディングスの海外2社に不正アクセス | ScanNetSecurity",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/06/29/55590.html",
+      "added": "2026-06-29",
+      "infostealer": {
+        "update": "2026-06-29T11:30:08",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },
@@ -4914,6 +5019,28 @@
           "Generic Stealer": 18,
           "UNKNOWN": 1
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-03-30",
+      "victim": "Kootenai County",
+      "domain": "kcgov.us",
+      "country": "US",
+      "summary": "Le comté a détecté et traité une attaque par rançongiciel sur son réseau le 30 mars 2026, mobilisant immédiatement ses conseillers juridiques et une firme nationale de cybersécurité pour en limiter l'impact, restaurer ses systèmes et mener l'enquête, tout en notifiant les forces de l'ordre fédérales. Dans le cadre de cette enquête, une société tierce a analysé les données affectées et, le 22 juin 2026, le comté a déterminé que des informations personnelles avaient fait l'objet d'une acquisition non autorisée au sens de la loi de l'Idaho. Le comté va donc notifier par écrit les personnes concernées et leur proposer, le cas échéant, un service gratuit de surveillance du crédit.",
+      "title": "Data Breach Notification",
+      "url": "https://www.ag.idaho.gov/content/uploads/2026/06/2026.06.23-Kootenai-County.pdf",
+      "added": "2026-06-24",
+      "infostealer": {
+        "update": "2026-06-29T12:30:08",
+        "employees": 0,
+        "users": 11,
+        "thirdparties": 1,
+        "employees_url": 0,
+        "users_url": 13,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },
@@ -9290,6 +9417,29 @@
         "thirdparties": 0,
         "employees_url": 0,
         "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-01-22",
+      "victim": "Xsolis",
+      "domain": "xsolis.com",
+      "country": "US",
+      "summary": "Xsolis a découvert le 22 janvier 2026 une intrusion résultant d'une attaque de phishing ciblée et a immédiatement interrompu l'incident, contenu la menace et supprimé l'accès non autorisé. L'entreprise a engagé des experts externes en cybersécurité et alerté les forces de l'ordre, et aucune activité non autorisée n'a depuis été détectée, pas plus qu'il n'existe de preuve d'une mauvaise utilisation des données impactées.",
+      "title": "Data Breach Notification",
+      "url": "https://oag.ca.gov/ecrime/databreach/reports/sb24-625166",
+      "added": "2026-06-20",
+      "pdf_url": "https://oag.ca.gov/system/files/Xsolis_CA_Individual%20Notification%20Exemplar%20%2806.19.26%29.pdf",
+      "infostealer": {
+        "update": "2026-06-29T12:30:09",
+        "employees": 0,
+        "users": 1,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 1,
         "last_employee_compromised": null,
         "last_user_compromised": null,
         "infostealer_stats": {}
@@ -47386,6 +47536,32 @@
         "infostealer_stats": {}
       },
       "ransomware": null
+    },
+    {
+      "date": "2024-11-03",
+      "victim": "Jones Mayer",
+      "domain": "jones-mayer.com",
+      "country": "US",
+      "summary": "Jones Mayer suffered a data breach between August 22, 2024, and November 7, 2024, where an unauthorized actor accessed certain systems and copied files. The breach may have impacted personal information related to individuals, including names and other sensitive data. A cyberattack was claimed by Hunters International on November 23, 2024.",
+      "title": "Data Breach Notification",
+      "url": "https://oag.ca.gov/ecrime/databreach/reports/sb24-625089",
+      "added": "2026-06-19",
+      "pdf_url": "https://oag.ca.gov/system/files/Jones%20Mayer%20-%20Notice%20of%20Data%20Event%20-%20CA_0.pdf",
+      "infostealer": {
+        "update": "2024-11-23T16:09:20",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "hunters",
+        "permalink": "https://www.ransomware.live/id/Sm9uZXMgJiBNYXllckBodW50ZXJz"
+      }
     },
     {
       "date": "2024-11-03",

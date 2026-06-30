@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3733,
+  "count": 3735,
   "results": [
     {
       "date": "2026-06-28",
@@ -7784,6 +7784,29 @@
     },
     {
       "date": "2026-02-18",
+      "victim": "Northern Technologies International Corp.",
+      "domain": "ntic.com",
+      "country": "US",
+      "summary": "Northern Technologies International Corp. (NTIC), une société de produits chimiques basée dans le Minnesota, a subi une violation de données suite à une attaque par ransomware. L'incident s'est produit entre le 13 et le 18 février 2026. Le groupe de ransomware Chaos a revendiqué l'attaque le 26 février 2026, affirmant avoir obtenu 400 Go de données. NTIC a confirmé le 5 juin 2026 que les informations compromises incluaient les noms complets, les numéros de sécurité sociale et les permis de conduire. La société a commencé à informer les personnes affectées le 26 juin 2026 et offre des services de surveillance de crédit gratuits aux personnes dont le numéro de sécurité sociale a été compromis.",
+      "description": "",
+      "title": "NTIC Data Breach: Social Security Numbers Exposed",
+      "url": "https://www.claimdepot.com/data-breach/northern-technologies-international-corporation-2026",
+      "added": "2026-06-29",
+      "infostealer": {
+        "update": "2026-06-29T17:30:07",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-02-18",
       "victim": "Texollini, Inc.",
       "domain": "texollini.com",
       "country": "US",
@@ -11745,6 +11768,37 @@
           "RedLine": 1,
           "Lumma": 1,
           "Generic Stealer": 2
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-12-11",
+      "victim": "FLEXium Interconnect, Inc.",
+      "domain": "flexium.com.tw",
+      "country": "TW",
+      "summary": "Flexium a subi sa première cyberattaque depuis l'ouverture de son usine à la fin de l'année dernière. L'attaque a été détectée le 11 décembre 2025, et l'entreprise a réagi en débranchant immédiatement les systèmes pour empêcher l'accès des pirates. Grâce à l'intervention de son équipe informatique et à une réponse rapide, l'entreprise a réussi à neutraliser la menace en 72 heures et à rétablir les opérations en 10 jours, renforçant ainsi sa culture de cybersécurité.",
+      "description": "",
+      "title": "毀滅性災難恐讓心血歸零，台郡科技現身說法「抓鬼」 | 遠見雜誌",
+      "url": "https://www.gvm.com.tw/article/131132",
+      "added": "2026-06-30",
+      "infostealer": {
+        "update": "2026-05-04T08:15:11",
+        "employees": 2,
+        "users": 37,
+        "thirdparties": 2,
+        "employees_url": 3,
+        "users_url": 15,
+        "last_employee_compromised": "2025-01-31T10:20:40+00:00",
+        "last_user_compromised": "2026-01-21T21:43:38.060000+00:00",
+        "infostealer_stats": {
+          "Raccoon": 1,
+          "RedLine": 14,
+          "Lumma": 13,
+          "StealC": 4,
+          "Generic Stealer": 5,
+          "Mystic": 1,
+          "UNKNOWN": 1
         }
       },
       "ransomware": null

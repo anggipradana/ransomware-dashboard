@@ -4,8 +4,31 @@
     "month": null,
     "country": null
   },
-  "count": 3739,
+  "count": 3742,
   "results": [
+    {
+      "date": "2026-06-30",
+      "victim": "Flexi Parking",
+      "domain": "flexi-parking.com",
+      "country": "MY",
+      "summary": "Le système Flexi Parking, utilisé par 64 autorités locales à travers le pays, a été victime d'une cyberattaque. L'incident, qui a été signalé la veille, a affecté les données de transaction et les systèmes associés. En conséquence, les autorités locales ont été instruites de suspendre l'émission des contraventions de stationnement pendant les travaux de restauration.",
+      "description": "",
+      "title": "Selangor confirms Flexi Parking cyberattack, suspends parking summons during outage",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/01/selangor-confirms-flexi-parking-cyberattack-suspends-parking-summons-during-outage/225930",
+      "added": "2026-07-01",
+      "infostealer": {
+        "update": "2026-07-01T09:00:07",
+        "employees": 0,
+        "users": 3,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 3,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-06-29",
       "victim": "District of Columbia Housing Authority",
@@ -936,6 +959,51 @@
         "infostealer_stats": {}
       },
       "ransomware": null
+    },
+    {
+      "date": "2026-06-10",
+      "victim": "PChome / Pi Wallet",
+      "domain": "pchome.com.tw",
+      "country": "TW",
+      "summary": "The third-party payment service Pi Wallet, operated by PChome, was targeted by the ransomware group Settra. Settra claimed to have infiltrated the system on June 10th, exfiltrating 102GB of data, including sensitive personal information for 3.5 million users. The leaked data reportedly encompasses user records, transaction history, employee HR files, and nine years of operational records. Authorities have initiated administrative checks to investigate the data breach and ensure compliance with personal data protection laws. PChome's main corporate systems were initially reported to be unaffected by the attack, according to the company's response.",
+      "description": "",
+      "title": "母公司喊安、子公司爆外洩？PChome 與比比昂面臨暗網威脅與個資外流的雙重考驗",
+      "url": "https://cyberq.tw/2026/06/30/nethome-group-is-caught-in-a-double/",
+      "added": "2026-07-01",
+      "infostealer": {
+        "update": "2026-06-28T19:50:02",
+        "employees": 3242,
+        "users": 32063,
+        "thirdparties": 3785,
+        "employees_url": 87,
+        "users_url": 100,
+        "last_employee_compromised": "2026-06-24T00:00:00+00:00",
+        "last_user_compromised": "2026-06-24T00:00:00+00:00",
+        "infostealer_stats": {
+          "Raccoon": 1816,
+          "RedLine": 8852,
+          "StealC": 4440,
+          "Lumma": 6672,
+          "Vidar": 1240,
+          "KPOT": 5,
+          "Azorult": 279,
+          "CRYPTBOT": 174,
+          "Predator": 9,
+          "Generic Stealer": 8430,
+          "DarkCrystal": 4,
+          "Mystic": 45,
+          "Taurus": 12,
+          "UNKNOWN": 366,
+          "Ficker": 37,
+          "Acreed": 312,
+          "Aura Stealer": 2,
+          "Atomic": 51
+        }
+      },
+      "ransomware": {
+        "group": "settra",
+        "permalink": "https://www.ransomware.live/id/cGNob21lLmNvbS50d0BzZXR0cmE="
+      }
     },
     {
       "date": "2026-06-10",
@@ -45450,6 +45518,29 @@
         "employees": 0,
         "users": 0,
         "thirdparties": 6,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2024-11-28",
+      "victim": "North Los Angeles County Regional Center",
+      "domain": "nlarc.org",
+      "country": "US",
+      "summary": "North Los Angeles County Regional Center experienced a data incident in November 2024, involving unauthorized access to personal information, but no identity theft or fraud was reported. A cyberattack was claimed by Medusa on December 15, 2024.",
+      "title": "Data Breach Notification",
+      "url": "https://oag.ca.gov/ecrime/databreach/reports/sb24-625748",
+      "added": "2026-07-01",
+      "pdf_url": "https://oag.ca.gov/system/files/NLACRC%20Adult%20Notice%20Ltr.pdf",
+      "infostealer": {
+        "update": "2026-07-01T11:00:08",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 0,
         "employees_url": 0,
         "users_url": 0,
         "last_employee_compromised": null,

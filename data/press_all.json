@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3742,
+  "count": 3746,
   "results": [
     {
       "date": "2026-06-30",
@@ -177,6 +177,39 @@
         "last_employee_compromised": null,
         "last_user_compromised": null,
         "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-06-24",
+      "victim": "Indra Group",
+      "domain": "indracompany.com",
+      "country": "ES",
+      "summary": "Indra a affirmé avoir garanti la sécurité et la continuité de ses services après qu'une de ses filiales a été visée par une cyberattaque par rançongiciel, son équipe CSIRT ayant immédiatement activé les protocoles internes d'analyse et de vérification des environnements potentiellement compromis. L'entreprise a souligné que la propagation du risque au reste du groupe a été écartée et que ses opérations se sont maintenues normalement à tout moment, l'incident s'étant révélé minimal et limité à un environnement non critique, faisant l'objet de mesures de confinement, d'éradication et de récupération. Indra poursuit une enquête exhaustive pour établir l'origine de l'attaque et continue de renforcer ses contrôles et procédures de cybersécurité afin d'assurer la protection de ses systèmes et la continuité de ses services.",
+      "description": "",
+      "title": "403 ERROR",
+      "url": "https://www.democrata.es/en/economy/indra-ensures-the-continuity-of-its-services-after-a-ransomware-cyberattack-on-a-subsidiary/",
+      "added": "2026-07-01",
+      "infostealer": {
+        "update": "2026-07-01T15:30:10",
+        "employees": 84,
+        "users": 18,
+        "thirdparties": 902,
+        "employees_url": 7,
+        "users_url": 9,
+        "last_employee_compromised": "2025-11-25T00:00:00+00:00",
+        "last_user_compromised": "2025-01-21T18:59:05+00:00",
+        "infostealer_stats": {
+          "UNKNOWN": 2,
+          "Atomic": 1,
+          "Vidar": 2,
+          "Generic Stealer": 19,
+          "Azorult": 7,
+          "RedLine": 39,
+          "StealC": 1,
+          "Raccoon": 11,
+          "Lumma": 17
+        }
       },
       "ransomware": null
     },
@@ -1726,6 +1759,29 @@
     },
     {
       "date": "2026-05-28",
+      "victim": "Nacogdoches County",
+      "domain": "nacogdochesco.gov",
+      "country": "US",
+      "summary": "Le comté de Nacogdoches, au Texas, a été victime d'une attaque par hameçonnage (phishing) qui a perturbé l'accès aux fiches de paie en ligne. L'incident, survenu le 28 mai, a affecté un nombre limité d'anciens employés du bureau du shérif. Bien que les services d'urgence, les finances du comté et les opérations du shérif soient restés opérationnels, l'accès public à certaines informations du shérif était limité en raison de la transition vers un nouveau site web. Le comté n'a pas précisé si des données ont été consultées ou volées.",
+      "description": "",
+      "title": "Nacogdoches County, Texas, phishing attack disrupts payroll access",
+      "url": "https://dysruptionhub.com/nacogdoches-county-phishing-payroll/",
+      "added": "2026-07-01",
+      "infostealer": {
+        "update": "2026-07-01T14:30:07",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-05-28",
       "victim": "Landeszentrale für politische Bildung",
       "domain": "lpb.rlp.de",
       "country": "DE",
@@ -1814,6 +1870,29 @@
         "employees": 0,
         "users": 0,
         "thirdparties": 3,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-05-24",
+      "victim": "La Sauvegarde",
+      "domain": "sauvegarde47.fr",
+      "country": "FR",
+      "summary": "L'association agenaise La Sauvegarde est touchée par une cyberattaque depuis le 24 mai 2026. Cette piraterie informatique a privé les employés de l'accès à leurs outils professionnels (boîtes mail, services internes, Internet), entraînant des retards dans les services essentiels, notamment le placement des enfants. Les salariés et les syndicats (CGT, CFDT) dénoncent non seulement la crise informatique, mais aussi des problèmes de gouvernance et des tensions internes persistantes. Une mobilisation syndicale est prévue le 2 juillet à Agen pour protester contre la situation et le retard de versement des salaires de juin.",
+      "description": "",
+      "title": "\"Il faut mettre un terme à cette situation de souffrance des salariés\" : à Agen, l’association La Sauvegarde, en pleine crise informatique et sociale, se mobilise le 2 juillet",
+      "url": "https://www.ladepeche.fr/2026/07/01/il-faut-mettre-un-terme-a-cette-situation-de-souffrance-des-salaries-a-agen-lassociation-la-sauvegarde-en-pleine-crise-informatique-et-sociale-se-13446972.php",
+      "added": "2026-07-01",
+      "infostealer": {
+        "update": "2026-05-04T08:22:31",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 0,
         "employees_url": 0,
         "users_url": 0,
         "last_employee_compromised": null,
@@ -3131,6 +3210,29 @@
         "group": "shinyhunters",
         "permalink": "https://www.ransomware.live/id/SW5zdHJ1Y3R1cmUgSG9sZGluZ3MsIEluYy4gKENhbnZhIExNUywgaW5zdHJ1Y3R1cmUuY29tKUBzaGlueWh1bnRlcnM="
       }
+    },
+    {
+      "date": "2026-04-30",
+      "victim": "Beausoleil",
+      "domain": "villedebeausoleil.fr",
+      "country": "FR",
+      "summary": "La mairie de Beausoleil a confirmé avoir été victime d'une cyberattaque fin avril 2026, causée par une faiblesse de son pare-feu. Bien que des perturbations aient affecté certains services municipaux (état civil, guichet unique, médiathèque) entre le 1er mai et le 9 mai, la municipalité affirme qu'aucune donnée n'a été extraite et que l'incident n'a eu aucune conséquence grave. La ville a depuis renforcé sa sécurité en résolvant la faiblesse du réseau wifi interne et en mettant en place un double contrôle d'identification.",
+      "description": "",
+      "title": "La mairie de Beausoleil victime d’une cyberattaque ? « Un avertissement sans frais » répond la municipalité",
+      "url": "https://www.nicematin.com/faits-divers/la-mairie-de-beausoleil-victime-d-une-cyberattaque-un-avertissement-sans-frais-repond-la-municipalite-10686768",
+      "added": "2026-07-01",
+      "infostealer": {
+        "update": "2026-07-01T14:30:07",
+        "employees": 1,
+        "users": 0,
+        "thirdparties": 1,
+        "employees_url": 1,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
     },
     {
       "date": "2026-04-30",

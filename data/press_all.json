@@ -211,7 +211,10 @@
           "Lumma": 17
         }
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "thegentlemen",
+        "permalink": "https://www.ransomware.live/id/SW5kcmEgR3JvdXBAdGhlZ2VudGxlbWVu"
+      }
     },
     {
       "date": "2026-06-24",
@@ -564,7 +567,10 @@
         "last_user_compromised": null,
         "infostealer_stats": {}
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "thegentlemen",
+        "permalink": "https://www.ransomware.live/id/U3RhZHR0aGVhdGVyIEdpZXNzZW5AdGhlZ2VudGxlbWVu"
+      }
     },
     {
       "date": "2026-06-18",
@@ -1611,7 +1617,10 @@
         "last_user_compromised": null,
         "infostealer_stats": {}
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "thegentlemen",
+        "permalink": "https://www.ransomware.live/id/QXUgVmlldXggQ2FtcGV1ckB0aGVnZW50bGVtZW4="
+      }
     },
     {
       "date": "2026-06-02",

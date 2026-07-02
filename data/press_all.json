@@ -4,8 +4,100 @@
     "month": null,
     "country": null
   },
-  "count": 3746,
+  "count": 3753,
   "results": [
+    {
+      "date": "2026-07-02",
+      "victim": "Laster Tech Co., Ltd.",
+      "domain": "lastertech.com",
+      "country": "TW",
+      "summary": "Laster Tech a été victime d'une cyberattaque ciblant ses systèmes d'information. Suite à la détection de l'attaque, ce fabricant de composants pour éclairages à LED a immédiatement activé ses mécanismes de défense et fait appel à des experts externes. Les systèmes concernés ont pu reprendre leurs opérations normales de manière progressive. L'évaluation préliminaire indique que l'impact sur les opérations de l'entreprise ne sera pas significatif. L'entreprise prévoit de corriger les vulnérabilités de sécurité et d'améliorer continuellement ses contrôles de sécurité.",
+      "description": "",
+      "title": "Today's Information",
+      "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=161748&spoke_date=20260702&co_id=3346",
+      "added": "2026-07-02",
+      "infostealer": {
+        "update": "2026-07-02T11:30:07",
+        "employees": 0,
+        "users": 3,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 3,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-07-01",
+      "victim": "Gogolook Co., Ltd.",
+      "domain": "gogolook.com",
+      "country": "TW",
+      "summary": "Gogolook, éditeur de solutions SaaS de prévention de la fraude et de services de gestion des risques, a détecté un incident de cybersécurité impliquant des tentatives d'accès non autorisées à son environnement de serveur de test. L'équipe de cybersécurité a activé des mécanismes de défense et est en cours d'enquête avec des partenaires externes. L'enquête actuelle indique qu'aucune donnée personnelle des membres ni information confidentielle interne n'a été consultée. L'entreprise prévoit de renforcer ses mesures de protection pour assurer la sécurité des données.",
+      "description": "",
+      "title": "Today's Information",
+      "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=193811&spoke_date=20260701&co_id=6902",
+      "added": "2026-07-02",
+      "infostealer": {
+        "update": "2026-07-02T11:30:08",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 2,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-06-30",
+      "victim": "Furtwangen",
+      "domain": "furtwangen.de",
+      "country": "DE",
+      "summary": "La municipalité de Furtwangen a été victime d'une cyberattaque, découverte le 30 juin. Bien que les services soient actuellement perturbés et que les bureaux soient fermés, la ville a confirmé qu'il n'y a pas eu d'accès aux registres ni aux données de signalement des citoyens. La ville travaille en collaboration avec l'agence de cybersécurité du Bade-Wurtemberg et la police criminelle pour enquêter sur l'incident. Les autorités locales ont mis en place une ligne d'assistance téléphonique pour les citoyens.",
+      "description": "",
+      "title": "Cyber-Angriff legt die Stadtverwaltung Furtwangen lahm – das sind die Folgen",
+      "url": "https://www.suedkurier.de/schwarzwald/cyber-angriff-auf-die-stadtverwaltung-furtwangen-114629086",
+      "added": "2026-07-02",
+      "infostealer": {
+        "update": "2026-07-02T15:00:08",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-06-30",
+      "victim": "Abans Financial Services",
+      "domain": "abans.co.in",
+      "country": "IN",
+      "summary": "Abans Financial Services a révélé avoir été victime d'une cyberattaque par ransomware ciblant l'infrastructure informatique de ses filiales à l'étranger, suite à une alerte de CERT-In le 30 juin 2026. L'entreprise a confirmé que ses propres systèmes n'étaient pas affectés et que l'incident n'a eu aucun impact matériel sur ses opérations. Elle est en train de surveiller la situation et de mettre en œuvre des mesures correctives.",
+      "description": "",
+      "title": "Abans Financial Services Reports Ransomware Attack on Overseas Subsidiaries",
+      "url": "https://scanx.trade/stock-market-news/companies/abans-financial-services-reports-ransomware-attack-on-overseas-subsidiary/44513844",
+      "added": "2026-07-02",
+      "infostealer": {
+        "update": "2026-07-02T07:00:08",
+        "employees": 5,
+        "users": 1,
+        "thirdparties": 6,
+        "employees_url": 6,
+        "users_url": 1,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-06-30",
       "victim": "Flexi Parking",
@@ -26,6 +118,41 @@
         "last_employee_compromised": null,
         "last_user_compromised": null,
         "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-06-29",
+      "victim": "León de Los Aldama",
+      "domain": "leon.gob.mx",
+      "country": "MX",
+      "summary": "León, Guanajuato, a été victime d'une cyberattaque qui a compromis les informations du Système de Service aux Citoyens. En réponse à cette intrusion numérique, le gouvernement de León a déposé une plainte pénale auprès du Ministère Public de l'État pour mener une enquête approfondie. Les autorités ont également mis en place un rapport technique et maintiennent un suivi institutionnel pour déterminer l'étendue réelle de l'incident.",
+      "description": "",
+      "title": "Gobierno de León interpone denuncia tras ciberataque al sistema de servicios de León",
+      "url": "https://paginacentral.com.mx/local/2026/jul/01/gobierno-de-leon-interpone-denuncia-tras-ciberataque-al-sistema-de-servicios-de-leon-65893.html",
+      "added": "2026-07-02",
+      "infostealer": {
+        "update": "2026-07-02T07:30:08",
+        "employees": 2,
+        "users": 1417,
+        "thirdparties": 28,
+        "employees_url": 3,
+        "users_url": 100,
+        "last_employee_compromised": "2024-05-26T20:47:40+00:00",
+        "last_user_compromised": "2026-06-23T00:00:00+00:00",
+        "infostealer_stats": {
+          "Azorult": 6,
+          "RedLine": 568,
+          "UNKNOWN": 12,
+          "Lumma": 221,
+          "Atomic": 2,
+          "DarkCrystal": 7,
+          "Mystic": 2,
+          "Generic Stealer": 212,
+          "Vidar": 23,
+          "StealC": 66,
+          "Raccoon": 109
+        }
       },
       "ransomware": null
     },
@@ -110,6 +237,29 @@
       "added": "2026-06-30",
       "infostealer": {
         "update": "2026-06-30T10:30:07",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-06-25",
+      "victim": "Atlas Elektronik (TKMS)",
+      "domain": "tkmsgroup.com",
+      "country": "DE",
+      "summary": "Atlas Elektronik, une filiale de TKMS (ThyssenKrupp Marine Systems), un géant de la défense allemand, a été victime d'une cyberattaque. L'attaque a ciblé la succursale nord-américaine de l'entreprise, qui gère des projets pour l'armée américaine. Bien que l'entreprise ait confirmé que les données militaires sensibles n'ont pas été compromises, des documents administratifs généraux et des listes de fichiers ont été exposés sur le darknet. L'attaque est attribuée au groupe de ransomware russe 'The Gentleman', qui est considéré comme une menace hybride croissante. Les autorités allemandes ont averti que la région de Brême est une cible prioritaire pour les menaces hybrides.",
+      "description": "",
+      "title": "Mutmaßlich russische Hacker attackieren Bremer Rüstungsfirma - buten un binnen",
+      "url": "https://www.butenunbinnen.de/nachrichten/tkms-hacker-bremen-100.html",
+      "added": "2026-07-02",
+      "infostealer": {
+        "update": "2026-07-02T07:00:07",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -3310,6 +3460,29 @@
         "thirdparties": 1,
         "employees_url": 2,
         "users_url": 4,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-04-29",
+      "victim": "Park Dental Research",
+      "domain": "parkdentalresearch.com",
+      "country": "US",
+      "summary": "Le fabricant d'implants dentaires Park Dental Research Corporation a été victime d'une cyberattaque par ransomware, entraînant une fuite de données sensibles. L'attaque a eu lieu aux alentours du 29 avril. Le groupe de hackers INTERLOCK a revendiqué la responsabilité de la brèche le 11 mai, affirmant avoir obtenu 260 gigaoctets de données. Les informations exposées incluent des noms, des numéros de sécurité sociale, des dates de naissance, des adresses, des permis de conduire, des informations de passeport et des données financières.",
+      "description": "",
+      "title": "Dental implant manufacturer hit with ransomware attack - Becker’s Dental Review - DSO + Dental News",
+      "url": "https://www.beckersdental.com/supply-chain/dental-implant-manufacturer-hit-with-ransomware-attack/",
+      "added": "2026-07-02",
+      "infostealer": {
+        "update": "2026-07-02T07:30:08",
+        "employees": 0,
+        "users": 7,
+        "thirdparties": 3,
+        "employees_url": 0,
+        "users_url": 2,
         "last_employee_compromised": null,
         "last_user_compromised": null,
         "infostealer_stats": {}

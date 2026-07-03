@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3753,
+  "count": 3758,
   "results": [
     {
       "date": "2026-07-02",
@@ -332,6 +332,32 @@
     },
     {
       "date": "2026-06-24",
+      "victim": "GSP Crop Science Ltd.",
+      "domain": "gspcrop.in",
+      "country": "IN",
+      "summary": "GSP Crop Science Ltd. a été victime d'une cyberattaque par ransomware qui a affecté ses systèmes informatiques non essentiels (non-core IT systems). L'entreprise a assuré que ses opérations critiques, telles que la production, les ventes et la finance, n'ont pas été perturbées. Elle a mis en place des protocoles de réponse aux incidents et fait appel à des experts en cybersécurité pour gérer la situation. Une cyberattaque a été revendiquée par INC Ransom le 25 juin.",
+      "description": "",
+      "title": "GSP Crop Science ला सायबर हल्ल्याचा फटका! पण कंपनीने सांगितले - 'व्यवसाय सुरळीत सुरू आहे'",
+      "url": "https://www.whalesbook.com/corporate-news/Marathi/technology/GSP-Crop-Science-flags-ransomware-attack-critical-operations-unaffected/6a46ae497e4cc8ec72e39ad4",
+      "added": "2026-07-03",
+      "infostealer": {
+        "update": "2026-06-26T18:06:24.351727",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 7,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "incransom",
+        "permalink": "https://www.ransomware.live/id/R1NQIENyb3AgU2NpZW5jZSBQdnRAaW5jcmFuc29t"
+      }
+    },
+    {
+      "date": "2026-06-24",
       "victim": "Indra Group",
       "domain": "indracompany.com",
       "country": "ES",
@@ -445,6 +471,29 @@
           "Acreed": 5,
           "CRYPTBOT": 1
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-06-23",
+      "victim": "Akron Public Schools",
+      "domain": "akronschools.com",
+      "country": "US",
+      "summary": "Akron Public Schools a confirmé qu'une panne de réseau récente, qui a perturbé les activités de l'école d'été, était due à un « incident cybernétique ». L'incident a été détecté et contenu par l'équipe de sécurité informatique du district le 2 juillet, suite à un événement survenu le 23 juin, entraînant la fermeture de tous les bâtiments et l'annulation des activités d'école d'été le 24 juin. Le district travaille actuellement avec des experts externes pour déterminer la nature et l'étendue de l'incident.",
+      "description": "",
+      "title": "Akron Public Schools investigating scope of cyber incident",
+      "url": "https://www.beaconjournal.com/story/news/education/2026/07/02/akron-schools-says-cyber-incident-led-to-summer-school-cancellations/90788783007/",
+      "added": "2026-07-03",
+      "infostealer": {
+        "update": "2026-07-03T07:00:11",
+        "employees": 0,
+        "users": 2,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 1,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },
@@ -1424,6 +1473,67 @@
           "RedLine": 2,
           "Lumma": 2
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-06-08",
+      "victim": "Navient Corporation",
+      "domain": "navient.com",
+      "country": "US",
+      "summary": "Navient Corporation, une entreprise américaine de services de prêts étudiants, a subi un incident de cybersécurité où le cabinet d'avocats tiers qui lui fournit des services a été victime d'une attaque par rançongiciel. Cette attaque a entraîné la fuite de données personnelles de prêteurs, incluant leur nom, date de naissance, adresse et numéro de sécurité sociale (SSN). Navient a immédiatement lancé une enquête avec l'aide d'experts externes et a notifié les parties concernées et les autorités réglementaires. L'entreprise a précisé que l'incident était limité au système du cabinet d'avocats et qu'aucune preuve d'accès non autorisé à ses propres systèmes n'a été trouvée, n'entraînant aucune interruption des services.",
+      "description": "",
+      "title": "내비언트, 협력 법률사무소 랜섬웨어 공격으로 고객 정보 유출... \"자체 시스템 영향 없어\"",
+      "url": "https://www.datatooza.com/article/202607030526063758cd1e79274c_80",
+      "added": "2026-07-03",
+      "infostealer": {
+        "update": "2026-07-03T07:30:08",
+        "employees": 0,
+        "users": 10177,
+        "thirdparties": 17,
+        "employees_url": 0,
+        "users_url": 94,
+        "last_employee_compromised": "1970-01-01T00:00:00+00:00",
+        "last_user_compromised": "2026-06-30T00:00:00+00:00",
+        "infostealer_stats": {
+          "Raccoon": 497,
+          "Atomic": 23,
+          "Generic Stealer": 2683,
+          "RedLine": 2283,
+          "Azorult": 1418,
+          "UNKNOWN": 195,
+          "Lumma": 1247,
+          "DarkCrystal": 2,
+          "Taurus": 6,
+          "StealC": 88,
+          "Acreed": 22,
+          "Mystic": 2,
+          "Vidar": 251,
+          "CRYPTBOT": 15
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-06-08",
+      "victim": "Gendai Butsudan",
+      "domain": "gendaibutudan.com",
+      "country": "JP",
+      "summary": "La société Gendai Butsudan a annoncé qu'une fuite potentielle de données personnelles, suite à un accès non autorisé, avait été découverte le 8 juin. L'entreprise a pris des mesures pour bloquer l'accès externe au réseau concerné et mène une enquête approfondie avec des experts externes. Elle a confirmé que les données potentiellement compromises n'incluaient pas d'informations financières susceptibles de causer un préjudice matériel (comme les informations de carte de crédit).",
+      "description": "",
+      "title": "現代仏壇に不正アクセス、親会社である株式会社はせがわが保有する個人情報には影響無し | ScanNetSecurity",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/07/03/55630.html",
+      "added": "2026-07-03",
+      "infostealer": {
+        "update": "2026-07-03T07:30:07",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },
@@ -5957,6 +6067,32 @@
         "infostealer_stats": {}
       },
       "ransomware": null
+    },
+    {
+      "date": "2026-03-23",
+      "victim": "Shun Hing Group",
+      "domain": "shunhinggroup.com",
+      "country": "HK",
+      "summary": "Le groupe Shun Hing, un distributeur d'appareils de premier plan à Hong Kong, a été victime d'une cyberattaque qui a compromis les informations personnelles de plus de 1 million de personnes. L'Office du Commissaire à la protection des données a lancé une enquête après avoir reçu un rapport de violation de données de la part de l'entreprise. Les données affectées incluent les noms, adresses et adresses e-mail des clients, ainsi que des informations sensibles (numéros de carte d'identité, détails bancaires et salaires) pour environ 1 000 employés. Une cyberattaque avait été revendiquée par LockBit 5.0 le 14 avril.",
+      "description": "",
+      "title": "Cyberattack on Hong Kong’s Shun Hing Group affects data of 1 million people",
+      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3359218/cyberattack-hong-kongs-shun-hing-group-affects-data-1-million-people",
+      "added": "2026-07-03",
+      "infostealer": {
+        "update": "2026-04-14T10:49:25",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "lockbit5",
+        "permalink": "https://www.ransomware.live/id/c2h1bmhpbmdncm91cC5jb21AbG9ja2JpdDU="
+      }
     },
     {
       "date": "2026-03-23",

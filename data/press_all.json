@@ -4,8 +4,69 @@
     "month": null,
     "country": null
   },
-  "count": 3761,
+  "count": 3764,
   "results": [
+    {
+      "date": "2026-07-05",
+      "victim": "Comté de Pennington",
+      "domain": "pennington.sd.us",
+      "country": "US",
+      "summary": "Le comté de Pennington, dans le Dakota du Sud, est en train de gérer un incident de cybersécurité affectant certaines parties de son réseau. En réponse, la plupart des bureaux publics du comté seront fermés le lundi 6 juillet, tandis que les autorités travaillent à la restauration sécurisée des systèmes. Les services essentiels, tels que le 911 et les opérations de sécurité publique, restent opérationnels. L'enquête est en cours avec l'aide de plusieurs agences, et l'étendue complète de l'incident est encore inconnue.",
+      "description": "",
+      "title": "Pennington Co. responding to cybersecurity incident",
+      "url": "https://www.keloland.com/news/local-news/pennington-co-responding-to-cybersecurity-incident/amp/",
+      "added": "2026-07-06",
+      "infostealer": {
+        "update": "2026-07-06T09:30:07",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-07-03",
+      "victim": "Université d'Alicante",
+      "domain": "ua.es",
+      "country": "ES",
+      "summary": "L'Université d'Alicante a été victime d'un grave tentative de cyberattaque qui a partiellement paralysé plusieurs de ses systèmes internes, notamment des outils du campus virtuel. Bien que le 'malware' ait pénétré certains serveurs secondaires, les équipes de sécurité ont réussi à stopper l'attaque. L'université confirme qu'aucune information sensible (données personnelles, économiques ou académiques) n'a été filtrée et que les systèmes nucléaires n'ont pas été affectés. Les services suspendus sont en cours de restauration pour garantir la sécurité.",
+      "description": "",
+      "title": "La Universidad de Alicante sufre el mayor intento de ciberataque de su historia | TodoAlicante",
+      "url": "https://www.todoalicante.es/educacion/ciberataque-paraliza-universidad-alicante-20260706084007-nt.html",
+      "added": "2026-07-06",
+      "infostealer": {
+        "update": "2026-07-06T09:00:09",
+        "employees": 1351,
+        "users": 1531,
+        "thirdparties": 438,
+        "employees_url": 100,
+        "users_url": 100,
+        "last_employee_compromised": "2026-07-03T12:09:01+00:00",
+        "last_user_compromised": "2026-06-29T00:00:00+00:00",
+        "infostealer_stats": {
+          "Vidar": 101,
+          "Lumma": 462,
+          "CRYPTBOT": 8,
+          "Generic Stealer": 448,
+          "StealC": 122,
+          "Acreed": 7,
+          "Mystic": 3,
+          "Atomic": 5,
+          "DarkCrystal": 1,
+          "Azorult": 130,
+          "Ficker": 1,
+          "RedLine": 944,
+          "Raccoon": 345,
+          "UNKNOWN": 28
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-07-03",
       "victim": "Acosol",
@@ -1114,9 +1175,9 @@
       "url": "https://www.claimdepot.com/investigations/one-medical-data-breach-2026",
       "added": "2026-06-22",
       "infostealer": {
-        "update": "2026-06-22T12:00:07",
+        "update": "2026-07-06T05:54:21.662941",
         "employees": 4,
-        "users": 684,
+        "users": 703,
         "thirdparties": 14,
         "employees_url": 4,
         "users_url": 36,
@@ -1124,7 +1185,10 @@
         "last_user_compromised": null,
         "infostealer_stats": {}
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "shinyhunters",
+        "permalink": "https://www.ransomware.live/id/QW1hem9uIG93bmVkIE9uZU1lZGljYWwuY29tQHNoaW55aHVudGVycw=="
+      }
     },
     {
       "date": "2026-06-12",
@@ -2746,6 +2810,29 @@
           "Generic Stealer": 3,
           "StealC": 3
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-05-14",
+      "victim": "Nihon Shisan Souken",
+      "domain": "nssg.co.jp",
+      "country": "JP",
+      "summary": "La société Nihon Shisan Souken, une filiale de Aoyama Zaisan Network, a publié un deuxième rapport concernant une cyberattaque par rançongiciel survenue le 14 mai. L'attaque, détectée le 9 mai, a entraîné le chiffrement des fichiers sur les serveurs de la société et de sa filiale, Daito Fudosan Co., Ltd., ainsi que la possible exfiltration des données stockées. Bien qu'aucun incident de fuite de données n'ait été confirmé à ce stade, l'entreprise mène une enquête approfondie avec des experts externes. Elle a repris ses activités après avoir vérifié la sécurité des systèmes et collabore avec des avocats externes, la Commission de protection des informations personnelles, la Direction financière de Kanto et le Ministère du Transport de Terre, en plus de consulter la police. L'entreprise a également annoncé l'introduction de l'EDR pour renforcer sa sécurité.",
+      "description": "",
+      "title": "日本資産総研へランサムウェア攻撃、専門家調査で安全性を確認 | ScanNetSecurity",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/07/06/55639.html",
+      "added": "2026-07-06",
+      "infostealer": {
+        "update": "2026-07-06T09:30:08",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },

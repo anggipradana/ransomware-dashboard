@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3764,
+  "count": 3768,
   "results": [
     {
       "date": "2026-07-05",
@@ -84,6 +84,29 @@
         "thirdparties": 0,
         "employees_url": 0,
         "users_url": 29,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-07-02",
+      "victim": "Spedidam",
+      "domain": "spedidam.fr",
+      "country": "FR",
+      "summary": "Spedidam a été victime d'une cyberattaque de type ransomware visant son système d'information. L'entreprise a déposé plainte et informé la CNIL et l'ANSSI. Bien qu'aucune exfiltration de données personnelles ne soit confirmée à ce stade, des investigations sont en cours pour évaluer les conséquences de l'incident. Le nouvel espace Artiste n'est pas impacté et son lancement est maintenu. L'attaque a été revendiquée par \"The Gentlemen\" le 6 juillet.",
+      "description": "",
+      "title": "Point d’information – Incident de sécurité informatique",
+      "url": "https://www.spedidam.fr/presse/incident-de-securite-informatique/?fbclid=IwY2xjawS4jRBleHRuA2FlbQIxMABzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEejCOcVJick3n9hfb_wzxrCYNh0dFN9c2oqDLb1CB9vTOuZj7wz2KjgiMbsfE_aem_40VHFRzEOHT66_rrPtrlgQ",
+      "added": "2026-07-06",
+      "infostealer": {
+        "update": "2026-07-06T14:00:07",
+        "employees": 0,
+        "users": 35,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 17,
         "last_employee_compromised": null,
         "last_user_compromised": null,
         "infostealer_stats": {}
@@ -367,6 +390,29 @@
       "added": "2026-06-30",
       "infostealer": {
         "update": "2026-06-30T10:30:07",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-06-26",
+      "victim": "Comté de Delaware",
+      "domain": "delcopa.gov",
+      "country": "US",
+      "summary": "Le comté de Delaware, en Pennsylvanie, a été victime d'une activité non autorisée et de tentatives d'intrusion qui ont perturbé ses services publics, ses serveurs et ses lignes téléphoniques à partir du 26 juin 2026. Après avoir initialement qualifié l'incident de panne de réseau, le comté a confirmé qu'il s'agissait d'une intrusion. Bien que les services aient été rétablis, le comté travaille toujours avec des spécialistes en cybersécurité pour confirmer la sécurité du réseau. L'incident fait suite à un précédent incident de rançongiciel en 2021.",
+      "description": "",
+      "title": "Delaware County, Pennsylvania investigates network intrusion after outage",
+      "url": "https://dysruptionhub.com/delaware-county-pa-outage-cyber-questions/",
+      "added": "2026-07-06",
+      "infostealer": {
+        "update": "2026-07-06T12:30:07",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -717,6 +763,29 @@
           "RedLine": 176,
           "Generic Stealer": 97
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-06-22",
+      "victim": "Wise County Sheriff’s Office",
+      "domain": "wise.tx.us",
+      "country": "US",
+      "summary": "Le Bureau du Shérif du comté de Wise, au Texas, a été victime de cyberattaques qui ont perturbé ses systèmes d'enregistrement et l'ont contraint à suspendre les délais de publication des documents publics. Les systèmes ont été touchés à deux reprises, empêchant le personnel d'accéder aux dossiers ou d'imprimer les demandes d'information publique. Les demandes enregistrées ont été perdues et devront être reconstruites à partir de fichiers d'e-mails. Bien que la période de suspension ait pris fin, il n'est pas précisé si les systèmes ont été restaurés.",
+      "description": "",
+      "title": "Wise County Sheriff’s Office hack disrupts Texas records access",
+      "url": "https://dysruptionhub.com/wise-county-sheriff-texas-hack/",
+      "added": "2026-07-06",
+      "infostealer": {
+        "update": "2026-07-06T15:30:07",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },
@@ -1608,6 +1677,32 @@
         }
       },
       "ransomware": null
+    },
+    {
+      "date": "2026-06-08",
+      "victim": "Acworth",
+      "domain": "acworth-ga.gov",
+      "country": "US",
+      "summary": "La ville d'Acworth a été victime d'une cyberattaque contre certains de ses systèmes informatiques le 8 juin 2026. Les services municipaux continuent de fonctionner normalement et aucune opération quotidienne n'a été affectée selon les autorités. Les forces de l'ordre ont été informées et mènent une enquête sur l'incident.",
+      "description": "",
+      "title": "Acworth reports cyberattack on city computer systems",
+      "url": "https://www.mdjonline.com/news/local/acworth-reports-cyberattack-on-city-computer-systems/article_551f7dbc-c4e3-4c39-8030-97b00631ba79.html",
+      "added": "2026-07-06",
+      "infostealer": {
+        "update": "2026-07-02T16:31:30",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "incransom",
+        "permalink": "https://www.ransomware.live/id/YWN3b3J0aC1nYS5nb3ZAaW5jcmFuc29t"
+      }
     },
     {
       "date": "2026-06-08",

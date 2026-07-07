@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3771,
+  "count": 3773,
   "results": [
     {
       "date": "2026-07-05",
@@ -4314,6 +4314,38 @@
     },
     {
       "date": "2026-04-20",
+      "victim": "Kubota USA",
+      "domain": "kubotausa.com",
+      "country": "US",
+      "summary": "Kubota USA a notifié un incident de sécurité concernant les dossiers des employés. Les informations potentiellement compromises incluent le numéro de sécurité sociale, la date de naissance, le numéro d'identification fiscale, les informations de compte financier pour le dépôt direct, les informations de carte de paiement et les informations d'inscription aux avantages sociaux. Pour les personnes à charge, les informations incluent le nom, le numéro de sécurité sociale et les informations d'inscription aux avantages sociaux.",
+      "description": "",
+      "title": "Notice of Security Incident",
+      "url": "https://www.kubotausa.com/notice-of-security-incident",
+      "added": "2026-07-07",
+      "infostealer": {
+        "update": "2026-07-07T12:30:08",
+        "employees": 2,
+        "users": 34,
+        "thirdparties": 0,
+        "employees_url": 3,
+        "users_url": 11,
+        "last_employee_compromised": "2024-09-18T18:05:39+00:00",
+        "last_user_compromised": "2026-05-18T10:54:59+00:00",
+        "infostealer_stats": {
+          "StealC": 1,
+          "RedLine": 4,
+          "Generic Stealer": 10,
+          "Acreed": 1,
+          "Azorult": 2,
+          "Lumma": 4,
+          "Raccoon": 1,
+          "Vidar": 4
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-04-20",
       "victim": "ADT",
       "domain": "adt.com",
       "country": "US",
@@ -7587,6 +7619,29 @@
         "thirdparties": 25,
         "employees_url": 19,
         "users_url": 11,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-03-08",
+      "victim": "Autohaus-Gruppe Heister",
+      "domain": "heistergruppe.de",
+      "country": "DE",
+      "summary": "L'Autohaus-Gruppe Heister a été victime d'une cyberattaque qui a paralysé ses opérations (e-mails, PC, téléphonie, gestion des données clients, etc.). Grâce à un filet de sécurité mis en place par Telenetwork de Trier, l'entreprise a pu être sauvée et son système a été redémarré. L'attaque a été revendiquée par Qilin le 10 avril.",
+      "description": "",
+      "title": "Cyberattacke im Autohaus: Hacker legen Heister lahm: Wie Telenetwork aus Trier das System neu startet",
+      "url": "https://www.volksfreund.de/region/rheinland-pfalz/trier-auto-heister-gruppe-lahmgelegt-it-rettung-von-telenetwork_aid-150866277",
+      "added": "2026-07-07",
+      "infostealer": {
+        "update": "2026-05-04T19:37:04",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 0,
         "last_employee_compromised": null,
         "last_user_compromised": null,
         "infostealer_stats": {}

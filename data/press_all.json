@@ -183,7 +183,10 @@
         "last_user_compromised": null,
         "infostealer_stats": {}
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "thegentlemen",
+        "permalink": "https://www.ransomware.live/id/U3BlZGlkYW1AdGhlZ2VudGxlbWVu"
+      }
     },
     {
       "date": "2026-07-02",

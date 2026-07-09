@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3776,
+  "count": 3778,
   "results": [
     {
       "date": "2026-07-06",
@@ -3451,6 +3451,29 @@
           "Raccoon": 1,
           "UNKNOWN": 2
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-05-07",
+      "victim": "Champaign-Urbana Public Health District",
+      "domain": "c-uphd.org",
+      "country": "US",
+      "summary": "Le District de Santé Public de Champaign-Urbana a détecté une activité suspecte sur son réseau informatique début mai. Une personne non autorisée a copié des fichiers, potentiellement contenant des informations personnelles des résidents, telles que des numéros de sécurité sociale, des informations financières, des noms, des adresses, des dates de naissance, des informations de traitement et d'assurance maladie. Une cyberattaque a été revendiquée par INC Ransom le 1er juin.",
+      "description": "",
+      "title": "Illinois Health Department Reveals a ‘Data Security Event’",
+      "url": "https://www.govtech.com/security/illinois-health-department-reveals-a-data-security-event",
+      "added": "2026-07-09",
+      "infostealer": {
+        "update": "2026-07-09T16:00:08",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },
@@ -53433,6 +53456,32 @@
       "title": "Data Breach Notifications",
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/5ef8db77-a4fd-46a0-99d3-19688c4f0434.html",
       "added": "2025-05-06",
+      "infostealer": {
+        "update": "2024-10-24T18:37:50",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "interlock",
+        "permalink": "https://www.ransomware.live/id/RHJ1ZyBhbmQgQWxjb2hvbCBUcmVhdG1lbnQgU2VydmljZUBpbnRlcmxvY2s="
+      }
+    },
+    {
+      "date": "2024-10-05",
+      "victim": "Drug and Alcohol Treatment Services, Inc.",
+      "domain": "datsrecovery.org",
+      "country": "US",
+      "summary": "Drug and Alcohol Treatment Services, Inc., basée à Scranton, Pennsylvanie, a accepté de régler une action collective suite à une cyberattaque par ransomware et une violation de données survenue en octobre 2024. L'attaque a entraîné le vol des informations de santé et personnelles de 22 215 patients et employés. Le règlement prévoit un fonds de 549 000 $ pour couvrir les pertes des membres de la classe. Le groupe Interlock a revendiqué l'attaque, et les poursuites portaient sur la négligence et le manquement à protéger les données sensibles.",
+      "description": "",
+      "title": "Drug and Alcohol Treatment Services Settles Data Breach Litigation",
+      "url": "https://www.hipaajournal.com/drug-and-alcohol-treatment-services-class-action-data-breach-litigation/",
+      "added": "2026-07-09",
       "infostealer": {
         "update": "2024-10-24T18:37:50",
         "employees": 0,

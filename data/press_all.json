@@ -4,8 +4,31 @@
     "month": null,
     "country": null
   },
-  "count": 3778,
+  "count": 3781,
   "results": [
+    {
+      "date": "2026-07-07",
+      "victim": "Winkler",
+      "domain": "winkler.ca",
+      "country": "CA",
+      "summary": "La ville de Winkler, au Manitoba, a été touchée par un incident de cybersécurité le mardi matin. Les systèmes de protection ont détecté l'incident, obligeant les autorités à isoler les systèmes affectés et à mettre hors ligne certains services municipaux par précaution. Les systèmes téléphoniques et de paiement sont actuellement indisponibles. La ville a engagé des experts externes et la police a été informée. Pour l'instant, il n'est pas connu si des informations personnelles ont été compromises.",
+      "description": "",
+      "title": "City of Winkler hit by cyberattack",
+      "url": "https://www.winnipegfreepress.com/breakingnews/2026/07/09/city-of-winkler-hit-by-cyberattack",
+      "added": "2026-07-10",
+      "infostealer": {
+        "update": "2026-07-10T07:30:07",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-07-06",
       "victim": "Phibee Telecom",
@@ -1085,6 +1108,29 @@
       "added": "2026-06-22",
       "infostealer": {
         "update": "2026-06-22T11:00:06",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-06-20",
+      "victim": "Todd, Hamaker & Johnson, LLP",
+      "domain": "cpaonpoint.com",
+      "country": "US",
+      "summary": "Un cabinet comptable de Lufkin, Todd, Hamaker & Johnson, LLP, a été listé par le groupe de ransomware Akira. Ce groupe prétend avoir volé environ 40 gigaoctets de données sensibles de clients et d'employés, y compris des dossiers financiers, des contrats, des numéros de sécurité sociale, des permis de conduire et des passeports, et menace de les publier.",
+      "description": "",
+      "title": "Lufkin accounting firm listed by Akira ransomware group",
+      "url": "https://lufkindailynews.com/news/local/lufkin-accounting-firm-listed-by-akira-ransomware-group/article_73c9c7d8-9bae-5b0d-98c1-8802baa49d9a.html",
+      "added": "2026-07-10",
+      "infostealer": {
+        "update": "2026-07-10T07:00:07",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -8417,6 +8463,29 @@
           "StealC": 1,
           "Lumma": 4
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-03-02",
+      "victim": "Seed Planning",
+      "domain": "seedplanning.co.jp",
+      "country": "JP",
+      "summary": "La société Seed Planning a publié les résultats de son enquête concernant l'accès non autorisé à son système, signalé initialement le 6 mars. L'intrusion a commencé par l'exploitation d'une vulnérabilité PHP sur un serveur d'application web exposé depuis juin 2024, permettant ensuite l'infiltration du réseau interne à partir de février 2026. L'attaquant a obtenu des droits d'administrateur de domaine, ce qui a conduit à l'installation et à l'exécution d'un rançongiciel sur certains systèmes. Il existe une possibilité de fuite de documents de réunion internes (incluant des informations de gestion et des données personnelles des employés) depuis le serveur d'application web. Les serveurs AD ont été compromis, entraînant la fuite d'informations sur les domaines, les hôtes et les comptes. Cependant, l'entreprise a conclu que les informations personnelles des clients n'ont pas été divulguées, car aucun transfert de fichiers n'a été détecté sur les serveurs de fichiers ou les PC. En réponse, Seed Planning a abandonné le serveur d'application web concerné et a reconstruit l'intégralité de son réseau d'entreprise avec de nouvelles mesures de sécurité, incluant l'authentification multi-facteurs et une surveillance renforcée. L'entreprise s'engage également à renforcer sa gouvernance de sécurité et à former l'ensemble de ses employés.",
+      "description": "",
+      "title": "シード・プランニングにランサムウェア攻撃、顧客から預かった個人情報は流出していないと判断 | ScanNetSecurity",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/07/10/55678.html",
+      "added": "2026-07-10",
+      "infostealer": {
+        "update": "2026-07-10T07:30:07",
+        "employees": 0,
+        "users": 9,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 5,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },

@@ -4,8 +4,44 @@
     "month": null,
     "country": null
   },
-  "count": 3782,
+  "count": 3784,
   "results": [
+    {
+      "date": "2026-07-09",
+      "victim": "Comté de Covasna",
+      "domain": "http://prefecturacovasna.ro",
+      "country": "RO",
+      "summary": "Les sites web des municipalités de Baraolt et de Ghidfalău sont hors service depuis plusieurs jours après avoir été la cible d'une cyberattaque. Les autorités locales travaillent avec des entreprises de maintenance pour rétablir les plateformes. Le maire de Baraolt a annoncé qu'il demanderait le soutien du Directionat Național de Securitate Cibernetică. Le maire de Ghidfalău a précisé qu'aucune donnée sensible n'est stockée sur la plateforme. Les autorités espèrent que les services en ligne seront rétablis rapidement.",
+      "description": "",
+      "title": "Atac cibernetic asupra site-urilor primăriilor din Baraolt și Ghidfalău - Radio Romania Targu Mures",
+      "url": "https://www.radiomures.ro/stiri/atac-cibernetic-asupra-site-urilor-primariilor-din-baraolt-si-ghidfalau.html",
+      "added": "2026-07-11",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-07-08",
+      "victim": "Ville de Carros",
+      "domain": "ville-carros.fr",
+      "country": "FR",
+      "summary": "La Ville de Carros a confirmé être victime d'une cyberattaque qui a rendu son site internet municipal indisponible. Les équipes techniques travaillent au rétablissement des services, mais la nature exacte de l'attaque et l'existence d'une fuite de données n'ont pas été confirmées. Les démarches administratives peuvent se poursuivre via l'accueil de la mairie.",
+      "description": "",
+      "title": "La Ville de Carros confirme une cyberattaque ayant rendu son site internet indisponible",
+      "url": "https://frenchbreaches.com/alertes/la-ville-de-carros-mrf0dto099t20otrozs",
+      "added": "2026-07-11",
+      "infostealer": {
+        "update": "2026-07-11T11:00:07",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-07-07",
       "victim": "Winkler",

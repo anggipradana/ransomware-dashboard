@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3785,
+  "count": 3787,
   "results": [
     {
       "date": "2026-07-09",
@@ -17,6 +17,29 @@
       "url": "https://www.radiomures.ro/stiri/atac-cibernetic-asupra-site-urilor-primariilor-din-baraolt-si-ghidfalau.html",
       "added": "2026-07-11",
       "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-07-08",
+      "victim": "Pushpanjali Hospital Research Center Private Limited et Pushpanjali Group",
+      "domain": "pushpanjalihospital.com",
+      "country": "IN",
+      "summary": "Le centre de recherche Pushpanjali Hospital, situé à Delhi Gate, Agra, et le groupe Pushpanjali ont été victimes d'une cyberattaque par rançongiciel (ransomware) visant à obtenir une rançon. L'attaque a verrouillé les données importantes, les fichiers de sauvegarde et le logiciel téléphonique du serveur Windows de l'hôpital, perturbant ainsi son fonctionnement. Les autorités ont enregistré une plainte, et une enquête est en cours pour identifier les cybercriminels.",
+      "description": "",
+      "title": "Agra News: पुष्पांजलि अस्पताल पर फिरौती के लिए साइबर अटैक, ठप किया सर्वर; आगरा में पहला मामला",
+      "url": "https://www.amarujala.com/uttar-pradesh/agra/cyberattack-on-pushpanjali-hospital-for-extortion-in-agra-ransomware-attack-2026-07-12",
+      "added": "2026-07-13",
+      "infostealer": {
+        "update": "2026-07-13T10:30:07",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
       "ransomware": null
     },
     {
@@ -22830,6 +22853,32 @@
       "ransomware": {
         "group": "radar",
         "permalink": "https://www.ransomware.live/id/Q29tcGFnbmllIGRlcyBHdWlkZXMgZGUgQ2hhbW9uaXhAcmFkYXI="
+      }
+    },
+    {
+      "date": "2025-08-14",
+      "victim": "Centers Laboratory",
+      "domain": "centerslab.com",
+      "country": "US",
+      "summary": "Centers Laboratory, une entreprise de diagnostic de santé basée dans le New Jersey, a informé le gouvernement américain d'une violation de données découverte il y a près d'un an. L'intrusion, qui a eu lieu entre le 9 et le 14 août 2025, a permis aux acteurs de la menace d'exfiltrer des informations personnelles et de santé protégées de plus de 540 000 individus. Le groupe de cybercriminels WorldLeaks a revendiqué cette attaque le 6 octobre suivant.",
+      "description": "",
+      "title": "Centers Laboratory Data Breach Affects 540,000 Individuals",
+      "url": "https://www.securityweek.com/centers-laboratory-data-breach-affects-540000-individuals/amp/",
+      "added": "2026-07-13",
+      "infostealer": {
+        "update": "2025-10-06T12:19:06",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "worldleaks",
+        "permalink": "https://www.ransomware.live/id/Q2VudGVycyBMYWJvcmF0b3J5QHdvcmxkbGVha3M="
       }
     },
     {

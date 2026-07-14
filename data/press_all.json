@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3790,
+  "count": 3791,
   "results": [
     {
       "date": "2026-07-11",
@@ -26,6 +26,34 @@
         "last_employee_compromised": null,
         "last_user_compromised": null,
         "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-07-09",
+      "victim": "Loyalist College",
+      "domain": "loyalistcollege.com",
+      "country": "CA",
+      "summary": "Le Loyalist College fait face à des problèmes techniques majeurs à l'échelle de l'établissement, ayant mis hors service ses systèmes, services, internet et courriels. Un membre du personnel a indiqué à Quinte News que la perturbation était due à une menace cybernétique provenant d'une source externe, et que tous les systèmes étaient hors service. Les cours en ligne ont été suspendus, tandis que les cours en personne se poursuivent normalement. L'incident a débuté la semaine dernière.",
+      "description": "",
+      "title": "SOURCE: Cyber attack at Loyalist College",
+      "url": "https://www.quintenews.com/2026/07/14/source-cyber-attack-at-loyalist-college/",
+      "added": "2026-07-14",
+      "infostealer": {
+        "update": "2026-07-14T15:30:08",
+        "employees": 0,
+        "users": 10,
+        "thirdparties": 164,
+        "employees_url": 0,
+        "users_url": 2,
+        "last_employee_compromised": "1970-01-01T00:00:00+00:00",
+        "last_user_compromised": "2023-05-05T06:17:34+00:00",
+        "infostealer_stats": {
+          "RedLine": 6,
+          "Vidar": 1,
+          "Generic Stealer": 1,
+          "Raccoon": 3
+        }
       },
       "ransomware": null
     },

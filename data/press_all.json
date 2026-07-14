@@ -1416,7 +1416,7 @@
       "url": "https://scan.netsecurity.ne.jp/article/2026/06/29/55590.html",
       "added": "2026-06-29",
       "infostealer": {
-        "update": "2026-07-14T20:22:53",
+        "update": "2026-07-14T20:57:32.295580",
         "employees": 0,
         "users": 0,
         "thirdparties": 2,
@@ -1426,7 +1426,10 @@
         "last_user_compromised": null,
         "infostealer_stats": {}
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "chaos",
+        "permalink": "https://www.ransomware.live/id/c2xlZW1hbmJyZXdlcmllcy5jYUBjaGFvcw=="
+      }
     },
     {
       "date": "2026-06-17",

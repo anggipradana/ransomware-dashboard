@@ -4,8 +4,48 @@
     "month": null,
     "country": null
   },
-  "count": 3796,
+  "count": 3797,
   "results": [
+    {
+      "date": "2026-07-14",
+      "victim": "ANCPI",
+      "domain": "ancpi.ro",
+      "country": "RO",
+      "summary": "L'Agence Nationale du Cadastre et de la Publicité Immobilière (ANCPI) a annoncé avoir été victime d'une cyberattaque, entraînant la plus grande interruption technique de l'histoire de l'institution. Depuis le 14 juillet, tous les systèmes informatiques, y compris l'application e-Terra, sont hors service. L'ANCPI a assuré que les données administrées sont sécurisées et n'ont pas été compromises. Les enquêtes sont en cours pour déterminer la nature et les auteurs de l'attaque.",
+      "description": "",
+      "title": "Atac cibernetic la ANCPI. Sistemele de cadastru Èi carte funciarÄ rÄmÃ¢n nefuncÈionale pÃ¢nÄ la sfÃ¢rÈitul sÄptÄmÃ¢nii",
+      "url": "https://adevarul.ro/stiri-interne/evenimente/atac-cibernetic-la-ancpi-sistemele-de-cadastru-si-2543396.html",
+      "added": "2026-07-15",
+      "infostealer": {
+        "update": "2026-07-15T14:00:07",
+        "employees": 95,
+        "users": 4626,
+        "thirdparties": 14,
+        "employees_url": 18,
+        "users_url": 95,
+        "last_employee_compromised": "2026-07-13T18:50:34.762000+00:00",
+        "last_user_compromised": "2026-07-13T18:54:18.552000+00:00",
+        "infostealer_stats": {
+          "Mystic": 15,
+          "RedLine": 1676,
+          "Predator": 6,
+          "UNKNOWN": 42,
+          "Generic Stealer": 905,
+          "Acreed": 18,
+          "Vidar": 157,
+          "CRYPTBOT": 19,
+          "Raccoon": 359,
+          "StealC": 235,
+          "Azorult": 49,
+          "Taurus": 4,
+          "Lumma": 821,
+          "Atomic": 13,
+          "Ficker": 3,
+          "Aura Stealer": 1
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-07-13",
       "victim": "Hachioji Gakuen",

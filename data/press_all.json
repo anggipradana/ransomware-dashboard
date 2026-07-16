@@ -4,8 +4,31 @@
     "month": null,
     "country": null
   },
-  "count": 3799,
+  "count": 3805,
   "results": [
+    {
+      "date": "2026-07-14",
+      "victim": "TruStage",
+      "domain": "trustage.com",
+      "country": "US",
+      "summary": "TruStage, une société basée à Madison, Wisconsin, a dû mettre hors ligne son réseau suite à un incident de cybersécurité. Cette interruption a affecté certains services d'assurance offerts par des coopératives de crédit partenaires, notamment les réclamations d'assurance pour la protection des actifs garantis et la réparation mécanique. L'entreprise a engagé des experts externes pour contenir et enquêter sur l'incident, mais n'a pas encore précisé la cause de la compromission, l'étendue de l'impact ou si des données ont été compromises.",
+      "description": "",
+      "title": "Wisconsin-based TruStage shuts down network after cybersecurity incident",
+      "url": "https://dysruptionhub.com/trustage-cyber-incident-claims-outage/",
+      "added": "2026-07-16",
+      "infostealer": {
+        "update": "2026-07-16T13:00:08",
+        "employees": 0,
+        "users": 867,
+        "thirdparties": 2,
+        "employees_url": 0,
+        "users_url": 42,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-07-14",
       "victim": "ANCPI",
@@ -117,6 +140,32 @@
     },
     {
       "date": "2026-07-11",
+      "victim": "Solid Advance Co., Ltd.",
+      "domain": "solid-adv.co.jp",
+      "country": "JP",
+      "summary": "Solid Advance Co., Ltd. a détecté une infection par un logiciel malveillant sur certains de ses systèmes internes suite à un accès non autorisé depuis l'extérieur. En réponse, l'entreprise a mis en place des mesures d'urgence, notamment la coupure du réseau, ce qui a entraîné la suspension de certains services de systèmes d'entreprise hébergés sur le cloud externe. Bien qu'aucune victime n'ait été identifiée parmi les clients utilisant le package AllGather CRM, l'entreprise enquête sur la possibilité d'une fuite de données. Elle a également annoncé qu'elle signalerait rapidement l'incident à la Commission de protection des informations personnelles, conformément à la loi. Une cyberattaque a été revendiquée par Ailock le 15 juillet.",
+      "description": "",
+      "title": "当社システムへの不正アクセスの疑いに関するお知らせ",
+      "url": "https://www.solid-adv.co.jp/20260716-01/",
+      "added": "2026-07-16",
+      "infostealer": {
+        "update": "2026-07-15T09:20:28",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "AiLock",
+        "permalink": "https://www.ransomware.live/id/U29saWQgQWR2YW5jZSBJbmMuQEFpTG9jaw=="
+      }
+    },
+    {
+      "date": "2026-07-11",
       "victim": "Nihon Kotsu",
       "domain": "nihonkotsu.co.jp",
       "country": "JP",
@@ -127,6 +176,29 @@
       "added": "2026-07-14",
       "infostealer": {
         "update": "2026-07-14T09:30:07",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-07-09",
+      "victim": "Greene County",
+      "domain": "greenecountyga.gov",
+      "country": "US",
+      "summary": "Le comté de Greene, en Géorgie, a dû mettre hors ligne son réseau gouvernemental après avoir découvert un incident de cybersécurité le 9 juillet. Cet incident a perturbé le traitement des paiements et les services des bureaux fiscaux, judiciaires et administratifs. Les spécialistes en cybersécurité sont en train de reconstruire les systèmes. Les autorités ont indiqué qu'aucune preuve de consultation ou de suppression d'informations n'avait été trouvée, et que le système de communication 911 n'était pas affecté.",
+      "description": "",
+      "title": "Greene County, Georgia, cybersecurity incident disrupts county services",
+      "url": "https://dysruptionhub.com/greene-county-georgia-network-outage/",
+      "added": "2026-07-16",
+      "infostealer": {
+        "update": "2026-07-16T12:30:07",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,
@@ -967,6 +1039,38 @@
     },
     {
       "date": "2026-06-24",
+      "victim": "American Color Imaging",
+      "domain": "acilab.com",
+      "country": "US",
+      "summary": "ACI et Background Town subissent une panne temporaire de leurs systèmes. Bien que les commandes puissent toujours être passées, la communication peut être retardée. Les utilisateurs s'inquiètent de l'impact de cette panne sur le traitement des commandes et la fonctionnalité du site, notamment pour la création de comptes et la consultation de fichiers. Une cyberattaque a été revendiquée par Settra le 16 juillet.",
+      "description": "",
+      "title": "American Color Imaging",
+      "url": "https://www.facebook.com/acilab/posts/pfbid02uPNXRMtg3gpNj8RcZLCwJ8JR3hKW2zrN6Asok9F5Cv6Sz31bJLxU5JG9fDKfQfthl",
+      "added": "2026-07-16",
+      "infostealer": {
+        "update": "2026-07-16T08:34:27",
+        "employees": 0,
+        "users": 22,
+        "thirdparties": 0,
+        "employees_url": 1,
+        "users_url": 13,
+        "last_employee_compromised": "1970-01-01T00:00:00+00:00",
+        "last_user_compromised": "2026-02-10T15:11:10+00:00",
+        "infostealer_stats": {
+          "RedLine": 1,
+          "Raccoon": 2,
+          "Azorult": 6,
+          "Generic Stealer": 8,
+          "Lumma": 4
+        }
+      },
+      "ransomware": {
+        "group": "settra",
+        "permalink": "https://www.ransomware.live/id/YWNpbGFiLmNvbUBzZXR0cmE="
+      }
+    },
+    {
+      "date": "2026-06-24",
       "victim": "GSP Crop Science Ltd.",
       "domain": "gspcrop.in",
       "country": "IN",
@@ -1103,6 +1207,29 @@
         "thirdparties": 6,
         "employees_url": 1,
         "users_url": 4,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-06-23",
+      "victim": "Partnered Health",
+      "domain": "partneredhealth.com.au",
+      "country": "AU",
+      "summary": "Partnered Health a été informée le 23 juin 2026 qu'un acteur malveillant avait accédé à certaines de ses données. L'enquête a confirmé que des informations personnelles, y compris des données de santé, ont été consultées dans plusieurs cliniques du réseau. L'entreprise a signalé l'incident aux autorités australiennes compétentes et a mis en place un site web dédié pour informer les patients. Les données potentiellement affectées incluent le nom, la date de naissance, l'adresse, les coordonnées, les numéros de sécurité sociale (Medicare), et des détails médicaux (notes de consultation, résultats de pathologie).",
+      "description": "",
+      "title": "Partnered Health - Recent Cyber Incident - Partnered Health",
+      "url": "https://partneredhealth.com.au/partnered-health-recent-cyber-incident/",
+      "added": "2026-07-16",
+      "infostealer": {
+        "update": "2026-07-16T13:00:09",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 0,
         "last_employee_compromised": null,
         "last_user_compromised": null,
         "infostealer_stats": {}
@@ -3824,6 +3951,29 @@
           "Raccoon": 1,
           "UNKNOWN": 2
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-05-08",
+      "victim": "WilmerHale",
+      "domain": "wilmerhale.com",
+      "country": "US",
+      "summary": "Le cabinet WilmerHale fait l'objet d'une action collective potentielle concernant une violation de données survenue en mai. Cette action allègue que des milliers, voire des millions, d'informations hautement sensibles de clients ont été compromises en raison de la négligence présumée du cabinet.",
+      "description": "",
+      "title": "WilmerHale Hit With Class Action Over Cyberattack - Law360 Pulse",
+      "url": "https://www.law360.com/pulse/daily-litigation/articles/2501626/wilmerhale-hit-with-class-action-over-cyberattack",
+      "added": "2026-07-16",
+      "infostealer": {
+        "update": "2026-07-16T13:00:10",
+        "employees": 0,
+        "users": 3,
+        "thirdparties": 5,
+        "employees_url": 0,
+        "users_url": 3,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },

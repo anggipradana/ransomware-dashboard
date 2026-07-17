@@ -859,7 +859,10 @@
         "last_user_compromised": null,
         "infostealer_stats": {}
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "interlock",
+        "permalink": "https://www.ransomware.live/id/RGlzdHJpY3Qgb2YgQ29sdW1iaWEgSG91c2luZyBBdXRob3JpdHlAaW50ZXJsb2Nr"
+      }
     },
     {
       "date": "2026-06-28",

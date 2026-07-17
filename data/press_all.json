@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3812,
+  "count": 3813,
   "results": [
     {
       "date": "2026-07-16",
@@ -278,6 +278,29 @@
     },
     {
       "date": "2026-07-09",
+      "victim": "Stiftung Wagerenhof",
+      "domain": "wagerenhof.ch",
+      "country": "CH",
+      "summary": "La Fondation Wagerenhof, une institution pour personnes handicapées à Uster, a été victime d'une cyberattaque par ransomware. L'attaque, qui a eu lieu le 9 juillet, a bloqué l'accès à ses systèmes informatiques et chiffré des données. Bien que la fondation refuse de payer la rançon, elle anticipe un risque de fuite de données, dont l'étendue est encore inconnue. Les services de télécommunication et les e-mails sont actuellement interrompus, mais la fondation assure que la sécurité et les soins des résidents n'ont pas été menacés.",
+      "description": "",
+      "title": "Cyberangriff in Uster: Hacker verschlÃ¼sseln Daten der Stiftung Wagerenhof und fordern LÃ¶segeld",
+      "url": "https://www.tagesanzeiger.ch/ransomware-angriff-stiftung-wagerenhof-in-uster-gehackt-841429476353",
+      "added": "2026-07-17",
+      "infostealer": {
+        "update": "2026-07-17T16:30:08",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-07-09",
       "victim": "Greene County",
       "domain": "greenecountyga.gov",
       "country": "US",
@@ -491,7 +514,10 @@
           "Predator": 1
         }
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "killsec",
+        "permalink": "https://www.ransomware.live/id/a2VyYWxhcG9saWNlLmdvdi5pbkBraWxsc2Vj"
+      }
     },
     {
       "date": "2026-07-05",
@@ -9961,7 +9987,10 @@
         "last_user_compromised": null,
         "infostealer_stats": {}
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "chaos",
+        "permalink": "https://www.ransomware.live/id/bnRpYy5jb21AY2hhb3M="
+      }
     },
     {
       "date": "2026-02-18",
@@ -12528,7 +12557,10 @@
         "last_user_compromised": null,
         "infostealer_stats": {}
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "chaos",
+        "permalink": "https://www.ransomware.live/id/aG9yaXpvbm1lZGlhLmNvbUBjaGFvcw=="
+      }
     },
     {
       "date": "2026-01-09",
@@ -25818,7 +25850,10 @@
         "last_user_compromised": null,
         "infostealer_stats": {}
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "clop",
+        "permalink": "https://www.ransomware.live/id/Tk9WQUJJT01FRElDQUwuQ09NQGNsb3A="
+      }
     },
     {
       "date": "2025-07-22",
@@ -38602,7 +38637,10 @@
           "RedLine": 1
         }
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "chaos",
+        "permalink": "https://www.ransomware.live/id/ZmFybWVyYnJvcy5jb21AY2hhb3M="
+      }
     },
     {
       "date": "2025-03-14",
@@ -61837,7 +61875,10 @@
         "last_user_compromised": null,
         "infostealer_stats": {}
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "lockbit3",
+        "permalink": "https://www.ransomware.live/id/Y2xheWNvdW50eWluLmdvdkBsb2NrYml0Mw=="
+      }
     },
     {
       "date": "2024-07-08",
@@ -65132,7 +65173,10 @@
           "RedLine": 24
         }
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "lockbit3",
+        "permalink": "https://www.ransomware.live/id/c21pdGhhbmRjYXVnaGV5cy5jby5uekBsb2NrYml0Mw=="
+      }
     },
     {
       "date": "2024-05-27",
@@ -66468,7 +66512,10 @@
         "last_user_compromised": null,
         "infostealer_stats": {}
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "lockbit3",
+        "permalink": "https://www.ransomware.live/id/Y2NtYXVpLm9yZ0Bsb2NrYml0Mw=="
+      }
     },
     {
       "date": "2024-05-06",
@@ -66544,7 +66591,10 @@
           "Generic Stealer": 1
         }
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "blackbasta",
+        "permalink": "https://www.ransomware.live/id/a2V5dHJvbmljLmNvbUBibGFja2Jhc3Rh"
+      }
     },
     {
       "date": "2024-05-06",
@@ -68306,7 +68356,7 @@
       },
       "ransomware": {
         "group": "ransomhub",
-        "permalink": "https://www.ransomware.live/id/RnJvbnRpZXIgQHJhbnNvbWh1Yg=="
+        "permalink": "https://www.ransomware.live/id/RnJvbnRpZXIuY29tQHJhbnNvbWh1Yg=="
       }
     },
     {
@@ -69810,7 +69860,10 @@
           "UNKNOWN": 2
         }
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "lockbit3",
+        "permalink": "https://www.ransomware.live/id/dG9ycmVwYWNoZWNvLmVzQGxvY2tiaXQz"
+      }
     },
     {
       "date": "2024-03-28",
@@ -70659,7 +70712,10 @@
           "Generic Stealer": 572
         }
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "marketo",
+        "permalink": "https://www.ransomware.live/id/ZnVqaXRzdS5jb21AbWFya2V0bw=="
+      }
     },
     {
       "date": "2024-03-15",
@@ -78587,8 +78643,8 @@
         }
       },
       "ransomware": {
-        "group": "alphv",
-        "permalink": "https://www.ransomware.live/id/WXVjYXRhbkBhbHBodg=="
+        "group": "lockbit3",
+        "permalink": "https://www.ransomware.live/id/eXVjYXRhbi5nb2IubXhAbG9ja2JpdDM="
       }
     },
     {
@@ -79073,8 +79129,8 @@
         "infostealer_stats": {}
       },
       "ransomware": {
-        "group": "alphv",
-        "permalink": "https://www.ransomware.live/id/SFRDIEdsb2JhbCBTZXJ2aWNlc0BhbHBodg=="
+        "group": "lockbit3",
+        "permalink": "https://www.ransomware.live/id/aHRjaW5jLmNvbUBsb2NrYml0Mw=="
       }
     },
     {
@@ -79947,7 +80003,10 @@
           "RedLine": 2
         }
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "lockbit3",
+        "permalink": "https://www.ransomware.live/id/bGl2YW5vdmEuY29tQGxvY2tiaXQz"
+      }
     },
     {
       "date": "2023-11-20",
@@ -80524,8 +80583,8 @@
         }
       },
       "ransomware": {
-        "group": "alphv",
-        "permalink": "https://www.ransomware.live/id/RGV1dHNjaGUgRW5lcmdpZS1BZ2VudHVyQGFscGh2"
+        "group": "lockbit3",
+        "permalink": "https://www.ransomware.live/id/ZGVuYS5kZUBsb2NrYml0Mw=="
       }
     },
     {
@@ -81726,8 +81785,8 @@
         "infostealer_stats": {}
       },
       "ransomware": {
-        "group": "hunters",
-        "permalink": "https://www.ransomware.live/id/Q2FyZXNwcmluZyBIZWFsdGggQ2FyZUBodW50ZXJz"
+        "group": "lockbit3",
+        "permalink": "https://www.ransomware.live/id/Y2FyZXNwcmluZy5jb21AbG9ja2JpdDM="
       }
     },
     {
@@ -92477,8 +92536,8 @@
         "infostealer_stats": {}
       },
       "ransomware": {
-        "group": "nokoyawa",
-        "permalink": "https://www.ransomware.live/id/VGFtcGEgR2VuZXJhbCBIb3NwaXRhbEBub2tveWF3YQ=="
+        "group": "dispossessor",
+        "permalink": "https://www.ransomware.live/id/dGdoLm9yZ0BkaXNwb3NzZXNzb3I="
       }
     },
     {
@@ -92580,8 +92639,8 @@
         "infostealer_stats": {}
       },
       "ransomware": {
-        "group": "nokoyawa",
-        "permalink": "https://www.ransomware.live/id/VGFtcGEgR2VuZXJhbCBIb3NwaXRhbEBub2tveWF3YQ=="
+        "group": "dispossessor",
+        "permalink": "https://www.ransomware.live/id/dGdoLm9yZ0BkaXNwb3NzZXNzb3I="
       }
     },
     {
@@ -94687,8 +94746,8 @@
         "infostealer_stats": {}
       },
       "ransomware": {
-        "group": "snatch",
-        "permalink": "https://www.ransomware.live/id/TW91bnQgRGVzZXJ0IElzbGFuZCBIb3NwaXRhbEBzbmF0Y2g="
+        "group": "dispossessor",
+        "permalink": "https://www.ransomware.live/id/bWRpaG9zcGl0YWwub3JnQGRpc3Bvc3Nlc3Nvcg=="
       }
     },
     {
@@ -97400,8 +97459,8 @@
         "infostealer_stats": {}
       },
       "ransomware": {
-        "group": "nokoyawa",
-        "permalink": "https://www.ransomware.live/id/Q2FuYWRpYW4gTnVyc2VzIEFzc29jaWF0aW9uQG5va295YXdh"
+        "group": "dispossessor",
+        "permalink": "https://www.ransomware.live/id/Y25hLWFpaWMuY2FAZGlzcG9zc2Vzc29y"
       }
     },
     {
@@ -97744,8 +97803,8 @@
         }
       },
       "ransomware": {
-        "group": "alphv",
-        "permalink": "https://www.ransomware.live/id/WXVjYXRhbkBhbHBodg=="
+        "group": "lockbit3",
+        "permalink": "https://www.ransomware.live/id/eXVjYXRhbi5nb2IubXhAbG9ja2JpdDM="
       }
     },
     {
@@ -99963,7 +100022,10 @@
           "Vidar": 1
         }
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "embargo",
+        "permalink": "https://www.ransomware.live/id/ZGlsaWdlbnR1c2EuY29tQGVtYmFyZ28="
+      }
     },
     {
       "date": "2022-04-12",
@@ -100050,7 +100112,10 @@
           "Vidar": 49
         }
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "clop",
+        "permalink": "https://www.ransomware.live/id/RkxBR1NUQVIuQ09NQGNsb3A="
+      }
     },
     {
       "date": "2021-11-25",

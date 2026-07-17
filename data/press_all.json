@@ -4,8 +4,33 @@
     "month": null,
     "country": null
   },
-  "count": 3808,
+  "count": 3810,
   "results": [
+    {
+      "date": "2026-07-16",
+      "victim": "Fairlife",
+      "domain": "fairlife.com",
+      "country": "US",
+      "summary": "La filiale Fairlife de Coca-Cola a suspendu sa production aux États-Unis suite à une cyberattaque qui a affecté plusieurs lignes de production et la chaîne d'approvisionnement. L'incident a entraîné un arrêt partiel des opérations, mais les équipes techniques ont rapidement isolé l'infrastructure affectée et mis en place des processus de production de secours. Bien que l'attaque n'ait pas touché toute la capacité, elle a perturbé l'approvisionnement dans certaines régions. L'enquête est en cours, et l'entreprise s'engage à renforcer ses mesures de cybersécurité pour rétablir la production complète dans les jours ou semaines à venir.",
+      "description": "",
+      "title": "可口可乐宣布Fairlife因网络攻击暂停美国生产",
+      "url": "https://mezha.net/ch/bukvy/80ae676d_coca-cola_halts_fairlife/",
+      "added": "2026-07-17",
+      "infostealer": {
+        "update": "2026-07-17T07:00:08",
+        "employees": 0,
+        "users": 1,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 2,
+        "last_employee_compromised": "1970-01-01T00:00:00+00:00",
+        "last_user_compromised": "2022-11-09T15:57:22+00:00",
+        "infostealer_stats": {
+          "Generic Stealer": 1
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-07-16",
       "victim": "Ministère des Investissements et des Projets Européens (MIPE)",
@@ -4000,6 +4025,29 @@
           "Raccoon": 1,
           "UNKNOWN": 2
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-05-08",
+      "victim": "Roth Industries",
+      "domain": "roth-industries.com",
+      "country": "DE",
+      "summary": "Les systèmes informatiques de la Roth Group, situés sur des sites allemands, ont été la cible d'une cyberattaque le 8 mai 2026, entraînant le chiffrement de leurs serveurs. Le système ERP de base SAP n'a pas été affecté. Suite à l'incident, des mesures techniques et organisationnelles ont été mises en place, et des experts externes ont été consultés. Les systèmes et canaux de communication sont désormais opérationnels, et les autorités compétentes ont été informées. La Roth Group recommande aux utilisateurs de faire preuve d'une vigilance accrue face aux communications suspectes, notamment concernant les demandes de paiement ou les changements de coordonnées bancaires.",
+      "description": "",
+      "title": "Information zum Cyberangriff auf die Roth Industries",
+      "url": "https://www.roth-industries.com/info-cyberangriff",
+      "added": "2026-07-17",
+      "infostealer": {
+        "update": "2026-06-19T18:04:42",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },

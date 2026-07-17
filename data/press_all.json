@@ -4,8 +4,49 @@
     "month": null,
     "country": null
   },
-  "count": 3810,
+  "count": 3812,
   "results": [
+    {
+      "date": "2026-07-16",
+      "victim": "Abbott",
+      "domain": "abbott.com",
+      "country": "US",
+      "summary": "Abbott enquête sur un incident de cybersécurité impliquant un accès non autorisé à un nombre limité de systèmes internes de sa division Cancer Diagnostics. L'incident n'affecte pas les opérations commerciales, la disponibilité des produits, la fabrication ou les laboratoires, et n'a pas d'impact sur les autres activités ou sites d'Abbott.",
+      "description": "",
+      "title": "Abbott statement on cyber incident in Cancer Diagnostics business | Abbott Newsroom",
+      "url": "https://www.abbott.com/en-us/corpnewsroom/diagnostics-testing/abbott-statement-on-cyber-incident-in-cancer-diagnostics-business",
+      "added": "2026-07-17",
+      "infostealer": {
+        "update": "2025-11-21T12:52:10",
+        "employees": 389,
+        "users": 811,
+        "thirdparties": 1256,
+        "employees_url": 70,
+        "users_url": 100,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {
+          "RedLine": 458,
+          "Generic Stealer": 244,
+          "Lumma": 215,
+          "Raccoon": 111,
+          "StealC": 48,
+          "Azorult": 33,
+          "Vidar": 32,
+          "UNKNOWN": 16,
+          "CRYPTBOT": 9,
+          "Ficker": 3,
+          "Acreed": 2,
+          "Predator": 2,
+          "Taurus": 1,
+          "Atomic": 1
+        }
+      },
+      "ransomware": {
+        "group": "clop",
+        "permalink": "https://www.ransomware.live/id/QUJCT1RULkNPTUBjbG9w"
+      }
+    },
     {
       "date": "2026-07-16",
       "victim": "Fairlife",
@@ -362,6 +403,29 @@
         "thirdparties": 0,
         "employees_url": 0,
         "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-07-06",
+      "victim": "Aida Engineering,Ltd.",
+      "domain": "aida.co.jp",
+      "country": "JP",
+      "summary": "Aida Engineering, une société japonaise de fabrication de machines industrielles, a détecté une activité inhabituelle dans ses systèmes situés en Asie le 6 juillet 2026, indiquant un possible accès non autorisé. L'entreprise a immédiatement engagé une enquête avec des experts en cybersécurité externes. À ce jour, aucune fuite de données clients ou de partenaires commerciaux n'a été confirmée. Les opérations commerciales en Asie se poursuivent normalement, mais l'incident a retardé les procédures de clôture trimestrielles, forçant Aida à reporter sa publication des résultats du premier trimestre 2026.",
+      "description": "",
+      "title": "Aida Engineering Cyber Incident Delays Asia Closing and Q1 Results - TipRanks.com",
+      "url": "https://www.tipranks.com/news/company-announcements/aida-engineering-cyber-incident-delays-asia-closing-and-q1-results",
+      "added": "2026-07-17",
+      "infostealer": {
+        "update": "2026-07-17T10:00:07",
+        "employees": 0,
+        "users": 1,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 1,
         "last_employee_compromised": null,
         "last_user_compromised": null,
         "infostealer_stats": {}

@@ -4,8 +4,46 @@
     "month": null,
     "country": null
   },
-  "count": 3813,
+  "count": 3814,
   "results": [
+    {
+      "date": "2026-07-17",
+      "victim": "Ecopetrol",
+      "domain": "ecopetrol.com.co",
+      "country": "CO",
+      "summary": "Ecopetrol a été victime d'un incident de cybersécurité, incluant un accès non autorisé à son infrastructure numérique. Des acteurs externes ont volé des données de près de 3 300 comptes d'utilisateurs et ont ensuite exigé une rançon pour éviter leur divulgation (extorsion). Les attaquants ont également tenté d'exécuter une attaque par ransomware, mais celle-ci a été bloquée par les contrôles de cybersécurité du groupe. L'incident a affecté environ 15 sociétés du Groupe Ecopetrol.",
+      "description": "",
+      "title": "Ecopetrol confirma ciberataque con robo de datos y extorsión a la compañía",
+      "url": "https://www.valoraanalitik.com/ecopetrol-reconoce-ataque-cibernetico-datos-de-usuarios-y-15-companias-del-grupo-impactadas/",
+      "added": "2026-07-18",
+      "infostealer": {
+        "update": "2026-07-18T16:30:12",
+        "employees": 556,
+        "users": 2871,
+        "thirdparties": 558,
+        "employees_url": 67,
+        "users_url": 100,
+        "last_employee_compromised": "2026-05-24T18:48:58+00:00",
+        "last_user_compromised": "2026-07-10T21:57:54.161000+00:00",
+        "infostealer_stats": {
+          "RedLine": 1478,
+          "CRYPTBOT": 10,
+          "Ficker": 1,
+          "Vidar": 88,
+          "StealC": 137,
+          "Atomic": 2,
+          "Lumma": 447,
+          "Taurus": 1,
+          "Azorult": 42,
+          "Raccoon": 318,
+          "Generic Stealer": 438,
+          "DarkCrystal": 12,
+          "UNKNOWN": 37,
+          "Mystic": 10
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-07-16",
       "victim": "Abbott",

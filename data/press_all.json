@@ -246,7 +246,10 @@
         "last_user_compromised": null,
         "infostealer_stats": {}
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "krybit",
+        "permalink": "https://www.ransomware.live/id/ZXVyb2hvbGQuYmdAa3J5Yml0"
+      }
     },
     {
       "date": "2026-07-14",

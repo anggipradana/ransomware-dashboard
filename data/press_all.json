@@ -4,8 +4,31 @@
     "month": null,
     "country": null
   },
-  "count": 3818,
+  "count": 3823,
   "results": [
+    {
+      "date": "2026-07-17",
+      "victim": "Arcus",
+      "domain": "arcus.lu",
+      "country": "LU",
+      "summary": "L'organisation sociale Arcus a été victime d'une cyberattaque. Suite à la découverte de l'incident, les serveurs ont été immédiatement coupés et l'infrastructure informatique isolée pour contenir les dégâts. Les autorités compétentes, y compris la CNPD et la police criminelle, ont été informées. Arcus travaille à la restauration progressive des systèmes, mais la nature exacte de l'attaque et l'étendue des données potentiellement compromises ne sont pas encore connues.",
+      "description": "",
+      "title": "Cyberangriff auf Betreuungseinrichtung Arcus",
+      "url": "https://www.wort.lu/luxemburg/stadaland/cyberangriff-auf-betreuungseinrichtung-arcus/158897529.html",
+      "added": "2026-07-19",
+      "infostealer": {
+        "update": "2026-07-19T13:00:09",
+        "employees": 2,
+        "users": 1,
+        "thirdparties": 0,
+        "employees_url": 1,
+        "users_url": 1,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-07-17",
       "victim": "Ecopetrol",
@@ -41,6 +64,29 @@
           "UNKNOWN": 37,
           "Mystic": 10
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-07-16",
+      "victim": "Rectron",
+      "domain": "rectron.co.za",
+      "country": "ZA",
+      "summary": "Rectron, l'un des quatre plus grands distributeurs technologiques d'Afrique du Sud, a subi une panne de réseau majeure ayant entraîné la fermeture de tous ses bureaux (notamment à Johannesburg, Le Cap et Durban). Bien que l'entreprise ait officiellement évoqué une « perturbation technique inattendue » sans confirmer ni infirmer explicitement la nature de l'incident, des sources proches du dossier affirment qu'il s'agirait d'une cyberattaque. Rectron a fait appel à des experts en cybersécurité pour enquêter sur l'origine de la panne.",
+      "description": "",
+      "title": "mybroadband.co.za",
+      "url": "https://mybroadband.co.za/news/security/658697-one-of-south-africas-largest-technology-distributors-suffers-crippling-network-outage-allegedly-due-to-cyberattack.html",
+      "added": "2026-07-19",
+      "infostealer": {
+        "update": "2026-07-19T13:00:08",
+        "employees": 1,
+        "users": 243,
+        "thirdparties": 4,
+        "employees_url": 2,
+        "users_url": 29,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },
@@ -158,6 +204,29 @@
     },
     {
       "date": "2026-07-15",
+      "victim": "Milford",
+      "domain": "milford.nh.gov",
+      "country": "US",
+      "summary": "La municipalité de Milford, dans le New Hampshire, a été confrontée à un incident de cybersécurité qui a provoqué des perturbations majeures des services municipaux, incluant les télécommunications, l'accès à Internet, la facturation de l'eau et les services du greffier. Les problèmes opérationnels ont commencé le 15 juillet, et la ville a lié la panne à un problème de cybersécurité le 16 juillet. Bien que la ville ait mentionné une activité non autorisée, elle n'a pas précisé le type d'attaque (ransomware, malware, etc.) ni si des données ont été volées. Des documents révèlent qu'un résident et professionnel de la cybersécurité avait averti la ville près de deux mois auparavant qu'un système de stockage Synology était exposé directement à Internet.",
+      "description": "",
+      "title": "Cyber incident disrupts Milford, New Hampshire, services",
+      "url": "https://dysruptionhub.com/cyber-incident-disrupts-milford-new-hampshire-services/",
+      "added": "2026-07-19",
+      "infostealer": {
+        "update": "2026-07-19T13:00:08",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-07-15",
       "victim": "Eurohold Bulgaria AD",
       "domain": "eurohold.bg",
       "country": "BG",
@@ -238,6 +307,34 @@
           "Atomic": 13,
           "Ficker": 3,
           "Aura Stealer": 1
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-07-13",
+      "victim": "Cedar Crest College",
+      "domain": "cedarcrest.edu",
+      "country": "US",
+      "summary": "Le Cedar Crest College, situé à Allentown, en Pennsylvanie, enquête sur un incident de cybersécurité qui a perturbé ses applications et ses systèmes de partage de fichiers. L'incident a été détecté le 13 juillet 2026. Bien que le groupe de ransomware NightSpire ait revendiqué la responsabilité de l'attaque le 14 juillet, le collège n'a pas attribué l'incident à ce groupe. L'attaque a affecté les applications du campus, les lecteurs réseau et les systèmes de partage de fichiers basés sur le cloud (y compris OneDrive). Le collège travaille avec des experts externes et les forces de l'ordre pour restaurer les services et a mis en garde la communauté contre les tentatives de phishing.",
+      "description": "",
+      "title": "Cedar Crest College cyber incident disrupts campus systems in Pennsylvania",
+      "url": "https://dysruptionhub.com/cedar-crest-college-pa-cyber-incident/",
+      "added": "2026-07-19",
+      "infostealer": {
+        "update": "2026-07-14T19:30:01",
+        "employees": 0,
+        "users": 11,
+        "thirdparties": 13,
+        "employees_url": 0,
+        "users_url": 12,
+        "last_employee_compromised": "1970-01-01T00:00:00+00:00",
+        "last_user_compromised": "2026-06-10T17:22:25+00:00",
+        "infostealer_stats": {
+          "Generic Stealer": 4,
+          "Lumma": 1,
+          "RedLine": 2,
+          "Azorult": 1
         }
       },
       "ransomware": null
@@ -349,6 +446,29 @@
       "added": "2026-07-14",
       "infostealer": {
         "update": "2026-07-14T09:30:07",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-07-10",
+      "victim": "NonSoloContro",
+      "domain": "nonsolocontro.it",
+      "country": "IT",
+      "summary": "La testata en ligne NonSoloContro est tombée hors ligne suite à une attaque informatique dévastatrice. L'incident, survenu le 10 juillet, a bloqué l'accès au site et compromis l'archivage historique. La direction a lancé une campagne de financement sur GoFundMe pour couvrir les coûts élevés de restauration et l'adoption de systèmes de cybersécurité plus robustes.",
+      "description": "",
+      "title": "Attacco hacker a NonSoloContro: cybersicurezza e libertà di informazione",
+      "url": "https://www.ilrisveglio-online.it/2026/07/17/attacco-hacker-a-nonsolocontro-cybersicurezza-e-liberta-di-informazione/",
+      "added": "2026-07-19",
+      "infostealer": {
+        "update": "2026-07-19T14:30:08",
         "employees": 0,
         "users": 0,
         "thirdparties": 0,

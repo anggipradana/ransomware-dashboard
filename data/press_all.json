@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3815,
+  "count": 3818,
   "results": [
     {
       "date": "2026-07-17",
@@ -41,6 +41,29 @@
           "UNKNOWN": 37,
           "Mystic": 10
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-07-16",
+      "victim": "Ville de Wriezen",
+      "domain": "wriezen.de",
+      "country": "DE",
+      "summary": "La municipalité de Wriezen a été victime d'une cyberattaque par ransomware, comme l'a confirmé le maire Karsten Ilm. L'incident, survenu il y a quelques jours, a conduit à la mise hors ligne préventive des systèmes informatiques pour limiter les dégâts. L'activité administrative est actuellement limitée, et la date de résolution du problème n'est pas encore connue.",
+      "description": "",
+      "title": "Wriezener Stadtverwaltung ist Opfer von Cyberangriff",
+      "url": "https://www.rbb24.de/panorama/beitrag/2026/07/cyberangriff-auf-stadtverwaltung-wriezen.html",
+      "added": "2026-07-19",
+      "infostealer": {
+        "update": "2026-07-19T12:00:08",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },
@@ -128,6 +151,29 @@
         "employees_url": 0,
         "users_url": 0,
         "last_employee_compromised": "2022-04-05T00:00:00+00:00",
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-07-15",
+      "victim": "Eurohold Bulgaria AD",
+      "domain": "eurohold.bg",
+      "country": "BG",
+      "summary": "Les sociétés Eurohold Bulgaria AD et ZD Euroins AD ont annoncé avoir repoussé une cyberattaque massive dont l'objectif était le vol de données et l'extorsion. L'incident, survenu la semaine dernière, a occasionné quelques perturbations techniques temporaires, rendant le portail en ligne de l'assureur indisponible pendant un court moment. L'entreprise affirme que l'intégrité de ses données a été maintenue et qu'elle refuse de céder aux pressions des attaquants. La GDBOP et d'autres autorités compétentes ont été sollicitées pour gérer la situation.",
+      "description": "",
+      "title": "Еврохолд и Евроинс спряха масирана хакерска атака",
+      "url": "https://paragraf.bg/evrohold-i-evroins-spryaha-masirana-hakerska-ataka-sreshtu-svoyata-dejnost/",
+      "added": "2026-07-19",
+      "infostealer": {
+        "update": "2026-07-19T12:30:08",
+        "employees": 0,
+        "users": 1,
+        "thirdparties": 1,
+        "employees_url": 0,
+        "users_url": 2,
+        "last_employee_compromised": null,
         "last_user_compromised": null,
         "infostealer_stats": {}
       },
@@ -2590,6 +2636,29 @@
           "RedLine": 2,
           "Lumma": 2
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-06-08",
+      "victim": "Conseil municipal d'Alexandrie",
+      "domain": "alexandria.gr",
+      "country": "GR",
+      "summary": "Le Conseil municipal d'Alexandrie a confirmé avoir détecté un incident de sécurité informatique lié à une attaque par ransomware le 8 juin 2026. Le Conseil a immédiatement activé son plan de réponse, informé les autorités compétentes (y compris l'Autorité de protection des données) et lancé une enquête technique. L'enquête est toujours en cours, et il n'est pas encore possible de déterminer avec précision si et quelles catégories de données personnelles ont été affectées. Les citoyens sont invités à rester vigilants face aux tentatives de phishing.",
+      "description": "",
+      "title": "alexandriamou.gr - Ενημέρωση για περιστατικό ασφάλειας πληροφοριακών συστημάτων του Δήμου Αλεξάνδρειας",
+      "url": "https://www.alexandriamou.gr/ta-en-dimo-en-oiko/enimerosi-gia-peristatiko-asfaleias-plhroforiakon-systhmaton-tou-dhmou-alexandreias.html",
+      "added": "2026-07-19",
+      "infostealer": {
+        "update": "2026-07-19T12:30:07",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 1,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },

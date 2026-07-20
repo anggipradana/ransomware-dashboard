@@ -4,8 +4,44 @@
     "month": null,
     "country": null
   },
-  "count": 3825,
+  "count": 3828,
   "results": [
+    {
+      "date": "2026-07-20",
+      "victim": "Primăria Municipiului Brașov",
+      "domain": "brasovcity.ro",
+      "country": "RO",
+      "summary": "Le site de la Direction Fiscale de la Mairie de Brașov est indisponible suite à une cyberattaque par malware de type cheval de Troie. Les autorités ont déconnecté temporairement le serveur pour limiter les dégâts et protéger l'infrastructure informatique. Les équipes techniques travaillent à identifier les causes de l'attaque et à rétablir les services en toute sécurité. Aucune information n'a été fournie à ce jour concernant l'origine de l'attaque ou une compromission des données.",
+      "description": "",
+      "title": "Nou atac cibernetic asupra unei instituții publice: site-ul Direcției Fiscale Brașov, scos temporar din funcțiune",
+      "url": "https://www.mediafax.ro/social/nou-atac-cibernetic-asupra-unei-institutii-publice-site-ul-directiei-fiscale-brasov-scos-temporar-din-functiune-23775477",
+      "added": "2026-07-20",
+      "infostealer": {
+        "update": "2026-07-20T14:30:08",
+        "employees": 1,
+        "users": 588,
+        "thirdparties": 3,
+        "employees_url": 1,
+        "users_url": 40,
+        "last_employee_compromised": "2023-08-09T08:59:11.953000+00:00",
+        "last_user_compromised": "2026-07-12T00:00:00+00:00",
+        "infostealer_stats": {
+          "Mystic": 6,
+          "Lumma": 122,
+          "RedLine": 178,
+          "CRYPTBOT": 1,
+          "Raccoon": 46,
+          "Vidar": 30,
+          "Predator": 1,
+          "Azorult": 10,
+          "Generic Stealer": 106,
+          "Acreed": 1,
+          "StealC": 45,
+          "UNKNOWN": 2
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-07-19",
       "victim": "Craneware",
@@ -245,6 +281,38 @@
         "last_employee_compromised": "2022-04-05T00:00:00+00:00",
         "last_user_compromised": null,
         "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-07-15",
+      "victim": "Lecos GmbH",
+      "domain": "lecos.de",
+      "country": "DE",
+      "summary": "L'entreprise de services informatiques 'Lecos', prestataire de la ville de Leipzig, a été victime d'une cyberattaque. L'attaque a permis aux pirates de voler des données de contact et des répertoires techniques de plusieurs entités municipales, telles que l'administration municipale, l'opéra et le théâtre. L'incident a été détecté et stoppé à temps, évitant une panne des systèmes. Les données des citoyens et des employés n'ont pas été affectées.",
+      "description": "",
+      "title": "Cyberangriff auf städtische Einrichtungen in Leipzig: Hacker erbeuten interne Daten",
+      "url": "https://www.tag24.de/leipzig/crime/cyberangriff-auf-staedtische-einrichtungen-in-leipzig-hacker-erbeuten-interne-daten-3517541",
+      "added": "2026-07-20",
+      "infostealer": {
+        "update": "2026-07-20T14:00:07",
+        "employees": 0,
+        "users": 12,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 8,
+        "last_employee_compromised": "1970-01-01T00:00:00+00:00",
+        "last_user_compromised": "2026-06-23T02:01:45+00:00",
+        "infostealer_stats": {
+          "Generic Stealer": 2,
+          "Azorult": 2,
+          "Raccoon": 1,
+          "Atomic": 1,
+          "RedLine": 2,
+          "Lumma": 1,
+          "StealC": 1,
+          "Acreed": 1
+        }
       },
       "ransomware": null
     },
@@ -614,6 +682,29 @@
       "url": "https://www.radiomures.ro/stiri/atac-cibernetic-asupra-site-urilor-primariilor-din-baraolt-si-ghidfalau.html",
       "added": "2026-07-11",
       "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-07-08",
+      "victim": "Five Foxes Co., LTD.",
+      "domain": "fivefoxes.co.jp",
+      "country": "JP",
+      "summary": "Five Foesx a annoncé que certains de ses serveurs de siège social ont potentiellement été infectés par un rançongiciel. L'incident a été détecté lors d'une enquête de sécurité le 8 juillet 2026. Pour contenir la propagation, l'entreprise a immédiatement arrêté ses serveurs, ses fonctions Internet et e-mail. L'étendue des dégâts, y compris la fuite potentielle de données clients, est toujours en cours d'enquête. L'entreprise a mis en place un centre de crise, a notifié la Commission de protection des informations personnelles et a sollicité l'aide d'organismes externes et de la police. Les magasins physiques et la boutique en ligne continuent de fonctionner normalement, car cette dernière est gérée par un système séparé.",
+      "description": "",
+      "title": "ファイブフォックス、本社サーバーの一部でランサムウェア 感染の可能性 店舗とオンラインストアは通常営業|セキュリティニュースのセキュリティ対策Lab",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/five-foxes-headquarters-server-compromise/",
+      "added": "2026-07-20",
+      "infostealer": {
+        "update": "2026-07-20T13:30:07",
+        "employees": 0,
+        "users": 17,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 5,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
       "ransomware": null
     },
     {

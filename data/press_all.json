@@ -4,8 +4,54 @@
     "month": null,
     "country": null
   },
-  "count": 3823,
+  "count": 3825,
   "results": [
+    {
+      "date": "2026-07-19",
+      "victim": "Craneware",
+      "domain": "craneware.com",
+      "country": "GB",
+      "summary": "La société de technologie de la santé britannique, Craneware, a confirmé avoir été victime d'une cyberattaque ayant entraîné le vol de données de clients et d'employés. Basée à Édimbourg, l'entreprise fournit des logiciels au secteur de la santé américain. Bien qu'un volume important de noms de fichiers ait été exfiltré, l'entreprise estime que la majeure partie des données est non sensible ou réglementaire. L'incident a été contenu sans perturber les services clients, et Craneware a notifié l'ICO au Royaume-Uni et le FBI aux États-Unis.",
+      "description": "",
+      "title": "UK health tech firm admits customer data stolen in cyber attack",
+      "url": "https://www.independent.co.uk/news/health/edinburgh-aim-ico-marks-scotland-b3017949.html",
+      "added": "2026-07-20",
+      "infostealer": {
+        "update": "2026-07-20T10:00:07",
+        "employees": 1,
+        "users": 4,
+        "thirdparties": 1,
+        "employees_url": 2,
+        "users_url": 6,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-07-17",
+      "victim": "Song Shang Electronics Co., Ltd",
+      "domain": "song-shang.com.tw",
+      "country": "TW",
+      "summary": "La société Song Shang Electronics, fabricant de circuits imprimés (PCB) et de composants magnétiques, a annoncé avoir subi une cyberattaque sur une partie de ses systèmes d'information. L'incident a été détecté le 17 juillet et les équipes informatiques ont immédiatement activé les mécanismes de défense et de récupération. Matsushin a confirmé que les systèmes affectés ont été rétablis et que, selon leur évaluation préliminaire, l'impact sur les opérations de l'entreprise n'est pas majeur.",
+      "description": "",
+      "title": "松上電子部分資訊系統遭駭",
+      "url": "https://www.ithome.com.tw/news/177446",
+      "added": "2026-07-20",
+      "infostealer": {
+        "update": "2026-07-20T10:00:08",
+        "employees": 0,
+        "users": 1,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 1,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-07-17",
       "victim": "Arcus",

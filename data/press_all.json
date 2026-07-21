@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3829,
+  "count": 3832,
   "results": [
     {
       "date": "2026-07-20",
@@ -626,6 +626,32 @@
         "infostealer_stats": {}
       },
       "ransomware": null
+    },
+    {
+      "date": "2026-07-09",
+      "victim": "Kaneko",
+      "domain": "kaneko-corp.co.jp",
+      "country": "JP",
+      "summary": "La société Kaneko a annoncé avoir été victime d'une infection par rançongiciel sur certains de ses serveurs. L'accès non autorisé a été détecté le 9 juillet 2026. La société a immédiatement isolé son réseau externe et a mis en place un comité de crise. Bien que l'accès non autorisé aux données opérationnelles stockées sur les serveurs ait été confirmé, la société enquête actuellement pour déterminer si des informations ont été divulguées à l'extérieur. Les serveurs affectés ont été arrêtés. Une cyberattaque a été revendiquée le 16 juillet par \"The Gentlemen\".",
+      "description": "",
+      "title": "金子農機、一部サーバーがランサムウェア感染 業務データへの不正アクセスを確認|セキュリティニュースのセキュリティ対策Lab",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/kanekokk-server-breach-isolated-incident/",
+      "added": "2026-07-21",
+      "infostealer": {
+        "update": "2026-07-16T12:56:06",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "thegentlemen",
+        "permalink": "https://www.ransomware.live/id/S2FuZWtvQHRoZWdlbnRsZW1lbg=="
+      }
     },
     {
       "date": "2026-07-09",
@@ -1317,6 +1343,32 @@
         "infostealer_stats": {}
       },
       "ransomware": null
+    },
+    {
+      "date": "2026-06-29",
+      "victim": "Higuchi Shokai",
+      "domain": "higuchi-inc.co.jp",
+      "country": "JP",
+      "summary": "La société Higuchi Shokai a annoncé qu'un accès non autorisé à son système, qui a été identifié comme une possible fuite de données due à une infection par rançongiciel, avait eu lieu. Les informations divulguées comprennent les données financières d'une filiale et les informations de base (nom, adresse, coordonnées) des clients de cette filiale. Stormous a revendiqué une cyberattaque le 28 juin.",
+      "description": "",
+      "title": "樋口商会子会社の会計情報漏えい、取引先から「ランサムウェア感染に起因するとみられる情報漏えいの可能性がある」旨の連絡 | ScanNetSecurity",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/07/21/55739.html",
+      "added": "2026-07-21",
+      "infostealer": {
+        "update": "2026-06-28T21:30:37",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "stormous",
+        "permalink": "https://www.ransomware.live/id/aGlndWNoaS1pbmMuY28uanBAc3Rvcm1vdXM="
+      }
     },
     {
       "date": "2026-06-29",
@@ -21427,6 +21479,39 @@
         "group": "BrainCipher",
         "permalink": "https://www.ransomware.live/id/b3hmb3JkY291bnR5LmNhQEJyYWluQ2lwaGVy"
       }
+    },
+    {
+      "date": "2025-09-15",
+      "victim": "Banco Hipotecario del Uruguay (BHU)",
+      "domain": "bhu.net",
+      "country": "URU",
+      "summary": "Le Banco Hipotecario du Uruguay (BHU) a été victime d'une cyberattaque survenue en septembre 2025. L'incident a nécessité des dépenses estimées à 12 millions de dollars pour la remédiation et la reconstruction des systèmes. Le BHU a confirmé n'avoir payé aucun rançon et que l'information des clients n'a pas été compromise. Les attaquants, Crypto24, avaient menacé de publier plus de 700 gigaoctets de données, incluant des identifiants d'employés et des contrats fournisseurs.",
+      "description": "",
+      "title": "Tras ciberataque, BHU gastó $ 12 millones en “remediación” y “reconstrucción de sistemas”; no se pagó “ningún rescate”",
+      "url": "https://www.elpais.com.uy/informacion/politica/tras-ciberataque-bhu-gasto-12-millones-en-remediacion-y-reconstruccion-de-sistemas-no-se-pago-ningun-rescate",
+      "added": "2026-07-21",
+      "infostealer": {
+        "update": "2026-05-04T10:38:51",
+        "employees": 0,
+        "users": 677,
+        "thirdparties": 2,
+        "employees_url": 0,
+        "users_url": 25,
+        "last_employee_compromised": "1970-01-01T00:00:00+00:00",
+        "last_user_compromised": "2026-04-28T00:00:00+00:00",
+        "infostealer_stats": {
+          "Lumma": 135,
+          "StealC": 70,
+          "Acreed": 4,
+          "RedLine": 218,
+          "UNKNOWN": 2,
+          "Generic Stealer": 135,
+          "Vidar": 20,
+          "Raccoon": 32,
+          "Predator": 1
+        }
+      },
+      "ransomware": null
     },
     {
       "date": "2025-09-15",

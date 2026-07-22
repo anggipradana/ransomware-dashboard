@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3838,
+  "count": 3839,
   "results": [
     {
       "date": "2026-07-21",
@@ -99,6 +99,19 @@
           "UNKNOWN": 2
         }
       },
+      "ransomware": null
+    },
+    {
+      "date": "2026-07-19",
+      "victim": "Get Nice Holdings",
+      "domain": "getnice.com.hk",
+      "country": "HK",
+      "summary": "Get Nice Holdings, une société de services financiers cotée à Hong Kong, a été victime d'une cyberattaque le 19 juillet. L'incident a temporairement affecté ses systèmes de trading électronique et d'autres services, y compris les retraits d'actions. Bien que l'unité de titres ait repris ses opérations le même jour, l'unité de contrats à terme n'a pas pu reprendre ses services. La société a engagé une firme de cybersécurité pour enquêter et a indiqué qu'il n'y avait pas de preuve d'utilisation abusive d'informations. Elle a également informé les autorités compétentes de Hong Kong.",
+      "description": "",
+      "title": "Hong Kong-listed Get Nice hit by cyberattack, impacting trading systems",
+      "url": "https://www.channelnewsasia.com/business/hong-kong-listed-get-nice-hit-cyberattack-impacting-trading-systems-6271346",
+      "added": "2026-07-22",
+      "infostealer": "",
       "ransomware": null
     },
     {

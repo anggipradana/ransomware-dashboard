@@ -4,8 +4,54 @@
     "month": null,
     "country": null
   },
-  "count": 3834,
+  "count": 3836,
   "results": [
+    {
+      "date": "2026-07-21",
+      "victim": "Asamblea Legislativa",
+      "domain": "asamblea.go.cr",
+      "country": "CR",
+      "summary": "La présidente de l'Assemblée législative a confirmé que le Congrès avait été victime d'une cyberattaque qui avait compromis ses systèmes informatiques. Cette annonce a été faite lors d'une séance plénière, après qu'une députée eut fait part de son inquiétude concernant la panne du site web institutionnel.",
+      "description": "",
+      "title": "Congreso recibió ciberataque a sus sistemas, confirma Presidenta Legislativa | CR Hoy",
+      "url": "https://www.crhoy.com/congreso-recibio-ciberataque-a-sus-sistemas-confirma-presidenta-legislativa/",
+      "added": "2026-07-22",
+      "infostealer": {
+        "update": "2026-07-22T13:00:09",
+        "employees": 20,
+        "users": 5,
+        "thirdparties": 6,
+        "employees_url": 7,
+        "users_url": 9,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-07-20",
+      "victim": "Sumner County Schools",
+      "domain": "sumnerschools.org",
+      "country": "US",
+      "summary": "Les écoles du comté de Sumner, dans le Tennessee, ont retardé le début des cours de six jours après avoir découvert un accès non autorisé à leur réseau. Le district, qui dessert environ 31 000 élèves, a informé les autorités locales et fédérales ainsi que le Département de l'Éducation du Tennessee et a engagé des spécialistes forensiques. L'incident a été découvert le 20 juillet, et les autorités enquêtent toujours sur la nature exacte de la compromission.",
+      "description": "",
+      "title": "Sumner County Schools delays opening after network breach in Tennessee",
+      "url": "https://dysruptionhub.com/sumner-schools-network-breach-delay/",
+      "added": "2026-07-22",
+      "infostealer": {
+        "update": "2026-07-22T13:00:10",
+        "employees": 0,
+        "users": 2,
+        "thirdparties": 14,
+        "employees_url": 0,
+        "users_url": 5,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-07-20",
       "victim": "SHUN ON ELECTRONIC CO., LTD.",

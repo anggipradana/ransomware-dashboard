@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3839,
+  "count": 3841,
   "results": [
     {
       "date": "2026-07-21",
@@ -500,6 +500,40 @@
         "group": "krybit",
         "permalink": "https://www.ransomware.live/id/ZXVyb2hvbGQuYmdAa3J5Yml0"
       }
+    },
+    {
+      "date": "2026-07-14",
+      "victim": "Five Below",
+      "domain": "fivebelow.com",
+      "country": "US",
+      "summary": "Five Below a signalé un incident de cybersécurité isolé impliquant l'ordinateur d'un employé. Le 14 juillet 2026, un acteur malveillant a utilisé l'ingénierie sociale pour obtenir un accès non autorisé et exfiltrer des fichiers de cet appareil. L'entreprise affirme que l'incident est contenu à cet ordinateur, sans accès aux informations d'identification personnelles (PII) ni à d'autres systèmes, et ne prévoit pas d'impact matériel sur ses opérations.",
+      "description": "",
+      "title": "Five Below (NASDAQ: FIVE) reports isolated employee cyber breach",
+      "url": "https://www.stocktitan.net/sec-filings/FIVE/8-k-five-below-inc-reports-material-event-df49b8dc9fe6.html",
+      "added": "2026-07-23",
+      "infostealer": {
+        "update": "2026-07-23T10:30:08",
+        "employees": 3,
+        "users": 1853,
+        "thirdparties": 11,
+        "employees_url": 7,
+        "users_url": 100,
+        "last_employee_compromised": "2026-03-28T23:22:39.911000+00:00",
+        "last_user_compromised": "2026-07-23T08:37:06.773000+00:00",
+        "infostealer_stats": {
+          "CRYPTBOT": 1,
+          "racoon": 13,
+          "RedLine": 243,
+          "Raccoon": 54,
+          "UNKNOWN": 21,
+          "Redline": 29,
+          "Vidar": 32,
+          "Azorult": 74,
+          "Taurus": 4,
+          "Ficker": 1
+        }
+      },
+      "ransomware": null
     },
     {
       "date": "2026-07-14",
@@ -1291,6 +1325,19 @@
         "last_user_compromised": null,
         "infostealer_stats": {}
       },
+      "ransomware": null
+    },
+    {
+      "date": "2026-06-29",
+      "victim": "Association Japonaise des Personnages Locaux",
+      "domain": "gotouchi-chara.jp",
+      "country": "JP",
+      "summary": "L'Association Japonaise des Personnages Locaux a annoncé qu'il y avait un risque de fuite de données de contact de personnages suite à une infection par ransomware sur son NAS.",
+      "description": "",
+      "title": "一般社団法人日本ご当地キャラクター協会の NAS がランサムウェア感染 1枚目の写真・画像 | ScanNetSecurity",
+      "url": "https://s.netsecurity.ne.jp/article/img/2026/07/23/55763/53718.html",
+      "added": "2026-07-23",
+      "infostealer": "",
       "ransomware": null
     },
     {

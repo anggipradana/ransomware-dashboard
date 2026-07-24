@@ -4,8 +4,74 @@
     "month": null,
     "country": null
   },
-  "count": 3845,
+  "count": 3848,
   "results": [
+    {
+      "date": "2026-07-22",
+      "victim": "Brinks Home",
+      "domain": "brinkshome.com",
+      "country": "US",
+      "summary": "Brinks Home a signalé une cyberattaque ayant permis de s'infiltrer dans ses systèmes informatiques et a fait état d'un chantage implicite, les pirates menaçant de divulguer les informations dérobées. L'entreprise a mis en œuvre ses plans d'intervention et mené une enquête informatique, qui n'a toutefois pas permis de confirmer aucune compromission. Les clients ont été invités à faire preuve de vigilance.",
+      "description": "",
+      "title": "Client Challenge",
+      "url": "https://www.dallasnews.com/business/local-companies/article/dallas-security-company-brinks-home-hit-22357355.php",
+      "added": "2026-07-24",
+      "infostealer": {
+        "update": "2026-07-24T13:00:08",
+        "employees": 3,
+        "users": 390,
+        "thirdparties": 10,
+        "employees_url": 13,
+        "users_url": 51,
+        "last_employee_compromised": "2026-04-05T01:18:20+00:00",
+        "last_user_compromised": "2026-07-23T08:40:40.104000+00:00",
+        "infostealer_stats": {
+          "RedLine": 101,
+          "Lumma": 41,
+          "Generic Stealer": 50,
+          "Vidar": 7,
+          "Azorult": 36,
+          "UNKNOWN": 2,
+          "Raccoon": 13,
+          "StealC": 2,
+          "CRYPTBOT": 1
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-07-21",
+      "victim": "Zoner",
+      "domain": "zoner.fi",
+      "country": "FI",
+      "summary": "Le fournisseur de services web finlandais Zoner a été victime d'une violation de sécurité sur ses serveurs. L'incident, découvert mardi, a entraîné des problèmes de fonctionnement pour environ 1800 de ses 58000 clients, affectant des sites web et des boîtes e-mail. Des pirates informatiques ont accédé aux serveurs, modifiant les mots de passe des comptes d'hébergement et ajoutant des comptes de messagerie non autorisés. Les serveurs concernés ont été mis hors ligne et la restauration des sauvegardes est en cours. Zoner n'a pas trouvé de signes de copie massive ou de perte de données chez ses clients.",
+      "description": "",
+      "title": "VerkkohyÃ¶kkÃ¤ys: LÃ¤hes 2 000 suomalaissivua ja sÃ¤hkÃ¶postia jumissa",
+      "url": "https://www.iltalehti.fi/digiuutiset/a/5f2d67ec-8f0c-44d6-8eb2-9be3bc97ca18",
+      "added": "2026-07-24",
+      "infostealer": {
+        "update": "2026-07-24T13:00:09",
+        "employees": 38,
+        "users": 59,
+        "thirdparties": 0,
+        "employees_url": 5,
+        "users_url": 55,
+        "last_employee_compromised": "2025-11-23T15:00:43+00:00",
+        "last_user_compromised": "2026-06-11T09:04:00+00:00",
+        "infostealer_stats": {
+          "Generic Stealer": 16,
+          "Raccoon": 7,
+          "Vidar": 2,
+          "RedLine": 27,
+          "Atomic": 2,
+          "Lumma": 18,
+          "StealC": 1,
+          "Taurus": 1,
+          "Azorult": 2
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-07-21",
       "victim": "Asamblea Legislativa",
@@ -100,6 +166,32 @@
         }
       },
       "ransomware": null
+    },
+    {
+      "date": "2026-07-19",
+      "victim": "IJsstadion Thialf",
+      "domain": "thialf.nl",
+      "country": "NL",
+      "summary": "L'IJsstadion Thialf, un important stade de patinage et lieu d'événements situé à Heerenveen, a récemment été la cible d'une cyberattaque par ransomware. L'attaque a été attribuée au groupe malveillant « The Gentlemen ». Les attaquants ont exigé le paiement d’une rançon en échange de la non-publication sur le dark web de documents internes, d’informations sur les employés et de contrats financiers volés. Malgré cette attaque, l’IJsstadion Thialf a indiqué que son impact avait été minime, les enquêtes informatiques ayant confirmé que les processus opérationnels et les données n’avaient pas été affectés ni mis en danger.",
+      "description": "",
+      "title": "DPG Media Privacy Gate",
+      "url": "https://www.bndestem.nl/binnenland/ijsstadion-thialf-geraakt-door-cyberaanval-criminelen-eisen-losgeld-om-lek-te-voorkomen~a753008ec/",
+      "added": "2026-07-24",
+      "infostealer": {
+        "update": "2026-07-23T15:12:43",
+        "employees": 0,
+        "users": 9,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 4,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "thegentlemen",
+        "permalink": "https://www.ransomware.live/id/VGhpYWxmQHRoZWdlbnRsZW1lbg=="
+      }
     },
     {
       "date": "2026-07-19",

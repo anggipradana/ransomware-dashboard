@@ -1,6 +1,10 @@
 {
-  "count": 28,
+  "count": 29,
   "groups": [
+    {
+      "group": ".claude",
+      "chats": 1
+    },
     {
       "group": "Akira",
       "chats": 61
@@ -43,7 +47,7 @@
     },
     {
       "group": "Dragonforce",
-      "chats": 17
+      "chats": 25
     },
     {
       "group": "Hive",

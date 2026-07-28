@@ -4,8 +4,31 @@
     "month": null,
     "country": null
   },
-  "count": 3852,
+  "count": 3854,
   "results": [
+    {
+      "date": "2026-07-28",
+      "victim": "CubePilot",
+      "domain": "cubepilot.org",
+      "country": "AU",
+      "summary": "CubePilot, une entreprise australienne fournissant du matériel et des logiciels embarqués pour l'industrie des systèmes non habités civils, a signalé à ses clients qu'un incident de sécurité affectait certains de ses systèmes. En précaution, le portail ERP a été mis hors ligne. L'entreprise enquête sur l'incident en collaboration avec les autorités australiennes, mais n'a pas encore communiqué de détails supplémentaires ni identifié d'acteur de menace.",
+      "description": "",
+      "title": "Aussie UAS supplier warns of suspected cyber attack",
+      "url": "https://australianaviation.com.au/2026/07/aussie-uas-supplier-warns-of-cyber-attack/",
+      "added": "2026-07-28",
+      "infostealer": {
+        "update": "2026-07-28T06:30:09",
+        "employees": 0,
+        "users": 26,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 9,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-07-26",
       "victim": "AnMed",
@@ -39,6 +62,19 @@
       "title": "Hacker contro Caredent, possibile violazione anche nel centro di Trebaseleghe: l’azienda allerta i pazienti",
       "url": "https://www.mattinopadova.it/cronaca/attacco-hacker-caredent-trebaseleghe-dati-pazienti-sicurezza-bzxcdny5",
       "added": "2026-07-25",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-07-24",
+      "victim": "OCS",
+      "domain": "ocsfamilylinkservice.ocs.co.jp",
+      "country": "JP",
+      "summary": "OCS, société du groupe ANA, a annoncé que son site de commerce électronique pour résidents à l'étranger, OCS FAMILY LINK SERVICE, avait été victime d'une cyberattaque. Le 24 juillet 2026, l'entreprise a confirmé qu'un accès externe non autorisé avait eu lieu sur ses serveurs, et qu'une partie des données personnelles et des informations pourrait avoir été divulguée. OCS a immédiatement coupé le système et les réseaux associés pour contenir les dégâts et mène une enquête en collaboration avec les autorités. Les détails sur les informations compromises, le nombre de victimes et la cause de l'intrusion restent inconnus.",
+      "description": "",
+      "title": "OCS FAMILY LINK SERVICEへのシステム障害はサイバー攻撃が原因、個人情報流出の恐れ|セキュリティニュースのセキュリティ対策Lab",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/ocs-family-link-cyberattack-data-leak/",
+      "added": "2026-07-28",
       "infostealer": "",
       "ransomware": null
     },

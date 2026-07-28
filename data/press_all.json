@@ -937,7 +937,10 @@
       "url": "https://dysruptionhub.com/greene-county-georgia-network-outage/",
       "added": "2026-07-16",
       "infostealer": "",
-      "ransomware": null
+      "ransomware": {
+        "group": "incransom",
+        "permalink": "https://www.ransomware.live/id/Z3JlZW5lY291bnR5Z2EuZ292QGluY3JhbnNvbQ=="
+      }
     },
     {
       "date": "2026-07-09",

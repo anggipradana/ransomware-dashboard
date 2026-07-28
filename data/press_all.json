@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3854,
+  "count": 3859,
   "results": [
     {
       "date": "2026-07-28",
@@ -23,6 +23,29 @@
         "thirdparties": 0,
         "employees_url": 0,
         "users_url": 9,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-07-27",
+      "victim": "LM Mobilidade",
+      "domain": "lmmobilidade.com.br",
+      "country": "BR",
+      "summary": "LM Mobilidade, une entreprise de terceirisation de flottes, a identifié un incident de cyberattaque. Par mesure préventive, l'entreprise a interrompu temporairement ses systèmes pour en évaluer l'étendue et la gravité. À ce jour, l'entreprise a indiqué qu'il n'y avait pas eu de compromission de données personnelles.",
+      "description": "",
+      "title": "LM Mobilidade identifica ataque cibernético e interrompe sistemas",
+      "url": "https://valor.globo.com/empresas/noticia/2026/07/27/lm-mobilidade-identifica-ataque-ciberntico-e-interrompe-sistemas.ghtml",
+      "added": "2026-07-28",
+      "infostealer": {
+        "update": "2026-07-28T10:30:08",
+        "employees": 0,
+        "users": 42,
+        "thirdparties": 1,
+        "employees_url": 0,
+        "users_url": 11,
         "last_employee_compromised": null,
         "last_user_compromised": null,
         "infostealer_stats": {}
@@ -168,6 +191,19 @@
         "last_user_compromised": null,
         "infostealer_stats": {}
       },
+      "ransomware": null
+    },
+    {
+      "date": "2026-07-20",
+      "victim": "ZTN Süd",
+      "domain": "ztn-sued.de",
+      "country": "DE",
+      "summary": "Le Zweckverband Tierische Nebenprodukte Süd (ZTN Süd) de Warthausen a été victime d'une cyberattaque. L'incident a été découvert le 20 juillet après que plusieurs systèmes de serveurs aient été mis hors service par un logiciel de chiffrement. Le Verband travaille actuellement avec des experts externes et les autorités compétentes pour déterminer si des données personnelles ont été compromises, bien qu'aucune preuve de fuite de données ne soit disponible à ce jour. Le Verband a mis les systèmes affectés hors ligne et recommande une vigilance accrue à ses parties prenantes.",
+      "description": "",
+      "title": "Cyberangriff auf ZTN Süd in Warthausen – Ermittlungen laufen",
+      "url": "https://www.wochenblatt-news.de/region-biberach/biberach/cyberangriff-auf-ztn-sued-in-warthausen-ermittlungen-laufen/",
+      "added": "2026-07-28",
+      "infostealer": "",
       "ransomware": null
     },
     {
@@ -5322,6 +5358,49 @@
       "ransomware": null
     },
     {
+      "date": "2026-04-23",
+      "victim": "Ernst & Young",
+      "domain": "ey.com",
+      "country": "US",
+      "summary": "Le groupe d'extorsion ShinyHunters a revendiqué la responsabilité d'une violation de données chez Ernst & Young (EY), affirmant avoir obtenu des identifiants via une attaque de la chaîne d'approvisionnement. EY avait initialement révélé une brèche où un système de tickets de support tiers, contenant potentiellement des informations fiscales de clients, a été compromis. L'accès de l'attaquant a eu lieu entre le 28 mars et le 12 avril. ShinyHunters a menacé de publier les données volées si EY ne les contacte pas avant le 31 juillet 2026. Les attaquants affirment que les identifiants volés ont permis de compromettre les environnements Jira, GitHub et Azure d'EY.",
+      "description": "",
+      "title": "Ernst & Young data breach claimed by ShinyHunters extortion gang",
+      "url": "https://www.bleepingcomputer.com/news/security/ernst-and-young-data-breach-claimed-by-shinyhunters-extortion-gang/",
+      "added": "2026-07-28",
+      "infostealer": {
+        "update": "2026-07-27T13:00:15.032060",
+        "employees": 838,
+        "users": 2053,
+        "thirdparties": 1017,
+        "employees_url": 47,
+        "users_url": 100,
+        "last_employee_compromised": "2026-07-25T18:53:10.975000+00:00",
+        "last_user_compromised": "2026-07-25T00:00:00+00:00",
+        "infostealer_stats": {
+          "KPOT": 2,
+          "CRYPTBOT": 10,
+          "Vidar": 121,
+          "Aura Stealer": 1,
+          "UNKNOWN": 31,
+          "Atomic": 14,
+          "Taurus": 1,
+          "Predator": 1,
+          "Raccoon": 244,
+          "RedLine": 632,
+          "Acreed": 63,
+          "StealC": 131,
+          "Mystic": 2,
+          "Azorult": 53,
+          "Lumma": 581,
+          "Generic Stealer": 819
+        }
+      },
+      "ransomware": {
+        "group": "shinyhunters",
+        "permalink": "https://www.ransomware.live/id/RXJuc3QgJiBZb3VuZ0BzaGlueWh1bnRlcnM="
+      }
+    },
+    {
       "date": "2026-04-22",
       "victim": "Seidensha Electronics Co., Ltd.",
       "domain": "sdnsha.com",
@@ -6230,6 +6309,32 @@
     },
     {
       "date": "2026-04-09",
+      "victim": "Vilhelmina et Dorotea",
+      "domain": "vilhelmina.se",
+      "country": "SE",
+      "summary": "Les municipalités de Vilhelmina et Dorotea, dans la région de Västerbotten, ont été touchées par des attaques par rançongiciel le 9 avril 2026. Ces attaques ont forcé les conseils municipaux à activer des protocoles de crise et à revenir à des opérations basées sur papier. Dorotea est passée en mode d'urgence, tandis que Vilhelmina a confirmé faire partie d'une attaque informatique plus vaste affectant plusieurs conseils suédois. Les services municipaux ont été gravement perturbés, notamment les services sociaux, bien que les municipalités aient maintenu des communications internes et des services essentiels. Une attaque a été revendiquée par INC Ransom le 24 avril.",
+      "description": "",
+      "title": "Vilhelmina and Dorotea Municipalities Hit by Ransomware Attack Amid Regional Wave - eBuilder Security",
+      "url": "https://ebuildersecurity.se/en/cyber-news/vilhelmina-and-dorotea-municipalities-hit-by-ransomware-attack-amid-regional-wave/",
+      "added": "2026-07-28",
+      "infostealer": {
+        "update": "2026-04-30T18:35:05",
+        "employees": 0,
+        "users": 7,
+        "thirdparties": 10,
+        "employees_url": 0,
+        "users_url": 4,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "incransom",
+        "permalink": "https://www.ransomware.live/id/RG9yb3RlYSBTd2VkZW5AaW5jcmFuc29t"
+      }
+    },
+    {
+      "date": "2026-04-09",
       "victim": "Clinical Registry Solutions",
       "domain": "clinicalregistrysolutions.com",
       "country": "US",
@@ -6593,6 +6698,19 @@
         "group": "blackwater",
         "permalink": "https://www.ransomware.live/id/TWluaWRva2EgTWVtb3JpYWwgSG9zcGl0YWxAYmxhY2t3YXRlcg=="
       }
+    },
+    {
+      "date": "2026-04-03",
+      "victim": "MOST (Filiale de Kyushu Denshi)",
+      "domain": "most.com.tw",
+      "country": "TW",
+      "summary": "La société japonaise de semi-conducteurs Kyushu Denshi a révélé publiquement, via une annonce en trois étapes, le processus complet de l'attaque par rançongiciel subie par sa filiale taïwanaise, MOST (Microwave & Optical Semiconductors Taiwan Co., Ltd.). Les experts considèrent cet événement comme un cas réel de 'gouvernance de la cybersécurité de la chaîne d'approvisionnement', offrant un modèle aux entreprises taïwanaises pour équilibrer la divulgation d'informations et la gestion des risques.",
+      "description": "",
+      "title": "台灣子公司遭駭 日半導體商罕見公開「受駭日記」｜財富自由",
+      "url": "https://stock.ltn.com.tw/article/v4dvex7mh6hf",
+      "added": "2026-07-28",
+      "infostealer": "",
+      "ransomware": null
     },
     {
       "date": "2026-04-03",

@@ -4,8 +4,48 @@
     "month": null,
     "country": null
   },
-  "count": 3874,
+  "count": 3878,
   "results": [
+    {
+      "date": "2026-07-29",
+      "victim": "Universidade de Aveiro",
+      "domain": "ua.pt",
+      "country": "PT",
+      "summary": "L'Université de Aveiro (UA) a détecté un accès non autorisé à ses systèmes d'information, entraînant l'exposition de données personnelles et institutionnelles. Le recteur a informé la communauté académique de cet incident et a demandé à tous les membres de changer leurs mots de passe, tout en recommandant des pratiques de sécurité renforcées. L'institution est en train d'évaluer l'étendue de la fuite et prend des mesures pour atténuer les dommages.",
+      "description": "",
+      "title": "UA foi alvo de ataque informático que “expôs dados pessoais e institucionais”",
+      "url": "https://radioria.pt/noticias/universidade/ua-foi-alvo-de-ataque-informatico-que-expos-dados-pessoais-e-institucionais",
+      "added": "2026-07-30",
+      "infostealer": {
+        "update": "2026-07-30T10:00:11",
+        "employees": 1570,
+        "users": 2157,
+        "thirdparties": 1078,
+        "employees_url": 100,
+        "users_url": 100,
+        "last_employee_compromised": "2026-07-25T00:00:00+00:00",
+        "last_user_compromised": "2026-07-26T00:00:00+00:00",
+        "infostealer_stats": {
+          "DarkCrystal": 2,
+          "Acreed": 59,
+          "Taurus": 4,
+          "Predator": 8,
+          "RedLine": 1243,
+          "Azorult": 68,
+          "Vidar": 173,
+          "Generic Stealer": 731,
+          "Mystic": 2,
+          "Remus": 1,
+          "UNKNOWN": 52,
+          "Lumma": 763,
+          "Raccoon": 412,
+          "Atomic": 4,
+          "CRYPTBOT": 13,
+          "StealC": 174
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-07-29",
       "victim": "Administrația Națională a Penitenciarelor (ANP)",
@@ -879,6 +919,19 @@
     },
     {
       "date": "2026-07-15",
+      "victim": "Döbeln",
+      "domain": "doebeln.de",
+      "country": "DE",
+      "summary": "La ville de Döbeln a été victime d'une cyberattaque sur son infrastructure de serveurs le 15 juillet 2026. La ville a mis son site Internet hors ligne par mesure de précaution et il est resté inaccessible pendant plus d'une semaine. Les autres systèmes informatiques de l'administration n'ont pas été affectés, et les failles de sécurité ont été corrigées.",
+      "description": "",
+      "title": "Stadtverwaltung Döbeln",
+      "url": "https://kommunaler-notbetrieb.de/2026/07/23/stadtverwaltung-doebeln/",
+      "added": "2026-07-30",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-07-15",
       "victim": "webhot.dk",
       "domain": "webhot.dk",
       "country": "DK",
@@ -1453,6 +1506,32 @@
       "added": "2026-07-09",
       "infostealer": "",
       "ransomware": null
+    },
+    {
+      "date": "2026-07-05",
+      "victim": "MSGás",
+      "domain": "msgas.com.br",
+      "country": "BR",
+      "summary": "La MSGás, compagnie de gaz de l'État de Mato Grosso do Sul, a notifié ses clients d'un incident de cybersécurité. Un attaque par ransomware a potentiellement exposé des données personnelles telles que le nom, le CPF et l'adresse. La compagnie a pris des mesures pour isoler les systèmes, révoquer les accès et a notifié l'ANPD (Autorité Nationale de Protection des Données). Elle recommande aux clients de rester vigilants face aux fraudes et aux tentatives d'ingénierie sociale. L'attaque a été revendiquée le 25 juillet par Blackwater.",
+      "description": "",
+      "title": "Ataque hacker pode ter exposto CPF e endereço de clientes da MSGás",
+      "url": "https://www.campograndenews.com.br/direto-das-ruas/ataque-hacker-pode-ter-exposto-cpf-e-endereco-de-clientes-da-msgas",
+      "added": "2026-07-30",
+      "infostealer": {
+        "update": "2026-07-25T13:52:00",
+        "employees": 5,
+        "users": 20,
+        "thirdparties": 1,
+        "employees_url": 2,
+        "users_url": 11,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "blackwater",
+        "permalink": "https://www.ransomware.live/id/bXNnYXMuY29tLmJyQGJsYWNrd2F0ZXI="
+      }
     },
     {
       "date": "2026-07-05",
@@ -3710,6 +3789,32 @@
       "ransomware": {
         "group": "nightspire",
         "permalink": "https://www.ransomware.live/id/SyoqKioqKiBDb3VudHkuIE1pKiplKip0YUBuaWdodHNwaXJl"
+      }
+    },
+    {
+      "date": "2026-06-02",
+      "victim": "Neuwoges",
+      "domain": "neuwoges.de",
+      "country": "DE",
+      "summary": "La société de logement communale de Neubrandenburg (Neuwoges) et ses filiales ont été touchées par une cyberattaque, entraînant la coupure de ses systèmes informatiques centraux. L'incident, survenu le 2 juin, a rendu l'entreprise et plusieurs de ses filiales, y compris une maison de soins et un refuge pour animaux, partiellement inaccessibles. Une cyberattaque a été revendiquée le 18 juin par INC Ransom.",
+      "description": "",
+      "title": "Cyber-Schock: Hacker legen Neuwoges lahm – Mieter, Pflegeheim und Tierheim betroffen",
+      "url": "https://www.nordkurier.de/regional/neubrandenburg/cyber-schock-hacker-legen-wohnungsunternehmen-lahm-mieter-pflegeheim-und-tierheim-betroffen-4623454",
+      "added": "2026-07-30",
+      "infostealer": {
+        "update": "2026-06-18T00:24:49",
+        "employees": 1,
+        "users": 7,
+        "thirdparties": 2,
+        "employees_url": 2,
+        "users_url": 5,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "incransom",
+        "permalink": "https://www.ransomware.live/id/bmV1d29nZXMuZGVAaW5jcmFuc29t"
       }
     },
     {

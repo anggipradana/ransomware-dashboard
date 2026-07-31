@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3878,
+  "count": 3880,
   "results": [
     {
       "date": "2026-07-29",
@@ -686,6 +686,29 @@
         "thirdparties": 1,
         "employees_url": 2,
         "users_url": 6,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-07-17",
+      "victim": "Borough Council of King's Lynn and West Norfolk",
+      "domain": "west-norfolk.gov.uk",
+      "country": "GB",
+      "summary": "Le conseil municipal de King's Lynn and West Norfolk a subi une cyberattaque le 17 juillet, alors que le personnel comptait les votes pour une élection locale. Bien que l'incident ait affecté temporairement les services du conseil, les enquêtes n'ont révélé aucune preuve que des données aient été consultées ou volées. L'attaque a été signalée au National Cyber Security Centre (NCSC) et a été rapidement contenue. L'incident n'a pas entravé le décompte électoral.",
+      "description": "",
+      "title": "West Norfolk Council suffered cyber attack on PCC election day",
+      "url": "https://www.bbc.com/news/articles/c4gk85ey55yo",
+      "added": "2026-07-31",
+      "infostealer": {
+        "update": "2026-07-31T11:00:08",
+        "employees": 0,
+        "users": 50,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 16,
         "last_employee_compromised": null,
         "last_user_compromised": null,
         "infostealer_stats": {}
@@ -2393,6 +2416,49 @@
         "infostealer_stats": {}
       },
       "ransomware": null
+    },
+    {
+      "date": "2026-06-23",
+      "victim": "Analog Devices",
+      "domain": "analog.com",
+      "country": "US",
+      "summary": "Le fabricant de semi-conducteurs Analog Devices a signalé une cyberattaque. Une enquête a révélé que des attaquants ont accédé sans autorisation à certains systèmes de l'entreprise et ont volé des fichiers à partir du 23 juin. L'entreprise a également mentionné un incident de sécurité séparé, signalé le 26 juillet, impliquant potentiellement le groupe de rançongiclage ExfilSquad, qui prétend avoir volé 570 000 enregistrements de données. Analog Devices n'a pas encore précisé la nature des informations compromises, mais estime que l'incident n'aura pas d'impact majeur sur ses opérations.",
+      "description": "",
+      "title": "Nach Hackerangriff: Analog Devices meldet Datenschutzverletzung",
+      "url": "https://www.it-daily.net/shortnews/hackerangriff-analog-devices",
+      "added": "2026-07-31",
+      "infostealer": {
+        "update": "2026-07-26T10:55:10.482053",
+        "employees": 280,
+        "users": 2321,
+        "thirdparties": 92,
+        "employees_url": 51,
+        "users_url": 100,
+        "last_employee_compromised": "2026-07-11T16:21:31+00:00",
+        "last_user_compromised": "2026-07-25T18:19:26.745000+00:00",
+        "infostealer_stats": {
+          "Mystic": 2,
+          "UNKNOWN": 29,
+          "Taurus": 2,
+          "DarkCrystal": 4,
+          "Azorult": 74,
+          "Raccoon": 208,
+          "Atomic": 1,
+          "Predator": 3,
+          "Lumma": 438,
+          "KPOT": 1,
+          "StealC": 91,
+          "Generic Stealer": 485,
+          "Acreed": 7,
+          "Vidar": 68,
+          "CRYPTBOT": 11,
+          "RedLine": 686
+        }
+      },
+      "ransomware": {
+        "group": "ExfilSquad",
+        "permalink": "https://www.ransomware.live/id/QW5hbG9nIERldmljZXNARXhmaWxTcXVhZA=="
+      }
     },
     {
       "date": "2026-06-23",

@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3880,
+  "count": 3881,
   "results": [
     {
       "date": "2026-07-29",
@@ -938,6 +938,19 @@
         "last_user_compromised": null,
         "infostealer_stats": {}
       },
+      "ransomware": null
+    },
+    {
+      "date": "2026-07-15",
+      "victim": "Advanced Procurement for Universities and Colleges (APUC)",
+      "domain": "apuc-scot.ac.uk",
+      "country": "GB",
+      "summary": "L'APUC a confirmé qu'un accès non autorisé à des données historiques avait eu lieu lors d'une cyberattaque survenue mi-juillet et mène actuellement une enquête sur les allégations de vol. L'organisme écossais chargé des marchés publics a maîtrisé l'intrusion sans que cela n'entraîne de perturbation opérationnelle et en a informé les autorités.",
+      "description": "",
+      "title": "Scotland's university procurement center confirms cybercrooks broke in",
+      "url": "https://www.theregister.com/cyber-crime/2026/07/31/scotlands-university-procurement-center-confirms-cybercrooks-broke-in/5281654",
+      "added": "2026-07-31",
+      "infostealer": "",
       "ransomware": null
     },
     {

@@ -4,8 +4,81 @@
     "month": null,
     "country": null
   },
-  "count": 3885,
+  "count": 3888,
   "results": [
+    {
+      "date": "2026-07-31",
+      "victim": "Amgen",
+      "domain": "amgen.com",
+      "country": "US",
+      "summary": "Amgen, une société pharmaceutique basée en Californie, a confirmé avoir subi une violation de données. Des acteurs malveillants ont volé des données corporatives et des informations de patients stockées dans divers systèmes cloud gérés par des fournisseurs tiers. L'activité non autorisée a été détectée en juillet 2026. L'entreprise enquête toujours sur l'étendue exacte des données compromises, y compris les informations de santé protégées des patients et les données de propriété intellectuelle.",
+      "description": "",
+      "title": "Amgen says cloud data breach exposed patient health, proprietary info",
+      "url": "https://www.bleepingcomputer.com/news/security/amgen-says-cloud-data-breach-exposed-patient-health-proprietary-info/",
+      "added": "2026-08-01",
+      "infostealer": {
+        "update": "2026-08-01T13:00:10",
+        "employees": 14,
+        "users": 128,
+        "thirdparties": 57,
+        "employees_url": 10,
+        "users_url": 46,
+        "last_employee_compromised": "2026-05-31T12:58:18+00:00",
+        "last_user_compromised": "2026-07-23T08:36:41.613000+00:00",
+        "infostealer_stats": {
+          "Raccoon": 17,
+          "UNKNOWN": 1,
+          "RedLine": 30,
+          "Vidar": 10,
+          "Generic Stealer": 41,
+          "Ficker": 1,
+          "StealC": 6,
+          "Azorult": 6,
+          "CRYPTBOT": 1,
+          "Lumma": 26
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-07-31",
+      "victim": "Université Masaryk",
+      "domain": "muni.cz",
+      "country": "CZ",
+      "summary": "L'Université Masaryk a été victime d'un incident de cybersécurité ayant affecté une partie de son infrastructure informatique. L'incident est géré depuis sa découverte par des experts en collaboration avec la police et l'agence NÚKIB. Les opérations normales de l'université, ainsi que les services aux étudiants et la recherche, n'ont subi aucun impact.",
+      "description": "",
+      "title": "Ještě zbývá jeden krok",
+      "url": "https://www.irozhlas.cz/zpravy-domov/kyberneticky-utok-na-masarykovu-univerzitu-vysoka-skola-v-brne-zjistuje-dopady-a_2607311423_zko",
+      "added": "2026-08-01",
+      "infostealer": {
+        "update": "2026-08-01T13:00:08",
+        "employees": 125,
+        "users": 2112,
+        "thirdparties": 142,
+        "employees_url": 28,
+        "users_url": 100,
+        "last_employee_compromised": "2026-07-13T17:52:28.512000+00:00",
+        "last_user_compromised": "2026-07-25T00:00:00+00:00",
+        "infostealer_stats": {
+          "Azorult": 35,
+          "Mystic": 3,
+          "Raccoon": 201,
+          "StealC": 119,
+          "Generic Stealer": 540,
+          "Acreed": 43,
+          "Vidar": 80,
+          "RedLine": 542,
+          "Lumma": 495,
+          "CRYPTBOT": 10,
+          "Ficker": 4,
+          "Atomic": 3,
+          "Taurus": 1,
+          "DarkCrystal": 1,
+          "UNKNOWN": 22
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-07-31",
       "victim": "Oldelval",
@@ -54,6 +127,29 @@
         "thirdparties": 0,
         "employees_url": 1,
         "users_url": 5,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-07-30",
+      "victim": "Southeastern Oklahoma State University",
+      "domain": "se.edu",
+      "country": "US",
+      "summary": "L'Université d'État de l'Oklahoma du Sud a été victime d'une cyberattaque qui a contraint l'établissement à mettre temporairement hors ligne certains de ses systèmes informatiques. Une enquête est en cours avec l'aide d'experts externes pour déterminer la nature et l'étendue de l'attaque.",
+      "description": "",
+      "title": "Southeastern attacked by cyber criminals, university investigating incident",
+      "url": "https://www.kxii.com/2026/07/31/southeastern-attacked-by-cyber-criminals-university-investigating-incident/",
+      "added": "2026-08-01",
+      "infostealer": {
+        "update": "2026-08-01T13:00:10",
+        "employees": 32,
+        "users": 39,
+        "thirdparties": 38,
+        "employees_url": 8,
+        "users_url": 11,
         "last_employee_compromised": null,
         "last_user_compromised": null,
         "infostealer_stats": {}

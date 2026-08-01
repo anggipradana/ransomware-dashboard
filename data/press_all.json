@@ -4,8 +4,39 @@
     "month": null,
     "country": null
   },
-  "count": 3883,
+  "count": 3885,
   "results": [
+    {
+      "date": "2026-07-31",
+      "victim": "Oldelval",
+      "domain": "oldelval.com",
+      "country": "AR",
+      "summary": "Oldelval, la société qui exploite le principal réseau de pipelines d'Argentine, a signalé un incident de cybersécurité affectant ses systèmes administratifs. Cet incident s'est produit alors que la société était en pleine expansion. Malgré l'impact, Oldelval a assuré que l'opération de transport de pétrole brut n'a pas été perturbée. L'incident souligne la vulnérabilité croissante des infrastructures énergétiques critiques face aux cyberattaques.",
+      "description": "",
+      "title": "Alerta en Vaca Muerta por ciberataque que puso a prueba la seguridad del mayor oleoducto del país",
+      "url": "https://www.iprofesional.com/negocios/461285-alerta-vaca-muerta-por-ciberataque-puso-a-prueba-seguridad-mayor-oleoducto-argentina",
+      "added": "2026-08-01",
+      "infostealer": {
+        "update": "2026-07-23T15:13:25",
+        "employees": 4,
+        "users": 8,
+        "thirdparties": 6,
+        "employees_url": 7,
+        "users_url": 18,
+        "last_employee_compromised": "2025-12-07T03:22:30+00:00",
+        "last_user_compromised": "2025-05-17T09:04:30+00:00",
+        "infostealer_stats": {
+          "Generic Stealer": 4,
+          "Lumma": 1,
+          "StealC": 1,
+          "RedLine": 1
+        }
+      },
+      "ransomware": {
+        "group": "thegentlemen",
+        "permalink": "https://www.ransomware.live/id/T2xkZWx2YWwgT2xlb2R1Y3RvcyBkZWwgVmFsbGVAdGhlZ2VudGxlbWVu"
+      }
+    },
     {
       "date": "2026-07-31",
       "victim": "Rapid City",
@@ -2831,6 +2862,32 @@
       "added": "2026-06-26",
       "infostealer": "",
       "ransomware": null
+    },
+    {
+      "date": "2026-06-19",
+      "victim": "Badisches Landesmuseum",
+      "domain": "landesmuseum.de",
+      "country": "DE",
+      "summary": "Le Badische Landesmuseum de Karlsruhe a été victime d'une cyberattaque dont les conséquences ont été découvertes le 19 juin 2026. L'attaque a entraîné le vol de données (professionnelles et personnelles) de membres du personnel, de partenaires et de visiteurs. Pour endiguer le dommage, l'infrastructure informatique a été immédiatement mise hors service. Le musée a déposé plainte et collabore avec les autorités compétentes pour gérer la crise et restaurer les systèmes.",
+      "description": "",
+      "title": "Cyberangriff auf das Badische Landesmuseum in Karlsruhe",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/karlsruhe/cyber-angriff-badisches-landesmuseum-karlsruhe-100.html",
+      "added": "2026-08-01",
+      "infostealer": {
+        "update": "2026-07-27T19:01:05",
+        "employees": 0,
+        "users": 11,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 2,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "safepay",
+        "permalink": "https://www.ransomware.live/id/bGFuZGVzbXVzZXVtLmRlQHNhZmVwYXk="
+      }
     },
     {
       "date": "2026-06-19",

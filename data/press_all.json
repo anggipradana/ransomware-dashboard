@@ -4,8 +4,72 @@
     "month": null,
     "country": null
   },
-  "count": 3888,
+  "count": 3890,
   "results": [
+    {
+      "date": "2026-08-01",
+      "victim": "Metro de Panamá",
+      "domain": "elmetrodepanama.com",
+      "country": "PA",
+      "summary": "Le Metro de Panamá a confirmé la détection d'un incident de cybersécurité dans une partie de son infrastructure technologique. L'institution a activé ses protocoles de réponse pour contenir les éventuelles affectations et mène une enquête technique pour déterminer l'étendue de l'incident.",
+      "description": "",
+      "title": "Alerta en el Metro de Panamá por ataque cibernético",
+      "url": "https://elsiglo.com.pa/panama/nacionales/alerta-en-el-metro-de-panama-por-ataque-cibernetico-MH24543348",
+      "added": "2026-08-02",
+      "infostealer": {
+        "update": "2026-08-02T11:30:07",
+        "employees": 0,
+        "users": 40,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 7,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-08-01",
+      "victim": "Uttarakhand",
+      "domain": "uk.gov.in",
+      "country": "IN",
+      "summary": "Le samedi, les sites web de 10 départements de l'état d'Uttarakhand, dont le Fonds de secours du chef du gouvernement (CM Relief Fund), ont été victimes d'une attaque par logiciel malveillant (malware). L'attaque a forcé la fermeture des sites. Après plusieurs heures d'efforts, l'ITDA a réussi à rétablir le service en utilisant les sauvegardes. Bien que l'attaque ait été détectée et gérée, le site du Fonds de secours du chef du gouvernement n'était toujours pas opérationnel au moment de la rédaction de l'article. L'attaque pourrait être liée à un logiciel malveillant russe, mais cela n'est pas confirmé.",
+      "description": "",
+      "title": "Dehradun News: सीएम रिलीफ फंड समेत 10 विभागों की वेबसाइट पर हुआ साइबर हमला",
+      "url": "https://www.amarujala.com/amp/dehradun/cyberattack-on-websites-of-10-departments-including-the-cm-relief-fund-dehradun-news-c-5-hld1006-1032278-2026-08-02",
+      "added": "2026-08-02",
+      "infostealer": {
+        "update": "2026-07-25T10:57:44",
+        "employees": 19,
+        "users": 20539,
+        "thirdparties": 111,
+        "employees_url": 8,
+        "users_url": 100,
+        "last_employee_compromised": "2026-03-21T08:31:04+00:00",
+        "last_user_compromised": "2026-07-22T07:13:39.059000+00:00",
+        "infostealer_stats": {
+          "Atomic": 25,
+          "Generic Stealer": 3121,
+          "Lumma": 5497,
+          "CRYPTBOT": 66,
+          "RedLine": 3153,
+          "Ficker": 13,
+          "KPOT": 5,
+          "Azorult": 220,
+          "Raccoon": 1708,
+          "Acreed": 14,
+          "Mystic": 2,
+          "StealC": 977,
+          "DarkCrystal": 9,
+          "UNKNOWN": 118,
+          "Taurus": 9,
+          "Vidar": 499,
+          "Predator": 18
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-07-31",
       "victim": "Amgen",

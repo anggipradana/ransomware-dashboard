@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3893,
+  "count": 3897,
   "results": [
     {
       "date": "2026-08-02",
@@ -305,6 +305,46 @@
         "infostealer_stats": {}
       },
       "ransomware": null
+    },
+    {
+      "date": "2026-07-28",
+      "victim": "Accesso Technology Group",
+      "domain": "accesso.com",
+      "country": "GB",
+      "summary": "Accesso Technology Group a confirmé avoir récemment subi un incident de sécurité informatique impliquant un accès non autorisé temporaire à une section limitée de ses systèmes internes. L'entreprise a précisé que cet événement n'a pas entraîné de pannes de système ni de perturbations significatives de ses opérations ou services clients. L'incident a été rapidement contenu et l'entreprise a activé ses procédures de réponse à incident cybernétique, engageant des spécialistes externes. Aucune activité suspecte n'a été détectée depuis l'incident.",
+      "description": "",
+      "title": "Accesso Confirms Cyber Incident Was Contained with Minimal Business Disruption",
+      "url": "https://uk.finance.yahoo.com/news/accesso-confirms-cyber-incident-contained-065621710.html",
+      "added": "2026-08-03",
+      "infostealer": {
+        "update": "2026-07-28T20:28:26.825704",
+        "employees": 0,
+        "users": 1558,
+        "thirdparties": 10,
+        "employees_url": 0,
+        "users_url": 100,
+        "last_employee_compromised": "1970-01-01T00:00:00+00:00",
+        "last_user_compromised": "2026-07-26T19:33:51+00:00",
+        "infostealer_stats": {
+          "Azorult": 194,
+          "Vidar": 31,
+          "Lumma": 190,
+          "Atomic": 3,
+          "UNKNOWN": 43,
+          "CRYPTBOT": 2,
+          "Generic Stealer": 336,
+          "StealC": 29,
+          "RedLine": 387,
+          "Raccoon": 136,
+          "Mystic": 1,
+          "Acreed": 7,
+          "DarkCrystal": 1
+        }
+      },
+      "ransomware": {
+        "group": "coinbasecartel",
+        "permalink": "https://www.ransomware.live/id/QWNjZXNzb0Bjb2luYmFzZWNhcnRlbA=="
+      }
     },
     {
       "date": "2026-07-28",
@@ -8735,6 +8775,19 @@
     },
     {
       "date": "2026-03-15",
+      "victim": "Sage Water Resources (SWR)",
+      "domain": "sagenergypartners.com",
+      "country": "US",
+      "summary": "Sage Water Resources (SWR) a, fournisseur d'infrastructures et de gestion de l'eau appartenant à la tribu amérindienne, a détecté une activité non autorisée sur son système PLC le 15 mars 2026. Une analyse forensique a confirmé qu'il s'agissait d'une manipulation logique malveillante opérée par un acteur étatique avancé. Grâce à la vigilance de ses équipes, l'incident a été atténué avant de causer des dommages physiques ou environnementaux. SWR a depuis renforcé considérablement sa sécurité réseau, passant d'une configuration héritée à une configuration PLC/VPN de pointe.",
+      "description": "",
+      "title": "SAGE ENERGY PARTNERS WHOLLY OWNED SUBSIDIARY SAGE WATER RESOURCES ANNOUNCES SUCCESSFUL RECOVERY AND ENHANCED CYBERSECURITY HARDENING OF UINTA BASIN INFRASTRUCTURE FOLLOWING TARGETED GEOPOLITICAL CYBER INCIDENT | The AI Journal",
+      "url": "https://aijourn.com/sage-energy-partners-wholly-owned-subsidiary-sage-water-resources-announces-successful-recovery-and-enhanced-cybersecurity-hardening-of-uinta-basin-infrastructure-following-targeted-geopolitical-cyber/",
+      "added": "2026-08-03",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-03-15",
       "victim": "Rajagiri Hospital",
       "domain": "rajagirihospital.com",
       "country": "IN",
@@ -9510,6 +9563,19 @@
       "title": "'Cyber incident' prompts London's health unit to shut down phone lines, software systems | CBC News",
       "url": "https://www.cbc.ca/news/canada/london/health-unit-cyber-9.7118051",
       "added": "2026-03-07",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-03-04",
+      "victim": "Passaic County",
+      "domain": "passaiccountynj.org",
+      "country": "US",
+      "summary": "Le comté de Passaic a subi une cyberattaque par ransomware en mars. Bien qu'aucun paiement de rançon n'ait été effectué, les attaquants ont accédé à et obtenu des données des systèmes du comté. Les coûts de cybersécurité et de récupération approchent les 395 000 dollars. Une enquête est en cours pour déterminer quels enregistrements et informations personnelles ont été pris.",
+      "description": "",
+      "title": "Passaic County didn't pay ransom, but cyberattack still cost heavily",
+      "url": "https://eu.northjersey.com/story/news/passaic/2026/08/03/passaic-county-nj-cyberattack-cost-400k-without-ransom-payment/91083887007/",
+      "added": "2026-08-03",
       "infostealer": "",
       "ransomware": null
     },
@@ -86545,6 +86611,19 @@
         "last_user_compromised": null,
         "infostealer_stats": {}
       },
+      "ransomware": null
+    },
+    {
+      "date": "2022-01-13",
+      "victim": "Medizin Campus Bodensee",
+      "domain": "medizin-campus-bodensee.de",
+      "country": "DE",
+      "summary": "Le Cyber Campus Bodensee (MCB) a subi un cyberattaque le 13 janvier 2022, entraînant des perturbations massives dans le fonctionnement de la clinique. Les autorités ont finalement fait un avancement dans l'enquête en 2023, menant à la démantèlement du groupe pirate \"Hive\", présumé responsable de l'attaque - mais qui ne l'a jamais revendiquée. Le principal suspect reste recherché grâce à un mandat européen.",
+      "description": "",
+      "title": "Nach Cyberangriff auf MCB: 10 Millionen Dollar Kopfgeld auf mutmaßlichen Hacker ausgesetzt",
+      "url": "https://www.suedkurier.de/bodenseekreis/cyberangriff-auf-medizin-campus-bodensee-sorgt-fuer-10-millionen-dollar-kopfgeld-19-05-26-113979660",
+      "added": "2026-08-03",
+      "infostealer": "",
       "ransomware": null
     },
     {

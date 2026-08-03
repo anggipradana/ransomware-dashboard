@@ -4,8 +4,31 @@
     "month": null,
     "country": null
   },
-  "count": 3890,
+  "count": 3893,
   "results": [
+    {
+      "date": "2026-08-02",
+      "victim": "Magyar Államkincstár",
+      "domain": "allamkincstar.gov.hu",
+      "country": "HU",
+      "summary": "Le Magyar Államkincstár (Trésor d'État hongrois) a été victime d'une cyberattaque ciblant le réseau informatique de son service agricole et de développement rural (Nemzeti Kifizető Ügynökség). L'incident a été détecté et les serveurs infectés ont été isolés. Les autorités compétentes, dont le Centre National de Cybersécurité, mènent une enquête. Bien que l'attaque provienne de serveurs russes, aucune perte de données n'est actuellement confirmée, et les données des clients gérés par le Trésor n'ont pas été touchées. Cependant, les postes de travail des utilisateurs internes ont été compromis.",
+      "description": "",
+      "title": "Orosz hackereket sejtenek a Magyar Államkincstár szervereit ért támadás mögött",
+      "url": "https://444.hu/2026/08/02/orosz-hackereket-sejtenek-a-magyar-allamkincstar-szervereit-ert-tamadas-mogott",
+      "added": "2026-08-03",
+      "infostealer": {
+        "update": "2026-08-03T09:00:07",
+        "employees": 4,
+        "users": 213,
+        "thirdparties": 33,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-08-01",
       "victim": "Metro de Panamá",
@@ -579,6 +602,19 @@
       "title": "OCS FAMILY LINK SERVICEへのシステム障害はサイバー攻撃が原因、個人情報流出の恐れ|セキュリティニュースのセキュリティ対策Lab",
       "url": "https://rocket-boys.co.jp/security-measures-lab/ocs-family-link-cyberattack-data-leak/",
       "added": "2026-07-28",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-07-23",
+      "victim": "Municipalité de Saint-Noël",
+      "domain": "st-noel.com",
+      "country": "CA",
+      "summary": "La station d’eau potable de la municipalité de Saint-Noël a été victime d'une cyberattaque russe le 23 juillet. L'attaque, qui visait les infrastructures essentielles canadiennes, a été détectée par un employé municipal. Grâce à l'intervention rapide et en collaboration avec la MRC de La Matapédia, le système a été rétabli. La municipalité confirme que la santé et la sécurité du public n'ont pas été compromises et que le fonctionnement est revenu à la normale.",
+      "description": "",
+      "title": "La station d'eau potable de Saint-Noël fut prise d'assaut par une cyberattaque russe - Ma Gaspésie",
+      "url": "https://magaspesie.ca/2026/07/31/la-station-deau-potable-de-saint-noel-fut-ciblee-par-une-cyberattaque-russe/",
+      "added": "2026-08-03",
       "infostealer": "",
       "ransomware": null
     },
@@ -9020,6 +9056,19 @@
         "last_user_compromised": null,
         "infostealer_stats": {}
       },
+      "ransomware": null
+    },
+    {
+      "date": "2026-03-11",
+      "victim": "Marutaka Kogyo",
+      "domain": "marutaka-kogyo.co.jp",
+      "country": "JP",
+      "summary": "La société Marutaka Kogyo a annoncé qu'à la suite d'une attaque par ransomware survenue le 11 mars 2026, des pirates avaient pénétré dans son réseau interne via un équipement VPN et attaqué plusieurs serveurs. Les pirates ont créé un compte administrateur non autorisé, chiffré les données stockées sur les serveurs et supprimé une partie des journaux système. L'enquête informatique légale a révélé qu'au moins 1,5 Go de données auraient pu faire l'objet d'une fuite. Les informations concernées comprennent les noms des entreprises clientes, les noms des interlocuteurs, les adresses, les numéros de téléphone, les adresses e-mail ainsi que l'historique des commandes et des livraisons. Toutefois, à ce stade, aucun fait attestant d'un vol effectif de données à caractère personnel ni d'une utilisation frauduleuse n'a été confirmé.",
+      "description": "",
+      "title": "丸高興業にランサムウェアによるサイバー攻撃、VPN経由で侵入し1.5GBの情報漏えいのおそれ|セキュリティニュースのセキュリティ対策Lab",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/marutaka-kogyo-vpn-ransomware-attack-information-leak/",
+      "added": "2026-08-03",
+      "infostealer": "",
       "ransomware": null
     },
     {

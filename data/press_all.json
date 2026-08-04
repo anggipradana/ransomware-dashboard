@@ -4,8 +4,42 @@
     "month": null,
     "country": null
   },
-  "count": 3897,
+  "count": 3899,
   "results": [
+    {
+      "date": "2026-08-03",
+      "victim": "Ministerio de Justicia y del Derecho",
+      "domain": "minjusticia.gov.co",
+      "country": "CO",
+      "summary": "Le Ministère de la Justice et du Droit a été victime d'une cyberattaque par rançongiciel (ransomware) qui a compromis une partie de son infrastructure technologique et affecté la disponibilité de certains de ses services. La ministre en charge, Cielo Rusinque, a indiqué que les protocoles de cybersécurité et de confinement ont été immédiatement activés. Elle a appelé les autorités compétentes à mener rapidement les enquêtes pour identifier les responsables. Le Ministère travaille en collaboration avec le Ministère des TIC et les autorités pour contenir l'incident, récupérer les systèmes et rétablir progressivement les services.",
+      "description": "",
+      "title": "El Ministerio de Justicia fue víctima de un ciberataque por medio de ransomware | AsuntosLegales.co",
+      "url": "https://www.asuntoslegales.com.co/actualidad/el-ministerio-de-justicia-fue-victima-de-un-ataque-cibernetico-por-medio-de-un-ransomware-4450087",
+      "added": "2026-08-04",
+      "infostealer": {
+        "update": "2026-08-04T06:00:07",
+        "employees": 10,
+        "users": 385,
+        "thirdparties": 31,
+        "employees_url": 3,
+        "users_url": 82,
+        "last_employee_compromised": "2024-08-28T08:27:38+00:00",
+        "last_user_compromised": "2026-05-22T00:32:50.876000+00:00",
+        "infostealer_stats": {
+          "Generic Stealer": 60,
+          "CRYPTBOT": 1,
+          "Raccoon": 25,
+          "RedLine": 160,
+          "Vidar": 12,
+          "Lumma": 83,
+          "Azorult": 1,
+          "Mystic": 2,
+          "StealC": 21,
+          "UNKNOWN": 2
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-08-02",
       "victim": "Magyar Államkincstár",
@@ -774,6 +808,19 @@
         "group": "shinyhunters",
         "permalink": "https://www.ransomware.live/id/QkggU2VjdXJpdHksIExMQy4gKGJyaW5rc2hvbWUuY29tKUBzaGlueWh1bnRlcnM="
       }
+    },
+    {
+      "date": "2026-07-21",
+      "victim": "PaKK-MED",
+      "domain": "pakkmed.pl",
+      "country": "PL",
+      "summary": "La PaKK-MED, une association de centres de soins primaires, a été victime d'une attaque par ransomware qui a touché ses systèmes informatiques. L'incident est survenu le 21 juillet 2026. Bien que l'attaque ait entraîné un risque potentiel de fuite de données personnelles (noms, numéros PESEL, données de santé, etc.) concernant les patients et le personnel, la PaKK-MED a mis en place des procédures d'urgence, notamment le passage au fonctionnement papier, pour assurer la continuité des soins. L'établissement a signalé l'incident à l'autorité compétente et au procureur.",
+      "description": "",
+      "title": "Atak hakerski na sieć polskich placówek zdrowotnych. Wydano komunikat",
+      "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/cyberataki/atak-hakerski-na-siec-polskich-placowek-zdrowotnych-wydano-komunikat",
+      "added": "2026-08-04",
+      "infostealer": "",
+      "ransomware": null
     },
     {
       "date": "2026-07-21",

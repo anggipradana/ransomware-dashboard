@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3900,
+  "count": 3902,
   "results": [
     {
       "date": "2026-08-03",
@@ -234,7 +234,7 @@
       "url": "https://www.iprofesional.com/negocios/461285-alerta-vaca-muerta-por-ciberataque-puso-a-prueba-seguridad-mayor-oleoducto-argentina",
       "added": "2026-08-01",
       "infostealer": {
-        "update": "2026-07-23T15:13:25",
+        "update": "2026-08-04T12:26:02.440349",
         "employees": 4,
         "users": 8,
         "thirdparties": 6,
@@ -250,8 +250,8 @@
         }
       },
       "ransomware": {
-        "group": "thegentlemen",
-        "permalink": "https://www.ransomware.live/id/T2xkZWx2YWwgT2xlb2R1Y3RvcyBkZWwgVmFsbGVAdGhlZ2VudGxlbWVu"
+        "group": "incransom",
+        "permalink": "https://www.ransomware.live/id/T2xlb2R1Y3RvcyBkZWwgVmFsbGVAaW5jcmFuc29t"
       }
     },
     {
@@ -355,6 +355,29 @@
         "employees": 0,
         "users": 8,
         "thirdparties": 9,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-07-28",
+      "victim": "BIT",
+      "domain": "bit.admin.ch",
+      "country": "CH",
+      "summary": "Le BIT (Bundesamt für Informatik und Telekommunikation) a confirmé qu'un cyberattaque avait eu lieu sur ses serveurs SharePoint. L'accès pour les personnes externes au gouvernement fédéral a été bloqué. Environ 200 comptes ont été compromis. Bien qu'aucune fuite de données ne soit actuellement suspectée, des analyses sont en cours, et les serveurs sont mis à niveau préventivement.",
+      "description": "",
+      "title": "Cyberangriff auf Sharepoint-Server des Bundesamts für Informatik",
+      "url": "https://www.bluewin.ch/de/news/cyberangriff-auf-sharepoint-server-des-bundesamts-fuer-informatik-li.3551816",
+      "added": "2026-08-04",
+      "infostealer": {
+        "update": "2026-08-04T11:30:07",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 1,
         "employees_url": 0,
         "users_url": 0,
         "last_employee_compromised": null,
@@ -4105,6 +4128,38 @@
         "last_employee_compromised": null,
         "last_user_compromised": null,
         "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-06-07",
+      "victim": "Retelit",
+      "domain": "retelit.it",
+      "country": "IT",
+      "summary": "Retelit, un important opérateur italien de télécommunications et de services cloud, a été victime d'une grave cyberattaque perpétrée par le groupe criminel Qilin. L'attaque a compromis les serveurs et permis le vol d'au moins 300 gigaoctets de documents internes, notamment des passeports et des informations sensibles sur les clients (parmi lesquels Leonardo et 193 administrations publiques). Cet incident, probablement découvert en juin, n’a pas été rendu public jusqu’à la récente divulgation par Qilin, qui a commencé à publier les données le 11 juillet 2026.",
+      "description": "",
+      "title": "Retelit, operatore cloud e di telecomunicazioni, ha subito un attacco informatico. E non lo dice",
+      "url": "https://irpimedia.irpi.eu/retelit-operatore-cloud-e-telecomunicazioni-attacco-informatico/",
+      "added": "2026-08-04",
+      "infostealer": {
+        "update": "2026-07-26T11:32:13",
+        "employees": 7,
+        "users": 46,
+        "thirdparties": 15,
+        "employees_url": 5,
+        "users_url": 24,
+        "last_employee_compromised": "2026-04-28T07:03:14.864000+00:00",
+        "last_user_compromised": "2026-07-10T00:00:00+00:00",
+        "infostealer_stats": {
+          "StealC": 4,
+          "Acreed": 6,
+          "Lumma": 14,
+          "Raccoon": 5,
+          "Atomic": 1,
+          "RedLine": 1,
+          "Generic Stealer": 17,
+          "Vidar": 1
+        }
       },
       "ransomware": null
     },

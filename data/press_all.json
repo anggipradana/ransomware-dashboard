@@ -4,8 +4,31 @@
     "month": null,
     "country": null
   },
-  "count": 3909,
+  "count": 3913,
   "results": [
+    {
+      "date": "2026-08-05",
+      "victim": "Jochu Technology Co., Ltd.",
+      "domain": "jochu.com",
+      "country": "TW",
+      "summary": "Le 5 août 2026, la société Jochu et ses filiales (Suzhou Jochu, Xiamen JOCHU et VIETNAM JOCHU) ont détecté un accès non autorisé par des pirates, entraînant une interruption temporaire de leurs systèmes. L'entreprise a immédiatement activé ses protocoles de réponse et fait appel à des experts externes pour mener l'enquête ; les systèmes affectés sont actuellement en cours de restauration à partir de sauvegardes, après vérification de leur sécurité. Selon l'évaluation préliminaire, cet incident n'a pas eu d'impact matériel significatif sur les activités de la société.",
+      "description": "",
+      "title": "Today's Information",
+      "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=165152&spoke_date=20260805&co_id=3543",
+      "added": "2026-08-05",
+      "infostealer": {
+        "update": "2026-08-05T10:00:07",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 1,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-08-04",
       "victim": "The AME Group",
@@ -116,6 +139,29 @@
           "StealC": 21,
           "UNKNOWN": 2
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-08-02",
+      "victim": "Chambre des salariés (CSL)",
+      "domain": "csl.lu",
+      "country": "LU",
+      "summary": "La Chambre des salariés (CSL) a confirmé avoir été victime d'une attaque informatique impliquant un accès non autorisé à certains de ses serveurs. L'incident est actuellement contenu, mais des investigations approfondies sont en cours pour déterminer l'origine, la période, l'étendue et les conséquences de cette attaque. La CSL met en garde ses utilisateurs contre les tentatives d'usurpation d'identité (phishing) visant à obtenir des informations confidentielles, des identifiants ou des coordonnées bancaires.",
+      "description": "",
+      "title": "La CSL victime d’une cyberattaque",
+      "url": "https://lequotidien.lu/luxembourg/la-csl-victime-dune-cyberattaque/",
+      "added": "2026-08-05",
+      "infostealer": {
+        "update": "2026-08-05T09:30:12",
+        "employees": 0,
+        "users": 19,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 5,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },
@@ -663,6 +709,35 @@
     },
     {
       "date": "2026-07-27",
+      "victim": "Columbus Water Works",
+      "domain": "cwwga.org",
+      "country": "US",
+      "summary": "Columbus Water Works a été victime d'une cyberattaque le 27 juillet qui a affecté une partie de ses systèmes de surveillance automatisés. Bien que les opérateurs aient dû passer immédiatement au contrôle manuel, l'approvisionnement en eau et la qualité de l'eau potable n'ont pas été interrompus ni affectés. L'incident est actuellement sous enquête du FBI et des autorités fédérales, mais aucun acteur malveillant n'a été identifié, et aucun vol de données ou rançon n'a été confirmé.",
+      "description": "",
+      "title": "Cyberattack contained at Columbus Water Works in Georgia",
+      "url": "https://dysruptionhub.com/columbus-water-works-georgia-cyberattack/",
+      "added": "2026-08-05",
+      "infostealer": {
+        "update": "2026-08-05T09:30:11",
+        "employees": 0,
+        "users": 46,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 8,
+        "last_employee_compromised": "1970-01-01T00:00:00+00:00",
+        "last_user_compromised": "2026-06-13T11:59:53+00:00",
+        "infostealer_stats": {
+          "Vidar": 1,
+          "Generic Stealer": 17,
+          "Lumma": 6,
+          "RedLine": 10,
+          "Raccoon": 1
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-07-27",
       "victim": "Newton County Schools",
       "domain": "newtoncountyschools.org",
       "country": "US",
@@ -768,6 +843,49 @@
         "infostealer_stats": {}
       },
       "ransomware": null
+    },
+    {
+      "date": "2026-07-25",
+      "victim": "Zenith Bank",
+      "domain": "zenithbank.com",
+      "country": "NG",
+      "summary": "Zenith Bank a confirmé avoir été victime d'une cyberattaque qui a permis aux attaquants d'accéder à une quantité limitée d'informations client, notamment des adresses e-mail et des numéros de téléphone. La banque a assuré que les fonds et les comptes des clients sont restés en sécurité et que les systèmes bancaires n'ont pas été compromis. Le groupe ExfilSquad a récemment revendiqué un vol de données attribuées à la banque Zenith.",
+      "description": "",
+      "title": "Zenith Bank breaks silence after hackers access customers' personal data",
+      "url": "https://www.legit.ng/business-economy/industry/1723195-zenith-bank-confirms-cyberattack-hackers-access-customer-data-issues-urgent-security-warning/",
+      "added": "2026-08-05",
+      "infostealer": {
+        "update": "2026-07-26T10:56:40.336946",
+        "employees": 37,
+        "users": 5897,
+        "thirdparties": 122,
+        "employees_url": 11,
+        "users_url": 100,
+        "last_employee_compromised": "2026-06-07T03:24:27+00:00",
+        "last_user_compromised": "2026-07-25T17:49:52.237000+00:00",
+        "infostealer_stats": {
+          "Azorult": 61,
+          "RedLine": 1803,
+          "Generic Stealer": 1076,
+          "Predator": 5,
+          "Atomic": 8,
+          "Lumma": 1408,
+          "UNKNOWN": 86,
+          "Acreed": 14,
+          "StealC": 234,
+          "Ficker": 5,
+          "DarkCrystal": 5,
+          "Taurus": 1,
+          "Raccoon": 515,
+          "Vidar": 180,
+          "CRYPTBOT": 2,
+          "Mystic": 17
+        }
+      },
+      "ransomware": {
+        "group": "ExfilSquad",
+        "permalink": "https://www.ransomware.live/id/WmVuaXRoIEJhbmsgUGxjQEV4ZmlsU3F1YWQ="
+      }
     },
     {
       "date": "2026-07-25",

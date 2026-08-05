@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3913,
+  "count": 3914,
   "results": [
     {
       "date": "2026-08-05",
@@ -2301,6 +2301,46 @@
       "added": "2026-07-06",
       "infostealer": "",
       "ransomware": null
+    },
+    {
+      "date": "2026-07-04",
+      "victim": "CEVA Logistics",
+      "domain": "cevalogistics.com",
+      "country": "FR",
+      "summary": "Une cyberattaque a touché un partenaire logistique de De Bijenkorf, entraînant des retards dans les commandes, les retours et les remboursements. Le grand magasin enquête sur la possibilité que les attaquants aient également accédé aux données personnelles des clients. Le grand magasin d'appuie sur CEVA Logistics comme partenaire de e-fulfillment et de logistique, via un centre de distribution à Tilburg depuis 2019. Initialement opéré par Ingram Micro CLS, il est passé entre les mains de CEVA Logistics suite à un rachat par CMA-CGM en 2022.",
+      "description": "",
+      "title": "Logistiekpartner De Bijenkorf slachtoffer van cyberaanval - RetailDetail NL",
+      "url": "https://www.retaildetail.nl/news/mode/logistiekpartner-de-bijenkorf-slachtoffer-van-cyberaanval/",
+      "added": "2026-08-05",
+      "infostealer": {
+        "update": "2025-09-15T20:44:01",
+        "employees": 287,
+        "users": 1071,
+        "thirdparties": 304,
+        "employees_url": 56,
+        "users_url": 100,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {
+          "RedLine": 814,
+          "Lumma": 644,
+          "Generic Stealer": 172,
+          "Raccoon": 302,
+          "StealC": 140,
+          "Vidar": 93,
+          "Azorult": 18,
+          "UNKNOWN": 16,
+          "Mystic": 8,
+          "DarkCrystal": 4,
+          "Predator": 4,
+          "CRYPTBOT": 2,
+          "Atomic": 3
+        }
+      },
+      "ransomware": {
+        "group": "coinbasecartel",
+        "permalink": "https://www.ransomware.live/id/Q0VWQSBMT0dJU1RJQ1MgLSBUSElTIERBVEFCQVNFIElTIEZPUiBTQUxFQGNvaW5iYXNlY2FydGVs"
+      }
     },
     {
       "date": "2026-07-03",

@@ -4,8 +4,31 @@
     "month": null,
     "country": null
   },
-  "count": 3918,
+  "count": 3921,
   "results": [
+    {
+      "date": "2026-08-05",
+      "victim": "Municipalité de Sithonie",
+      "domain": "dimossithonias.gr",
+      "country": "GR",
+      "summary": "La municipalité de Sithonie, en Grèce, ont été frappés par une attaque par ransomware. Cette cyberattaque a touché simultanément l'administration centrale et la gestion des ports et abris pour bateaux de la région. L'enquête a été confiée à la Direction du crime électronique de la police hellénique et l'Autorité de protection des données personnelles a été informée. À ce stade, la nature des données interceptées reste inconnue et des incertitudes subsistent quant à l'existence de copies de sauvegarde fonctionnelles pour rétablir les systèmes.",
+      "description": "",
+      "title": "Access Blocked",
+      "url": "https://www.secnews.gr/en/725557/ransomware-sithonia-dimos-limeniko-tameio/",
+      "added": "2026-08-06",
+      "infostealer": {
+        "update": "2026-08-06T10:30:09",
+        "employees": 1,
+        "users": 0,
+        "thirdparties": 1,
+        "employees_url": 1,
+        "users_url": 1,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-08-05",
       "victim": "Administration cantonale des Grisons",
@@ -3860,6 +3883,19 @@
         "last_user_compromised": null,
         "infostealer_stats": {}
       },
+      "ransomware": null
+    },
+    {
+      "date": "2026-06-15",
+      "victim": "Société d’énergie et d’eau du Gabon (SEEG)",
+      "domain": "seeg.ga",
+      "country": "GA",
+      "summary": "La SEEG, Société d’énergie et d’eau du Gabon, a été victime d’un « acte de sabotage » informatique majeur. L'attaque, survenue dans la nuit du 14 au 15 juin 2026, a provoqué l'effondrement de près de 95 % de ses infrastructures et systèmes informatiques. Après près de deux mois de crise, la SEEG affirme avoir progressivement restauré ses principaux services numériques et avoir renforcé sa sécurité. Les auteurs de l'attaque restent non identifiés.",
+      "description": "",
+      "title": "Cybersécurité : la SEEG révèle avoir perdu près de 95 % de ses infrastructures informatiques",
+      "url": "https://gabonmediatime.com/cybersecurite-la-seeg-revele-avoir-perdu-pres-de-95-de-ses-infrastructures-informatiques/",
+      "added": "2026-08-06",
+      "infostealer": "",
       "ransomware": null
     },
     {
@@ -27712,6 +27748,29 @@
       "url": "https://www.primerahora.com/noticias/gobierno-politica/notas/justicia-sufre-ataque-cibernetico/",
       "added": "2025-05-31",
       "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2025-05-29",
+      "victim": "Madera Community Hospital",
+      "domain": "maderahospital.org",
+      "country": "US",
+      "summary": "Madera Community Hospital, un prestataire de soins de santé basé en Californie, a signalé un incident de sécurité des données survenu en mai 2025. Une partie tierce a accédé au réseau de l'hôpital pendant deux jours. Bien qu'une première enquête n'ait pas identifié de fichiers enlevés, l'hôpital a ensuite estimé qu'un tiers avait acquis des fichiers provenant d'une partie de son réseau. Au total, au moins 150 810 individus ont été affectés. Les données compromises incluent les noms, dates de naissance, coordonnées, identifiants de connexion, numéros de sécurité sociale, détails financiers, informations médicales limitées et informations biométriques. Le groupe derrière l'attaque aurait retiré sa demande d'extorsion après avoir appris que la cible était un hôpital.",
+      "description": "",
+      "title": "Hospital cyber attack exposed 150,000 records; attackers reportedly withdrew extortion demand",
+      "url": "https://www.teiss.co.uk/news/hospital-cyber-attack-exposed-150000-records-attackers-reportedly-withdrew-extortion-demand-17934",
+      "added": "2026-08-06",
+      "infostealer": {
+        "update": "2026-08-06T10:30:08",
+        "employees": 0,
+        "users": 1,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 1,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
       "ransomware": null
     },
     {

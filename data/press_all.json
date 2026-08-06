@@ -4,8 +4,31 @@
     "month": null,
     "country": null
   },
-  "count": 3921,
+  "count": 3923,
   "results": [
+    {
+      "date": "2026-08-05",
+      "victim": "HostDZire",
+      "domain": "hostdzire.com",
+      "country": "IN",
+      "summary": "HostDZire a été victime d'une attaque par ransomware ayant affecté plusieurs nœuds de virtualisation VMware ESXi. L'incident, survenu vers 02:00 UTC, a entraîné le chiffrement des disques virtuels et la perte totale des données sur les nœuds affectés. Les services VMware basés en Inde, aux Pays-Bas et aux États-Unis ont été touchés. L'attaque est présumée être due à une vulnérabilité récemment divulguée de VMware. L'entreprise est en phase de reconstruction complète de l'infrastructure et de déploiement des services de remplacement, mais les données perdues ne peuvent pas être récupérées sans sauvegarde externe. Les services KVM et Leaseweb VPS n'ont pas été affectés.",
+      "description": "",
+      "title": "Critical Service Incident – Ransomware Attack on VMware Infrastructure ( Updated On 4 AM IST | 10:43 PM UTC )",
+      "url": "https://hostdzire.com/billing/index.php?rp=/announcements/48/Critical-Service-Incident--Ransomware-Attack-on-VMware-Infrastructure.html",
+      "added": "2026-08-06",
+      "infostealer": {
+        "update": "2026-08-06T13:30:07",
+        "employees": 0,
+        "users": 672,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 14,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-08-05",
       "victim": "Municipalité de Sithonie",
@@ -10400,6 +10423,29 @@
       "url": "https://www.heute.at/s/cyber-angriff-legt-grosse-gemeinde-in-noe-lahm-120166017",
       "added": "2026-03-02",
       "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-02-26",
+      "victim": "UTHGRA",
+      "domain": "uthgra.org.ar",
+      "country": "AR",
+      "summary": "L'Union des travailleurs du tourisme, de l'hôtellerie et de la restauration de la République argentine (UTHGRA) a indiqué avoir été victime d'une cyberattaque qui a affecté ses systèmes internes. L'organisation s'est employée à rétablir ses services et a publié un avertissement officiel concernant des appels téléphoniques frauduleux destinés à ses adhérents, dans lesquels on leur demande des données personnelles ou des identifiants sous de faux prétextes. L'UTHGRA précise qu'elle ne demande jamais d'informations confidentielles par téléphone et recommande à ses adhérents de faire preuve d'une extrême prudence.",
+      "description": "",
+      "title": "UTHGRA denunció un ciberataque y alertó por intentos de estafa a afiliados",
+      "url": "https://www.eldiariodetandil.com/nota-uthgra-denuncio-un-ciberataque-y-alerto-por-intentos-de-estafa-a-afiliados-103301",
+      "added": "2026-08-06",
+      "infostealer": {
+        "update": "2026-08-06T12:30:07",
+        "employees": 6,
+        "users": 568,
+        "thirdparties": 6,
+        "employees_url": 2,
+        "users_url": 9,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
       "ransomware": null
     },
     {

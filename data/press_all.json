@@ -4,8 +4,54 @@
     "month": null,
     "country": null
   },
-  "count": 3914,
+  "count": 3918,
   "results": [
+    {
+      "date": "2026-08-05",
+      "victim": "Administration cantonale des Grisons",
+      "domain": "gr.ch",
+      "country": "CH",
+      "summary": "Les serveurs SharePoint de l'administration cantonale des Grisons ont été victimes d'une cyberattaque. Bien qu'une première analyse n'indique pas de perte de données ou de comptes compromis, l'attaque est probablement due à l'exploitation de vulnérabilités logicielles de Microsoft SharePoint. L'autorité cantonale procède à un étranglement du site web pour appliquer une mise à jour de sécurité. L'incident est similaire à un incident survenu mardi aux serveurs de la Confédération, où environ 200 comptes ont été compromis.",
+      "description": "",
+      "title": "Ciberattacco a un server del Canton Grigioni",
+      "url": "https://www.bluewin.ch/it/attualita/svizzera/ciberattacco-a-un-server-del-canton-grigioni-li.3553333",
+      "added": "2026-08-06",
+      "infostealer": {
+        "update": "2026-08-06T07:30:08",
+        "employees": 0,
+        "users": 29,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 23,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-08-05",
+      "victim": "Caravan.kz",
+      "domain": "caravan.kz",
+      "country": "KZ",
+      "summary": "Caravan.kz a été victime d'une cyberattaque par rançongiciel. Les attaquants, qui se présentaient comme le groupe Black Field, ont exigé une rançon, menaçant de publier des données corporatives ou personnelles copiées ou falsifiées. L'équipe technique a travaillé sans relâche pour contenir l'attaque et restaurer le service. Les autorités compétentes du Kazakhstan ont été informées et collaborent au dossier.",
+      "description": "",
+      "title": "Caravan.kz подвергся кибератаке: редакция публикует официальное заявление",
+      "url": "https://www.caravan.kz/amp/news/caravan-kz-podvergsja-kiberatake-redakcija-publikuet-oficialnoe-zajavlenie/",
+      "added": "2026-08-06",
+      "infostealer": {
+        "update": "2026-08-06T07:30:07",
+        "employees": 0,
+        "users": 7,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 4,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-08-05",
       "victim": "Jochu Technology Co., Ltd.",
@@ -26,6 +72,34 @@
         "last_employee_compromised": null,
         "last_user_compromised": null,
         "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-08-04",
+      "victim": "North Carolina Ports",
+      "domain": "ncports.com",
+      "country": "US",
+      "summary": "Les Ports de Caroline du Nord ont été victimes d'une cyberattaque qui a perturbé les opérations de leurs trois installations portuaires. L'incident, survenu le mardi soir, a nécessité l'activation du plan de contingence en cybersécurité et le passage à un traitement manuel des portes. L'attaque est désormais contenue, mais aucun calendrier pour la restauration complète des systèmes n'a été fourni. L'identité de l'acteur externe ou du groupe responsable n'a pas été divulguée, et il n'y a pas eu indication de compromission de données sensibles.",
+      "description": "",
+      "title": "Cyberattack disrupts operations at NC Ports in Wilmington, Morehead City and Charlotte",
+      "url": "https://www.wect.com/2026/08/05/cyberattack-disrupts-operations-nc-ports-wilmington-morehead-city-charlotte/",
+      "added": "2026-08-06",
+      "infostealer": {
+        "update": "2026-08-06T08:00:09",
+        "employees": 0,
+        "users": 17,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 4,
+        "last_employee_compromised": "1970-01-01T00:00:00+00:00",
+        "last_user_compromised": "2026-06-24T00:00:00+00:00",
+        "infostealer_stats": {
+          "RedLine": 5,
+          "Azorult": 2,
+          "Lumma": 8,
+          "Generic Stealer": 2
+        }
       },
       "ransomware": null
     },
@@ -23067,6 +23141,19 @@
         "group": "warlock",
         "permalink": "https://www.ransomware.live/id/aW5mb25pcWEuY29tQHdhcmxvY2s="
       }
+    },
+    {
+      "date": "2025-08-03",
+      "victim": "DeVaughn James LLC",
+      "domain": "devaughnjames.com",
+      "country": "US",
+      "summary": "Un cabinet d'avocats du Kansas a intenté un procès contre son assureur cybernétique, Palomar Excess & Surplus Insurance Co., après qu'une attaque par ransomware ait paralysé ses opérations pendant cinq jours ouvrables. Le cabinet, DeVaughn James LLC, réclamait plus de 75 000 $ en dommages et intérêts pour le refus de paiement de la réclamation. L'attaque par ransomware aurait infecté les systèmes informatiques le 3 août 2025.",
+      "description": "",
+      "title": "Kansas Law Firm Sues Insurer Palomar Seeking Ransomware Coverage",
+      "url": "https://news.bloomberglaw.com/insurance/kansas-law-firm-sues-insurer-palomar-seeking-ransomware-coverage",
+      "added": "2026-08-06",
+      "infostealer": "",
+      "ransomware": null
     },
     {
       "date": "2025-08-03",

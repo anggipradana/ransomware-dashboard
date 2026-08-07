@@ -4,8 +4,58 @@
     "month": null,
     "country": null
   },
-  "count": 3924,
+  "count": 3927,
   "results": [
+    {
+      "date": "2026-08-06",
+      "victim": "Washburn County",
+      "domain": "washburncounty.org",
+      "country": "US",
+      "summary": "Le gouvernement du comté de Washburn est actuellement victime d'une cyberattaque, obligeant les autorités à mettre hors ligne tous les systèmes du comté. Les services d'urgence 911 restent opérationnels.",
+      "description": "",
+      "title": "Washburn County experiencing cyber attack",
+      "url": "https://www.wqow.com/news/washburn-county-experiencing-cyber-attack/article_c084b4be-7812-49a1-9827-2df604120965.html",
+      "added": "2026-08-07",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-08-05",
+      "victim": "Universidad Autónoma de San Luis Potosí (UASLP)",
+      "domain": "uaslp.mx",
+      "country": "MX",
+      "summary": "L'Universidad Autónoma de San Luis Potosí (UASLP) a été victime d'un incident de cybersécurité qui a affecté plusieurs de ses systèmes universitaires, notamment la Caja Virtual. Cet incident, survenu le mercredi, a mis temporairement hors service cette plateforme. En conséquence, l'institution a annoncé l'extension de la date limite pour les paiements d'inscription et de réinscription, mais n'a fourni aucun détail supplémentaire sur la nature de l'attaque ou les systèmes touchés.",
+      "description": "",
+      "title": "agosto 7, 2026 | San Luis Potosí, SLP",
+      "url": "https://periodicoelmomento.com/ciberataque-afecta-caja-virtual-de-la-uaslp/",
+      "added": "2026-08-07",
+      "infostealer": {
+        "update": "2026-08-07T08:00:08",
+        "employees": 1003,
+        "users": 1402,
+        "thirdparties": 602,
+        "employees_url": 88,
+        "users_url": 100,
+        "last_employee_compromised": "2026-07-28T14:44:16.560000+00:00",
+        "last_user_compromised": "2026-07-25T00:00:00+00:00",
+        "infostealer_stats": {
+          "Raccoon": 266,
+          "Atomic": 2,
+          "Generic Stealer": 394,
+          "KPOT": 1,
+          "Vidar": 98,
+          "Mystic": 1,
+          "Acreed": 7,
+          "Azorult": 14,
+          "DarkCrystal": 1,
+          "UNKNOWN": 13,
+          "RedLine": 879,
+          "Lumma": 387,
+          "StealC": 120
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-08-05",
       "victim": "HostDZire",
@@ -329,6 +379,19 @@
         "last_user_compromised": null,
         "infostealer_stats": {}
       },
+      "ransomware": null
+    },
+    {
+      "date": "2026-08-01",
+      "victim": "Biosynex",
+      "domain": "biosynex.com",
+      "country": "FR",
+      "summary": "Biosynex, un spécialiste alsacien du diagnostic médical, a confirmé avoir subi une intrusion informatique au début du mois d'août. Bien que l'attaque ait été détectée et circonscrite, les vérifications indiquent que les données personnelles touchées se limitent aux informations professionnelles (coordonnées et documents d'activité). L'entreprise a notifié l'incident aux autorités compétentes, dont la CNIL, et a déposé plainte.",
+      "description": "",
+      "title": "Biosynex victime d'une cyberattaque, l'activité opérationnelle préservée",
+      "url": "https://www.boursorama.com/bourse/actualites-amp/biosynex-victime-d-une-cyberattaque-l-activite-operationnelle-preservee-46e8e2c038e42424a5389e8e83734189",
+      "added": "2026-08-07",
+      "infostealer": "",
       "ransomware": null
     },
     {
@@ -742,7 +805,10 @@
         "last_user_compromised": null,
         "infostealer_stats": {}
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "thegentlemen",
+        "permalink": "https://www.ransomware.live/id/SElXSU5AdGhlZ2VudGxlbWVu"
+      }
     },
     {
       "date": "2026-07-28",

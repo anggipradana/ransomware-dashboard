@@ -4,8 +4,21 @@
     "month": null,
     "country": null
   },
-  "count": 3930,
+  "count": 3932,
   "results": [
+    {
+      "date": "2026-08-07",
+      "victim": "Ville de Mitchell",
+      "domain": "cityofmitchellsd.gov",
+      "country": "US",
+      "summary": "La ville de Mitchell, au Dakota du Sud, a isolé une partie de son réseau vendredi après avoir détecté un incident potentiel de cybersécurité. Bien que les services critiques et d'urgence soient restés opérationnels, l'incident a nécessité l'intervention d'experts légistes pour déterminer l'étendue de la situation. Les autorités n'ont pas encore précisé le type d'attaque, les systèmes affectés, ni si des données ont été compromises.",
+      "description": "",
+      "title": "Mitchell, South Dakota, shuts part of network during cybersecurity probe",
+      "url": "https://dysruptionhub.com/mitchell-sd-cybersecurity-incident/",
+      "added": "2026-08-08",
+      "infostealer": "",
+      "ransomware": null
+    },
     {
       "date": "2026-08-06",
       "victim": "Frey Wille",
@@ -39,6 +52,19 @@
       "title": "Washburn County experiencing cyber attack",
       "url": "https://www.wqow.com/news/washburn-county-experiencing-cyber-attack/article_c084b4be-7812-49a1-9827-2df604120965.html",
       "added": "2026-08-07",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-08-05",
+      "victim": "City of Coweta",
+      "domain": "cityofcoweta-ok.gov",
+      "country": "US",
+      "summary": "La ville de Coweta, au Oklahoma, est actuellement confrontée à une attaque par ransomware. L'incident a débuté le mercredi 5 août et a affecté tous les ordinateurs, fichiers et services informatisés de la ville, bien que le site web et le portail de facturation tiers n'aient pas été touchés. Les services d'urgence (Police et Pompiers) utilisant des serveurs externes sont toujours opérationnels. Les systèmes de la ville sont actuellement hors service, mais une sauvegarde existe pour permettre la restauration des données une fois l'attaque maîtrisée.",
+      "description": "",
+      "title": "City of Coweta hit with system-wide ransomware attack, has backup - DataBreaches.Net",
+      "url": "https://databreaches.net/2026/08/07/city-of-coweta-hit-with-system-wide-ransomware-attack-has-backup/",
+      "added": "2026-08-08",
       "infostealer": "",
       "ransomware": null
     },

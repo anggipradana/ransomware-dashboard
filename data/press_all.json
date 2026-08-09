@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3935,
+  "count": 3937,
   "results": [
     {
       "date": "2026-08-08",
@@ -15,6 +15,19 @@
       "description": "",
       "title": "City of Suisun declares local emergency after cyberattack downs 911 dispatch system",
       "url": "https://fox40.com/suisun-city/city-of-suisun-local-emergency-cybersecurity-threat/",
+      "added": "2026-08-09",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-08-07",
+      "victim": "Coryell County",
+      "domain": "coryellcounty.org",
+      "country": "US",
+      "summary": "Le comté de Coryell, au Texas, est en train de rétablir ses systèmes suite à une interruption technologique qui est examinée comme un possible incident de cybersécurité. Les services essentiels et les services de sécurité publique sont restés opérationnels sans interruption. Les autorités du comté n'ont pas encore précisé la cause, le début de l'incident ou les systèmes spécifiques affectés.",
+      "description": "",
+      "title": "Coryell County, Texas, investigates possible cyber incident",
+      "url": "https://dysruptionhub.com/coryell-county-texas-tech-disruption/",
       "added": "2026-08-09",
       "infostealer": "",
       "ransomware": null
@@ -296,6 +309,32 @@
         "infostealer_stats": {}
       },
       "ransomware": null
+    },
+    {
+      "date": "2026-08-03",
+      "victim": "Sawyer Savings Bank",
+      "domain": "sawyersavings.bank",
+      "country": "US",
+      "summary": "La Sawyer Savings Bank a dû fermer ses succursales de New York suite à une perturbation réseau liée à un incident de sécurité des données impliquant une vulnérabilité chez un de ses fournisseurs. L'incident a commencé le lundi 3 août, et bien que les services bancaires numériques (guichets automatiques, banque en ligne) soient restés opérationnels, la banque a indiqué qu'aucune preuve n'avait été trouvée jusqu'à présent concernant l'atteinte aux comptes clients. L'enquête sur la nature et l'étendue de l'incident est toujours en cours.",
+      "description": "",
+      "title": "Sawyer Savings Bank of New York keeps branches closed amid possible data security incident",
+      "url": "https://dysruptionhub.com/sawyer-savings-bank-security-incident-ny/",
+      "added": "2026-08-09",
+      "infostealer": {
+        "update": "2026-08-08T09:35:08.497022",
+        "employees": 0,
+        "users": 3,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 2,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "Storm",
+        "permalink": "https://www.ransomware.live/id/U2F3eWVyIFNhdmluZ3MgQmFua0BTdG9ybQ=="
+      }
     },
     {
       "date": "2026-08-03",

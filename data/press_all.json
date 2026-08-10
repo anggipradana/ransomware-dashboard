@@ -4,8 +4,21 @@
     "month": null,
     "country": null
   },
-  "count": 3937,
+  "count": 3947,
   "results": [
+    {
+      "date": "2ß26-08-04",
+      "victim": "Foresee Pharmaceuticals",
+      "domain": "foreseepharma.com",
+      "country": "TW",
+      "summary": "Foresee a immédiatement activé ses mécanismes de défense en matière de sécurité de l'information et a fait appel à des entreprises et à des experts externes spécialisés dans la cybersécurité afin de contenir la faille, d'en évaluer l'ampleur et de renforcer l'infrastructure réseau. D'après l'évaluation interne préliminaire de Foresee, cette attaque n'a pas d'impact significatif sur les activités courantes de l'entreprise.",
+      "description": "",
+      "title": "",
+      "url": "https://www.ithome.com.tw/news/177983",
+      "added": "2026-08-10",
+      "infostealer": "",
+      "ransomware": null
+    },
     {
       "date": "2026-08-08",
       "victim": "Suisun City",
@@ -496,6 +509,19 @@
         "last_user_compromised": null,
         "infostealer_stats": {}
       },
+      "ransomware": null
+    },
+    {
+      "date": "2026-08-01",
+      "victim": "Ville de Gagny",
+      "domain": "gagny.fr",
+      "country": "FR",
+      "summary": "La Ville de Gagny a subi une cyberattaque ayant affecté une partie de son système d’information. Des personnes non autorisées ont pu accéder à certaines données personnelles des administrés, notamment nom, prénom, adresse, coordonnées téléphoniques et électroniques, ainsi que des informations administratives. Bien qu'aucun usage frauduleux n'ait été constaté à ce jour, la Ville a notifié la violation à la CNIL et invite les habitants à rester vigilants face aux tentatives d'hameçonnage et d'usurpation d'identité.",
+      "description": "",
+      "title": "Information relative à un incident de cybersécurité - Ville de Gagny",
+      "url": "https://www.gagny.fr/actualite/information-relative-a-un-incident-de-cybersecurite/",
+      "added": "2026-08-10",
+      "infostealer": "",
       "ransomware": null
     },
     {
@@ -4271,6 +4297,32 @@
     },
     {
       "date": "2026-06-12",
+      "victim": "The Moody Bible Institute of Chicago",
+      "domain": "moody.edu",
+      "country": "US",
+      "summary": "Le Moody Bible Institute de Chicago a été victime d'une fuite de données le 12 juin 2026, due à une faille de sécurité dans une application logicielle. Cette fuite a donné lieu à l'obtention illicite de certaines informations personnelles, notamment des noms. L'institut a pris des mesures pour sécuriser ses systèmes et propose gratuitement des services de surveillance du crédit et de protection de l'identité. Une cyberattaque a été revendiquée par ShinyHunters le 15 juin.",
+      "description": "",
+      "title": "",
+      "url": "https://oag.ca.gov/system/files/CA%20Template%20Letter_Redacted.pdf",
+      "added": "2026-08-10",
+      "infostealer": {
+        "update": "2026-06-15T19:28:20",
+        "employees": 18,
+        "users": 128,
+        "thirdparties": 11,
+        "employees_url": 13,
+        "users_url": 69,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "shinyhunters",
+        "permalink": "https://www.ransomware.live/id/bW9vZHkuZWR1QHNoaW55aHVudGVycw=="
+      }
+    },
+    {
+      "date": "2026-06-12",
       "victim": "Asismed",
       "domain": "asismed.com.py",
       "country": "PAR",
@@ -6729,6 +6781,32 @@
         "infostealer_stats": {}
       },
       "ransomware": null
+    },
+    {
+      "date": "2026-04-29",
+      "victim": "Cushman & Wakefield",
+      "domain": "cushmanwakefield.com",
+      "country": "US",
+      "summary": "Cushman&Wakefield a été victime d'une violation de données le 29 avril 2026, au cours de laquelle un tiers non autorisé a accédé à certains fichiers contenant des données à caractère personnel et les a exfiltrés. Cette violation pourrait avoir donné lieu à un accès non autorisé au nom de la victime et à d'autres données à caractère personnel. Rien n'indique que ces informations personnelles aient été consultées ou utilisées à mauvais escient. Une cyberattaque a été revendiquée par Qilin le 4 mai 2026.",
+      "description": "",
+      "title": "",
+      "url": "https://oag.ca.gov/system/files/Sample%20Notification%20Letter_10_0.pdf",
+      "added": "2026-08-10",
+      "infostealer": {
+        "update": "2026-05-03T05:17:34.593999",
+        "employees": 0,
+        "users": 1,
+        "thirdparties": 1,
+        "employees_url": 0,
+        "users_url": 1,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "shinyhunters",
+        "permalink": "https://www.ransomware.live/id/Q3VzaG1hbiAmIFdha2VmaWVsZCBJbmMuQHNoaW55aHVudGVycw=="
+      }
     },
     {
       "date": "2026-04-29",
@@ -10535,6 +10613,37 @@
     },
     {
       "date": "2026-03-02",
+      "victim": "BAYADA Home Health Care, Inc.",
+      "domain": "bayada.com",
+      "country": "US",
+      "summary": "BAYADA Home Health Care, Inc. a été victime d'une violation de données après qu'un individu non autorisé a accédé à certains systèmes et copié des données entre le 18 février et le 2 mars 2026. Cette violation a donné lieu à la copie d'informations personnelles, notamment des noms, ainsi que d'autres éléments de données. BAYADA propose des services de surveillance du crédit aux personnes concernées.",
+      "description": "",
+      "title": "",
+      "url": "https://oag.ca.gov/system/files/Bayada%20-%20Sample%20Notice.pdf",
+      "added": "2026-08-10",
+      "infostealer": {
+        "update": "2026-08-10T09:30:19",
+        "employees": 8,
+        "users": 58,
+        "thirdparties": 6,
+        "employees_url": 5,
+        "users_url": 18,
+        "last_employee_compromised": "2024-08-27T08:43:16+00:00",
+        "last_user_compromised": "2026-05-25T08:30:31+00:00",
+        "infostealer_stats": {
+          "Raccoon": 7,
+          "UNKNOWN": 1,
+          "Vidar": 3,
+          "Lumma": 7,
+          "Generic Stealer": 16,
+          "Azorult": 6,
+          "RedLine": 19
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-03-02",
       "victim": "Seed Planning",
       "domain": "seedplanning.co.jp",
       "country": "JP",
@@ -10763,6 +10872,19 @@
       "title": "Un logiciel malveillant perturbe l’accès mobile aux services de l’État",
       "url": "https://www.virgule.lu/luxembourg/un-logiciel-malveillant-perturbe-lacces-mobile-aux-services-de-letat/137687385.html",
       "added": "2026-02-27",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-02-25",
+      "victim": "Robert Arshagouni",
+      "domain": "arshagouni.nodomain",
+      "country": "US",
+      "summary": "Arshagouni a été victime d'une violation de données entre janvier et février 2026, au cours de laquelle une personne non autorisée a pu accéder de manière intermittente à certains systèmes et aux informations qui y étaient stockées. Les données potentiellement concernées comprenaient des noms et des numéros de Sécurité sociale. La violation a été découverte en janvier et février 2026, mais l'enquête s'est achevée vers le 14 mai 2026.",
+      "description": "",
+      "title": "Submitted Breach Notification Sample",
+      "url": "https://oag.ca.gov/ecrime/databreach/reports/sb24-627743",
+      "added": "2026-08-10",
       "infostealer": "",
       "ransomware": null
     },
@@ -11607,6 +11729,29 @@
         "users": 2,
         "thirdparties": 0,
         "employees_url": 1,
+        "users_url": 1,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-02-12",
+      "victim": "ZenPatient, Inc.",
+      "domain": "zenpatient.com",
+      "country": "US",
+      "summary": "ZenPatient, Inc. a été victime d'une fuite de données au cours de laquelle un individu non autorisé a accédé à certaines données ou les a copiées entre le 5 décembre 2025 et le 12 février 2026. Les données concernées comprenaient des noms et d'autres éléments d'information. La société propose un accès gratuit à Experian IdentityWorks pendant 12 mois.",
+      "description": "",
+      "title": "",
+      "url": "https://oag.ca.gov/system/files/ZenPatient%20-%20Sample%20Notice.pdf",
+      "added": "2026-08-10",
+      "infostealer": {
+        "update": "2026-08-10T09:30:20",
+        "employees": 0,
+        "users": 1,
+        "thirdparties": 0,
+        "employees_url": 0,
         "users_url": 1,
         "last_employee_compromised": null,
         "last_user_compromised": null,
@@ -14244,6 +14389,29 @@
     },
     {
       "date": "2025-12-18",
+      "victim": "Aesto, LLC",
+      "domain": "aestohealth.com",
+      "country": "US",
+      "summary": "La société Aesto, LLC a été victime d'un incident de sécurité réseau qui a affecté une partie limitée de son infrastructure Amazon Web Services, exposant potentiellement des informations de santé protégées. L'incident s'est produit entre le 2 décembre 2025 et le 18 décembre 2025. Aesto ne dispose d'aucun élément indiquant que ces informations aient fait l'objet d'une utilisation abusive.",
+      "description": "",
+      "title": "Submitted Breach Notification Sample",
+      "url": "https://oag.ca.gov/ecrime/databreach/reports/sb24-627513",
+      "added": "2026-08-10",
+      "infostealer": {
+        "update": "2026-08-10T10:00:09",
+        "employees": 0,
+        "users": 1,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 2,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-12-18",
       "victim": "Earthbound Holding, LLC",
       "domain": "earthboundholdings.com",
       "country": "US",
@@ -14714,6 +14882,29 @@
       "url": "https://dysruptionhub.com/west-pierce-fire-cyber-incident-wa/",
       "added": "2025-12-15",
       "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2025-12-11",
+      "victim": "CTS Journey Holdings, LLC (DBA Corporate Travel Service)",
+      "domain": "ctscentral.net",
+      "country": "US",
+      "summary": "La société CTS Journey Holdings, LLC a été victime d'un incident de sécurité des données lié à un incident de cybersécurité, qui a entraîné un accès non autorisé à son environnement réseau. L'incident s'est produit entre le 3 décembre 2025 et le 11 décembre 2025. Des données à caractère personnel, notamment des noms et prénoms complets, ont potentiellement été compromises.",
+      "description": "",
+      "title": "",
+      "url": "https://oag.ca.gov/system/files/CTS_Letter_A_Redacted_39787951v1.pdf",
+      "added": "2026-08-10",
+      "infostealer": {
+        "update": "2026-08-10T10:00:07",
+        "employees": 0,
+        "users": 15,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 8,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
       "ransomware": null
     },
     {
@@ -18019,6 +18210,29 @@
         "group": "safepay",
         "permalink": "https://www.ransomware.live/id/dW50ZXJlaXNlc2hlaW0uZGVAc2FmZXBheQ=="
       }
+    },
+    {
+      "date": "2025-10-19",
+      "victim": "Unlimited Technology Systems",
+      "domain": "unlimitedsystems.com",
+      "country": "US",
+      "summary": "Unlimited Technology Systems, un fournisseur de logiciels de gestion des soins de santé basé dans le centre de Montgomery (Ohio), a subi une violation de données majeure. L'accès non autorisé à leur datacenter métier a eu lieu entre le 5 et le 10 octobre 2025, affectant potentiellement 3 803 750 individus. Les données compromises incluent les noms, adresses, numéros de sécurité sociale, informations sur l'assurance maladie, diagnostics médicaux et documents scannés (incluant permis de conduire). La violation a été découverte le 19 octobre 2025. La société a offert 24 mois de surveillance de crédit gratuite aux personnes affectées.",
+      "description": "",
+      "title": "Unlimited Technology Systems Data Breach Exposes 3.8 Million Healthcare Patients' Information – 2025 Incident Analysis",
+      "url": "https://www.rescana.com/post/unlimited-technology-systems-data-breach-exposes-3-8-million-healthcare-patients-information-2025-incident-analysis",
+      "added": "2026-08-10",
+      "infostealer": {
+        "update": "2026-08-10T11:00:09",
+        "employees": 2,
+        "users": 5,
+        "thirdparties": 0,
+        "employees_url": 1,
+        "users_url": 3,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
     },
     {
       "date": "2025-10-19",

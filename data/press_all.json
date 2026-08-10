@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3947,
+  "count": 3948,
   "results": [
     {
       "date": "2ß26-08-04",
@@ -17,6 +17,29 @@
       "url": "https://www.ithome.com.tw/news/177983",
       "added": "2026-08-10",
       "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-08-08",
+      "victim": "Digitide Solutions",
+      "domain": "digitide.com",
+      "country": "IN",
+      "summary": "Digitide Solutions a annoncé un incident de cybersécurité dans l'une de ses filiales, confirmant un accès non autorisé à des données. Bien qu'aucune perte opérationnelle ou financière majeure ne soit actuellement signalée, une enquête interne est en cours.",
+      "description": "",
+      "title": "Digitide Solutions: అనుకోని సైబర్ దాడి.. కంపెనీ వెల్లడి!",
+      "url": "https://www.whalesbook.com/corporate-news/Telugu/technology/Digitide-Solutions-Discloses-Cyber-Security-Incident-at-Subsidiary/6a76b84510bce1fd2045c170",
+      "added": "2026-08-10",
+      "infostealer": {
+        "update": "2026-08-10T12:00:08",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 36,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
       "ransomware": null
     },
     {

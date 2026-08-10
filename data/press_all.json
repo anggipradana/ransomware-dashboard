@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3949,
+  "count": 3950,
   "results": [
     {
       "date": "2026-08-08",
@@ -1099,6 +1099,47 @@
         "infostealer_stats": {}
       },
       "ransomware": null
+    },
+    {
+      "date": "2026-07-27",
+      "victim": "Newcastle University",
+      "domain": "ncl.ac.uk",
+      "country": "GB",
+      "summary": "Newcastle University a été victime d'un accès non autorisé à des données personnelles. L'incident, découvert le lundi 27 juillet 2026, était dû à un problème de configuration dans un système d'admission. Les informations compromises sont limitées aux coordonnées (noms, adresses, adresses e-mail et numéros de téléphone). L'université a corrigé la vulnérabilité et a signalé l'incident à l'ICO.",
+      "description": "",
+      "title": "Statement on unauthorised data access",
+      "url": "https://www.ncl.ac.uk/press/articles/latest/2026/07/statementonpotentialunauthoriseddataaccess/",
+      "added": "2026-08-10",
+      "infostealer": {
+        "update": "2026-07-26T10:24:46",
+        "employees": 192,
+        "users": 1799,
+        "thirdparties": 78,
+        "employees_url": 21,
+        "users_url": 100,
+        "last_employee_compromised": "2026-07-02T14:39:49+00:00",
+        "last_user_compromised": "2026-07-25T00:00:00+00:00",
+        "infostealer_stats": {
+          "Mystic": 4,
+          "Atomic": 1,
+          "Azorult": 78,
+          "Raccoon": 219,
+          "RedLine": 547,
+          "UNKNOWN": 25,
+          "Vidar": 55,
+          "Lumma": 393,
+          "Taurus": 1,
+          "Predator": 2,
+          "CRYPTBOT": 5,
+          "Acreed": 10,
+          "StealC": 95,
+          "Generic Stealer": 403
+        }
+      },
+      "ransomware": {
+        "group": "ExfilSquad",
+        "permalink": "https://www.ransomware.live/id/TmV3Y2FzdGxlIFVuaXZlcnNpdHlARXhmaWxTcXVhZA=="
+      }
     },
     {
       "date": "2026-07-27",

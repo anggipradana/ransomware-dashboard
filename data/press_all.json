@@ -4,8 +4,31 @@
     "month": null,
     "country": null
   },
-  "count": 3950,
+  "count": 3951,
   "results": [
+    {
+      "date": "2026-08-10",
+      "victim": "Health Sciences Centre",
+      "domain": "hsc.mb.ca",
+      "country": "CA",
+      "summary": "Le Health Sciences Centre de Winnipeg a été touché par une cyberattaque par ransomware affectant les systèmes de maintenance de certains bâtiments, notamment l'accès par les portes, le chauffage, la ventilation et la climatisation. Bien que les soins aux patients et les opérations cliniques ne soient pas affectés, l'incident a nécessité une enquête pour déterminer l'étendue de l'attaque. L'incident survient deux ans après qu'un vérificateur général du Manitoba ait averti l'établissement de la nécessité d'améliorer sa cybersécurité.",
+      "description": "",
+      "title": "Ransomware attack on Health Sciences Centre affects doors, ventilation and air-conditioning",
+      "url": "https://ca.news.yahoo.com/ransomware-attack-health-sciences-centre-224238098.html",
+      "added": "2026-08-11",
+      "infostealer": {
+        "update": "2026-08-11T09:30:20",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 4,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-08-08",
       "victim": "Digitide Solutions",

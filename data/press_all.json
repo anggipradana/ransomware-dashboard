@@ -4,8 +4,44 @@
     "month": null,
     "country": null
   },
-  "count": 3958,
+  "count": 3962,
   "results": [
+    {
+      "date": "2026-08-11",
+      "victim": "CH BIOTECH R&D CO., LTD.",
+      "domain": "chbio.com",
+      "country": "TW",
+      "summary": "Le 11 août 2026, la CH Biotech a subi une cyberattaque ayant touché une partie de ses systèmes d'information. Selon les premières évaluations, l'incident n'a pas d'impact significatif sur les opérations de l'entreprise. Pour y répondre, la société a activé ses mécanismes de défense, engagé des cabinets d'experts externes et a prévu d'informer les autorités compétentes conformément à la réglementation.",
+      "description": "",
+      "title": "Today's Information",
+      "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=153824&spoke_date=20260811&co_id=6534",
+      "added": "2026-08-12",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-08-10",
+      "victim": "Corte de Constitucionalidad",
+      "domain": "cc.gob.gt",
+      "country": "GT",
+      "summary": "La Cour constitutionnelle (CC) a confirmé avoir subi une intrusion dans son réseau le 10 août. Bien que les protocoles de sécurité aient été activés et que des sauvegardes complètes soient disponibles, cette attaque a entraîné des perturbations temporaires dans la disponibilité de certains services informatiques. La Cour a engagé des poursuites judiciaires afin d'enquêter sur l'origine de cette attaque.",
+      "description": "",
+      "title": "Confirman ataque cibernético contra la Corte de Constitucionalidad",
+      "url": "https://emisorasunidas.com/nacional/2026/08/11/ataque-cibernetico-corte-de-constitucionalidad/",
+      "added": "2026-08-12",
+      "infostealer": {
+        "update": "2026-08-12T10:30:21",
+        "employees": 0,
+        "users": 50,
+        "thirdparties": 5,
+        "employees_url": 0,
+        "users_url": 19,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-08-10",
       "victim": "Simian",
@@ -180,6 +216,29 @@
       "url": "https://dysruptionhub.com/mitchell-sd-cybersecurity-incident/",
       "added": "2026-08-08",
       "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-08-06",
+      "victim": "Shopping Cidade",
+      "domain": "shoppingcidade.com.br",
+      "country": "BR",
+      "summary": "Le Shopping Cidade, un centre commercial de la capitale mineira, a été victime d'une cyberattaque qui a entraîné le chiffrement et l'indisponibilité temporaire de ses systèmes. L'incident, découvert le 6 août, est caractéristique d'une attaque par ransomware. Bien que l'administration affirme que les systèmes ont été restaurés et qu'aucune utilisation abusive de données personnelles n'a été identifiée, l'établissement recommande une extrême prudence aux personnes concernées concernant les tentatives d'hameçonnage.",
+      "description": "",
+      "title": "Shopping de BH sofre ataque virtual e tem dados pessoais comprometidos",
+      "url": "https://diariodocomercio.com.br/geral/shopping-de-belo-horizonte-confirma-invasao-de-servidores-com-informacoes-pessoais-criticas/",
+      "added": "2026-08-12",
+      "infostealer": {
+        "update": "2026-08-12T10:30:20",
+        "employees": 0,
+        "users": 33,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 9,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
       "ransomware": null
     },
     {
@@ -2181,6 +2240,19 @@
         "last_user_compromised": null,
         "infostealer_stats": {}
       },
+      "ransomware": null
+    },
+    {
+      "date": "2026-07-15",
+      "victim": "Fusuyama Denshi Co., Ltd.",
+      "domain": "fusodentsu.co.jp",
+      "country": "JP",
+      "summary": "Fusuyama Denshi Co., Ltd. a annoncé avoir détecté un accès non autorisé à son service de stockage cloud le 15 juillet. Cet accès concernait un dossier partagé utilisé pour le partage d'informations avec des parties externes et impliquait potentiellement des informations personnelles, ce qui a conduit l'entreprise à signaler l'incident à la Commission de protection des informations personnelles.",
+      "description": "",
+      "title": "扶桑電通が社外関係者との情報共有に利用していた共有フォルダに不正アクセス | ScanNetSecurity",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/08/12/55909.html",
+      "added": "2026-08-12",
+      "infostealer": "",
       "ransomware": null
     },
     {

@@ -4,8 +4,31 @@
     "month": null,
     "country": null
   },
-  "count": 3963,
+  "count": 3965,
   "results": [
+    {
+      "date": "2026-08-11",
+      "victim": "Ágape Consultoria",
+      "domain": "agapeconsultoria.com.br",
+      "country": "BR",
+      "summary": "Vingt organisations municipales du capixaba (État du Espírito Santo) ont été touchées par une cyberattaque visant leurs portails publics. L'attaque, attribuée au groupe hacker BLCKORDER, a entraîné une indisponibilité des services en ligne. Les autorités locales et l'entreprise prestataire de services, Ágape Consultoria, ont indiqué que l'infrastructure critique (bases de données, systèmes de gestion) est restée préservée. L'accès aux systèmes aurait été facilité par des failles dans la gestion des identifiants ou par des vulnérabilités liées à d'anciens collaborateurs de l'entreprise prestataire. Le groupe BLCKORDER a revendiqué l'attaque, utilisant le manifeste pour critiquer le gouvernement et le stockage des données des citoyens, et a également suggéré une exfiltration de données, bien que l'étendue de cette dernière ne soit pas encore confirmée.",
+      "description": "",
+      "title": "Prefeitura e Câmara de Vila Pavão são afetadas por ataque hacker que derrubou portais no ES",
+      "url": "https://vilanoticias.com/prefeitura-e-camara-de-vila-pavao-sao-afetadas-por-ataque-hacker-que-derrubou-portais-no-es/",
+      "added": "2026-08-12",
+      "infostealer": {
+        "update": "2026-08-12T12:00:08",
+        "employees": 6,
+        "users": 36,
+        "thirdparties": 3,
+        "employees_url": 4,
+        "users_url": 14,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-08-11",
       "victim": "CH BIOTECH R&D CO., LTD.",
@@ -17,6 +40,29 @@
       "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=153824&spoke_date=20260811&co_id=6534",
       "added": "2026-08-12",
       "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-08-10",
+      "victim": "MyDr",
+      "domain": "mydr.pl",
+      "country": "PL",
+      "summary": "MyDr enquête sur un incident de données concernant une partie de ses systèmes. L'entreprise a activé ses procédures de réponse aux incidents et collabore avec des experts externes, des autorités compétentes et des conseillers juridiques pour élucider la situation.",
+      "description": "",
+      "title": "Incydent MyDr",
+      "url": "https://pro.mydr.pl/portal-info",
+      "added": "2026-08-12",
+      "infostealer": {
+        "update": "2026-08-12T12:00:08",
+        "employees": 1,
+        "users": 360,
+        "thirdparties": 0,
+        "employees_url": 1,
+        "users_url": 33,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
       "ransomware": null
     },
     {

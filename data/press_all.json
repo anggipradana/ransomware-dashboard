@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3962,
+  "count": 3963,
   "results": [
     {
       "date": "2026-08-11",
@@ -14606,6 +14606,29 @@
       "url": "https://www.tecnicadellascuola.it/attacco-hacker-a-una-scuola-di-treviso-registro-elettronico-inaccessibile-dati-e-valutazioni-spariti-nel-nulla",
       "added": "2026-01-05",
       "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2025-12-19",
+      "victim": "GigWorks",
+      "domain": "gig.co.jp",
+      "country": "JP",
+      "summary": "La société GigWorks a publié son troisième rapport concernant l'accès non autorisé à ses serveurs, constaté le 19 décembre 2025, sur la base d'une enquête informatique menée par un cabinet d'expertise externe. L'enquête n'a révélé aucune trace de transfert de fichiers contenant des données à caractère personnel vers l'extérieur ; toutefois, la société indique qu'elle ne peut pas exclure totalement la possibilité que l'attaquant ait pu consulter visuellement, même brièvement, des données à caractère personnel – notamment des noms, adresses, informations salariales et fiscales, ainsi que des coordonnées bancaires – sur le serveur hébergeant la « base de données des demandes de déduction pour personnes à charge ». Par mesure de précaution, la société a annoncé qu'elle contacterait progressivement les personnes susceptibles d'être concernées.",
+      "description": "",
+      "title": "ギグワークスがサーバ不正アクセスの第3報を公表、扶養控除申請データベースの個人情報漏洩の可能性を否定できず|セキュリティニュースのセキュリティ対策Lab",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/gig-works-unauthorized-access-database-data-leak/",
+      "added": "2026-08-12",
+      "infostealer": {
+        "update": "2026-08-12T11:00:07",
+        "employees": 0,
+        "users": 43,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 9,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
       "ransomware": null
     },
     {

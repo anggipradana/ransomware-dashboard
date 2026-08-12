@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3966,
+  "count": 3967,
   "results": [
     {
       "date": "2026-08-11",
@@ -12966,6 +12966,29 @@
       "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=140832&spoke_date=20260127&co_id=3518",
       "added": "2026-01-27",
       "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-01-26",
+      "victim": "Centre Hospitalier Universitaire de Jeonnam",
+      "domain": "cnuh.com",
+      "country": "KR",
+      "summary": "Le Centre Hospitalier Universitaire de Jeonnam a été victime d'une cyberattaque par ransomware. L'attaque, survenue le matin précédent, a empêché la diffusion des résultats des examens par imagerie (IRM) à distance, obligeant le personnel médical à se rendre physiquement au service de radiologie. L'incident a été résolu le même jour par la restauration du système informatique. Il est à noter qu'aucun dommage lié à la fuite des données personnelles des patients ou aux opérations chirurgicales n'a été constaté.",
+      "description": "",
+      "title": "전남대병원 랜섬웨어 공격받아 영상검사 차질...전산망 긴급 복구 완료",
+      "url": "https://news.ikbc.co.kr/article/view/kbc202601270025",
+      "added": "2026-08-12",
+      "infostealer": {
+        "update": "2026-08-12T15:30:21",
+        "employees": 0,
+        "users": 108,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 22,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
       "ransomware": null
     },
     {

@@ -27611,7 +27611,10 @@
           "UNKNOWN": 2
         }
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "Ethics",
+        "permalink": "https://www.ransomware.live/id/UGhpbGFkZWxwaGlhIEluc3VyYW5jZSBDb21wYW5pZXNARXRoaWNz"
+      }
     },
     {
       "date": "2025-06-09",

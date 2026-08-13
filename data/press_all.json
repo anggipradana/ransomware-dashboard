@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3968,
+  "count": 3970,
   "results": [
     {
       "date": "2026-08-11",
@@ -275,6 +275,29 @@
       "url": "https://dysruptionhub.com/mitchell-sd-cybersecurity-incident/",
       "added": "2026-08-08",
       "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-08-06",
+      "victim": "Nick Scali",
+      "domain": "nickscali.com.au",
+      "country": "AU",
+      "summary": "Nick Scali a dû mettre certains de ses systèmes hors ligne suite à une cyberattaque survenue au milieu de la semaine dernière. Bien que l'entreprise ait initialement déclaré n'avoir aucune preuve d'accès non autorisé aux données clients, les autorités australiennes ont indiqué que les cybercriminels avaient obtenu certains détails clients, notamment les adresses de livraison, et avaient envoyé une demande de rançon.",
+      "description": "",
+      "title": "Nick Scali systems offline after cyberattack",
+      "url": "https://www.capitalbrief.com/briefing/nick-scali-systems-offline-after-cyberattack-582ee65a-96b3-4992-a702-fb1f54c3d1d5/",
+      "added": "2026-08-13",
+      "infostealer": {
+        "update": "2026-08-13T12:00:08",
+        "employees": 0,
+        "users": 8,
+        "thirdparties": 8,
+        "employees_url": 0,
+        "users_url": 7,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
       "ransomware": null
     },
     {
@@ -23879,6 +23902,29 @@
       "url": "https://www.ladepeche.fr/2025/08/07/le-centre-hospitalier-du-gers-cible-par-une-cyberattaque-une-enquete-est-en-cours-12865493.php",
       "added": "2025-08-08",
       "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2025-08-05",
+      "victim": "EOPPEP",
+      "domain": "eoppep.gr",
+      "country": "GR",
+      "summary": "Le 5 août 2026, l'EOPPEP (l'Organisme national grec de certification des qualifications et d'orientation professionnelle) a été victime d'une attaque par ransomware. L'incident a paralysé les systèmes d'information et les services électroniques de l'organisme pendant huit jours, et ce, jusqu'à l'annonce officielle du 12 août. Cette attaque s'inscrit dans une série d'offensives ciblant les institutions publiques grecques, et présente des caractéristiques suggérant l'implication d'acteurs étatiques.",
+      "description": "",
+      "title": "Access Blocked",
+      "url": "https://www.secnews.gr/726335/eoppep-ransomware-epithesi-5-augoustou-2026/",
+      "added": "2026-08-13",
+      "infostealer": {
+        "update": "2026-08-13T12:30:18",
+        "employees": 0,
+        "users": 1620,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 94,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
       "ransomware": null
     },
     {

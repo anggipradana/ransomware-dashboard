@@ -4,8 +4,21 @@
     "month": null,
     "country": null
   },
-  "count": 3970,
+  "count": 3972,
   "results": [
+    {
+      "date": "2026-08-11",
+      "victim": "Darlington County",
+      "domain": "darcosc.com",
+      "country": "US",
+      "summary": "Le comté de Darlington, en Caroline du Sud, a dû isoler certains de ses systèmes informatiques suite à un incident de cybersécurité qui a perturbé les téléphones et certains services gouvernementaux. Les services d'urgence (911) sont restés opérationnels. L'incident est survenu mercredi, et les autorités locales ont fait appel à des spécialistes externes et aux forces de l'ordre pour gérer la situation. Le comté n'a pas encore précisé l'étendue complète de l'attaque, si un rançongiciel est impliqué ou si des données ont été compromises.",
+      "description": "",
+      "title": "Darlington County, South Carolina, takes systems offline after cybersecurity incident",
+      "url": "https://dysruptionhub.com/darlington-county-cyber-phones/",
+      "added": "2026-08-13",
+      "infostealer": "",
+      "ransomware": null
+    },
     {
       "date": "2026-08-11",
       "victim": "Ágape Consultoria",
@@ -1832,6 +1845,29 @@
         "group": "shinyhunters",
         "permalink": "https://www.ransomware.live/id/QkggU2VjdXJpdHksIExMQy4gKGJyaW5rc2hvbWUuY29tKUBzaGlueWh1bnRlcnM="
       }
+    },
+    {
+      "date": "2026-07-21",
+      "victim": "Bain thermal de Bad Staffelstein",
+      "domain": "obermaintherme.de",
+      "country": "DE",
+      "summary": "Un bain thermal populaire à Bad Staffelstein a été ciblé par des hackers.",
+      "description": "",
+      "title": "Cyberangriff auf Obermain Therme in Bad Staffelstein",
+      "url": "https://www.fraenkischertag.de/lokales/lichtenfels/wirtschaft/cyberangriff-auf-webseite-der-obermain-therme-bad-staffelstein-art-575585",
+      "added": "2026-08-13",
+      "infostealer": {
+        "update": "2026-08-13T13:30:21",
+        "employees": 0,
+        "users": 6,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 2,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
     },
     {
       "date": "2026-07-21",

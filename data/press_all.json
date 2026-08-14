@@ -26995,7 +26995,10 @@
           "Azorult": 199
         }
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "Global Secret Group",
+        "permalink": "https://www.ransomware.live/id/Q29sdW1iaWEgVW5pdmVyc2l0eSBJbmZvcm1hdGlvbiAoRGVudGFsKUBHbG9iYWwgU2VjcmV0IEdyb3Vw"
+      }
     },
     {
       "date": "2025-06-24",

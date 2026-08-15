@@ -21,10 +21,10 @@
                 "enabled": true,
                 "version": null,
                 "delay": null,
-                "updated": "2026-08-15T02:36:39.903994+00:00",
-                "lastscrape": "2026-08-15T02:36:39.903994+00:00",
+                "updated": "2026-08-15T03:36:22.274398+00:00",
+                "lastscrape": "2026-08-15T03:36:22.274398+00:00",
                 "http": {
-                    "fetched_at": "2026-08-15T02:36:39+00:00",
+                    "fetched_at": "2026-08-15T03:36:22+00:00",
                     "start_url": "http://oaptxiyisljt2kv3we2we34kuudmqda7f2geffoylzpeo7ourhtz4dad.onion",
                     "final_url": "http://oaptxiyisljt2kv3we2we34kuudmqda7f2geffoylzpeo7ourhtz4dad.onion",
                     "status": 501,
@@ -41,7 +41,7 @@
                         "set_cookie_present": false
                     },
                     "headers": {
-                        "date": "Sat, 15 Aug 2026 02:36:40 GMT",
+                        "date": "Sat, 15 Aug 2026 03:36:22 GMT",
                         "server": "BaseHTTP/0.6 Python/3.12.3",
                         "connection": "close",
                         "content-type": "text/html;charset=utf-8",
@@ -75,10 +75,10 @@
                 "enabled": true,
                 "version": null,
                 "delay": null,
-                "updated": "2026-08-15T02:32:44.748697+00:00",
-                "lastscrape": "2026-08-15T02:32:44.748697+00:00",
+                "updated": "2026-08-15T03:32:17.232866+00:00",
+                "lastscrape": "2026-08-15T03:32:17.232866+00:00",
                 "http": {
-                    "fetched_at": "2026-08-15T02:33:00+00:00",
+                    "fetched_at": "2026-08-15T03:32:32+00:00",
                     "start_url": "http://odaygplp3zhyx7zl45egetl6dzc4reduisnoyym34rjdmaryfaz5doqd.onion",
                     "final_url": "http://odaygplp3zhyx7zl45egetl6dzc4reduisnoyym34rjdmaryfaz5doqd.onion",
                     "status": 200,
@@ -95,7 +95,7 @@
                         "set_cookie_present": false
                     },
                     "headers": {
-                        "date": "Sat, 15 Aug 2026 02:33:03 GMT",
+                        "date": "Sat, 15 Aug 2026 03:32:33 GMT",
                         "server": "nginx",
                         "connection": "keep-alive",
                         "content-type": "text/html; charset=UTF-8",
@@ -1133,34 +1133,17 @@
                 "enabled": true,
                 "version": null,
                 "delay": null,
-                "updated": "2026-08-15T02:30:52.84738+00:00",
-                "lastscrape": "2026-08-15T02:30:52.84738+00:00",
+                "updated": "2026-08-15T03:31:07.620609+00:00",
+                "lastscrape": "2026-08-15T03:31:07.620609+00:00",
                 "http": {
-                    "fetched_at": "2026-08-15T02:31:33+00:00",
+                    "fetched_at": "2026-08-15T03:32:08+00:00",
                     "start_url": "http://cmdnkiqjije2tllr3biee2sjgj3i4robg2cbtilbnytdhh2wy3syrlyd.onion",
-                    "final_url": "http://cmdnkiqjije2tllr3biee2sjgj3i4robg2cbtilbnytdhh2wy3syrlyd.onion",
-                    "status": 200,
-                    "http_version": "HTTP/1.1",
-                    "error": null,
-                    "fingerprint": {
-                        "cdn": null,
-                        "via": null,
-                        "server": "gunicorn",
-                        "content_type": "text/html; charset=utf-8",
-                        "x_powered_by": null,
-                        "content_length": "20242",
-                        "security_headers": {},
-                        "set_cookie_present": true
-                    },
-                    "headers": {
-                        "date": "Sat, 15 Aug 2026 02:31:34 GMT",
-                        "vary": "Cookie",
-                        "server": "gunicorn",
-                        "connection": "close",
-                        "set-cookie": "session=eyJpdGVtX2NvdW50Ijo0MH0.an_Phg.7AXY9q0xQMNyugk89Y6JdqCaC4U; HttpOnly; Path=/",
-                        "content-type": "text/html; charset=utf-8",
-                        "content-length": "20242"
-                    },
+                    "final_url": null,
+                    "status": null,
+                    "http_version": null,
+                    "error": "(no message)",
+                    "fingerprint": {},
+                    "headers": {},
                     "redirect_chain": []
                 }
             },
@@ -1173,17 +1156,17 @@
                 "enabled": true,
                 "version": null,
                 "delay": null,
-                "updated": "2026-08-15T02:29:46.154117+00:00",
-                "lastscrape": "2026-08-15T02:29:46.154117+00:00",
+                "updated": "2026-08-15T03:29:49.298252+00:00",
+                "lastscrape": "2026-08-15T03:29:49.298252+00:00",
                 "http": {
-                    "fetched_at": "2026-08-15T02:29:59+00:00",
+                    "fetched_at": "2026-08-15T03:30:03+00:00",
                     "start_url": "https://cmdofficial.com",
                     "final_url": "https://cmdofficial.com",
                     "status": 403,
                     "http_version": "HTTP/1.1",
                     "error": null,
                     "fingerprint": {
-                        "cdn": "a2b4c65cfe52c11c-AMS",
+                        "cdn": "a2b51e57dc2d1811-DUS",
                         "via": null,
                         "server": "cloudflare",
                         "content_type": "text/html; charset=utf-8",
@@ -1197,11 +1180,11 @@
                     },
                     "headers": {
                         "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
-                        "date": "Sat, 15 Aug 2026 02:30:00 GMT",
-                        "cf-ray": "a2b4c65cfe52c11c-AMS",
+                        "date": "Sat, 15 Aug 2026 03:30:04 GMT",
+                        "cf-ray": "a2b51e57dc2d1811-DUS",
                         "server": "cloudflare",
                         "expires": "Thu, 01 Jan 1970 00:00:01 GMT",
-                        "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=aVLzJJDv8bfIFWWg9cwy7PBrZLSb3sVYtZBnnJq0QWLZkJv%2BiIO6%2BX9ESxzyvCxfllWGRUVlwdQt6Jyf1xjwe6okkxGxLJjNN0vCjqLP6ayR%2BLHtbMUkxtTfuvTKGYrR9sY%3D\"}]}",
+                        "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=6Lhxiypr96XJ1bBv723C3Eg5umFP5w3A4zBL38t9MF9O1sKhpEGCSvjw3o511xPn5qkxMm2P%2BssuLod%2BEwejD75wf8f2xgWgWtDrjZnOr%2FQCfR0Iz7NOY1qd8BE7DA3Ksos%3D\"}]}",
                         "connection": "keep-alive",
                         "content-type": "text/html; charset=utf-8",
                         "cache-control": "private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
@@ -1440,10 +1423,10 @@
                 "enabled": true,
                 "version": 3,
                 "delay": null,
-                "updated": "2026-08-15T02:31:00.312356+00:00",
-                "lastscrape": "2026-08-15T02:31:00.312356+00:00",
+                "updated": "2026-08-15T03:30:58.575107+00:00",
+                "lastscrape": "2026-08-15T03:30:58.575107+00:00",
                 "http": {
-                    "fetched_at": "2026-08-15T02:31:16+00:00",
+                    "fetched_at": "2026-08-15T03:31:15+00:00",
                     "start_url": "http://zprxx7sfc26rufggreanowmme5qqouqegr2efnko6erycquwvpq5egid.onion",
                     "final_url": "http://zprxx7sfc26rufggreanowmme5qqouqegr2efnko6erycquwvpq5egid.onion",
                     "status": 200,
@@ -1460,7 +1443,7 @@
                         "set_cookie_present": false
                     },
                     "headers": {
-                        "date": "Sat, 15 Aug 2026 02:31:18 GMT",
+                        "date": "Sat, 15 Aug 2026 03:31:15 GMT",
                         "etag": "W/\"66f3e1c7-2653\"",
                         "server": "nginx/1.18.0",
                         "connection": "keep-alive",
@@ -1692,10 +1675,10 @@
                 "enabled": true,
                 "version": null,
                 "delay": null,
-                "updated": "2026-08-15T02:37:36.487685+00:00",
-                "lastscrape": "2026-08-15T02:37:36.487685+00:00",
+                "updated": "2026-08-15T03:37:40.430016+00:00",
+                "lastscrape": "2026-08-15T03:37:40.430016+00:00",
                 "http": {
-                    "fetched_at": "2026-08-15T02:37:56+00:00",
+                    "fetched_at": "2026-08-15T03:38:03+00:00",
                     "start_url": "http://deadblogdbdu5wprek7wa2o4ce7rnt6u6ntqeud3hzjjcveosgpsqqqd.onion",
                     "final_url": "http://deadblogdbdu5wprek7wa2o4ce7rnt6u6ntqeud3hzjjcveosgpsqqqd.onion",
                     "status": 200,
@@ -1716,7 +1699,7 @@
                         "set_cookie_present": false
                     },
                     "headers": {
-                        "date": "Sat, 15 Aug 2026 02:37:56 GMT",
+                        "date": "Sat, 15 Aug 2026 03:38:04 GMT",
                         "server": "nginx",
                         "connection": "keep-alive",
                         "content-type": "text/html; charset=UTF-8",
@@ -1794,9 +1777,9 @@
                 "version": null,
                 "delay": null,
                 "updated": "2026-08-14T09:31:41.837234+00:00",
-                "lastscrape": "2026-08-15T02:32:38.153755+00:00",
+                "lastscrape": "2026-08-15T03:31:31.922529+00:00",
                 "http": {
-                    "fetched_at": "2026-08-15T02:32:38+00:00",
+                    "fetched_at": "2026-08-15T03:31:31+00:00",
                     "start_url": "http://iacjvmxjb2ivqkxxzmde4w6g53gn6ym7c3g6mfifvejyhqtp4wrkypyd.onion",
                     "final_url": null,
                     "status": null,
@@ -2238,10 +2221,10 @@
                 "enabled": true,
                 "version": null,
                 "delay": null,
-                "updated": "2026-08-15T02:30:53.703298+00:00",
-                "lastscrape": "2026-08-15T02:30:53.703298+00:00",
+                "updated": "2026-08-15T03:30:36.760351+00:00",
+                "lastscrape": "2026-08-15T03:30:36.760351+00:00",
                 "http": {
-                    "fetched_at": "2026-08-15T02:31:05+00:00",
+                    "fetched_at": "2026-08-15T03:30:48+00:00",
                     "start_url": "http://gammax6w3dkfdjfrjthtmqzsioue52vzy6lz54qy6jcvmogfpubutjyd.onion",
                     "final_url": "http://gammax6w3dkfdjfrjthtmqzsioue52vzy6lz54qy6jcvmogfpubutjyd.onion",
                     "status": 200,
@@ -2258,7 +2241,7 @@
                         "set_cookie_present": false
                     },
                     "headers": {
-                        "date": "Sat, 15 Aug 2026 02:31:05 GMT",
+                        "date": "Sat, 15 Aug 2026 03:30:49 GMT",
                         "server": "Apache",
                         "content-type": "text/html; charset=UTF-8"
                     },
@@ -3267,10 +3250,10 @@
                 "enabled": true,
                 "version": null,
                 "delay": null,
-                "updated": "2026-08-15T02:32:56.744736+00:00",
-                "lastscrape": "2026-08-15T02:32:56.744736+00:00",
+                "updated": "2026-08-15T03:32:38.967286+00:00",
+                "lastscrape": "2026-08-15T03:32:38.967286+00:00",
                 "http": {
-                    "fetched_at": "2026-08-15T02:33:13+00:00",
+                    "fetched_at": "2026-08-15T03:32:54+00:00",
                     "start_url": "http://neclc36yt4yaa5lv54kh4qbhvjcvuv6nnaurqowkellytpvj3afh4aid.onion",
                     "final_url": "http://neclc36yt4yaa5lv54kh4qbhvjcvuv6nnaurqowkellytpvj3afh4aid.onion",
                     "status": 200,
@@ -3287,7 +3270,7 @@
                         "set_cookie_present": false
                     },
                     "headers": {
-                        "date": "Sat, 15 Aug 2026 02:33:14 GMT",
+                        "date": "Sat, 15 Aug 2026 03:32:55 GMT",
                         "etag": "W/\"6a756da1-e9a\"",
                         "server": "nginx",
                         "connection": "keep-alive",
@@ -3307,10 +3290,10 @@
                 "enabled": true,
                 "version": null,
                 "delay": null,
-                "updated": "2026-08-15T02:32:11.488198+00:00",
-                "lastscrape": "2026-08-15T02:32:11.488198+00:00",
+                "updated": "2026-08-15T03:31:52.194295+00:00",
+                "lastscrape": "2026-08-15T03:31:52.194295+00:00",
                 "http": {
-                    "fetched_at": "2026-08-15T02:32:23+00:00",
+                    "fetched_at": "2026-08-15T03:32:04+00:00",
                     "start_url": "http://neclc36yt4yaa5lv54kh4qbhvjcvuv6nnaurqowkellytpvj3afh4aid.onion/companies",
                     "final_url": "http://neclc36yt4yaa5lv54kh4qbhvjcvuv6nnaurqowkellytpvj3afh4aid.onion/companies",
                     "status": 200,
@@ -3327,7 +3310,7 @@
                         "set_cookie_present": false
                     },
                     "headers": {
-                        "date": "Sat, 15 Aug 2026 02:32:23 GMT",
+                        "date": "Sat, 15 Aug 2026 03:32:05 GMT",
                         "etag": "W/\"6a756da0-a81\"",
                         "server": "nginx",
                         "connection": "keep-alive",
@@ -3348,9 +3331,9 @@
                 "version": null,
                 "delay": null,
                 "updated": null,
-                "lastscrape": "2026-08-15T02:32:24.265206+00:00",
+                "lastscrape": "2026-08-15T03:32:06.582825+00:00",
                 "http": {
-                    "fetched_at": "2026-08-15T02:32:24+00:00",
+                    "fetched_at": "2026-08-15T03:32:06+00:00",
                     "start_url": "http://ursba4dbibo27dtwtgy3l2pc3ekut7helebvmy7ny3b2s3mbzph4qdad",
                     "final_url": null,
                     "status": null,
@@ -3590,9 +3573,9 @@
                 "version": null,
                 "delay": null,
                 "updated": "2026-07-20T12:22:53.057603+00:00",
-                "lastscrape": "2026-08-15T02:37:34.848017+00:00",
+                "lastscrape": "2026-08-15T03:37:26.061165+00:00",
                 "http": {
-                    "fetched_at": "2026-08-15T02:37:34+00:00",
+                    "fetched_at": "2026-08-15T03:37:26+00:00",
                     "start_url": "http://sevykkkuzbxjpkb7gtfxnltn73bm6vaxglxh5xsd55trqqew3xpowwid.onion",
                     "final_url": null,
                     "status": null,
@@ -4016,9 +3999,9 @@
                 "version": null,
                 "delay": null,
                 "updated": null,
-                "lastscrape": "2026-08-15T02:34:52.768331+00:00",
+                "lastscrape": "2026-08-15T03:34:46.766635+00:00",
                 "http": {
-                    "fetched_at": "2026-08-15T02:34:52+00:00",
+                    "fetched_at": "2026-08-15T03:34:46+00:00",
                     "start_url": "http://scbrksw5fgjtujc2ah42roo6bij2unr2tggfcynpbql5a7yp3s22taid.onion",
                     "final_url": null,
                     "status": null,
@@ -4039,9 +4022,9 @@
                 "version": null,
                 "delay": null,
                 "updated": null,
-                "lastscrape": "2026-08-15T02:35:06.544878+00:00",
+                "lastscrape": "2026-08-15T03:35:02.948617+00:00",
                 "http": {
-                    "fetched_at": "2026-08-15T02:35:06+00:00",
+                    "fetched_at": "2026-08-15T03:35:02+00:00",
                     "start_url": "http://shadowxn303kvvkbjyaoe33emqxrtadijp7xybizbht2thb6x5dvfhad.onion",
                     "final_url": null,
                     "status": null,
@@ -4076,9 +4059,9 @@
                 "version": null,
                 "delay": null,
                 "updated": "2026-07-19T22:54:09.313953+00:00",
-                "lastscrape": "2026-08-15T02:34:12.956535+00:00",
+                "lastscrape": "2026-08-15T03:34:00.520907+00:00",
                 "http": {
-                    "fetched_at": "2026-08-15T02:34:12+00:00",
+                    "fetched_at": "2026-08-15T03:34:00+00:00",
                     "start_url": "https://thesyn.icu",
                     "final_url": null,
                     "status": null,
@@ -4272,9 +4255,9 @@
                 "version": null,
                 "delay": null,
                 "updated": "2026-08-09T21:00:19.552599+00:00",
-                "lastscrape": "2026-08-15T02:32:04.089054+00:00",
+                "lastscrape": "2026-08-15T03:31:57.277756+00:00",
                 "http": {
-                    "fetched_at": "2026-08-15T02:32:04+00:00",
+                    "fetched_at": "2026-08-15T03:31:57+00:00",
                     "start_url": "http://egm34gsyx65wb6jyqds4esvkskl34barx4robuebjhqpc4dfeavg7fyd.onion",
                     "final_url": null,
                     "status": null,
@@ -4550,10 +4533,10 @@
                 "enabled": true,
                 "version": null,
                 "delay": null,
-                "updated": "2026-08-15T02:35:34.330841+00:00",
-                "lastscrape": "2026-08-15T02:35:34.330841+00:00",
+                "updated": "2026-08-15T03:35:31.894522+00:00",
+                "lastscrape": "2026-08-15T03:35:31.894522+00:00",
                 "http": {
-                    "fetched_at": "2026-08-15T02:35:46+00:00",
+                    "fetched_at": "2026-08-15T03:35:44+00:00",
                     "start_url": "http://4dwiv37h7hhuhjpvtn72hme4ylcv3qoe65arfc6mbweal7als6ma7pyd.onion",
                     "final_url": "http://4dwiv37h7hhuhjpvtn72hme4ylcv3qoe65arfc6mbweal7als6ma7pyd.onion",
                     "status": 200,
@@ -4572,9 +4555,9 @@
                         "set_cookie_present": false
                     },
                     "headers": {
-                        "date": "Sat, 15 Aug 2026 02:35:46 GMT",
+                        "date": "Sat, 15 Aug 2026 03:35:44 GMT",
                         "server": "nginx/1.18.0 (Ubuntu)",
-                        "expires": "Sat, 15 Aug 2026 02:35:45 GMT",
+                        "expires": "Sat, 15 Aug 2026 03:35:43 GMT",
                         "connection": "keep-alive",
                         "content-type": "text/html",
                         "accept-ranges": "bytes",
@@ -4646,10 +4629,10 @@
                 "enabled": true,
                 "version": 3,
                 "delay": null,
-                "updated": "2026-08-15T02:38:34.891424+00:00",
-                "lastscrape": "2026-08-15T02:38:34.891424+00:00",
+                "updated": "2026-08-15T03:38:26.075328+00:00",
+                "lastscrape": "2026-08-15T03:38:26.075328+00:00",
                 "http": {
-                    "fetched_at": "2026-08-15T02:38:34+00:00",
+                    "fetched_at": "2026-08-15T03:38:26+00:00",
                     "start_url": "http://3ev4metjirohtdpshsqlkrqcmxq6zu3d7obrdhglpy5jpbr7whmlfgqd.onion/",
                     "final_url": "http://3ev4metjirohtdpshsqlkrqcmxq6zu3d7obrdhglpy5jpbr7whmlfgqd.onion/",
                     "status": 200,
@@ -4666,7 +4649,7 @@
                         "set_cookie_present": false
                     },
                     "headers": {
-                        "date": "Sat, 15 Aug 2026 02:38:35 GMT",
+                        "date": "Sat, 15 Aug 2026 03:38:26 GMT",
                         "etag": "W/\"64628059-e36\"",
                         "server": "nginx",
                         "connection": "keep-alive",
@@ -4780,10 +4763,10 @@
                 "enabled": true,
                 "version": 3,
                 "delay": null,
-                "updated": "2026-08-15T02:36:21.797671+00:00",
-                "lastscrape": "2026-08-15T02:36:21.797671+00:00",
+                "updated": "2026-08-15T03:37:11.515587+00:00",
+                "lastscrape": "2026-08-15T03:37:11.515587+00:00",
                 "http": {
-                    "fetched_at": "2026-08-15T02:36:21+00:00",
+                    "fetched_at": "2026-08-15T03:37:11+00:00",
                     "start_url": "https://akiral2iz6a7qgd3ayp3l6yub7xx2uep76idk3u2kollpj5z3z636bad.onion",
                     "final_url": "https://akiral2iz6a7qgd3ayp3l6yub7xx2uep76idk3u2kollpj5z3z636bad.onion",
                     "status": 200,
@@ -4806,16 +4789,16 @@
                         "set_cookie_present": true
                     },
                     "headers": {
-                        "date": "Sat, 15 Aug 2026 02:36:22 GMT",
-                        "etag": "W/\"4465af2768c8818ed73df1dd4013d246\"",
+                        "date": "Sat, 15 Aug 2026 03:37:12 GMT",
+                        "etag": "W/\"39c197fe90341707132ba63bd3792a59\"",
                         "link": "</assets/application-f36fb76e837b792167613365babc443ea28cc07961dc995c7f38355a72b29f8c.css>; rel=preload; as=style; nopush,</assets/application-6c0d4b487642eb6428967ce19edfbe36a2a00d2b49b7717730fb207956758f58.js>; rel=preload; as=script; nopush",
                         "vary": "Accept",
                         "server": "nginx",
-                        "x-runtime": "0.003355",
+                        "x-runtime": "0.004630",
                         "connection": "keep-alive",
-                        "set-cookie": "_app_session=5ext7hwxluG0kNKzayqjfMdQuJTcTJCdFTejier1kJiR9CzxdecoraDnaF2dhKeAFbptNo%2BEj%2Bwd7sDEMyjoQRHWT%2FStkXw7CQBbri1PV1u3f8g3kDbJpNPAUAqYDFmOjuUsPkCa%2FxWk6TgS8MIxgv%2F8etccNH0dk9%2FiFItRIoZqHRAW9%2BO0U3dBlCQz9IZ08YsTDiRaR58GGv7Zm5Q5pyMDE%2BmGS6eqP3p%2BKhb%2BB6UE%2BmsB9Kg0cf%2Fbd6b5B10DW6p4vklL62hYcjzaiuxuGKnO6Rw%3D--2mlja%2BJla%2B%2FLt44X--6TpTzCHSveTz%2FcOCWE9RYQ%3D%3D; path=/; httponly; samesite=lax",
+                        "set-cookie": "_app_session=uhHkRt3bSoRaFiN05yKBODtYLHftQhMRfeY05e4JrYcAU%2BzaIFyZjmWkaiFg%2FzQKOXVH4Kk3xDgWufnjkhj8S%2FmKzcgk6R7ymf3Vd%2BO5EI2LjbzI4l0PfAkaMezALnrPs6GePb4OG98rGgCArDLhdTSU7fzvQyfL2TpruUWvH9KkcEDwieBb3q4kwjCzLxiW%2BoRHuaeh8hcfg5wqcWkcn0h%2BPh5W9gK6pfJzp1fXbuRO633LdT0p2paO5au%2Fy0jajc7du2w5kHULcTDrDhHVUeh8Hqc%3D--iYo%2BCEMD3ZQzZHW7--QkPwiKW62nJLElYbhgl7jQ%3D%3D; path=/; httponly; samesite=lax",
                         "content-type": "text/html; charset=utf-8",
-                        "x-request-id": "dfb68150-57dc-4484-8e37-e65b02465a82",
+                        "x-request-id": "8fa32212-a82a-4edc-bca0-4eb7075e8933",
                         "cache-control": "max-age=0, private, must-revalidate",
                         "content-length": "0",
                         "referrer-policy": "strict-origin-when-cross-origin",
@@ -4837,10 +4820,10 @@
                 "enabled": true,
                 "version": 3,
                 "delay": null,
-                "updated": "2026-08-15T02:35:02.962974+00:00",
-                "lastscrape": "2026-08-15T02:35:02.962974+00:00",
+                "updated": "2026-08-15T03:35:51.012627+00:00",
+                "lastscrape": "2026-08-15T03:35:51.012627+00:00",
                 "http": {
-                    "fetched_at": "2026-08-15T02:35:02+00:00",
+                    "fetched_at": "2026-08-15T03:35:51+00:00",
                     "start_url": "https://akiralkzxzq2dsrzsrvbr2xgbbu2wgsmxryd4csgfameg52n7efvr2id.onion",
                     "final_url": "https://akiralkzxzq2dsrzsrvbr2xgbbu2wgsmxryd4csgfameg52n7efvr2id.onion",
                     "status": 403,
@@ -4857,8 +4840,8 @@
                         "set_cookie_present": false
                     },
                     "headers": {
-                        "date": "Sat, 15 Aug 2026 02:35:03 GMT",
-                        "etag": "W/\"6913e7b7-623\"",
+                        "date": "Sat, 15 Aug 2026 03:35:52 GMT",
+                        "etag": "W/\"672415fd-625\"",
                         "server": "nginx",
                         "connection": "keep-alive",
                         "content-type": "text/html",
@@ -4929,34 +4912,29 @@
                 "enabled": true,
                 "version": 3,
                 "delay": null,
-                "updated": "2026-08-15T02:32:50.821549+00:00",
-                "lastscrape": "2026-08-15T02:32:50.821549+00:00",
+                "updated": "2026-08-15T03:32:51.019053+00:00",
+                "lastscrape": "2026-08-15T03:32:51.019053+00:00",
                 "http": {
-                    "fetched_at": "2026-08-15T02:32:50+00:00",
+                    "fetched_at": "2026-08-15T03:32:51+00:00",
                     "start_url": "http://mydatae2d63il5oaxxangwnid5loq2qmtsol2ozr6vtb7yfm5ypzo6id.onion/blog_1",
                     "final_url": "http://mydatae2d63il5oaxxangwnid5loq2qmtsol2ozr6vtb7yfm5ypzo6id.onion/blog_1",
-                    "status": 206,
+                    "status": 403,
                     "http_version": "HTTP/1.1",
                     "error": null,
                     "fingerprint": {
                         "cdn": null,
                         "via": null,
                         "server": "nginx",
-                        "content_type": "text/html;;charset=UTF-8",
+                        "content_type": "text/html; charset=iso-8859-1",
                         "x_powered_by": null,
-                        "content_length": "1",
+                        "content_length": null,
                         "security_headers": {},
-                        "set_cookie_present": true
+                        "set_cookie_present": false
                     },
                     "headers": {
-                        "date": "Sat, 15 Aug 2026 02:32:27 GMT",
-                        "vary": "Accept-Encoding",
+                        "date": "Sat, 15 Aug 2026 03:32:44 GMT",
                         "server": "nginx",
-                        "set-cookie": "PHPSESSID=e5l923r051n0llh6qqnn589fo1",
-                        "content-type": "text/html;;charset=UTF-8",
-                        "content-range": "bytes 0-0/3636",
-                        "content-length": "1",
-                        "content-encoding": "gzip"
+                        "content-type": "text/html; charset=iso-8859-1"
                     },
                     "redirect_chain": []
                 }
@@ -5259,10 +5237,10 @@
                 "enabled": true,
                 "version": 3,
                 "delay": null,
-                "updated": "2026-08-15T02:37:17.538022+00:00",
-                "lastscrape": "2026-08-15T02:37:17.538022+00:00",
+                "updated": "2026-08-15T03:35:56.093371+00:00",
+                "lastscrape": "2026-08-15T03:35:56.093371+00:00",
                 "http": {
-                    "fetched_at": "2026-08-15T02:37:17+00:00",
+                    "fetched_at": "2026-08-15T03:35:56+00:00",
                     "start_url": "http://bashe4aec32kr6zbifwd5x6xgjsmhg4tbowrbx4pneqhc5mqooyifpid.onion",
                     "final_url": "http://bashe4aec32kr6zbifwd5x6xgjsmhg4tbowrbx4pneqhc5mqooyifpid.onion",
                     "status": 200,
@@ -5279,7 +5257,7 @@
                         "set_cookie_present": false
                     },
                     "headers": {
-                        "date": "Sat, 15 Aug 2026 02:37:18 GMT",
+                        "date": "Sat, 15 Aug 2026 03:35:56 GMT",
                         "server": "nginx/1.18.0 (Ubuntu)",
                         "connection": "keep-alive",
                         "content-type": "text/html",
@@ -5299,10 +5277,10 @@
                 "enabled": true,
                 "version": 3,
                 "delay": null,
-                "updated": "2026-08-15T02:36:07.180984+00:00",
-                "lastscrape": "2026-08-15T02:36:07.180984+00:00",
+                "updated": "2026-08-15T03:35:06.848753+00:00",
+                "lastscrape": "2026-08-15T03:35:06.848753+00:00",
                 "http": {
-                    "fetched_at": "2026-08-15T02:36:07+00:00",
+                    "fetched_at": "2026-08-15T03:35:06+00:00",
                     "start_url": "http://basheqtvzqwz4vp6ks5lm2ocq7i6tozqgf6vjcasj4ezmsy4bkpshhyd.onion",
                     "final_url": "http://basheqtvzqwz4vp6ks5lm2ocq7i6tozqgf6vjcasj4ezmsy4bkpshhyd.onion",
                     "status": 200,
@@ -5319,7 +5297,7 @@
                         "set_cookie_present": false
                     },
                     "headers": {
-                        "date": "Sat, 15 Aug 2026 02:36:07 GMT",
+                        "date": "Sat, 15 Aug 2026 03:35:07 GMT",
                         "connection": "keep-alive",
                         "content-type": "text/html; charset=UTF-8",
                         "content-encoding": "gzip"
@@ -5336,10 +5314,10 @@
                 "enabled": true,
                 "version": 3,
                 "delay": null,
-                "updated": "2026-08-15T02:34:12.669092+00:00",
-                "lastscrape": "2026-08-15T02:34:12.669092+00:00",
+                "updated": "2026-08-15T03:33:50.012444+00:00",
+                "lastscrape": "2026-08-15T03:33:50.012444+00:00",
                 "http": {
-                    "fetched_at": "2026-08-15T02:34:12+00:00",
+                    "fetched_at": "2026-08-15T03:33:50+00:00",
                     "start_url": "http://basherq53eniermxovo3bkduw5qqq5bkqcml3qictfmamgvmzovykyqd.onion/",
                     "final_url": "http://basherq53eniermxovo3bkduw5qqq5bkqcml3qictfmamgvmzovykyqd.onion/",
                     "status": 200,
@@ -5356,7 +5334,7 @@
                         "set_cookie_present": false
                     },
                     "headers": {
-                        "date": "Sat, 15 Aug 2026 02:34:13 GMT",
+                        "date": "Sat, 15 Aug 2026 03:33:50 GMT",
                         "connection": "keep-alive",
                         "content-type": "text/html; charset=UTF-8",
                         "content-encoding": "gzip"
@@ -5373,10 +5351,10 @@
                 "enabled": true,
                 "version": 3,
                 "delay": null,
-                "updated": "2026-08-15T02:35:33.132042+00:00",
-                "lastscrape": "2026-08-15T02:35:33.132042+00:00",
+                "updated": "2026-08-15T03:34:26.506967+00:00",
+                "lastscrape": "2026-08-15T03:34:26.506967+00:00",
                 "http": {
-                    "fetched_at": "2026-08-15T02:35:33+00:00",
+                    "fetched_at": "2026-08-15T03:34:26+00:00",
                     "start_url": "http://basherykagbxoaiaxkgqhmhd5gbmedwb3di4ig3ouovziagosv4n77qd.onion",
                     "final_url": "http://basherykagbxoaiaxkgqhmhd5gbmedwb3di4ig3ouovziagosv4n77qd.onion",
                     "status": 200,
@@ -5393,7 +5371,7 @@
                         "set_cookie_present": false
                     },
                     "headers": {
-                        "date": "Sat, 15 Aug 2026 02:35:33 GMT",
+                        "date": "Sat, 15 Aug 2026 03:34:26 GMT",
                         "connection": "keep-alive",
                         "content-type": "text/html; charset=UTF-8",
                         "content-encoding": "gzip"
@@ -5410,10 +5388,10 @@
                 "enabled": true,
                 "version": 3,
                 "delay": null,
-                "updated": "2026-08-15T02:33:33.29321+00:00",
-                "lastscrape": "2026-08-15T02:33:33.29321+00:00",
+                "updated": "2026-08-15T03:33:09.632478+00:00",
+                "lastscrape": "2026-08-15T03:33:09.632478+00:00",
                 "http": {
-                    "fetched_at": "2026-08-15T02:33:33+00:00",
+                    "fetched_at": "2026-08-15T03:33:09+00:00",
                     "start_url": "http://bashete63b3gcijfofpw6fmn3rwnmyi5aclp55n6awcfbexivexbhyad.onion",
                     "final_url": "http://bashete63b3gcijfofpw6fmn3rwnmyi5aclp55n6awcfbexivexbhyad.onion",
                     "status": 200,
@@ -5430,7 +5408,7 @@
                         "set_cookie_present": false
                     },
                     "headers": {
-                        "date": "Sat, 15 Aug 2026 02:33:33 GMT",
+                        "date": "Sat, 15 Aug 2026 03:33:10 GMT",
                         "connection": "keep-alive",
                         "content-type": "text/html; charset=UTF-8",
                         "content-encoding": "gzip"
@@ -5447,10 +5425,10 @@
                 "enabled": true,
                 "version": 3,
                 "delay": null,
-                "updated": "2026-08-15T02:36:45.202973+00:00",
-                "lastscrape": "2026-08-15T02:36:45.202973+00:00",
+                "updated": "2026-08-15T03:36:30.391803+00:00",
+                "lastscrape": "2026-08-15T03:36:30.391803+00:00",
                 "http": {
-                    "fetched_at": "2026-08-15T02:36:45+00:00",
+                    "fetched_at": "2026-08-15T03:36:30+00:00",
                     "start_url": "http://bashex7mokreyoxl6wlswxl4foi7okgs7or7aergnuiockuoq35yt3ad.onion",
                     "final_url": "http://bashex7mokreyoxl6wlswxl4foi7okgs7or7aergnuiockuoq35yt3ad.onion",
                     "status": 200,
@@ -5467,7 +5445,7 @@
                         "set_cookie_present": false
                     },
                     "headers": {
-                        "date": "Sat, 15 Aug 2026 02:36:45 GMT",
+                        "date": "Sat, 15 Aug 2026 03:36:30 GMT",
                         "connection": "keep-alive",
                         "content-type": "text/html; charset=UTF-8",
                         "content-encoding": "gzip"
@@ -5569,10 +5547,10 @@
                 "enabled": true,
                 "version": 3,
                 "delay": null,
-                "updated": "2026-08-15T02:33:29.552989+00:00",
-                "lastscrape": "2026-08-15T02:33:29.552989+00:00",
+                "updated": "2026-08-15T03:33:03.971509+00:00",
+                "lastscrape": "2026-08-15T03:33:03.971509+00:00",
                 "http": {
-                    "fetched_at": "2026-08-15T02:33:29+00:00",
+                    "fetched_at": "2026-08-15T03:33:04+00:00",
                     "start_url": "http://arcuufpr5xxbbkin4mlidt7itmr6znlppk63jbtkeguuhszmc5g7qdyd.onion",
                     "final_url": "http://arcuufpr5xxbbkin4mlidt7itmr6znlppk63jbtkeguuhszmc5g7qdyd.onion",
                     "status": 200,
@@ -5589,7 +5567,7 @@
                         "set_cookie_present": false
                     },
                     "headers": {
-                        "date": "Sat, 15 Aug 2026 02:33:30 GMT",
+                        "date": "Sat, 15 Aug 2026 03:33:04 GMT",
                         "link": "<http://arcuufpr5xxbbkin4mlidt7itmr6znlppk63jbtkeguuhszmc5g7qdyd.onion/index.php?rest_route=/>; rel=\"https://api.w.org/\"",
                         "server": "Apache",
                         "connection": "close",
@@ -6343,14 +6321,14 @@
                 "version": null,
                 "delay": null,
                 "updated": "2026-07-28T06:47:18.375175+00:00",
-                "lastscrape": "2026-08-15T02:31:11.729941+00:00",
+                "lastscrape": "2026-08-15T03:30:34.869226+00:00",
                 "http": {
-                    "fetched_at": "2026-08-15T02:31:11+00:00",
+                    "fetched_at": "2026-08-15T03:30:34+00:00",
                     "start_url": "http://beast6azu4f7fxjakiayhnssybibsgjnmy77a6duufqw5afjzfjhzuqd.onion",
                     "final_url": null,
                     "status": null,
                     "http_version": null,
-                    "error": "(no message)",
+                    "error": "Host unreachable",
                     "fingerprint": {},
                     "headers": {},
                     "redirect_chain": []
@@ -7501,10 +7479,10 @@
                 "enabled": true,
                 "version": null,
                 "delay": null,
-                "updated": "2026-08-15T02:39:10.381633+00:00",
-                "lastscrape": "2026-08-15T02:39:10.381633+00:00",
+                "updated": "2026-08-15T03:38:59.825159+00:00",
+                "lastscrape": "2026-08-15T03:38:59.825159+00:00",
                 "http": {
-                    "fetched_at": "2026-08-15T02:39:10+00:00",
+                    "fetched_at": "2026-08-15T03:38:59+00:00",
                     "start_url": "http://bravoxxtrmqeeevhl7gdh2yzvlrjxajr66d33c7ozosrccx4cz7cepad.onion",
                     "final_url": "http://bravoxxtrmqeeevhl7gdh2yzvlrjxajr66d33c7ozosrccx4cz7cepad.onion",
                     "status": 200,
@@ -7521,7 +7499,7 @@
                         "set_cookie_present": false
                     },
                     "headers": {
-                        "date": "Sat, 15 Aug 2026 02:39:10 GMT",
+                        "date": "Sat, 15 Aug 2026 03:38:59 GMT",
                         "content-type": "text/html",
                         "accept-ranges": "bytes",
                         "last-modified": "Thu, 30 Jul 2026 18:49:51 GMT",
@@ -7539,10 +7517,10 @@
                 "enabled": true,
                 "version": null,
                 "delay": null,
-                "updated": "2026-08-15T02:39:45.982186+00:00",
-                "lastscrape": "2026-08-15T02:39:45.982186+00:00",
+                "updated": "2026-08-15T03:39:33.936169+00:00",
+                "lastscrape": "2026-08-15T03:39:33.936169+00:00",
                 "http": {
-                    "fetched_at": "2026-08-15T02:39:46+00:00",
+                    "fetched_at": "2026-08-15T03:39:33+00:00",
                     "start_url": "http://bravoxxwcfz5qk43ychgveprpd5mw5hvxfs4a2uz2okx7mumiht4fzyd.onion",
                     "final_url": "http://bravoxxwcfz5qk43ychgveprpd5mw5hvxfs4a2uz2okx7mumiht4fzyd.onion",
                     "status": 200,
@@ -7559,7 +7537,7 @@
                         "set_cookie_present": false
                     },
                     "headers": {
-                        "date": "Sat, 15 Aug 2026 02:39:46 GMT",
+                        "date": "Sat, 15 Aug 2026 03:39:33 GMT",
                         "content-type": "text/html",
                         "accept-ranges": "bytes",
                         "last-modified": "Thu, 30 Jul 2026 18:49:51 GMT",
@@ -7677,10 +7655,10 @@
                 "enabled": true,
                 "version": 3,
                 "delay": null,
-                "updated": "2026-08-15T02:34:19.779381+00:00",
-                "lastscrape": "2026-08-15T02:34:19.779381+00:00",
+                "updated": "2026-08-15T03:34:29.088285+00:00",
+                "lastscrape": "2026-08-15T03:34:29.088285+00:00",
                 "http": {
-                    "fetched_at": "2026-08-15T02:34:19+00:00",
+                    "fetched_at": "2026-08-15T03:34:29+00:00",
                     "start_url": "http://sonarmsng5vzwqezlvtu2iiwwdn3dxkhotftikhowpfjuzg7p3ca5eid.onion/contact/Cactus_Support",
                     "final_url": "http://sonarmsng5vzwqezlvtu2iiwwdn3dxkhotftikhowpfjuzg7p3ca5eid.onion/contact/Cactus_Support",
                     "status": 403,
@@ -7697,7 +7675,7 @@
                         "set_cookie_present": false
                     },
                     "headers": {
-                        "date": "Sat, 15 Aug 2026 02:34:25 GMT",
+                        "date": "Sat, 15 Aug 2026 03:34:34 GMT",
                         "server": "nginx",
                         "connection": "keep-alive",
                         "content-type": "text/html",
@@ -8256,10 +8234,10 @@
                 "enabled": true,
                 "version": null,
                 "delay": null,
-                "updated": "2026-08-15T02:36:19.835824+00:00",
-                "lastscrape": "2026-08-15T02:36:19.835824+00:00",
+                "updated": "2026-08-15T03:36:11.038843+00:00",
+                "lastscrape": "2026-08-15T03:36:11.038843+00:00",
                 "http": {
-                    "fetched_at": "2026-08-15T02:36:19+00:00",
+                    "fetched_at": "2026-08-15T03:36:11+00:00",
                     "start_url": "http://fjg4zi4opkxkvdz7mvwp7h6goe4tcby3hhkrz43pht4j3vakhy75znyd.onion",
                     "final_url": "http://fjg4zi4opkxkvdz7mvwp7h6goe4tcby3hhkrz43pht4j3vakhy75znyd.onion",
                     "status": 404,
@@ -8278,14 +8256,14 @@
                             "x-xss-protection": "0",
                             "permissions-policy": "geolocation=(), microphone=(), camera=(), payment=(), usb=(), magnetometer=(), gyroscope=(), accelerometer=()",
                             "x-content-type-options": "nosniff",
-                            "content-security-policy": "default-src 'self'; script-src 'self' 'nonce-FwHsjYpQJhuQpKs/sNE8lQ=='; style-src 'self'; img-src 'self' data:; font-src 'self' data:; connect-src 'self'; form-action 'self'; base-uri 'none'; frame-ancestors 'none'",
+                            "content-security-policy": "default-src 'self'; script-src 'self' 'nonce-8V9tn+cM+EhIs/52OUpb2w=='; style-src 'self'; img-src 'self' data:; font-src 'self' data:; connect-src 'self'; form-action 'self'; base-uri 'none'; frame-ancestors 'none'",
                             "cross-origin-opener-policy": "same-origin",
                             "cross-origin-resource-policy": "same-origin"
                         },
                         "set_cookie_present": false
                     },
                     "headers": {
-                        "date": "Sat, 15 Aug 2026 02:36:13 GMT",
+                        "date": "Sat, 15 Aug 2026 03:36:04 GMT",
                         "pragma": "no-cache",
                         "alt-svc": "clear",
                         "expires": "0",
@@ -8298,7 +8276,7 @@
                         "x-xss-protection": "0",
                         "permissions-policy": "geolocation=(), microphone=(), camera=(), payment=(), usb=(), magnetometer=(), gyroscope=(), accelerometer=()",
                         "x-content-type-options": "nosniff",
-                        "content-security-policy": "default-src 'self'; script-src 'self' 'nonce-FwHsjYpQJhuQpKs/sNE8lQ=='; style-src 'self'; img-src 'self' data:; font-src 'self' data:; connect-src 'self'; form-action 'self'; base-uri 'none'; frame-ancestors 'none'",
+                        "content-security-policy": "default-src 'self'; script-src 'self' 'nonce-8V9tn+cM+EhIs/52OUpb2w=='; style-src 'self'; img-src 'self' data:; font-src 'self' data:; connect-src 'self'; form-action 'self'; base-uri 'none'; frame-ancestors 'none'",
                         "cross-origin-opener-policy": "same-origin",
                         "cross-origin-embedder-policy": "credentialless",
                         "cross-origin-resource-policy": "same-origin"
@@ -8804,10 +8782,10 @@
                 "enabled": true,
                 "version": null,
                 "delay": null,
-                "updated": "2026-08-15T02:37:57.758208+00:00",
-                "lastscrape": "2026-08-15T02:37:57.758208+00:00",
+                "updated": "2026-08-15T03:37:47.941721+00:00",
+                "lastscrape": "2026-08-15T03:37:47.941721+00:00",
                 "http": {
-                    "fetched_at": "2026-08-15T02:37:57+00:00",
+                    "fetched_at": "2026-08-15T03:37:47+00:00",
                     "start_url": "http://j5o5y2feotmhvr7cbcp2j2ewayv5mn5zenl3joqwx67gtfchhezjznad.onion",
                     "final_url": "http://j5o5y2feotmhvr7cbcp2j2ewayv5mn5zenl3joqwx67gtfchhezjznad.onion",
                     "status": 200,
@@ -8828,7 +8806,7 @@
                         "set_cookie_present": false
                     },
                     "headers": {
-                        "date": "Sat, 15 Aug 2026 02:37:58 GMT",
+                        "date": "Sat, 15 Aug 2026 03:37:48 GMT",
                         "etag": "W/\"894-19c122a0e40\"",
                         "vary": "Origin",
                         "server": "nginx/1.22.1",
@@ -9139,10 +9117,10 @@
                 "enabled": true,
                 "version": 3,
                 "delay": null,
-                "updated": "2026-08-15T02:36:55.288859+00:00",
-                "lastscrape": "2026-08-15T02:36:55.288859+00:00",
+                "updated": "2026-08-15T03:36:45.875644+00:00",
+                "lastscrape": "2026-08-15T03:36:45.875644+00:00",
                 "http": {
-                    "fetched_at": "2026-08-15T02:36:55+00:00",
+                    "fetched_at": "2026-08-15T03:36:45+00:00",
                     "start_url": "http://7ukmkdtyxdkdivtjad57klqnd3kdsmq6tp45rrsxqnu76zzv3jvitlqd.onion",
                     "final_url": "http://7ukmkdtyxdkdivtjad57klqnd3kdsmq6tp45rrsxqnu76zzv3jvitlqd.onion",
                     "status": 200,
@@ -9159,7 +9137,7 @@
                         "set_cookie_present": false
                     },
                     "headers": {
-                        "date": "Sat, 15 Aug 2026 02:36:55 GMT",
+                        "date": "Sat, 15 Aug 2026 03:36:46 GMT",
                         "etag": "W/\"68db261b-7ce1\"",
                         "server": "nginx",
                         "connection": "keep-alive",
@@ -9516,14 +9494,14 @@
                 "version": 3,
                 "delay": null,
                 "updated": "2026-08-14T21:39:50.588783+00:00",
-                "lastscrape": "2026-08-15T02:38:34.987241+00:00",
+                "lastscrape": "2026-08-15T03:39:27.403888+00:00",
                 "http": {
-                    "fetched_at": "2026-08-15T02:38:35+00:00",
+                    "fetched_at": "2026-08-15T03:39:27+00:00",
                     "start_url": "http://tx23pk4zw5qynq3tmfk2jz5zbel63p4nwvkheswze7r6gzxhzcbseyad.onion",
                     "final_url": null,
                     "status": null,
                     "http_version": null,
-                    "error": "Host unreachable",
+                    "error": "(no message)",
                     "fingerprint": {},
                     "headers": {},
                     "redirect_chain": []
@@ -9852,10 +9830,10 @@
                 "enabled": true,
                 "version": null,
                 "delay": null,
-                "updated": "2026-08-15T02:34:48.150908+00:00",
-                "lastscrape": "2026-08-15T02:34:48.150908+00:00",
+                "updated": "2026-08-15T03:34:42.349055+00:00",
+                "lastscrape": "2026-08-15T03:34:42.349055+00:00",
                 "http": {
-                    "fetched_at": "2026-08-15T02:34:48+00:00",
+                    "fetched_at": "2026-08-15T03:34:42+00:00",
                     "start_url": "http://direwolfcdkv5whaz2spehizdg22jsuf5aeje4asmetpbt6ri4jnd4qd.onion",
                     "final_url": "http://direwolfcdkv5whaz2spehizdg22jsuf5aeje4asmetpbt6ri4jnd4qd.onion",
                     "status": 404,
@@ -9877,7 +9855,7 @@
                         "set_cookie_present": false
                     },
                     "headers": {
-                        "date": "Sat, 15 Aug 2026 02:34:49 GMT",
+                        "date": "Sat, 15 Aug 2026 03:34:42 GMT",
                         "vary": "Accept-Encoding, Origin",
                         "content-type": "text/plain",
                         "content-length": "18",
@@ -10159,10 +10137,10 @@
                 "enabled": true,
                 "version": 3,
                 "delay": null,
-                "updated": "2026-08-15T02:37:16.712582+00:00",
-                "lastscrape": "2026-08-15T02:37:16.712582+00:00",
+                "updated": "2026-08-15T03:37:07.166553+00:00",
+                "lastscrape": "2026-08-15T03:37:07.166553+00:00",
                 "http": {
-                    "fetched_at": "2026-08-15T02:37:16+00:00",
+                    "fetched_at": "2026-08-15T03:37:07+00:00",
                     "start_url": "http://3pktcrcbmssvrnwe5skburdwe2h3v6ibdnn5kbjqihsg6eu6s6b7ryqd.onion",
                     "final_url": "http://3pktcrcbmssvrnwe5skburdwe2h3v6ibdnn5kbjqihsg6eu6s6b7ryqd.onion/login",
                     "status": 200,
@@ -10179,7 +10157,7 @@
                         "set_cookie_present": false
                     },
                     "headers": {
-                        "date": "Sat, 15 Aug 2026 02:37:18 GMT",
+                        "date": "Sat, 15 Aug 2026 03:37:09 GMT",
                         "server": "openresty",
                         "connection": "keep-alive",
                         "content-type": "text/html;charset=utf-8",
@@ -10202,10 +10180,10 @@
                 "enabled": true,
                 "version": 3,
                 "delay": null,
-                "updated": "2026-08-15T02:37:51.623275+00:00",
-                "lastscrape": "2026-08-15T02:37:51.623275+00:00",
+                "updated": "2026-08-15T03:37:41.859113+00:00",
+                "lastscrape": "2026-08-15T03:37:41.859113+00:00",
                 "http": {
-                    "fetched_at": "2026-08-15T02:37:51+00:00",
+                    "fetched_at": "2026-08-15T03:37:41+00:00",
                     "start_url": "http://dragonforxxbp3awc7mzs5dkswrua3znqyx5roefmi4smjrsdi22xwqd.onion",
                     "final_url": "http://dragonforxxbp3awc7mzs5dkswrua3znqyx5roefmi4smjrsdi22xwqd.onion",
                     "status": 200,
@@ -10222,7 +10200,7 @@
                         "set_cookie_present": false
                     },
                     "headers": {
-                        "date": "Sat, 15 Aug 2026 02:37:52 GMT",
+                        "date": "Sat, 15 Aug 2026 03:37:42 GMT",
                         "server": "openresty",
                         "connection": "keep-alive",
                         "content-type": "text/html; charset=utf-8",
@@ -10243,10 +10221,10 @@
                 "enabled": true,
                 "version": 3,
                 "delay": null,
-                "updated": "2026-08-15T02:38:29.533362+00:00",
-                "lastscrape": "2026-08-15T02:38:29.533362+00:00",
+                "updated": "2026-08-15T03:38:25.840895+00:00",
+                "lastscrape": "2026-08-15T03:38:25.840895+00:00",
                 "http": {
-                    "fetched_at": "2026-08-15T02:38:29+00:00",
+                    "fetched_at": "2026-08-15T03:38:25+00:00",
                     "start_url": "http://z3wqggtxft7id3ibr7srivv5gjof5fwg76slewnzwwakjuf3nlhukdid.onion/blog",
                     "final_url": "http://z3wqggtxft7id3ibr7srivv5gjof5fwg76slewnzwwakjuf3nlhukdid.onion/blog",
                     "status": 200,
@@ -10263,7 +10241,7 @@
                         "set_cookie_present": false
                     },
                     "headers": {
-                        "date": "Sat, 15 Aug 2026 02:38:30 GMT",
+                        "date": "Sat, 15 Aug 2026 03:38:26 GMT",
                         "server": "openresty",
                         "connection": "keep-alive",
                         "content-type": "text/html;charset=utf-8",
@@ -10358,10 +10336,10 @@
                 "enabled": true,
                 "version": 3,
                 "delay": null,
-                "updated": "2026-08-15T02:33:42.810075+00:00",
-                "lastscrape": "2026-08-15T02:33:42.810075+00:00",
+                "updated": "2026-08-15T03:33:29.050665+00:00",
+                "lastscrape": "2026-08-15T03:33:29.050665+00:00",
                 "http": {
-                    "fetched_at": "2026-08-15T02:33:42+00:00",
+                    "fetched_at": "2026-08-15T03:33:29+00:00",
                     "start_url": "http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion",
                     "final_url": null,
                     "status": null,
@@ -10521,14 +10499,14 @@
                 "title": "EMBARGO",
                 "slug": "http://embargobe3n5okxyzqphpmk3moinoap2snz5k6765mvtkk7hhi544jid.onion",
                 "type": "DLS",
-                "available": true,
+                "available": false,
                 "enabled": true,
                 "version": 3,
                 "delay": null,
                 "updated": "2026-08-15T02:38:41.934374+00:00",
-                "lastscrape": "2026-08-15T02:38:41.934374+00:00",
+                "lastscrape": "2026-08-15T03:38:32.552231+00:00",
                 "http": {
-                    "fetched_at": "2026-08-15T02:38:41+00:00",
+                    "fetched_at": "2026-08-15T03:38:32+00:00",
                     "start_url": "http://embargobe3n5okxyzqphpmk3moinoap2snz5k6765mvtkk7hhi544jid.onion",
                     "final_url": "http://embargobe3n5okxyzqphpmk3moinoap2snz5k6765mvtkk7hhi544jid.onion",
                     "status": 200,
@@ -10545,13 +10523,14 @@
                         "set_cookie_present": false
                     },
                     "headers": {
-                        "date": "Sat, 15 Aug 2026 02:37:43 GMT",
+                        "date": "Sat, 15 Aug 2026 03:38:20 GMT",
                         "etag": "W/\"6a44adc7-269\"",
                         "server": "nginx",
                         "connection": "keep-alive",
                         "content-type": "text/html",
                         "last-modified": "Wed, 01 Jul 2026 06:03:51 GMT",
-                        "content-encoding": "gzip"
+                        "content-encoding": "gzip",
+                        "transfer-encoding": "chunked"
                     },
                     "redirect_chain": []
                 }
@@ -11441,10 +11420,10 @@
                 "enabled": true,
                 "version": null,
                 "delay": null,
-                "updated": "2026-08-15T02:36:58.030787+00:00",
-                "lastscrape": "2026-08-15T02:36:58.030787+00:00",
+                "updated": "2026-08-15T03:37:01.32349+00:00",
+                "lastscrape": "2026-08-15T03:37:01.32349+00:00",
                 "http": {
-                    "fetched_at": "2026-08-15T02:36:58+00:00",
+                    "fetched_at": "2026-08-15T03:37:01+00:00",
                     "start_url": "http://genesis6ixpb5mcy4kudybtw5op2wqlrkocfogbnenz3c647ibqixiad.onion",
                     "final_url": "http://genesis6ixpb5mcy4kudybtw5op2wqlrkocfogbnenz3c647ibqixiad.onion",
                     "status": 200,
@@ -11461,7 +11440,7 @@
                         "set_cookie_present": false
                     },
                     "headers": {
-                        "date": "Sat, 15 Aug 2026 02:36:58 GMT",
+                        "date": "Sat, 15 Aug 2026 03:37:01 GMT",
                         "content-type": "text/html; charset=utf-8",
                         "accept-ranges": "bytes",
                         "content-length": "12922"
@@ -11655,9 +11634,9 @@
                 "version": null,
                 "delay": null,
                 "updated": "2026-08-14T23:37:45.62228+00:00",
-                "lastscrape": "2026-08-15T02:36:30.818303+00:00",
+                "lastscrape": "2026-08-15T03:36:12.945021+00:00",
                 "http": {
-                    "fetched_at": "2026-08-15T02:36:30+00:00",
+                    "fetched_at": "2026-08-15T03:36:12+00:00",
                     "start_url": "http://lgiil72vkmdtbc3qv4tyq6wedyjxqr2qd4ze7xl2cxgerdnymxj7soqd.onion",
                     "final_url": null,
                     "status": null,
@@ -11730,17 +11709,17 @@
                 "enabled": true,
                 "version": 0,
                 "delay": null,
-                "updated": "2026-08-15T02:32:24.412621+00:00",
-                "lastscrape": "2026-08-15T02:32:24.412621+00:00",
+                "updated": "2026-08-15T03:31:55.535298+00:00",
+                "lastscrape": "2026-08-15T03:31:55.535298+00:00",
                 "http": {
-                    "fetched_at": "2026-08-15T02:32:24+00:00",
+                    "fetched_at": "2026-08-15T03:31:55+00:00",
                     "start_url": "https://handala-hack.to/",
                     "final_url": "https://handala-hack.to/",
                     "status": 200,
                     "http_version": "HTTP/1.1",
                     "error": null,
                     "fingerprint": {
-                        "cdn": "a2b4c9e419f6dc9d-FRA",
+                        "cdn": "a2b521126a48f803-DUS",
                         "via": null,
                         "server": "cloudflare",
                         "content_type": "text/html",
@@ -11751,11 +11730,11 @@
                     },
                     "headers": {
                         "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
-                        "date": "Sat, 15 Aug 2026 02:32:24 GMT",
-                        "cf-ray": "a2b4c9e419f6dc9d-FRA",
+                        "date": "Sat, 15 Aug 2026 03:31:55 GMT",
+                        "cf-ray": "a2b521126a48f803-DUS",
                         "server": "cloudflare",
                         "alt-svc": "h3=\":443\"; ma=86400",
-                        "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=YycbJfqQz0qtCCRcsRe16tA4BYjLPGx5xdBXJZPc8bzIWHWK9%2By%2BAIqc3BXdmcVJzx0SJzqFIwU11UiEebHxGSaF8hjWwKWWAjRpbZgizbdBiCKY%2BZ963JTpwUk%2FyFcW23s%3D\"}]}",
+                        "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=qcMqoxyt0lwW1LhYG5wYvyAkCsR%2F4ENeBBUe74B3AR8EL6ZrLbQqqnrNLGJSg3SNKEU59eNBtzEb00i7vwNtpYFiZ7jkeD8tQN5lFYucEfTY4uEr%2BbiPFnaPot148Zk7dsw%3D\"}]}",
                         "connection": "keep-alive",
                         "content-type": "text/html",
                         "content-encoding": "zstd"
@@ -11772,10 +11751,10 @@
                 "enabled": true,
                 "version": null,
                 "delay": null,
-                "updated": "2026-08-15T02:32:55.975678+00:00",
-                "lastscrape": "2026-08-15T02:32:55.975678+00:00",
+                "updated": "2026-08-15T03:32:27.166807+00:00",
+                "lastscrape": "2026-08-15T03:32:27.166807+00:00",
                 "http": {
-                    "fetched_at": "2026-08-15T02:32:55+00:00",
+                    "fetched_at": "2026-08-15T03:32:27+00:00",
                     "start_url": "http://handala-hack.tw",
                     "final_url": "http://handala-hack.tw",
                     "status": 200,
@@ -11792,11 +11771,11 @@
                         "set_cookie_present": true
                     },
                     "headers": {
-                        "date": "Sat, 15 Aug 2026 02:32:56 GMT",
+                        "date": "Sat, 15 Aug 2026 03:32:27 GMT",
                         "server": "TencentEdgeOne",
                         "connection": "keep-alive",
                         "set-cookie": "path=/",
-                        "eo-log-uuid": "4433426620780189528",
+                        "eo-log-uuid": "13852051390621632104",
                         "content-type": "text/html",
                         "cache-control": "no-cache",
                         "content-length": "987"
@@ -11836,10 +11815,10 @@
                 "enabled": true,
                 "version": 0,
                 "delay": null,
-                "updated": "2026-08-15T02:31:50.290162+00:00",
-                "lastscrape": "2026-08-15T02:31:50.290162+00:00",
+                "updated": "2026-08-15T03:31:21.325304+00:00",
+                "lastscrape": "2026-08-15T03:31:21.325304+00:00",
                 "http": {
-                    "fetched_at": "2026-08-15T02:31:50+00:00",
+                    "fetched_at": "2026-08-15T03:31:21+00:00",
                     "start_url": "https://handala.to/",
                     "final_url": null,
                     "status": null,
@@ -12912,10 +12891,10 @@
                 "enabled": true,
                 "version": null,
                 "delay": null,
-                "updated": "2026-08-15T02:30:05.679749+00:00",
-                "lastscrape": "2026-08-15T02:30:05.679749+00:00",
+                "updated": "2026-08-15T03:30:19.668642+00:00",
+                "lastscrape": "2026-08-15T03:30:19.668642+00:00",
                 "http": {
-                    "fetched_at": "2026-08-15T02:30:07+00:00",
+                    "fetched_at": "2026-08-15T03:30:20+00:00",
                     "start_url": "http://ebhmkoohccl45qesdbvrjqtyro2hmhkmh6vkyfyjjzfllm3ix72aqaid.onion/support/step.php",
                     "final_url": "http://ebhmkoohccl45qesdbvrjqtyro2hmhkmh6vkyfyjjzfllm3ix72aqaid.onion/chat.php",
                     "status": 200,
@@ -12932,12 +12911,12 @@
                         "set_cookie_present": true
                     },
                     "headers": {
-                        "date": "Sat, 15 Aug 2026 02:30:10 GMT",
+                        "date": "Sat, 15 Aug 2026 03:30:22 GMT",
                         "pragma": "no-cache",
                         "server": "nginx/1.24.0 (Ubuntu)",
                         "expires": "Thu, 19 Nov 1981 08:52:00 GMT",
                         "connection": "keep-alive",
-                        "set-cookie": "PHPSESSID=kn3fj3gkco971re5dv7bie8eap; path=/",
+                        "set-cookie": "PHPSESSID=kgt8gjkev2vjkdhc41g72q7buu; path=/",
                         "content-type": "text/html; charset=UTF-8",
                         "cache-control": "no-store, no-cache, must-revalidate",
                         "content-encoding": "gzip"
@@ -12959,10 +12938,10 @@
                 "enabled": true,
                 "version": null,
                 "delay": null,
-                "updated": "2026-08-15T02:28:54.619993+00:00",
-                "lastscrape": "2026-08-15T02:28:54.619993+00:00",
+                "updated": "2026-08-15T03:29:14.989422+00:00",
+                "lastscrape": "2026-08-15T03:29:14.989422+00:00",
                 "http": {
-                    "fetched_at": "2026-08-15T02:29:59+00:00",
+                    "fetched_at": "2026-08-15T03:30:16+00:00",
                     "start_url": "http://ebhmkoohccl45qesdbvrjqtyro2hmhkmh6vkyfyjjzfllm3ix72aqaid.onion/leaks.php",
                     "final_url": "http://ebhmkoohccl45qesdbvrjqtyro2hmhkmh6vkyfyjjzfllm3ix72aqaid.onion/leaks.php",
                     "status": 200,
@@ -12979,12 +12958,12 @@
                         "set_cookie_present": true
                     },
                     "headers": {
-                        "date": "Sat, 15 Aug 2026 02:30:02 GMT",
+                        "date": "Sat, 15 Aug 2026 03:30:17 GMT",
                         "pragma": "no-cache",
                         "server": "nginx/1.24.0 (Ubuntu)",
                         "expires": "Thu, 19 Nov 1981 08:52:00 GMT",
                         "connection": "keep-alive",
-                        "set-cookie": "PHPSESSID=o8j9j2q49e4fss7r9ec0em7d2l; path=/",
+                        "set-cookie": "PHPSESSID=4dagf7c8qeji8aqroqoenojdvu; path=/",
                         "content-type": "text/html; charset=UTF-8",
                         "cache-control": "no-store, no-cache, must-revalidate",
                         "content-encoding": "gzip"
@@ -13156,9 +13135,9 @@
                 "version": 0,
                 "delay": null,
                 "updated": "2026-08-15T00:35:26.056027+00:00",
-                "lastscrape": "2026-08-15T02:36:06.913664+00:00",
+                "lastscrape": "2026-08-15T03:35:10.493232+00:00",
                 "http": {
-                    "fetched_at": "2026-08-15T02:36:06+00:00",
+                    "fetched_at": "2026-08-15T03:35:10+00:00",
                     "start_url": "https://karaleaks.com",
                     "final_url": "http://survey-smiles.com",
                     "status": 200,
@@ -13508,9 +13487,9 @@
                 "version": 3,
                 "delay": null,
                 "updated": "2026-08-14T04:29:16.701749+00:00",
-                "lastscrape": "2026-08-15T02:30:22.680343+00:00",
+                "lastscrape": "2026-08-15T03:30:12.280206+00:00",
                 "http": {
-                    "fetched_at": "2026-08-15T02:30:22+00:00",
+                    "fetched_at": "2026-08-15T03:30:12+00:00",
                     "start_url": "http://ks5424y3wpr5zlug5c7i6svvxweinhbdcqcfnptkfcutrncfazzgz5id.onion/posts.php",
                     "final_url": null,
                     "status": null,
@@ -13920,10 +13899,10 @@
                 "enabled": true,
                 "version": null,
                 "delay": null,
-                "updated": "2026-08-15T02:34:11.070229+00:00",
-                "lastscrape": "2026-08-15T02:34:11.070229+00:00",
+                "updated": "2026-08-15T03:34:18.437495+00:00",
+                "lastscrape": "2026-08-15T03:34:18.437495+00:00",
                 "http": {
-                    "fetched_at": "2026-08-15T02:34:11+00:00",
+                    "fetched_at": "2026-08-15T03:34:18+00:00",
                     "start_url": "http://kyblogtz6k3jtxnjjvluee5ec4g3zcnvyvbgsnq5thumphmqidkt7xid.onion",
                     "final_url": "http://kyblogtz6k3jtxnjjvluee5ec4g3zcnvyvbgsnq5thumphmqidkt7xid.onion/verify-captcha",
                     "status": 200,
@@ -13940,11 +13919,11 @@
                         "set_cookie_present": true
                     },
                     "headers": {
-                        "date": "Sat, 15 Aug 2026 02:34:13 GMT",
+                        "date": "Sat, 15 Aug 2026 03:34:19 GMT",
                         "vary": "Cookie",
                         "server": "gunicorn",
                         "connection": "close",
-                        "set-cookie": "session=eyJfZnJlc2giOmZhbHNlLCJjYXB0Y2hhX3RleHQiOiJSNFpEOSIsImNzcmZfdG9rZW4iOiI1N2IzZDZiY2ZmNmFiMmZhYjFiZjYwOGIyZTIwY2MxMGU5MjRiYWU2IiwibmV4dF91cmwiOiIvIn0.an_QJQ.IV8uM7NZvUnozwuW4a59hfZtJaI; HttpOnly; Path=/",
+                        "set-cookie": "session=eyJfZnJlc2giOmZhbHNlLCJjYXB0Y2hhX3RleHQiOiJVM1RMUyIsImNzcmZfdG9rZW4iOiIyZmQ0MWU2MzNkNDZlNDkzMmI1NWIxNmZiZGFiNzNiY2U3NTAyNjU3IiwibmV4dF91cmwiOiIvIn0.an_eOw.EDwVBVFU48MdOgT3g7mCpaXaOKU; HttpOnly; Path=/",
                         "content-type": "text/html; charset=utf-8",
                         "content-length": "6952"
                     },
@@ -19381,10 +19360,10 @@
                 "enabled": true,
                 "version": null,
                 "delay": null,
-                "updated": "2026-08-15T02:37:31.092604+00:00",
-                "lastscrape": "2026-08-15T02:37:31.092604+00:00",
+                "updated": "2026-08-15T03:37:22.387256+00:00",
+                "lastscrape": "2026-08-15T03:37:22.387256+00:00",
                 "http": {
-                    "fetched_at": "2026-08-15T02:37:31+00:00",
+                    "fetched_at": "2026-08-15T03:37:22+00:00",
                     "start_url": "http://msleakjir7pxbe6onlqe5uwgvdmy6nq4mnwfy7ojswbhnleenm77vgad.onion",
                     "final_url": "http://msleakjir7pxbe6onlqe5uwgvdmy6nq4mnwfy7ojswbhnleenm77vgad.onion",
                     "status": 200,
@@ -19401,7 +19380,7 @@
                         "set_cookie_present": false
                     },
                     "headers": {
-                        "date": "Sat, 15 Aug 2026 02:37:31 GMT",
+                        "date": "Sat, 15 Aug 2026 03:37:22 GMT",
                         "etag": "W/\"6a157196-2a23\"",
                         "server": "nginx/1.24.0 (Ubuntu)",
                         "connection": "keep-alive",
@@ -20144,9 +20123,9 @@
                 "version": 3,
                 "delay": null,
                 "updated": "2026-07-28T17:55:58.293122+00:00",
-                "lastscrape": "2026-08-15T02:33:17.932506+00:00",
+                "lastscrape": "2026-08-15T03:33:09.620266+00:00",
                 "http": {
-                    "fetched_at": "2026-08-15T02:33:17+00:00",
+                    "fetched_at": "2026-08-15T03:33:09+00:00",
                     "start_url": "http://nitrogenczslprh3xyw6lh5xyjvmsz7ciljoqxxknd7uymkfetfhgvqd.onion",
                     "final_url": null,
                     "status": null,
@@ -21121,10 +21100,10 @@
                 "enabled": true,
                 "version": null,
                 "delay": null,
-                "updated": "2026-08-15T02:32:13.653945+00:00",
-                "lastscrape": "2026-08-15T02:32:13.653945+00:00",
+                "updated": "2026-08-15T03:31:53.464444+00:00",
+                "lastscrape": "2026-08-15T03:31:53.464444+00:00",
                 "http": {
-                    "fetched_at": "2026-08-15T02:32:13+00:00",
+                    "fetched_at": "2026-08-15T03:31:53+00:00",
                     "start_url": "http://payoutsgn7cy6uliwevdqspncjpfxpmzgirwl2au65la7rfs5x3qnbqd.onion/",
                     "final_url": "http://payoutsgn7cy6uliwevdqspncjpfxpmzgirwl2au65la7rfs5x3qnbqd.onion/",
                     "status": 200,
@@ -21141,9 +21120,9 @@
                         "set_cookie_present": false
                     },
                     "headers": {
-                        "date": "Sat, 15 Aug 2026 02:27:10 GMT",
+                        "date": "Sat, 15 Aug 2026 03:26:50 GMT",
                         "server": "nginx",
-                        "expires": "Sat, 15 Aug 2026 03:27:10 GMT",
+                        "expires": "Sat, 15 Aug 2026 04:26:50 GMT",
                         "connection": "keep-alive",
                         "content-type": "text/html",
                         "cache-control": "max-age=3600",
@@ -21175,10 +21154,10 @@
                 "enabled": true,
                 "version": null,
                 "delay": null,
-                "updated": "2026-08-15T02:33:32.950764+00:00",
-                "lastscrape": "2026-08-15T02:33:32.950764+00:00",
+                "updated": "2026-08-15T03:33:25.900587+00:00",
+                "lastscrape": "2026-08-15T03:33:25.900587+00:00",
                 "http": {
-                    "fetched_at": "2026-08-15T02:33:32+00:00",
+                    "fetched_at": "2026-08-15T03:33:25+00:00",
                     "start_url": "http://peargxn3oki34c4savcbcfqofjjwjnnyrlrbszfv6ujlx36mhrh57did.onion",
                     "final_url": "http://peargxn3oki34c4savcbcfqofjjwjnnyrlrbszfv6ujlx36mhrh57did.onion",
                     "status": 200,
@@ -21195,7 +21174,7 @@
                         "set_cookie_present": false
                     },
                     "headers": {
-                        "date": "Sat, 15 Aug 2026 02:33:33 GMT",
+                        "date": "Sat, 15 Aug 2026 03:33:26 GMT",
                         "etag": "W/\"6a79aa50-625e1\"",
                         "server": "nginx/1.22.1",
                         "connection": "keep-alive",
@@ -21216,10 +21195,10 @@
                 "enabled": true,
                 "version": null,
                 "delay": null,
-                "updated": "2026-08-15T02:34:17.048164+00:00",
-                "lastscrape": "2026-08-15T02:34:17.048164+00:00",
+                "updated": "2026-08-15T03:33:59.423737+00:00",
+                "lastscrape": "2026-08-15T03:33:59.423737+00:00",
                 "http": {
-                    "fetched_at": "2026-08-15T02:34:17+00:00",
+                    "fetched_at": "2026-08-15T03:33:59+00:00",
                     "start_url": "http://pearsmob5sn44ismokiusuld34pnfwi6ctgin3qbvonpoob4lh3rmtqd.onion",
                     "final_url": "http://pearsmob5sn44ismokiusuld34pnfwi6ctgin3qbvonpoob4lh3rmtqd.onion",
                     "status": 200,
@@ -21236,7 +21215,7 @@
                         "set_cookie_present": false
                     },
                     "headers": {
-                        "date": "Sat, 15 Aug 2026 02:34:18 GMT",
+                        "date": "Sat, 15 Aug 2026 03:33:59 GMT",
                         "etag": "W/\"6a79aa50-625e1\"",
                         "server": "nginx/1.22.1",
                         "connection": "keep-alive",
@@ -21273,12 +21252,12 @@
                 "enabled": true,
                 "version": null,
                 "delay": null,
-                "updated": "2026-08-15T01:36:38.943974+00:00",
-                "lastscrape": "2026-08-15T02:39:36.985008+00:00",
+                "updated": "2026-08-15T03:39:24.748885+00:00",
+                "lastscrape": "2026-08-15T03:39:24.748885+00:00",
                 "http": {
-                    "fetched_at": "2026-08-15T02:39:37+00:00",
+                    "fetched_at": "2026-08-15T03:39:24+00:00",
                     "start_url": "http://j75o7xvvsm4lpsjhkjvb4wl2q6ajegvabe6oswthuaubbykk4xkzgpid.onion",
-                    "final_url": "http://j75o7xvvsm4lpsjhkjvb4wl2q6ajegvabe6oswthuaubbykk4xkzgpid.onion/index.php",
+                    "final_url": "http://j75o7xvvsm4lpsjhkjvb4wl2q6ajegvabe6oswthuaubbykk4xkzgpid.onion",
                     "status": 404,
                     "http_version": "HTTP/1.1",
                     "error": null,
@@ -21293,18 +21272,13 @@
                         "set_cookie_present": false
                     },
                     "headers": {
-                        "date": "Sat, 15 Aug 2026 02:40:40 GMT",
+                        "date": "Sat, 15 Aug 2026 03:39:55 GMT",
                         "server": "nginx",
                         "connection": "keep-alive",
                         "content-type": "text/html",
                         "content-length": "146"
                     },
-                    "redirect_chain": [
-                        {
-                            "status": 301,
-                            "location": "http://j75o7xvvsm4lpsjhkjvb4wl2q6ajegvabe6oswthuaubbykk4xkzgpid.onion/index.php"
-                        }
-                    ]
+                    "redirect_chain": []
                 }
             },
             {
@@ -21889,10 +21863,10 @@
                 "enabled": true,
                 "version": null,
                 "delay": null,
-                "updated": "2026-08-15T02:34:10.82708+00:00",
-                "lastscrape": "2026-08-15T02:34:10.82708+00:00",
+                "updated": "2026-08-15T03:34:10.000915+00:00",
+                "lastscrape": "2026-08-15T03:34:10.000915+00:00",
                 "http": {
-                    "fetched_at": "2026-08-15T02:34:10+00:00",
+                    "fetched_at": "2026-08-15T03:34:10+00:00",
                     "start_url": "http://3bnusfu2lgk5at43ceu7cdok5yv4gfbono2jv57ho74ucjvc7czirfid.onion/leaked-data",
                     "final_url": "http://3bnusfu2lgk5at43ceu7cdok5yv4gfbono2jv57ho74ucjvc7czirfid.onion/leaked-data",
                     "status": 200,
@@ -21909,7 +21883,7 @@
                         "set_cookie_present": false
                     },
                     "headers": {
-                        "date": "Sat, 15 Aug 2026 02:34:11 GMT",
+                        "date": "Sat, 15 Aug 2026 03:34:10 GMT",
                         "content-type": "text/html; charset=utf-8",
                         "accept-ranges": "bytes",
                         "last-modified": "Mon, 16 Mar 2026 18:49:14 GMT",
@@ -22848,10 +22822,10 @@
                 "enabled": true,
                 "version": 3,
                 "delay": null,
-                "updated": "2026-08-15T02:34:53.249759+00:00",
-                "lastscrape": "2026-08-15T02:34:53.249759+00:00",
+                "updated": "2026-08-15T03:34:51.456187+00:00",
+                "lastscrape": "2026-08-15T03:34:51.456187+00:00",
                 "http": {
-                    "fetched_at": "2026-08-15T02:34:53+00:00",
+                    "fetched_at": "2026-08-15T03:34:51+00:00",
                     "start_url": "http://zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion/a",
                     "final_url": "http://zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion/a",
                     "status": 200,
@@ -22875,8 +22849,8 @@
                         "set_cookie_present": false
                     },
                     "headers": {
-                        "date": "Sat, 15 Aug 2026 02:34:53 GMT",
-                        "etag": "W/\"5283-RkcaiodIT5QIQUSzJo1c8iSLPnU\"",
+                        "date": "Sat, 15 Aug 2026 03:34:53 GMT",
+                        "etag": "W/\"5283-Rk9NOW/E0xGEcLETgzhE64IS6bk\"",
                         "server": "nginx/1.22.1",
                         "expect-ct": "max-age=0",
                         "connection": "keep-alive",
@@ -22886,7 +22860,7 @@
                         "x-frame-options": "SAMEORIGIN",
                         "x-xss-protection": "0",
                         "x-ratelimit-limit": "100000",
-                        "x-ratelimit-reset": "1786761295",
+                        "x-ratelimit-reset": "1786764894",
                         "x-download-options": "noopen",
                         "x-ratelimit-remaining": "99999",
                         "x-content-type-options": "nosniff",
@@ -23497,10 +23471,10 @@
                 "enabled": true,
                 "version": 3,
                 "delay": null,
-                "updated": "2026-08-15T02:34:47.562424+00:00",
-                "lastscrape": "2026-08-15T02:34:47.562424+00:00",
+                "updated": "2026-08-15T03:34:42.672991+00:00",
+                "lastscrape": "2026-08-15T03:34:42.672991+00:00",
                 "http": {
-                    "fetched_at": "2026-08-15T02:34:47+00:00",
+                    "fetched_at": "2026-08-15T03:34:42+00:00",
                     "start_url": "http://rhysidafc6lm7qa2mkiukbezh7zuth3i4wof4mh2audkymscjm6yegad.onion",
                     "final_url": "http://rhysidafc6lm7qa2mkiukbezh7zuth3i4wof4mh2audkymscjm6yegad.onion",
                     "status": 200,
@@ -23517,7 +23491,7 @@
                         "set_cookie_present": false
                     },
                     "headers": {
-                        "date": "Sat, 15 Aug 2026 02:34:47 GMT",
+                        "date": "Sat, 15 Aug 2026 03:34:43 GMT",
                         "server": "nginx",
                         "connection": "keep-alive",
                         "content-type": "text/html; charset=UTF-8",
@@ -23535,10 +23509,10 @@
                 "enabled": true,
                 "version": 3,
                 "delay": null,
-                "updated": "2026-08-15T02:35:29.497802+00:00",
-                "lastscrape": "2026-08-15T02:35:29.497802+00:00",
+                "updated": "2026-08-15T03:35:35.62096+00:00",
+                "lastscrape": "2026-08-15T03:35:35.62096+00:00",
                 "http": {
-                    "fetched_at": "2026-08-15T02:35:29+00:00",
+                    "fetched_at": "2026-08-15T03:35:35+00:00",
                     "start_url": "http://rhysidafohrhyy2aszi7bm32tnjat5xri65fopcxkdfxhi4tidsg7cad.onion/archive.php?auction",
                     "final_url": "http://rhysidafohrhyy2aszi7bm32tnjat5xri65fopcxkdfxhi4tidsg7cad.onion/archive.php?auction",
                     "status": 200,
@@ -23555,7 +23529,7 @@
                         "set_cookie_present": false
                     },
                     "headers": {
-                        "date": "Sat, 15 Aug 2026 02:35:30 GMT",
+                        "date": "Sat, 15 Aug 2026 03:35:37 GMT",
                         "server": "nginx",
                         "connection": "keep-alive",
                         "content-type": "text/html; charset=UTF-8",
@@ -23588,9 +23562,9 @@
                 "version": 0,
                 "delay": null,
                 "updated": "2026-08-15T01:36:33.019407+00:00",
-                "lastscrape": "2026-08-15T02:39:25.562921+00:00",
+                "lastscrape": "2026-08-15T03:39:13.09277+00:00",
                 "http": {
-                    "fetched_at": "2026-08-15T02:39:25+00:00",
+                    "fetched_at": "2026-08-15T03:39:13+00:00",
                     "start_url": "https://robinhoodleaks.tumblr.com",
                     "final_url": null,
                     "status": null,
@@ -24003,10 +23977,10 @@
                 "enabled": true,
                 "version": 3,
                 "delay": null,
-                "updated": "2026-08-15T02:38:35.22607+00:00",
-                "lastscrape": "2026-08-15T02:38:35.22607+00:00",
+                "updated": "2026-08-15T03:38:41.086078+00:00",
+                "lastscrape": "2026-08-15T03:38:41.086078+00:00",
                 "http": {
-                    "fetched_at": "2026-08-15T02:38:39+00:00",
+                    "fetched_at": "2026-08-15T03:38:48+00:00",
                     "start_url": "http://sarcomawmawlhov7o5mdhz4eszxxlkyaoiyiy2b5iwxnds2dmb4jakad.onion",
                     "final_url": null,
                     "status": null,
@@ -24040,10 +24014,10 @@
                 "enabled": true,
                 "version": null,
                 "delay": null,
-                "updated": "2026-08-15T02:30:18.366483+00:00",
-                "lastscrape": "2026-08-15T02:30:18.366483+00:00",
+                "updated": "2026-08-15T03:30:25.957015+00:00",
+                "lastscrape": "2026-08-15T03:30:25.957015+00:00",
                 "http": {
-                    "fetched_at": "2026-08-15T02:30:18+00:00",
+                    "fetched_at": "2026-08-15T03:30:25+00:00",
                     "start_url": "http://tzhwmgguyxrg6q3tu4q3gvopcjynrhw6ryx2bdl5ghisdkyunfua5xyd.onion",
                     "final_url": "http://tzhwmgguyxrg6q3tu4q3gvopcjynrhw6ryx2bdl5ghisdkyunfua5xyd.onion",
                     "status": 200,
@@ -24060,7 +24034,7 @@
                         "set_cookie_present": false
                     },
                     "headers": {
-                        "date": "Sat, 15 Aug 2026 02:17:57 GMT",
+                        "date": "Sat, 15 Aug 2026 03:18:05 GMT",
                         "server": "Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12",
                         "content-type": "text/html; charset=UTF-8",
                         "x-powered-by": "PHP/8.2.12"
@@ -25652,10 +25626,10 @@
                 "enabled": true,
                 "version": 3,
                 "delay": null,
-                "updated": "2026-08-15T02:31:44.263361+00:00",
-                "lastscrape": "2026-08-15T02:31:44.263361+00:00",
+                "updated": "2026-08-15T03:31:24.991702+00:00",
+                "lastscrape": "2026-08-15T03:31:24.991702+00:00",
                 "http": {
-                    "fetched_at": "2026-08-15T02:31:44+00:00",
+                    "fetched_at": "2026-08-15T03:31:25+00:00",
                     "start_url": "http://termiteuslbumdge2zmfmfcsrvmvsfe4gvyudc5j6cdnisnhtftvokid.onion",
                     "final_url": "http://termiteuslbumdge2zmfmfcsrvmvsfe4gvyudc5j6cdnisnhtftvokid.onion",
                     "status": 200,
@@ -25672,7 +25646,7 @@
                         "set_cookie_present": false
                     },
                     "headers": {
-                        "date": "Sat, 15 Aug 2026 02:31:46 GMT",
+                        "date": "Sat, 15 Aug 2026 03:31:25 GMT",
                         "etag": "\"6a0fb03b-1c6\"",
                         "server": "nginx",
                         "connection": "keep-alive",
@@ -26253,9 +26227,9 @@
                 "version": null,
                 "delay": null,
                 "updated": "2026-08-02T19:31:29.209575+00:00",
-                "lastscrape": "2026-08-15T02:38:06.118462+00:00",
+                "lastscrape": "2026-08-15T03:37:53.687457+00:00",
                 "http": {
-                    "fetched_at": "2026-08-15T02:38:06+00:00",
+                    "fetched_at": "2026-08-15T03:37:53+00:00",
                     "start_url": "http://tridentfrdy6jydwywfx4vx422vnto7pktao2gyx2qdcwjanogq454ad.onion",
                     "final_url": null,
                     "status": null,
@@ -26276,9 +26250,9 @@
                 "version": null,
                 "delay": null,
                 "updated": "2026-08-02T19:32:01.851737+00:00",
-                "lastscrape": "2026-08-15T02:38:16.06846+00:00",
+                "lastscrape": "2026-08-15T03:38:03.23911+00:00",
                 "http": {
-                    "fetched_at": "2026-08-15T02:38:16+00:00",
+                    "fetched_at": "2026-08-15T03:38:03+00:00",
                     "start_url": "http://tridentfrdy6jydwywfx4vx422vnto7pktao2gyx2qdcwjanogq454ad.onion/articles",
                     "final_url": null,
                     "status": null,

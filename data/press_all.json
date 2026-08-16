@@ -2304,7 +2304,10 @@
       "url": "https://www.wochenblatt-reporter.de/c-ratgeber/cyberangriff-in-rhein-nahe-buergerdienste-eingeschraenkt_a846282",
       "added": "2026-08-07",
       "infostealer": "",
-      "ransomware": null
+      "ransomware": {
+        "group": "lockbit5",
+        "permalink": "https://www.ransomware.live/id/dmdybi5kZUBsb2NrYml0NQ=="
+      }
     },
     {
       "date": "2026-07-16",

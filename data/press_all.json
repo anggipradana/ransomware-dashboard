@@ -4,8 +4,31 @@
     "month": null,
     "country": null
   },
-  "count": 3985,
+  "count": 3988,
   "results": [
+    {
+      "date": "2026-08-18",
+      "victim": "CG Power",
+      "domain": "cgglobal.com",
+      "country": "IN",
+      "summary": "CG Power a signalé un incident présumé de cybersécurité affectant ses systèmes informatiques (IT). L'entreprise a assuré que ses systèmes opérationnels essentiels et sa production manufacturière n'ont pas été affectés. L'incident, signalé le 18 août 2026, est actuellement sous investigation par des experts internes et externes, et la notification réglementaire a été faite à CERT-In.",
+      "description": "",
+      "title": "CG Power Discloses Possible Cyber Incident As Core Systems Remain Safe",
+      "url": "https://www.sahi.com/news/cg-power-discloses-possible-cyber-incident-as-core-systems-remain-safe-70-PE1_CORPO",
+      "added": "2026-08-19",
+      "infostealer": {
+        "update": "2026-08-19T13:30:07",
+        "employees": 26,
+        "users": 759,
+        "thirdparties": 32,
+        "employees_url": 20,
+        "users_url": 69,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-08-17",
       "victim": "ARMA",
@@ -232,6 +255,29 @@
       "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=153824&spoke_date=20260811&co_id=6534",
       "added": "2026-08-12",
       "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-08-10",
+      "victim": "Weba",
+      "domain": "weba.be",
+      "country": "BE",
+      "summary": "Les pirates informatiques du groupe Qilin ont dérobé des données clients chez WEBA et ont partiellement paralysé ses systèmes. Aucune rançon n'a été versée ; les magasins et la boutique en ligne sont à nouveau opérationnels depuis le 12 août. Les clients doivent rester vigilants face aux tentatives d'hameçonnage.",
+      "description": "",
+      "title": "DPG Media Privacy Gate",
+      "url": "https://www.hln.be/tech/cyberaanval-treft-meubelgigant-weba-klantgegevens-gestolen~a318dde7/?referrer=https%3A%2F%2Fnews.google.com%2F",
+      "added": "2026-08-19",
+      "infostealer": {
+        "update": "2026-08-16T15:58:01",
+        "employees": 0,
+        "users": 399,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 58,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
       "ransomware": null
     },
     {
@@ -4667,6 +4713,22 @@
         }
       },
       "ransomware": null
+    },
+    {
+      "date": "2026-06-18",
+      "victim": "Cameron Regional Medical Center",
+      "domain": "cameronregional.org",
+      "country": "US",
+      "summary": "Le Cameron Regional Medical Center a été victime d'une attaque par ransomware. L'incident a été découvert le 18 juin 2026. Le groupe Anubis a revendiqué l'attaque le 3 août 2026, affirmant avoir obtenu une large gamme de données, incluant dossiers médicaux, informations financières, données personnelles et informations sur les employés. Le Centre hospitalier a indiqué que les informations potentiellement compromises comprennent les noms, adresses, dates de naissance, numéros de sécurité sociale, informations financières et dossiers médicaux.",
+      "description": "",
+      "title": "Cameron Regional Medical Confirms Ransomware Attack",
+      "url": "https://www.claimdepot.com/data-breach/cameron-regional-medical-center-2026",
+      "added": "2026-08-19",
+      "infostealer": "",
+      "ransomware": {
+        "group": "anubis",
+        "permalink": "https://www.ransomware.live/id/Q2FtZXJvbiBSZWdpb25hbCBNZWRpY2FsIENlbnRlckBhbnViaXM="
+      }
     },
     {
       "date": "2026-06-18",

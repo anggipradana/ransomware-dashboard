@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 3988,
+  "count": 3989,
   "results": [
     {
       "date": "2026-08-18",
@@ -134,6 +134,29 @@
       "url": "https://www.bangordailynews.com/2026/08/17/penobscot/penobscot-government/lincoln-maine-town-office-closed-cyberattack/",
       "added": "2026-08-17",
       "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-08-14",
+      "victim": "Ryomo Systems",
+      "domain": "ryomo.co.jp",
+      "country": "JP",
+      "summary": "Ryomo Systems, une société japonaise de technologies de l'information, a confirmé avoir subi une cyberattaque ayant entraîné un accès non autorisé à ses systèmes internes le 14 août. La société est actuellement en pleine investigation pour déterminer l'étendue de l'intrusion, la méthode d'attaque et si des données ont été exfiltrées. À ce jour, aucun groupe responsable n'a été identifié, et aucune attribution officielle n'a été faite. Ryomo Systems, qui fournit des solutions à des secteurs critiques (eau, énergie, santé, administration, etc.), est un objectif particulièrement sensible.",
+      "description": "",
+      "title": "La japonesa Ryomo Systems investiga qué datos han robado los hackers de sus clientes",
+      "url": "https://www.escudodigital.com/ciberseguridad/la-japonesa-ryomo-systems-investiga-que-datos-han-robado-los-hackers-de-sus-clientes.html",
+      "added": "2026-08-19",
+      "infostealer": {
+        "update": "2026-08-19T16:30:08",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 1,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
       "ransomware": null
     },
     {

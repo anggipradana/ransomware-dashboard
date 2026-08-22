@@ -1,5 +1,5 @@
 {
-  "count": 358,
+  "count": 357,
   "groups": [
     {
       "group": "0apt",
@@ -979,10 +979,6 @@
     },
     {
       "group": "n3tworm",
-      "yara_count": 1
-    },
-    {
-      "group": "nasirsecurity",
       "yara_count": 1
     },
     {

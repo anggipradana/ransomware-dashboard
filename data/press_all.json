@@ -496,7 +496,10 @@
         "last_user_compromised": null,
         "infostealer_stats": {}
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "lockbit5",
+        "permalink": "https://www.ransomware.live/id/aWNuYXZhaXMuY29tQGxvY2tiaXQ1"
+      }
     },
     {
       "date": "2026-08-09",

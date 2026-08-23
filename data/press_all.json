@@ -4,8 +4,50 @@
     "month": null,
     "country": null
   },
-  "count": 3992,
+  "count": 3998,
   "results": [
+    {
+      "date": "2026-08-20",
+      "victim": "Gruppo Spaggiari Parma",
+      "domain": "spaggiari.eu",
+      "country": "IT",
+      "summary": "Le groupe de cybercriminels xpl0itrs affirme avoir compromis l'infrastructure de Gruppo Spaggiari Parma, un fournisseur technologique majeur du système éducatif italien. Cette intrusion aurait permis le vol de 6,1 Téraoctets de données provenant de plus de 3 000 établissements scolaires. Les données exfiltrées incluraient des informations personnelles des élèves et professeurs, des données médicales, des informations d'identité et des coordonnées. L'attaque n'est pas encore vérifiée de manière indépendante, mais elle souligne le risque majeur lié à la concentration des données dans les plateformes éducatives.",
+      "description": "",
+      "title": "Hackers aseguran haber robado datos de miles de alumnos de 3.000 colegios italianos",
+      "url": "https://www.escudodigital.com/ciberseguridad/hackers-aseguran-haber-robado-datos-de-miles-de-alumnos-de-3000-colegios-italianos.html",
+      "added": "2026-08-23",
+      "infostealer": {
+        "update": "2026-08-21T05:30:37.381216",
+        "employees": 6,
+        "users": 62539,
+        "thirdparties": 8,
+        "employees_url": 2,
+        "users_url": 100,
+        "last_employee_compromised": "2026-07-17T00:00:00+00:00",
+        "last_user_compromised": "2026-08-19T02:15:40.528000+00:00",
+        "infostealer_stats": {
+          "Raccoon": 6430,
+          "UNKNOWN": 956,
+          "Vidar": 2334,
+          "Lumma": 9945,
+          "CRYPTBOT": 95,
+          "Acreed": 110,
+          "Ficker": 4,
+          "Azorult": 695,
+          "Taurus": 74,
+          "DarkCrystal": 20,
+          "RedLine": 19252,
+          "Generic Stealer": 8569,
+          "Atomic": 89,
+          "StealC": 1364,
+          "Mystic": 63
+        }
+      },
+      "ransomware": {
+        "group": "xpl0itrs",
+        "permalink": "https://www.ransomware.live/id/R3J1cHBvIFNwYWdnaWFyaSBQYXJtYUB4cGwwaXRycw=="
+      }
+    },
     {
       "date": "2026-08-18",
       "victim": "Alation",
@@ -165,6 +207,29 @@
     },
     {
       "date": "2026-08-14",
+      "victim": "Douglas County Sheriff's Office",
+      "domain": "dgso.org",
+      "country": "US",
+      "summary": "Le bureau du shérif du comté de Douglas a été victime d'une cyberattaque sérieuse. L'incident a été découvert récemment, lorsque le bureau a dû rendre ses services en ligne indisponibles. Bien que l'attaque ait été qualifiée initialement de 'problèmes techniques', elle est maintenant qualifiée d''activité suspecte'. Le bureau refuse de fournir des détails sur l'attaque, y compris si des informations personnelles ont été exposées ou le coût de la résolution, invoquant la nécessité de préserver la sécurité publique et le caractère confidentiel des documents.",
+      "description": "",
+      "title": "County says sharing information about ‘suspicious activity’ in sheriff’s computer system would ‘jeopardize public safety’",
+      "url": "https://www2.ljworld.com/news/public-safety/2026/aug/22/county-says-sharing-details-about-suspicious-activity-in-sheriffs-computer-system-would-jeopardize-public-safety/",
+      "added": "2026-08-23",
+      "infostealer": {
+        "update": "2026-08-23T16:00:13",
+        "employees": 0,
+        "users": 39,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 15,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-08-14",
       "victim": "Ryomo Systems",
       "domain": "ryomo.co.jp",
       "country": "JP",
@@ -207,6 +272,19 @@
         "last_user_compromised": null,
         "infostealer_stats": {}
       },
+      "ransomware": null
+    },
+    {
+      "date": "2026-08-13",
+      "victim": "Andover",
+      "domain": "andoverma.gov",
+      "country": "US",
+      "summary": "La ville d'Andover, MA, a subi une cyberattaque ayant entraîné une panne réseau de quatre jours. L'incident a été détecté le 13 août et a perturbé les services municipaux et le calendrier de publication des affectations des enseignants pour les familles des écoles publiques. Bien que les systèmes aient été restaurés le 17 août, les autorités n'ont pas précisé la cause, la méthode d'accès ou si des données ont été compromises.",
+      "description": "",
+      "title": "Cyberattack Caused Four-Day Network Outage For Town, APS | Andover News",
+      "url": "https://andovermanews.com/cyberattack-caused-four-day-network-outage-for-town-aps/",
+      "added": "2026-08-23",
+      "infostealer": "",
       "ransomware": null
     },
     {
@@ -1233,6 +1311,43 @@
         "last_employee_compromised": null,
         "last_user_compromised": null,
         "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-08-01",
+      "victim": "Zabka",
+      "domain": "zabka.pl",
+      "country": "PL",
+      "summary": "Les autorités polonaises enquêtent sur une cyberattaque visant la chaîne de magasins Zabka. L'incident, survenu au début du mois d'août, concernait un accès non autorisé à certains systèmes informatiques utilisés pour l'échange d'informations entre le franchisé et le franchisé. L'attaque, attribuée à l'utilisation du compte d'un fournisseur de services externe, a entraîné une fuite des données personnelles des employés et partenaires ayant accès à l'infrastructure de Zabka, et potentiellement une fuite partielle des données de certains clients. Les autorités précisent que les données transactionnelles et celles de l'application Zabka n'ont pas été affectées. Les enquêteurs travaillent sur le mécanisme de l'attaque, qui a permis aux cybercriminels de mettre les données volées en vente pour une somme modeste, incluant notamment l'accès au système Jira de Zabka.",
+      "description": "",
+      "title": "В Польше произошла кибератака на сеть магазинов Zabka",
+      "url": "https://www.eurointegration.com.ua/rus/news/2026/08/22/7243970/",
+      "added": "2026-08-23",
+      "infostealer": {
+        "update": "2026-08-23T15:30:09",
+        "employees": 66,
+        "users": 1866,
+        "thirdparties": 249,
+        "employees_url": 19,
+        "users_url": 100,
+        "last_employee_compromised": "2026-08-10T12:18:35.397000+00:00",
+        "last_user_compromised": "2026-08-19T00:00:00+00:00",
+        "infostealer_stats": {
+          "RedLine": 765,
+          "Azorult": 8,
+          "StealC": 99,
+          "Mystic": 8,
+          "Generic Stealer": 428,
+          "Atomic": 2,
+          "Ficker": 1,
+          "Acreed": 32,
+          "DarkCrystal": 1,
+          "Lumma": 342,
+          "Raccoon": 95,
+          "UNKNOWN": 25,
+          "Vidar": 68
+        }
       },
       "ransomware": null
     },
@@ -3191,6 +3306,37 @@
       "url": "https://www.ithome.com.tw/news/177301",
       "added": "2026-07-14",
       "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-07-10",
+      "victim": "Apollo Global Management",
+      "domain": "apollo.com",
+      "country": "US",
+      "summary": "Apollo Global Management a confirmé une fuite de données personnelles suite à une cyberattaque sur son infrastructure cloud. Les attaquants ont obtenu une quantité substantielle d'informations sensibles, incluant noms, dates de naissance, coordonnées, adresses et numéros de sécurité sociale américains. L'accès non autorisé, qui a utilisé des techniques d'ingénierie sociale, s'est déroulé du 6 au 10 juillet. La fuite pourrait concerner les employés d'Apollo ainsi que des individus liés aux entreprises de son portefeuille.",
+      "description": "",
+      "title": "Apollo Global Management Confirms Personal Data Breach Following Cloud Cyberattack",
+      "url": "https://mezha.net/eng/bukvy/184bf2ce_apollo_global_management/",
+      "added": "2026-08-23",
+      "infostealer": {
+        "update": "2026-08-23T15:30:10",
+        "employees": 2,
+        "users": 36,
+        "thirdparties": 105,
+        "employees_url": 6,
+        "users_url": 12,
+        "last_employee_compromised": "2023-09-12T00:00:00+00:00",
+        "last_user_compromised": "2026-05-17T10:43:00+00:00",
+        "infostealer_stats": {
+          "Raccoon": 3,
+          "RedLine": 5,
+          "StealC": 3,
+          "Acreed": 4,
+          "Azorult": 1,
+          "Generic Stealer": 15,
+          "Lumma": 9
+        }
+      },
       "ransomware": null
     },
     {
@@ -6097,6 +6243,19 @@
         "group": "lockbit5",
         "permalink": "https://www.ransomware.live/id/ZWx1bWF4LmNvbUBsb2NrYml0NQ=="
       }
+    },
+    {
+      "date": "2026-06-01",
+      "victim": "Adelmannsfelden",
+      "domain": "adelmannsfelden.de",
+      "country": "DE",
+      "summary": "La municipalité d'Adelmannsfelden a été victime d'une cyberattaque qui a paralysé l'administration pendant plusieurs semaines. L'attaque, survenue au début du mois de juin, a nécessité une intervention rapide de la municipalité, des prestataires informatiques et de l'agence de cybersécurité du Bade-Wurtemberg pour contenir les dégâts. Pendant environ un mois, la municipalité n'était joignable que par téléphone ou en personne, et le service en ligne a été rétabli seulement au début juillet. Les autorités ont confirmé que les données n'ont pas été compromises.",
+      "description": "",
+      "title": "Cyberangriff auf Gemeinde: Einen Monat lang keine E-Mails möglich",
+      "url": "https://www.schwaebische-post.de/ostalb/ellwangen/adelmannsfelden/hackerangriff-trifft-die-gemeindeverwaltung-adelmannsfelden-94454362.html",
+      "added": "2026-08-23",
+      "infostealer": "",
+      "ransomware": null
     },
     {
       "date": "2026-06-01",

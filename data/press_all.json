@@ -784,7 +784,10 @@
       "url": "https://dysruptionhub.com/mitchell-sd-cybersecurity-incident/",
       "added": "2026-08-08",
       "infostealer": "",
-      "ransomware": null
+      "ransomware": {
+        "group": "Storm",
+        "permalink": "https://www.ransomware.live/id/Q2l0eSBvZiBNaXRjaGVsbEBTdG9ybQ=="
+      }
     },
     {
       "date": "2026-08-06",

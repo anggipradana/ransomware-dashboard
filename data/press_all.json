@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 4004,
+  "count": 4005,
   "results": [
     {
       "date": "2026-08-24",
@@ -380,6 +380,19 @@
         "last_user_compromised": null,
         "infostealer_stats": {}
       },
+      "ransomware": null
+    },
+    {
+      "date": "2026-08-13",
+      "victim": "Hersleth Entreprenør",
+      "domain": "hersleth.no",
+      "country": "NO",
+      "summary": "Une cyberattaque a visé le chantier résidentiel Lysverket à Moss, en Norvège, paralysant les communications radio et les systèmes de contrôle d'une grue. Par mesure de sécurité, l'entreprise générale Hersleth Entreprenør a immédiatement interrompu les opérations et refusé les livraisons de béton, provoquant d'importants retards. Qualifié de « pur sabotage » par les responsables du projet, cet incident fait désormais l'objet d'une enquête criminelle menée par la police locale.",
+      "description": "",
+      "title": "(+) Byggeplassen ble hacket – måtte stenge kran",
+      "url": "https://www.bygg.no/entreprenorer-hms-ikt/byggeplassen-ble-hacket-matte-stenge-kran/2948533",
+      "added": "2026-08-25",
+      "infostealer": "",
       "ransomware": null
     },
     {
@@ -26473,7 +26486,10 @@
           "RedLine": 840
         }
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "ShadowByt3$",
+        "permalink": "https://www.ransomware.live/id/S25vdHRpbmdoYW0gVHJlbnQgVW5pdmVyc2l0eUBTaGFkb3dCeXQzJA=="
+      }
     },
     {
       "date": "2025-07-11",

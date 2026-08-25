@@ -4,8 +4,90 @@
     "month": null,
     "country": null
   },
-  "count": 3999,
+  "count": 4004,
   "results": [
+    {
+      "date": "2026-08-24",
+      "victim": "Sotheby's International",
+      "domain": "sothebys.com",
+      "country": "NZ",
+      "summary": "Sotheby's International, une société immobilière de luxe, enquête sur un incident de cybersécurité impliquant un accès non autorisé à des données stockées sur une plateforme logicielle tierce. Les données potentiellement compromises incluent des noms, adresses, adresses e-mail et numéros de téléphone. La société a précisé que les échanges d'e-mails, la documentation ou tout autre matériel substantiel lié aux propriétés n'ont pas été accédés, et que la plateforme n'est pas utilisée pour les transactions financières des clients. L'entreprise a pris des mesures pour contenir l'incident et travaille avec des spécialistes en cybersécurité indépendants.",
+      "description": "",
+      "title": "Luxury real estate firm hit by cyber security attack",
+      "url": "https://www.rnz.co.nz/news/crime-and-justice/1118363/luxury-real-estate-firm-hit-by-cyber-security-attack",
+      "added": "2026-08-25",
+      "infostealer": {
+        "update": "2026-07-25T11:05:19",
+        "employees": 4,
+        "users": 1846,
+        "thirdparties": 7,
+        "employees_url": 2,
+        "users_url": 20,
+        "last_employee_compromised": "2021-05-26T01:16:18+00:00",
+        "last_user_compromised": "2026-07-23T08:38:19.363000+00:00",
+        "infostealer_stats": {
+          "UNKNOWN": 12,
+          "Lumma": 412,
+          "Atomic": 10,
+          "Acreed": 2,
+          "Generic Stealer": 288,
+          "Ficker": 1,
+          "Raccoon": 113,
+          "Vidar": 40,
+          "Azorult": 30,
+          "RedLine": 445,
+          "StealC": 103,
+          "Mystic": 1
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-08-23",
+      "victim": "Ayuntamiento de San Luis Potosí",
+      "domain": "sanluis.gob.mx",
+      "country": "MX",
+      "summary": "Le gouvernement municipal de San Luis Potosí a été victime d'une cyberattaque par rançongiciel (ransomware). Les attaquants ont exigé une rançon en échange de la libération des informations volées. L'attaque a principalement ciblé les déclarations patrimoniales des employés municipaux. La municipalité a décidé de ne pas négocier et a déposé une plainte fédérale. Le maire a précisé qu'une grande partie des données extraites était déjà publique, mais a confirmé que les systèmes municipaux ont été vulnérabilisés.",
+      "description": "",
+      "title": "Tras hackeo intentan extorsionar al Ayuntamiento de San Luis Potosí",
+      "url": "https://sanluis.eluniversal.com.mx/municipios/tras-hackeo-intentan-extorsionar-al-ayuntamiento-de-san-luis-potosi/",
+      "added": "2026-08-25",
+      "infostealer": {
+        "update": "2026-08-25T13:30:09",
+        "employees": 19,
+        "users": 44,
+        "thirdparties": 6,
+        "employees_url": 5,
+        "users_url": 28,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-08-23",
+      "victim": "IServ",
+      "domain": "iserv.de",
+      "country": "DE",
+      "summary": "La plateforme scolaire nationale IServ a été victime d'une cyberattaque affectant un module cloud de l'opérateur. La municipalité de Hattingen a confirmé que les écoles locales utilisent ce module et pourraient être indirectement touchées, bien qu'aucune fuite de données personnelles d'élèves ou de parents n'ait été confirmée à ce stade. Une enquête est en cours.",
+      "description": "",
+      "title": "Cyberangriff auf Schulplattform IServ: Auch Hattingen prüft mögliche Betroffenheit",
+      "url": "https://ruhrkanal.news/cyberangriff-auf-schulplattform-iserv-auch-hattingen-prueft-moegliche-betroffenheit/",
+      "added": "2026-08-25",
+      "infostealer": {
+        "update": "2026-08-25T13:30:10",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 1,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-08-21",
       "victim": "BizLink Holding Inc.",
@@ -2920,6 +3002,32 @@
     },
     {
       "date": "2026-07-15",
+      "victim": "Turner Construction",
+      "domain": "turnerconstruction.com",
+      "country": "US",
+      "summary": "Turner Construction a subi une violation de données s'étendant sur près de deux semaines, entre le 2 juillet et le 15 juillet. Le groupe de ransomware Payout Kings a pris la responsabilité de cette attaque, affirmant avoir obtenu 27,2 téraoctets de données. Les informations compromises incluent des numéros de sécurité sociale, des informations bancaires, des numéros de passeport, des documents d'ingénierie, des dossiers de projets militaires, des accords de non-divulgation (NDA) et des dossiers juridiques. L'incident a affecté des milliers de résidents dans plusieurs États américains, et Turner a engagé des experts en cybersécurité pour mener une enquête.",
+      "description": "",
+      "title": "Turner Construction Data Breach May Include Military Files",
+      "url": "https://www.bisnow.com/news/national/construction-development/turner-construction-data-breach-may-include-military-files-ndas",
+      "added": "2026-08-25",
+      "infostealer": {
+        "update": "2026-08-25T13:30:08",
+        "employees": 0,
+        "users": 21,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 3,
+        "last_employee_compromised": "1970-01-01T00:00:00+00:00",
+        "last_user_compromised": "2026-08-14T17:53:52+00:00",
+        "infostealer_stats": {
+          "Acreed": 1,
+          "Generic Stealer": 1
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-07-15",
       "victim": "Fusuyama Denshi Co., Ltd.",
       "domain": "fusodentsu.co.jp",
       "country": "JP",
@@ -4073,6 +4181,48 @@
         "infostealer_stats": {}
       },
       "ransomware": null
+    },
+    {
+      "date": "2026-06-30",
+      "victim": "Spaggiari Parma",
+      "domain": "spaggiari.eu",
+      "country": "IT",
+      "summary": "L'entreprise Spaggiari Parma, éditeur du registre électronique le plus utilisé en Italie (ClasseViva), a subi une cyberattaque ayant affecté le logiciel Bergantini dédié à la gestion des formulaires. L'attaque remonte au 30 juin, bien qu'elle n'ait été rendue publique par le groupe de cybercriminels xplOitrs que le 20 août. L'entreprise a confirmé que les registres de classe n'ont pas été touchés, mais a invité les utilisateurs à modifier leurs identifiants de connexion. Bien que des rumeurs aient circulé concernant le vol de 6,1 téraoctets de données sensibles, l'entreprise a précisé que l'accès illicite a concerné une partie des pièces jointes téléchargées par les utilisateurs, entraînant un risque pour la confidentialité, sans toutefois qu'aucune preuve d'utilisation frauduleuse des données n'ait été établie.",
+      "description": "",
+      "title": "Attacco hacker alla piattaforma di modulistica per le scuole del Gruppo Spaggiari, «rubati dati di studenti, famiglie e professori per chiedere un riscatto»",
+      "url": "https://www.corriere.it/tecnologia/26_agosto_23/attacco-hacker-al-registro-elettronico-classe-viva-rubati-dati-di-studenti-famiglie-e-professori-per-chiedere-un-riscatto-b580a26b-ba4d-4690-a47c-da2c0da18xlk_amp.shtml",
+      "added": "2026-08-25",
+      "infostealer": {
+        "update": "2026-08-21T05:30:37.381216",
+        "employees": 6,
+        "users": 62539,
+        "thirdparties": 8,
+        "employees_url": 2,
+        "users_url": 100,
+        "last_employee_compromised": "2026-07-17T00:00:00+00:00",
+        "last_user_compromised": "2026-08-19T02:15:40.528000+00:00",
+        "infostealer_stats": {
+          "Raccoon": 6430,
+          "UNKNOWN": 956,
+          "Vidar": 2334,
+          "Lumma": 9945,
+          "CRYPTBOT": 95,
+          "Acreed": 110,
+          "Ficker": 4,
+          "Azorult": 695,
+          "Taurus": 74,
+          "DarkCrystal": 20,
+          "RedLine": 19252,
+          "Generic Stealer": 8569,
+          "Atomic": 89,
+          "StealC": 1364,
+          "Mystic": 63
+        }
+      },
+      "ransomware": {
+        "group": "xpl0itrs",
+        "permalink": "https://www.ransomware.live/id/R3J1cHBvIFNwYWdnaWFyaSBQYXJtYUB4cGwwaXRycw=="
+      }
     },
     {
       "date": "2026-06-30",

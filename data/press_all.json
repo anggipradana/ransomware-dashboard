@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 4008,
+  "count": 4009,
   "results": [
     {
       "date": "2026-11-18",
@@ -34,6 +34,43 @@
         "group": "akira",
         "permalink": "https://www.ransomware.live/id/UGF5bG9naXhAYWtpcmE="
       }
+    },
+    {
+      "date": "2026-08-25",
+      "victim": "Boston Scientific",
+      "domain": "bostonscientific.com",
+      "country": "US",
+      "summary": "Boston Scientific a révélé un incident de cybersécurité affectant certains systèmes informatiques, entraînant des perturbations opérationnelles. L'incident a limité l'accès à des systèmes d'information et des applications commerciales essentielles, y compris la capacité de traiter et d'expédier les commandes des clients. L'entreprise a engagé des experts externes pour évaluer et contenir la menace, mais l'ampleur et le calendrier de la restauration ne sont pas encore connus.",
+      "description": "",
+      "title": "Boston Scientific meldet Cyberangriff – Betrieb beeinträchtigt, Aktie gibt nach Von Investing.com",
+      "url": "https://de.investing.com/news/stock-market-news/boston-scientific-meldet-cyberangriff--betrieb-beeintrachtigt-aktie-gibt-nach-93CH-3637271",
+      "added": "2026-08-26",
+      "infostealer": {
+        "update": "2026-08-26T13:30:08",
+        "employees": 0,
+        "users": 748,
+        "thirdparties": 2,
+        "employees_url": 0,
+        "users_url": 100,
+        "last_employee_compromised": "1970-01-01T00:00:00+00:00",
+        "last_user_compromised": "2026-08-10T12:28:56.656000+00:00",
+        "infostealer_stats": {
+          "Lumma": 92,
+          "StealC": 26,
+          "RedLine": 251,
+          "Azorult": 33,
+          "Generic Stealer": 165,
+          "Acreed": 1,
+          "DarkCrystal": 1,
+          "Atomic": 2,
+          "Vidar": 24,
+          "CRYPTBOT": 2,
+          "Raccoon": 67,
+          "UNKNOWN": 7,
+          "Mystic": 1
+        }
+      },
+      "ransomware": null
     },
     {
       "date": "2026-08-24",

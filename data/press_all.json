@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 4013,
+  "count": 4021,
   "results": [
     {
       "date": "2026-11-18",
@@ -36,6 +36,52 @@
       }
     },
     {
+      "date": "2026-08-27",
+      "victim": "Transports publics de l'Attique",
+      "domain": "oasa.gr",
+      "country": "GR",
+      "summary": "Les transports publics de l'Attique ont été plongés dans le chaos le matin du 27 août 2026 suite à une cyberattaque. Le système de télémétrie a complètement cessé de fonctionner, laissant les panneaux électroniques des arrêts inactifs et les passagers sans information. L'incident a mis en lumière l'incapacité du gouvernement et du Ministère des Infrastructures et des Transports à protéger les infrastructures publiques numériques.",
+      "description": "",
+      "title": "ΣΤΑ ΤΥΦΛΑ ΟΙ ΕΠΙΒΑΤΕΣ ΣΤΗΝ ΑΤΤΙΚΗ: ΧΑΚΑΡΑΝ ΤΟ ΣΥΣΤΗΜΑ ΤΗΣ ΤΗΛΕΜΑΤΙΚΗΣ ΤΟΥ ΟΑΣΑ - Voice News",
+      "url": "https://voicenews.gr/sta-tyfla-oi-epivates-stin-attiki-chakaran-to-systima-tis-tilematikis-tou-oasa/",
+      "added": "2026-08-27",
+      "infostealer": {
+        "update": "2026-08-27T15:00:08",
+        "employees": 0,
+        "users": 1,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 1,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-08-26",
+      "victim": "Université d'Uşak",
+      "domain": "usak.edu.tr",
+      "country": "TR",
+      "summary": "L'Université d'Uşak a détecté une cyberattaque ciblant ses systèmes d'information le 26 août 2026. Suite à l'incident, les accès réseau des serveurs affectés ont été coupés pour protéger les données. L'université a informé les autorités compétentes et est en collaboration avec le Bureau de la Cybersécurité de la Présidence de la République de Turquie pour gérer la situation, entraînant des problèmes d'accès temporaires à certains services numériques.",
+      "description": "",
+      "title": "Siber Saldırı Sonrası Uşak Üniversitesi’nden Kamuoyu Duyurusu",
+      "url": "https://www.yesilsivasligazetesi.com/siber-saldiri-sonrasi-usak-universitesinden-kamuoyu-duyurusu",
+      "added": "2026-08-27",
+      "infostealer": {
+        "update": "2026-08-27T14:30:10",
+        "employees": 29,
+        "users": 3433,
+        "thirdparties": 375,
+        "employees_url": 13,
+        "users_url": 100,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
       "date": "2026-08-26",
       "victim": "Manchester Airports Group",
       "domain": "magairports.com",
@@ -63,6 +109,19 @@
           "StealC": 2
         }
       },
+      "ransomware": null
+    },
+    {
+      "date": "2026-08-25",
+      "victim": "Merrimack County",
+      "domain": "merrimackcounty.net",
+      "country": "US",
+      "summary": "Merrimack County, dans le New Hampshire, a subi un incident de sécurité réseau qui a temporairement empêché les opérateurs de la préfecture d'accéder aux systèmes d'informations criminelles de l'État. Bien que d'autres systèmes du comté soient restés hors ligne, l'incident n'a pas perturbé la prise d'appels 911 ni la réponse policière. Le comté travaille avec des spécialistes externes pour résoudre le problème, mais la cause n'a pas été identifiée et il n'y a pas eu de confirmation de violation de données.",
+      "description": "",
+      "title": "Merrimack County, New Hampshire, cybersecurity incident disrupts police records access",
+      "url": "https://dysruptionhub.com/merrimack-county-network-security/",
+      "added": "2026-08-27",
+      "infostealer": "",
       "ransomware": null
     },
     {
@@ -135,6 +194,42 @@
           "Mystic": 1
         }
       },
+      "ransomware": null
+    },
+    {
+      "date": "2026-08-24",
+      "victim": "Commission de la construction du Québec (CCQ)",
+      "domain": "rbq.gouv.qc.ca",
+      "country": "CA",
+      "summary": "La Commission de la construction du Québec (CCQ) est paralysée depuis lundi en raison d'une cyberattaque. L'organisme a confirmé l'incident et a fait appel à des experts externes pour évaluer l'étendue des dégâts. La CCQ n'a pas encore confirmé si des données ont été compromises, mais elle assure que la protection des renseignements personnels est une priorité. Des services d'urgence restent accessibles.",
+      "description": "",
+      "title": "Une cyberattaque paralyse des services de la Commission de la construction du Québec",
+      "url": "https://www.lapresse.ca/actualites/2026-08-26/une-cyberattaque-paralyse-des-services-de-la-commission-de-la-construction-du-quebec.php",
+      "added": "2026-08-27",
+      "infostealer": {
+        "update": "2026-08-27T15:30:08",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 2,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-08-24",
+      "victim": "TeamSystem",
+      "domain": "teamsystem.it",
+      "country": "IT",
+      "summary": "TeamSystem, un fournisseur de logiciels de gestion, a confirmé avoir subi une intrusion majeure dans ses systèmes de comptabilité en ligne. L'attaque, détectée le 24 août 2026, a entraîné l'exfiltration de données personnelles des clients, incluant les coordonnées bancaires (IBAN), les données d'identité, les coordonnées de contact et l'historique des mouvements comptables. Bien que l'entreprise affirme que les mots de passe des utilisateurs ne sont pas compromis, les données volées présentent un risque élevé de phishing et de fraudes de paiement, car les cybercriminels peuvent utiliser ces informations pour rendre leurs tentatives d'escroquerie plus crédibles.",
+      "description": "",
+      "title": "Attacco hacker a TeamSystem: trafugati gli IBAN e i dati personali dei clienti",
+      "url": "https://www.fanpage.it/innovazione/tecnologia/attacco-hacker-a-teamsystem-trafugati-gli-iban-e-i-dati-personali-dei-clienti/",
+      "added": "2026-08-27",
+      "infostealer": "",
       "ransomware": null
     },
     {
@@ -1053,6 +1148,19 @@
         "group": "Storm",
         "permalink": "https://www.ransomware.live/id/Q2l0eSBvZiBNaXRjaGVsbEBTdG9ybQ=="
       }
+    },
+    {
+      "date": "2026-08-06",
+      "victim": "Circleville",
+      "domain": "circlevilleoh.gov",
+      "country": "US",
+      "summary": "La ville de Circleville, Ohio, a restauré ses systèmes municipaux après une activité de ransomware qui a forcé les responsables à déconnecter les ordinateurs de la ville le 6 août. L'attaque a retardé les paiements par carte et d'autres travaux informatisés. La ville a confirmé ne pas avoir payé de rançon et a reconstruit les systèmes à partir d'environnements propres. Bien que les services d'urgence (dispatch, eau, etc.) n'aient pas été directement affectés, des questions subsistent concernant l'étendue de l'incident, le calendrier de notification aux autorités du comté et l'impact sur la technologie policière.",
+      "description": "",
+      "title": "Circleville, Ohio, restores city systems after ransomware incident",
+      "url": "https://dysruptionhub.com/circleville-ransomware-systems-restored/",
+      "added": "2026-08-27",
+      "infostealer": "",
+      "ransomware": null
     },
     {
       "date": "2026-08-06",
@@ -2949,6 +3057,29 @@
         "thirdparties": 1,
         "employees_url": 2,
         "users_url": 6,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-07-18",
+      "victim": "Alliance Distribution Services",
+      "domain": "alliancedistributionservices.com",
+      "country": "AU",
+      "summary": "Une cyberattaque a touché Alliance Distribution Services (ADS), une filiale de Hachette Australia, l'un des plus grands distributeurs de livres d'Australie. L'incident, survenu le 18 juillet, a gravement perturbé la distribution de titres, laissant les librairies indépendantes et les auteurs australiens en difficulté pour répondre à la demande des clients. Un expert en cybersécurité a émis l'hypothèse d'une attaque par rançongiciel (ransomware) ou d'une attaque visant spécifiquement la chaîne d'approvisionnement. Hachette Australia travaille à la restauration des systèmes, mais la situation crée une grande incertitude pour l'industrie.",
+      "description": "",
+      "title": "Bookstores struggle to fill shelves after cyber attack on major publisher",
+      "url": "https://www.abc.net.au/news/2026-08-27/cyber-attack-targets-hachette-bookshops-authors-struggling/107081122",
+      "added": "2026-08-27",
+      "infostealer": {
+        "update": "2026-08-27T14:00:09",
+        "employees": 0,
+        "users": 1,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 1,
         "last_employee_compromised": null,
         "last_user_compromised": null,
         "infostealer_stats": {}
@@ -44695,6 +44826,29 @@
       "url": "https://www.cbc.ca/news/canada/manitoba/cyberattack-manitoba-justice-department-1.7403000",
       "added": "2024-12-06",
       "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2024-12-02",
+      "victim": "Tata Memorial Centre",
+      "domain": "tmc.gov.in",
+      "country": "IN",
+      "summary": "Le Centre Tata Memorial, à Chandigarh, a été victime d'une cyberattaque par ransomware (Interlock) qui a perturbé les systèmes informatiques du Centre de recherche Homi Bhabha Cancer Hospital. Un rapport de l'Auditeur Général (CAG) a mis en lumière de graves lacunes en matière de préparation à la cybersécurité, notamment l'absence d'analyse des causes profondes et de mesures préventives. L'attaque a eu lieu le 2 décembre 2024, et bien que 95% des services aient été restaurés d'ici le 12 décembre 2024, le Centre n'a pas réussi à identifier la cause réelle de l'incident, malgré des alertes antérieures de CERT-In.",
+      "description": "",
+      "title": "CAG flags inability to protect sensitive data after ransomware attack at Punjab cancer centre",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/cag-flags-inability-to-protect-sensitive-data-after-ransomware-attack-at-punjab-cancer-centre/articleshow/133547927.cms",
+      "added": "2026-08-27",
+      "infostealer": {
+        "update": "2026-08-27T14:00:10",
+        "employees": 21,
+        "users": 3915,
+        "thirdparties": 8,
+        "employees_url": 11,
+        "users_url": 100,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
       "ransomware": null
     },
     {

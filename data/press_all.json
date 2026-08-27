@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 4011,
+  "count": 4013,
   "results": [
     {
       "date": "2026-11-18",
@@ -34,6 +34,71 @@
         "group": "akira",
         "permalink": "https://www.ransomware.live/id/UGF5bG9naXhAYWtpcmE="
       }
+    },
+    {
+      "date": "2026-08-26",
+      "victim": "Manchester Airports Group",
+      "domain": "magairports.com",
+      "country": "GB",
+      "summary": "Le groupe Manchester Airports Group (MAG), propriétaire des aéroports de Manchester, Stansted et East Midlands, a subi une cyberattaque. Un tiers non autorisé a accédé à des données clients liées au stationnement, aux salons, aux réservations Fast Track et aux inscriptions au Wi-Fi. Les informations compromises incluent les adresses e-mail, les numéros de téléphone, les immatriculations de véhicules et les codes postaux. MAG a confirmé que les détails bancaires ou de paiement des clients n'ont pas été exposés. Les clients affectés sont contactés pour les avertir de la nécessité d'être vigilants face aux communications suspectes.",
+      "description": "",
+      "title": "Airport Cyber Attack Hits Manchester, Stansted and East Midlands",
+      "url": "https://the-european.eu/story-65173/cyber-attack-hits-manchester-stansted-and-east-midlands-airports-as-customer-data-stolen.html",
+      "added": "2026-08-27",
+      "infostealer": {
+        "update": "2026-08-27T13:00:14",
+        "employees": 32,
+        "users": 4,
+        "thirdparties": 6,
+        "employees_url": 6,
+        "users_url": 1,
+        "last_employee_compromised": "2026-06-07T12:05:56+00:00",
+        "last_user_compromised": "2026-05-30T12:04:00+00:00",
+        "infostealer_stats": {
+          "Azorult": 1,
+          "Generic Stealer": 7,
+          "Lumma": 4,
+          "RedLine": 5,
+          "Raccoon": 7,
+          "StealC": 2
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-08-25",
+      "victim": "Bureau des Alcools, du Tabac, des Armes de Feu et des Explosifs (ATF)",
+      "domain": "atf.gov",
+      "country": "US",
+      "summary": "Le Bureau des Alcools, du Tabac, des Armes de Feu et des Explosifs (ATF) répond à un incident de cybersécurité affectant un système autonome. L'ATF a immédiatement coupé les connexions à l'environnement affecté et a lancé des activités de réponse aux incidents et d'investigation forensique. Il n'y a aucune indication que l'incident ait affecté le réseau de l'ATF ou d'autres systèmes.",
+      "description": "",
+      "title": "ATF Press Release",
+      "url": "https://www.atf.gov/news/press-releases/atf-responds-to-cybersecurity-incident",
+      "added": "2026-08-27",
+      "infostealer": {
+        "update": "2026-08-26T11:28:59",
+        "employees": 426,
+        "users": 246,
+        "thirdparties": 3,
+        "employees_url": 6,
+        "users_url": 33,
+        "last_employee_compromised": "2026-08-19T00:00:00+00:00",
+        "last_user_compromised": "2026-08-19T00:00:00+00:00",
+        "infostealer_stats": {
+          "Raccoon": 18,
+          "DarkCrystal": 1,
+          "Vidar": 13,
+          "Lumma": 78,
+          "UNKNOWN": 3,
+          "Azorult": 30,
+          "RedLine": 112,
+          "Generic Stealer": 150,
+          "StealC": 12,
+          "Atomic": 1,
+          "Acreed": 6
+        }
+      },
+      "ransomware": null
     },
     {
       "date": "2026-08-25",

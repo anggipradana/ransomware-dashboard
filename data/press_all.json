@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 4021,
+  "count": 4029,
   "results": [
     {
       "date": "2026-11-18",
@@ -60,6 +60,19 @@
     },
     {
       "date": "2026-08-26",
+      "victim": "Komandor",
+      "domain": "sm-komandor.ru",
+      "country": "RU",
+      "summary": "La chaîne de supermarchés «Komandor» a confirmé avoir été victime d'une cyberattaque qui a causé des dysfonctionnements dans ses systèmes, notamment les systèmes de paiement par carte et le système «Chestny Znak». Les spécialistes ont immédiatement commencé à contrer l'attaque et à restaurer l'infrastructure informatique, réussissant à rétablir les caisses automatiques et les paiements électroniques dans la plupart des magasins d'ici midi la veille.",
+      "description": "",
+      "title": "Хакерская атака стала причиной сбоев в красноярской сети супермаркетов «Командор»",
+      "url": "https://sibnovosti.ru/news/456733/",
+      "added": "2026-08-28",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-08-26",
       "victim": "Université d'Uşak",
       "domain": "usak.edu.tr",
       "country": "TR",
@@ -107,6 +120,36 @@
           "RedLine": 5,
           "Raccoon": 7,
           "StealC": 2
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-08-25",
+      "victim": "Groupe Hit",
+      "domain": "hit.si",
+      "country": "SI",
+      "summary": "Les casinos du Groupe Hit, un géant slovene de l'hôtellerie et du tourisme, ont été touchés par une cyberattaque. L'incident, survenu dans la nuit entre le lundi et le mardi 25 août, a nécessité la fermeture de six casinos à Nova Gorica et dans le reste du territoire national. L'origine de l'attaque et l'étendue des dégâts sont inconnues, bien qu'il y ait des rumeurs non confirmées concernant la compromission des archives clients. Le Groupe Hit mène une enquête pour déterminer la cause et l'objectif de l'intrusion.",
+      "description": "",
+      "title": "Attacco hacker ai casinò Hit in Slovenia, ferme le sei case da gioco di Nova Gorica",
+      "url": "https://www.ilnordest.it/oltre-confine/attacco-hacker-casino-hit-nova-gorica-chiusi-qq4u2qkv",
+      "added": "2026-08-28",
+      "infostealer": {
+        "update": "2026-08-28T10:00:12",
+        "employees": 19,
+        "users": 5,
+        "thirdparties": 5,
+        "employees_url": 8,
+        "users_url": 8,
+        "last_employee_compromised": "2025-12-25T19:41:07+00:00",
+        "last_user_compromised": "2024-05-28T01:44:11+00:00",
+        "infostealer_stats": {
+          "Generic Stealer": 8,
+          "RedLine": 10,
+          "Lumma": 4,
+          "Raccoon": 1,
+          "StealC": 2,
+          "Vidar": 1
         }
       },
       "ransomware": null
@@ -309,6 +352,19 @@
     },
     {
       "date": "2026-08-23",
+      "victim": "Partners Financial Services",
+      "domain": "partnersholdco.com",
+      "country": "CZ",
+      "summary": "Le groupe financier Partners a été victime d'une cyberattaque qui a entraîné la fuite de certaines données personnelles de ses clients. L'attaque, survenue le dimanche précédent la publication, a affecté plusieurs entités du groupe, notamment Partners Financial Services, Simplea, Rentea et Simplea Financial Services en Slovaquie. Les données compromises incluent des informations d'identification, des coordonnées, des détails de contrats financiers et des enregistrements d'appels jusqu'en 2021. Le groupe a assuré que les fonds des clients n'étaient pas menacés et que l'infrastructure de Partners Bank n'était pas compromise. L'entreprise a alerté ses clients contre les tentatives de fraude et a signalé l'incident aux autorités compétentes.",
+      "description": "",
+      "title": "Tập đoàn tài chính Partners bị tấn công mạng, lộ dữ liệu cá nhân của khách hàng",
+      "url": "https://tamdamedia.eu/tap-doan-tai-chinh-partners-bi-tan-cong-mang-lo-du-lieu-ca-nhan-cua-khach-hang",
+      "added": "2026-08-28",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-08-23",
       "victim": "Ayuntamiento de San Luis Potosí",
       "domain": "sanluis.gob.mx",
       "country": "MX",
@@ -465,6 +521,29 @@
         "thirdparties": 32,
         "employees_url": 20,
         "users_url": 69,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-08-17",
+      "victim": "Euskal Moneta",
+      "domain": "euskalmoneta.org",
+      "country": "FR",
+      "summary": "Euskal Moneta, l'association gérant la monnaie locale Eusko, a été victime d'une cyberattaque détectée le 17 août 2026. Les attaquants ont obtenu un accès important à l'infrastructure informatique, ce qui signifie qu'une consultation ou une copie de données personnelles des adhérents ne peut être totalement exclue. Cependant, aucune exfiltration ou utilisation de données n'est actuellement confirmée. L'attaque, dont l'objectif principal aurait été l'exploitation du domaine pour améliorer le référencement d'un autre site, a conduit Euskal Moneta à reconstruire son infrastructure, à informer ses adhérents et à déclarer l'incident à la CNIL.",
+      "description": "",
+      "title": "Cyberattaque de l’Eusko : des données personnelles potentiellement exposées",
+      "url": "https://frenchbreaches.com/alertes/euskal-moneta-eusko-mtbr7on3s5riduqxif",
+      "added": "2026-08-28",
+      "infostealer": {
+        "update": "2026-08-28T09:30:08",
+        "employees": 0,
+        "users": 4,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 3,
         "last_employee_compromised": null,
         "last_user_compromised": null,
         "infostealer_stats": {}
@@ -1148,6 +1227,19 @@
         "group": "Storm",
         "permalink": "https://www.ransomware.live/id/Q2l0eSBvZiBNaXRjaGVsbEBTdG9ybQ=="
       }
+    },
+    {
+      "date": "2026-08-06",
+      "victim": "Windsor-Essex Children's Aid Society",
+      "domain": "wecas.on.ca",
+      "country": "CA",
+      "summary": "La Windsor-Essex Children's Aid Society (WECAS) a été victime d'un incident de cybersécurité le 6 août 2026. Une enquête est en cours, menée par des experts en cybersécurité et les forces de l'ordre. Bien que tous les services soient opérationnels, le système téléphonique a été affecté. La société a indiqué qu'elle notifiera les individus concernés si des informations personnelles sont impactées, et les autorités provinciales ont été informées.",
+      "description": "",
+      "title": "Cyber attack at Windsor-Essex Children's Aid Society under investigation",
+      "url": "https://windsornewstoday.ca/windsor/news/2026/08/27/cyber-attack-at-windsor-essex-childrens-aid-society-under-investigation",
+      "added": "2026-08-28",
+      "infostealer": "",
+      "ransomware": null
     },
     {
       "date": "2026-08-06",
@@ -2086,6 +2178,29 @@
         "group": "interlock",
         "permalink": "https://www.ransomware.live/id/U291dGhlYXN0ZXJuIE9rbGFob21hIFN0YXRlIFVuaXZlcnNpdHlAaW50ZXJsb2Nr"
       }
+    },
+    {
+      "date": "2026-07-29",
+      "victim": "Mistertemp' group",
+      "domain": "mistertemp-group.com",
+      "country": "FR",
+      "summary": "Mistertemp' group, un groupe français de recrutement et de travail temporaire, a confirmé avoir été victime d'un incident de sécurité informatique le 29 juillet 2026. Cet incident a entraîné un accès non autorisé à certaines données personnelles, incluant le nom, le prénom, l'adresse e-mail, le numéro de téléphone et la nationalité. L'entreprise a précisé qu'aucune donnée bancaire, mot de passe ou pièce d'identité n'a été compromise. Mistertemp' group a corrigé la vulnérabilité, confiné l'incident, notifié la CNIL et déposé une plainte pénale, tout en identifiant des risques de phishing et d'usurpation d'identité pour les personnes concernées.",
+      "description": "",
+      "title": "Cyberattaque Mistertemp' group : des données personnelles exposées...",
+      "url": "https://frenchbreaches.com/alertes/mistertemp-group-mtbjjqahg9jzou0akq4",
+      "added": "2026-08-28",
+      "infostealer": {
+        "update": "2026-08-28T09:30:08",
+        "employees": 0,
+        "users": 1,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 1,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
     },
     {
       "date": "2026-07-29",
@@ -5447,6 +5562,19 @@
       "title": "Defesa Civil Nacional desativa plataforma após alerta falso de invasão",
       "url": "https://www.portaltela.com/noticias/ultimas-noticias/2026/06/20/defesa-civil-nacional-desativa-plataforma-apos-alerta-falso-de-invasao/",
       "added": "2026-06-26",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-06-19",
+      "victim": "Hands Holdings Co., Ltd.",
+      "domain": "hands-holdings.co.jp",
+      "country": "JP",
+      "summary": "Hands Holdings Co., Ltd. a publié un deuxième rapport concernant l'accès non autorisé à son système, initialement annoncé le 22 juin. L'enquête a révélé que l'accès externe et l'infection par un rançongiciel ont potentiellement exposé des informations personnelles des employés (y compris les anciens et les ayants droit), telles que noms, numéros d'employé, adresses, dates de naissance, etc. Il y a également un risque que les numéros My Number des employés aient été consultés, bien que l'entreprise n'ait pas confirmé de fuite à ce jour.",
+      "description": "",
+      "title": "ハンズホールディングスにランサムウェア攻撃、従業員等のマイナンバー閲覧のおそれ | ScanNetSecurity",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/08/28/56066.html",
+      "added": "2026-08-28",
       "infostealer": "",
       "ransomware": null
     },
@@ -11732,6 +11860,19 @@
         "last_user_compromised": null,
         "infostealer_stats": {}
       },
+      "ransomware": null
+    },
+    {
+      "date": "2026-03-10",
+      "victim": "Swagelok",
+      "domain": "nsfst.co.jp",
+      "country": "JP",
+      "summary": "La société japonaise Nihon Swagelok FST a annoncé qu'une cyberattaque par rançongiciel et un accès non autorisé survenus le 10 mars 2026 ont potentiellement entraîné la fuite de données personnelles. Les informations concernées incluent les noms, adresses, numéros de téléphone, et les coordonnées des familles des employés actuels et anciens, ainsi que les coordonnées des responsables de clients et de clients potentiels. Une telle attaque a été revendiquée par Akira le 1er avril 2026.",
+      "description": "",
+      "title": "日本スウェージロックFST、3月に発生したのランサムウェアの被害で個人情報漏洩の恐れ 従業員や取引先担当者が対象|セキュリティニュースのセキュリティ対策Lab",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/nippon-swagelok-fst-ransomware-leak/",
+      "added": "2026-08-28",
+      "infostealer": "",
       "ransomware": null
     },
     {

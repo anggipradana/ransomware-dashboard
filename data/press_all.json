@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 4029,
+  "count": 4031,
   "results": [
     {
       "date": "2026-11-18",
@@ -407,6 +407,19 @@
         "last_user_compromised": null,
         "infostealer_stats": {}
       },
+      "ransomware": null
+    },
+    {
+      "date": "2026-08-21",
+      "victim": "Police d'Uttarakhand et Autorité de santé de l'État",
+      "domain": "policecitizenportal.uk.gov.in",
+      "country": "IN",
+      "summary": "Les services en ligne de la police d'Uttarakhand, notamment la fonctionnalité de dépôt de plaintes en ligne (FIR), sont interrompus depuis environ 15 jours suite à une cyberattaque. Parallèlement, les données de l'autorité de santé de l'État ont été compromises la nuit du 21 août. L'attaque sur la police a causé des dommages au serveur, tandis que l'inciden a impliqué le vol des identifiants (ID/mot de passe) de l'autorité, mettant en danger les données de millions de personnes.",
+      "description": "",
+      "title": "साइबर हमला: उत्तराखंड पुलिस की ऑनलाइन एफआईआर सेवा ठप, स्वास्थ्य प्राधिकरण के डेटा में भी लगी सेंध",
+      "url": "https://www.amarujala.com/dehradun/uttarakhand-police-fir-service-down-for-15-days-health-authority-data-breached-read-all-updates-in-hindi-2026-08-29",
+      "added": "2026-08-29",
+      "infostealer": "",
       "ransomware": null
     },
     {
@@ -1806,6 +1819,19 @@
         "last_user_compromised": null,
         "infostealer_stats": {}
       },
+      "ransomware": null
+    },
+    {
+      "date": "2026-08-01",
+      "victim": "Norcross",
+      "domain": "norcrossga.net",
+      "country": "US",
+      "summary": "La ville de Norcross (Géorgie) a été victime d'une cyberattaque par ransomware qui a affecté certains de ses systèmes informatiques au début du mois d'août. Les autorités ont fait appel à des experts externes en cybersécurité et ont prévenu les résidents que des perturbations limitées pourraient encore survenir pendant la restauration des réseaux. Il n'a pas été précisé si des données sensibles de résidents ou d'employés ont été compromises, ni si une demande de rançon a été faite.",
+      "description": "",
+      "title": "Ransomware attack targets Norcross city computer systems, officials say",
+      "url": "https://www.fox5atlanta.com/news/ransomware-attack-targets-norcross-computer-systems-city-says",
+      "added": "2026-08-29",
+      "infostealer": "",
       "ransomware": null
     },
     {

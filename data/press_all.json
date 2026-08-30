@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 4032,
+  "count": 4033,
   "results": [
     {
       "date": "2026-11-18",
@@ -34,6 +34,29 @@
         "group": "akira",
         "permalink": "https://www.ransomware.live/id/UGF5bG9naXhAYWtpcmE="
       }
+    },
+    {
+      "date": "2026-08-28",
+      "victim": "Sanko Fatem",
+      "domain": "sankovn.com",
+      "country": "JP",
+      "summary": "Sanko Techno, une entreprise manufacturière japonaise de premier plan, principalement reconnue pour son expertise dans le développement, la fabrication et la vente d'ancrages post-installation (chevilles de fixation) et d'équipements de construction, a annoncé que sa filiale vietnamienne, Sanko Fastem, avait été victime d'un incident de cybersécurité.",
+      "description": "",
+      "title": "サンコーテクノ、越現法がサイバー攻撃被害 - NNA ASIA・ベトナム・製造",
+      "url": "https://www.nna.jp/news/2961465",
+      "added": "2026-08-30",
+      "infostealer": {
+        "update": "2026-08-26T15:54:05",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 2,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
     },
     {
       "date": "2026-08-27",

@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 4033,
+  "count": 4043,
   "results": [
     {
       "date": "2026-11-18",
@@ -36,6 +36,117 @@
       }
     },
     {
+      "date": "2026-08-31",
+      "victim": "Universitat de Barcelona (UB)",
+      "domain": "ub.edu",
+      "country": "ES",
+      "summary": "L'Universitat de Barcelona (UB) enquête sur un cyberattaque détectée récemment dans certains de ses systèmes. L'institution travaille avec l'Agence de Cybersécurité de Catalogne et le Consorci de Services Universitaires de Catalogne (CSUC) pour déterminer l'ampleur de l'incident. Des mesures de confinement, de surveillance et de renforcement ont été prises, incluant le renouvellement des identifiants et l'interruption temporaire de certains services. L'université assure que, pour l'instant, aucun de ses données n'a été affecté, mais maintient les mesures préventives.",
+      "description": "",
+      "title": "La UB investiga el alcance de un ciberataque detectado \"recientemente\" en varios de sus sistemas",
+      "url": "https://www.20minutos.es/cataluna/barcelona/ub-investiga-alcance-un-ciberataque-detectado-recientemente-varios-sus-sistemas_7031009_0.html",
+      "added": "2026-08-31",
+      "infostealer": {
+        "update": "2026-08-31T15:00:11",
+        "employees": 965,
+        "users": 3776,
+        "thirdparties": 518,
+        "employees_url": 91,
+        "users_url": 100,
+        "last_employee_compromised": "2026-08-19T00:00:00+00:00",
+        "last_user_compromised": "2026-08-30T00:00:00+00:00",
+        "infostealer_stats": {
+          "Taurus": 2,
+          "CRYPTBOT": 10,
+          "UNKNOWN": 42,
+          "Azorult": 179,
+          "DarkCrystal": 4,
+          "Raccoon": 431,
+          "Atomic": 7,
+          "StealC": 181,
+          "Lumma": 811,
+          "Generic Stealer": 758,
+          "Acreed": 14,
+          "Vidar": 156,
+          "Mystic": 11,
+          "RedLine": 1327
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-08-30",
+      "victim": "Compucase Enterprise Co., Ltd.",
+      "domain": "hec-group.com.tw",
+      "country": "TW",
+      "summary": "Le 30 août 2026, Compucase a détecté un incident de cybersécurité affectant une partie limitée de son réseau informatique. Cette entreprise taïwanaise, spécialisée dans la conception et la fabrication de composants pour ordinateurs, a immédiatement réagi en isolant les systèmes touchés et en engageant des experts externes pour mener l'enquête et restaurer la sécurité des systèmes. Selon les évaluations actuelles, aucune donnée personnelle ou confidentielle n'a été fuitée et l'activité opérationnelle de la société n'est pas impactée.",
+      "description": "",
+      "title": "Today's Information",
+      "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=193302&spoke_date=20260830&co_id=3032",
+      "added": "2026-08-31",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-08-28",
+      "victim": "McKesson",
+      "domain": "mckesson.com",
+      "country": "US",
+      "summary": "La société pharmaceutique et de technologie de la santé McKesson a été victime d'une cyberattaque menée par le groupe de cybercriminels ShinyHunters. L'attaque, qui a eu lieu vendredi soir, a permis aux pirates d'accéder à une application tierce non nommée et d'exfiltrer des données de clients, notamment celles des unités d'oncologie et de chirurgie. McKesson a informé les régulateurs et les clients, promettant des services de surveillance de crédit et de protection d'identité. Bien que l'entreprise ait reçu l'assurance que les pirates n'étaient plus dans ses systèmes, des problèmes de dégradation de service intermittente ont été signalés aux clients.",
+      "description": "",
+      "title": "Pharmaceutical giant McKesson warns of 'service degradation' following cyberattack",
+      "url": "https://therecord.media/mckesson-cyberattack-ransomware-pharma",
+      "added": "2026-08-31",
+      "infostealer": {
+        "update": "2026-08-31T17:00:12",
+        "employees": 95,
+        "users": 1077,
+        "thirdparties": 94,
+        "employees_url": 49,
+        "users_url": 100,
+        "last_employee_compromised": "2026-08-06T17:28:21.086000+00:00",
+        "last_user_compromised": "2026-08-09T11:19:35.431000+00:00",
+        "infostealer_stats": {
+          "Remus": 4,
+          "StealC": 24,
+          "Predator": 1,
+          "Azorult": 118,
+          "UNKNOWN": 10,
+          "Lumma": 210,
+          "Taurus": 1,
+          "RedLine": 246,
+          "Atomic": 3,
+          "Vidar": 34,
+          "Acreed": 43,
+          "Raccoon": 54,
+          "Generic Stealer": 372
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-08-28",
+      "victim": "T&K TOKA",
+      "domain": "toka-global.com",
+      "country": "JP",
+      "summary": "T&K TOKA, fabricant de peintures et de résines synthétiques, a confirmé avoir été victime d'une cyberattaque par ransomware et d'un accès non autorisé à certains de ses systèmes. L'incident, signalé le 28 août 2026, a entraîné l'arrêt de certaines activités de l'entreprise. L'entreprise est en collaboration avec la police pour enquêter sur les causes et l'étendue des dégâts. À ce stade, l'entreprise n'a pas divulgué le vecteur d'intrusion, l'identité des attaquants, l'étendue de l'exfiltration de données, ni l'impact sur les informations personnelles des clients ou des employés.",
+      "description": "",
+      "title": "T&K TOKA、ランサムウェアの被害で一部業務を停止 不正アクセスの原因・情報流出は調査中|セキュリティニュースのセキュリティ対策Lab",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/tk-toka-ransomware-investigation/",
+      "added": "2026-08-31",
+      "infostealer": {
+        "update": "2026-08-31T12:30:10",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 1,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
       "date": "2026-08-28",
       "victim": "Sanko Fatem",
       "domain": "sankovn.com",
@@ -52,6 +163,52 @@
         "thirdparties": 2,
         "employees_url": 0,
         "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-08-27",
+      "victim": "Orient Blackswan",
+      "domain": "orientblackswan.com",
+      "country": "IN",
+      "summary": "La maison d'édition Orient Blackswan a été victime d'une cyberattaque par rançongiciel (ransomware) qui a perturbé son infrastructure informatique et chiffré des données commerciales critiques. Les attaquants ont exigé 20 millions de roupies pour restaurer l'accès. L'incident a été signalé par le vice-président de la maison d'édition et les systèmes affectés ont été isolés pour prévenir la propagation.",
+      "description": "",
+      "title": "Rs 20 mn ransom sought in publishing house cyberattack in Hyderabad",
+      "url": "https://www.newindianexpress.com/cities/hyderabad/2026/Aug/31/rs-20-mn-ransom-sought-in-publishing-house-cyberattack-in-hyderabad",
+      "added": "2026-08-31",
+      "infostealer": {
+        "update": "2026-08-31T12:30:09",
+        "employees": 3,
+        "users": 832,
+        "thirdparties": 28,
+        "employees_url": 3,
+        "users_url": 100,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-08-27",
+      "victim": "DZI \"Obsho zastrahovane\"",
+      "domain": "dzi.bg",
+      "country": "BG",
+      "summary": "La compagnie d'assurance bulgare DZI \"Obsto Zastrakhovane\" a informé ses clients d'une possible fuite de données personnelles. Cette violation a permis un accès non autorisé aux noms des clients, à leur numéro d'identification civile (EGN) et à leurs coordonnées. Bien que l'entreprise affirme que cela n'a pas d'impact sur les polices d'assurance, elle recommande aux clients d'être vigilants face aux appels ou courriels suspects. L'article souligne également la vulnérabilité du secteur de l'assurance bulgare aux cyberattaques, citant des incidents précédents chez Uniqa et Eurohold/Euroins.",
+      "description": "",
+      "title": "Кибератака и срещу ДЗИ, възможно е изтичане на лични данни на клиенти - Mediapool.bg",
+      "url": "https://www.mediapool.bg/kiberataka-i-sreshtu-dzi-vazmozhno-e-iztichane-na-lichni-danni-na-klienti-news387013.html",
+      "added": "2026-08-31",
+      "infostealer": {
+        "update": "2026-08-31T12:30:08",
+        "employees": 1,
+        "users": 234,
+        "thirdparties": 1,
+        "employees_url": 1,
+        "users_url": 22,
         "last_employee_compromised": null,
         "last_user_compromised": null,
         "infostealer_stats": {}
@@ -911,6 +1068,29 @@
     },
     {
       "date": "2026-08-10",
+      "victim": "Delta School District",
+      "domain": "deltalearns.ca",
+      "country": "CA",
+      "summary": "Le district scolaire de Delta a été victime d'un incident de cybersécurité affectant son environnement informatique DeltaLearns.ca. Le district a découvert l'incident le 10 août 2026, lorsque des activités non autorisées ont été détectées, rendant le site indisponible. Bien qu'il n'y ait pas de preuve que des informations personnelles aient été compromises, le district a pris des mesures de précaution et a notifié les parents et le personnel, car les données affectées incluent des formulaires soumis au département des services d'apprentissage.",
+      "description": "",
+      "title": "Delta School District reports website cyber attack",
+      "url": "https://www.delta-optimist.com/local-news/delta-school-district-reports-website-cyber-attack-12721085",
+      "added": "2026-08-31",
+      "infostealer": {
+        "update": "2026-08-31T17:00:10",
+        "employees": 3,
+        "users": 26,
+        "thirdparties": 167,
+        "employees_url": 1,
+        "users_url": 10,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-08-10",
       "victim": "Weba",
       "domain": "weba.be",
       "country": "BE",
@@ -1285,6 +1465,22 @@
       "ransomware": {
         "group": "Storm",
         "permalink": "https://www.ransomware.live/id/Q2l0eSBvZiBNaXRjaGVsbEBTdG9ybQ=="
+      }
+    },
+    {
+      "date": "2026-08-06",
+      "victim": "Ambition DX Holdings",
+      "domain": "am-bition.jp",
+      "country": "JP",
+      "summary": "Ambition DX Holdings a été victime d'un accès non autorisé à son serveur de fichiers, entraînant la confirmation d'une fuite de certaines informations. Les données potentiellement compromises incluent des informations personnelles (noms, adresses, numéros de téléphone, adresses e-mail) de clients, de propriétaires de biens locatifs, d'occupants, de partenaires commerciaux et d'employés. Bien que le groupe de rançongiciel/extorsion de données 'Settra' ait affirmé avoir volé 437 Go de données, Ambition DX Holdings n'a pas confirmé cette quantité ni l'attribution de l'attaque à Settra. L'entreprise a mis en place un nouveau réseau sécurisé et a signalé l'incident à la Commission de protection des données et à la police. Les investigations sont toujours en cours pour déterminer l'étendue exacte de la fuite.",
+      "description": "",
+      "title": "アンビションDXホールディングス、サイバー攻撃で情報漏えいを確認-ランサムウェア グループが437GB窃取を主張|セキュリティニュースのセキュリティ対策Lab",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/ambition-dx-cyberattack-437gb-leak/",
+      "added": "2026-08-31",
+      "infostealer": "",
+      "ransomware": {
+        "group": "settra",
+        "permalink": "https://www.ransomware.live/id/YW0tYml0aW9uLmpwQHNldHRyYQ=="
       }
     },
     {
@@ -1866,6 +2062,22 @@
         "infostealer_stats": {}
       },
       "ransomware": null
+    },
+    {
+      "date": "2026-08-01",
+      "victim": "Daisen",
+      "domain": "daisen.co.jp",
+      "country": "JP",
+      "summary": "La société Daisen a annoncé qu'un accès non autorisé à son système avait été détecté. L'incident, qui a débuté vers 2h du matin le 1er août, a entraîné une infection par un logiciel malveillant. Suite à la détection, l'entreprise a coupé tous ses systèmes internes, ce qui a affecté ses opérations de commande et d'expédition. Des experts en sécurité externes sont mobilisés depuis le 2 août pour identifier l'étendue des dégâts et analyser les journaux. Bien qu'aucune fuite de données n'ait été confirmée à ce jour, l'entreprise travaille à la restauration de ses systèmes une fois la sécurité du réseau interne assurée.",
+      "description": "",
+      "title": "大仙のシステムに不正アクセス、社内全システム遮断し受注出荷業務に影響 | ScanNetSecurity",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/08/31/56077.html",
+      "added": "2026-08-31",
+      "infostealer": "",
+      "ransomware": {
+        "group": "AiLock",
+        "permalink": "https://www.ransomware.live/id/REFJU0VOQEFpTG9jaw=="
+      }
     },
     {
       "date": "2026-08-01",
@@ -5019,6 +5231,22 @@
       "added": "2026-07-06",
       "infostealer": "",
       "ransomware": null
+    },
+    {
+      "date": "2026-06-25",
+      "victim": "Cardiology Associates of Port Huron (CAPH)",
+      "domain": "porthuronheartcenter.com",
+      "country": "US",
+      "summary": "Cardiology Associates of Port Huron (CAPH), un cabinet médical du Michigan, a été potentiellement victime d'une violation de données par le groupe Orova. Orova prétend avoir acquis 496 Go de données, incluant des informations d'identification personnelles et des données de santé protégées (PHI) de 256 382 fichiers. Les analyses indépendantes suggèrent que plus de 150 000 patients ont été affectés. Les données comprennent des numéros de sécurité sociale, des informations d'assurance maladie, des codes de diagnostic et des informations de contact, ce qui présente un risque significatif pour les patients. CAPH n'a pas répondu publiquement à l'incident.",
+      "description": "",
+      "title": "Time’s Up: Ransomware Group Claims 150,000+ Cardiology Patient Records. We’ve Seen the Data. - DataBreaches.Net",
+      "url": "https://databreaches.net/2026/08/31/times-up-ransomware-group-claims-150000-cardiology-patient-records-weve-seen-the-data/",
+      "added": "2026-08-31",
+      "infostealer": "",
+      "ransomware": {
+        "group": "Orova",
+        "permalink": "https://www.ransomware.live/id/Q2FyZGlvbG9neSBBc3NvY2lhdGVzQE9yb3Zh"
+      }
     },
     {
       "date": "2026-06-25",

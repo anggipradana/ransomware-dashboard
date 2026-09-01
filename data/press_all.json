@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 4048,
+  "count": 4049,
   "results": [
     {
       "date": "2026-11-18",
@@ -352,7 +352,7 @@
       "url": "https://the-european.eu/story-65173/cyber-attack-hits-manchester-stansted-and-east-midlands-airports-as-customer-data-stolen.html",
       "added": "2026-08-27",
       "infostealer": {
-        "update": "2026-08-27T13:00:14",
+        "update": "2026-09-01T12:52:25.845657",
         "employees": 32,
         "users": 4,
         "thirdparties": 6,
@@ -369,7 +369,10 @@
           "StealC": 2
         }
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "fulcrumsec",
+        "permalink": "https://www.ransomware.live/id/TWFuY2hlc3RlciBBaXJwb3J0cyBHcm91cEBmdWxjcnVtc2Vj"
+      }
     },
     {
       "date": "2026-08-25",
@@ -871,6 +874,32 @@
         }
       },
       "ransomware": null
+    },
+    {
+      "date": "2026-08-15",
+      "victim": "Novocure",
+      "domain": "novocure.com",
+      "country": "US",
+      "summary": "L'entreprise d'oncologie Novocure a signalé un incident de sécurité cibernétique qui a exposé les dossiers internes de plus de 1 400 patients américains. L'accès non autorisé aux systèmes d'information a eu lieu à la mi-août.",
+      "description": "",
+      "title": "A empresa de oncologia Novocure afirma que um ataque cibernético expôs registros de pacientes nos EUA",
+      "url": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N44T0G7:0/",
+      "added": "2026-09-01",
+      "infostealer": {
+        "update": "2026-08-22T14:19:00.183463",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 3,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "shinyhunters",
+        "permalink": "https://www.ransomware.live/id/Tm92b0N1cmUgTGltaXRlZEBzaGlueWh1bnRlcnM="
+      }
     },
     {
       "date": "2026-08-15",

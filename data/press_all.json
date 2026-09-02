@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 4049,
+  "count": 4054,
   "results": [
     {
       "date": "2026-11-18",
@@ -34,6 +34,42 @@
         "group": "akira",
         "permalink": "https://www.ransomware.live/id/UGF5bG9naXhAYWtpcmE="
       }
+    },
+    {
+      "date": "2026-09-02",
+      "victim": "Hangte",
+      "domain": "hangtepower.com",
+      "country": "TW",
+      "summary": "Le fabricant de composants optoélectroniques Hangte a publié une alerte de cybersécurité indiquant que ses systèmes d'information ont été attaqués. L'entreprise a mis en place des mécanismes de défense et évalue que l'impact sur ses opérations n'est pas majeur.",
+      "description": "",
+      "title": "光電廠杭特遭網路攻擊",
+      "url": "https://www.ithome.com.tw/news/178600",
+      "added": "2026-09-02",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-08-31",
+      "victim": "Salus di Trieste",
+      "domain": "polifvg.it",
+      "country": "IT",
+      "summary": "Le systèmes informatiques de la clinique Salus de Trieste sont inutilisables depuis le 31 août en raison d'une attaque par ransomware. L'attaque, qui a également entraîné une demande de rançon, est attribuée à un groupe de cybercriminels russo-albanais connu pour d'autres vols, dont celui du casino de Lipizza. La clinique a engagé une société de cybersécurité et travaille avec la police d'État. Bien qu'un système de sauvegarde des données de santé existe, il n'est pas confirmé si les données des patients ont été exfiltrées.",
+      "description": "",
+      "title": "Cripto per i dati: le informazioni sanitarie della Salus sequestrate in un attacco hacker, chiesto un riscatto",
+      "url": "https://www.triesteprima.it/cronaca/ransomware-salus-trieste.html",
+      "added": "2026-09-02",
+      "infostealer": {
+        "update": "2026-09-02T07:00:09",
+        "employees": 0,
+        "users": 217,
+        "thirdparties": 1,
+        "employees_url": 0,
+        "users_url": 7,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
     },
     {
       "date": "2026-08-31",
@@ -127,6 +163,19 @@
       "title": "Today's Information",
       "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=193302&spoke_date=20260830&co_id=3032",
       "added": "2026-08-31",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-08-28",
+      "victim": "Park Dental Partners Inc.",
+      "domain": "parkdental.com",
+      "country": "US",
+      "summary": "Park Dental Partners Inc., une entreprise de services dentaires américaine, a confirmé avoir détecté un accès non autorisé à son réseau informatique le 28 août. L'entreprise a immédiatement lancé des protocoles de réponse aux incidents et engagé des experts en cybersécurité et en criminalistique pour enquêter sur l'incident. Bien qu'aucune perturbation majeure des opérations commerciales n'ait été signalée à ce jour, l'entreprise évalue les impacts financiers, légaux et réputationnels potentiels, notamment en raison de l'accès possible aux données des patients.",
+      "description": "",
+      "title": "파크 덴탈 파트너스, 사이버 공격으로 네트워크 무단 침입 발생…\"환자 정보 유출 조사 중\"",
+      "url": "https://www.datatooza.com/article/202609020507032521cd1e7a1a5e_80",
+      "added": "2026-09-02",
       "infostealer": "",
       "ransomware": null
     },
@@ -373,6 +422,19 @@
         "group": "fulcrumsec",
         "permalink": "https://www.ransomware.live/id/TWFuY2hlc3RlciBBaXJwb3J0cyBHcm91cEBmdWxjcnVtc2Vj"
       }
+    },
+    {
+      "date": "2026-08-25",
+      "victim": "Van Wezel Autoparts",
+      "domain": "vanwezel.be",
+      "country": "BE",
+      "summary": "Van Wezel Autoparts, un grand producteur et distributeur européen de pièces automobiles basé à Tienen, a été victime d'une cyberattaque la semaine précédente. L'attaque a mis hors service les systèmes du siège social. L'entreprise a pris des mesures immédiates pour sécuriser ses systèmes et a fait appel à des experts en cybersécurité. Les autorités locales ont également ouvert une enquête, mais il n'est pas encore connu si des données personnelles ont été volées.",
+      "description": "",
+      "title": "Systeem van Van Wezel Autoparts in Tienen ligt plat door cyberaanval",
+      "url": "https://www.robtv.be/nieuws/systeem-van-van-wezel-autoparts-in-tienen-ligt-plat-door-cyberaanval-213767",
+      "added": "2026-09-02",
+      "infostealer": "",
+      "ransomware": null
     },
     {
       "date": "2026-08-25",
@@ -1017,6 +1079,22 @@
         "infostealer_stats": {}
       },
       "ransomware": null
+    },
+    {
+      "date": "2026-08-13",
+      "victim": "Akatake Engineering Co., Ltd.",
+      "domain": "akatake.co.jp",
+      "country": "JP",
+      "summary": "La société Akatake Engineering Co., Ltd. a annoncé le 13 août avoir été victime d'une infection par rançongiciel. L'entreprise a subi des pannes de système et mène une enquête avec des experts externes et la police pour déterminer l'étendue des dégâts, y compris une éventuelle fuite de données personnelles et de clients. Elle travaille également à la restauration rapide de ses systèmes.",
+      "description": "",
+      "title": "赤武エンジニアリングでランサムウェア感染によるシステム障害が発生 | ScanNetSecurity",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/09/02/56105.html",
+      "added": "2026-09-02",
+      "infostealer": "",
+      "ransomware": {
+        "group": "thegentlemen",
+        "permalink": "https://www.ransomware.live/id/QWthdGFrZSBFbmdpbmVlcmluZ0B0aGVnZW50bGVtZW4="
+      }
     },
     {
       "date": "2026-08-13",

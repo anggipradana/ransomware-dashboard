@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 4055,
+  "count": 4058,
   "results": [
     {
       "date": "2026-11-18",
@@ -34,6 +34,54 @@
         "group": "akira",
         "permalink": "https://www.ransomware.live/id/UGF5bG9naXhAYWtpcmE="
       }
+    },
+    {
+      "date": "2026-09-02",
+      "victim": "Liga Nacional contra el Cáncer",
+      "domain": "ligacancercolombia.org",
+      "country": "CO",
+      "summary": "La Liga Nacional contra el Cáncer a communiqué que son victime d'un incident de cybersécurité qui a affecté temporairement les services de son Département de Radiothérapie. L'institution a confirmé que l'incident fait l'objet d'une enquête par les autorités compétentes et a assuré aux patients que son équipe travaille pour résoudre le problème et rétablir les services rapidement.",
+      "description": "",
+      "title": "Ciberataque Afecta Servicios De La Liga Nacional Contra El Cáncer - La Red 106.1 FM",
+      "url": "https://www.lared1061.com/posts/ciberataque-afecta-servicios-de-la-liga-nacional-contra-el-cancer",
+      "added": "2026-09-02",
+      "infostealer": {
+        "update": "2026-09-02T16:30:08",
+        "employees": 0,
+        "users": 26,
+        "thirdparties": 2,
+        "employees_url": 0,
+        "users_url": 3,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-09-02",
+      "victim": "Ministère de la Transition écologique",
+      "domain": "ecologie.gouv.fr",
+      "country": "FR",
+      "summary": "Plusieurs sites internet gouvernementaux liés au ministère de la Transition écologique sont inaccessibles suite à une cyberattaque revendiquée par un utilisateur anonyme sur un forum criminel. L'Agence nationale de la sécurité des systèmes d'information (Anssi) mène des investigations suite à des suspicions de compromission de comptes utilisateurs. L'incident a entraîné des dysfonctionnements et l'interruption temporaire de certains services numériques, notamment dans la préfecture de la Creuse.",
+      "description": "",
+      "title": "Plusieurs sites internet gouvernementaux liés au ministère de la Transition écologique inaccessibles",
+      "url": "https://www.france24.com/fr/info-en-continu/20260902-plusieurs-sites-internet-gouvernementaux-liés-au-ministère-de-la-transition-écologique-inaccessibles",
+      "added": "2026-09-02",
+      "infostealer": {
+        "update": "2026-09-02T15:00:09",
+        "employees": 0,
+        "users": 3,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 2,
+        "last_employee_compromised": "1970-01-01T00:00:00+00:00",
+        "last_user_compromised": "2026-07-19T07:49:44+00:00",
+        "infostealer_stats": {
+          "Generic Stealer": 1
+        }
+      },
+      "ransomware": null
     },
     {
       "date": "2026-09-02",
@@ -1145,6 +1193,19 @@
       "title": "403 ERROR",
       "url": "http://www.excite.co.jp/news/article/Prtimes_2026-08-14-80422-17/",
       "added": "2026-08-14",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-08-11",
+      "victim": "Charm",
+      "domain": "charm.co.jp",
+      "country": "JP",
+      "summary": "La société Charm a annoncé qu'un accès non autorisé à ses magasins Charm Honten 1 et 2 avait été détecté le 12 août 2026, suite à une intrusion par un tiers le 11 août 2026. L'entreprise enquête actuellement sur l'étendue des dégâts, confirmant que certaines informations clients ont pu fuiter. Environ 230 000 enregistrements sont concernés, incluant des données telles que noms, adresses, numéros de téléphone, dates de naissance, adresses e-mail, points de fidélité, et des hachages de mots de passe. En conséquence, les opérations de commande et d'expédition dans les deux magasins ont été suspendues du 12 août, bien que les succursales aient repris les commandes le 13 août et l'expédition le 14 août.",
+      "description": "",
+      "title": "チャーム本店 1 号店及びチャーム本店 2 号店に不正アクセス、受注・出荷業務を停止 | ScanNetSecurity",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/09/02/56103.html",
+      "added": "2026-09-02",
       "infostealer": "",
       "ransomware": null
     },

@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 4058,
+  "count": 4064,
   "results": [
     {
       "date": "2026-11-18",
@@ -34,6 +34,42 @@
         "group": "akira",
         "permalink": "https://www.ransomware.live/id/UGF5bG9naXhAYWtpcmE="
       }
+    },
+    {
+      "date": "2026-09-03",
+      "victim": "Préfecture de Tottori",
+      "domain": "tottori.jp",
+      "country": "JP",
+      "summary": "Le système de collecte de données de rayonnement, utilisé autour de centrales nucléaires comme celle de Shimane, a été victime d'une cyberattaque. Les autorités ont confirmé que les serveurs de sauvegarde n'ont pas été affectés, ce qui signifie que le suivi des données n'est pas impacté.",
+      "description": "",
+      "title": "鳥取県 放射線監視システムにサイバー攻撃 情報流出なし | NHKニュース",
+      "url": "https://news.web.nhk/newsweb/na/nb-4040024179",
+      "added": "2026-09-03",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-09-02",
+      "victim": "Luminis Health",
+      "domain": "luminishealth.org",
+      "country": "US",
+      "summary": "Luminis Health a fait appel à des conseillers juridiques en raison d'un incident de cybersécurité en cours qui affecte les plateformes web du système hospitalier.",
+      "description": "",
+      "title": "Luminis Health taps legal counsel amid cybersecurity investigation",
+      "url": "https://www.capitalgazette.com/2026/09/02/luminis-health-hospital-cybersecurity-investigation/",
+      "added": "2026-09-03",
+      "infostealer": {
+        "update": "2026-09-03T09:00:08",
+        "employees": 0,
+        "users": 69,
+        "thirdparties": 9,
+        "employees_url": 0,
+        "users_url": 4,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
     },
     {
       "date": "2026-09-02",
@@ -5171,6 +5207,50 @@
     },
     {
       "date": "2026-06-30",
+      "victim": "Thomson Reuters",
+      "domain": "thomsonreuters.com",
+      "country": "US",
+      "summary": "Thomson Reuters a signalé un incident de cybersécurité affectant la plateforme de gestion des affaires C-Track. L'incident, détecté le 30 juin, a impliqué un accès non autorisé à certains fichiers de dossiers judiciaires dans 11 États américains, les Îles Vierges américaines et le Canada. Bien que les opérations C-Track n'aient pas été interrompues, des dossiers contenant des noms et des informations personnelles ont été affectés. L'entreprise a pris des mesures de sécurité, notifié les clients et engagé des experts externes.",
+      "description": "",
+      "title": "Thomson Reuters reports cyber incident involving C-Track files",
+      "url": "https://ua.news/en/world/thomson-reuters-povidomila-pro-kiberintsident-iz-failami-sudovoyi-platformi-c-track",
+      "added": "2026-09-03",
+      "infostealer": {
+        "update": "2026-04-30T14:35:42",
+        "employees": 344,
+        "users": 16734,
+        "thirdparties": 495,
+        "employees_url": 100,
+        "users_url": 100,
+        "last_employee_compromised": "2026-04-22T08:34:53+00:00",
+        "last_user_compromised": "2026-04-29T00:00:00+00:00",
+        "infostealer_stats": {
+          "Acreed": 127,
+          "Mystic": 25,
+          "RedLine": 3912,
+          "UNKNOWN": 152,
+          "Generic Stealer": 3820,
+          "Predator": 4,
+          "Ficker": 2,
+          "Atomic": 30,
+          "Lumma": 4060,
+          "Azorult": 510,
+          "Taurus": 4,
+          "Vidar": 517,
+          "KPOT": 1,
+          "DarkCrystal": 30,
+          "Raccoon": 1116,
+          "CRYPTBOT": 27,
+          "StealC": 765
+        }
+      },
+      "ransomware": {
+        "group": "clop",
+        "permalink": "https://www.ransomware.live/id/dGhvbXMjIyMjI0BjbG9w"
+      }
+    },
+    {
+      "date": "2026-06-30",
       "victim": "Spaggiari Parma",
       "domain": "spaggiari.eu",
       "country": "IT",
@@ -10078,6 +10158,29 @@
     },
     {
       "date": "2026-04-13",
+      "victim": "Commission de la transparence et de l'éthique publique (Jutep)",
+      "domain": "jutep.gub.uy",
+      "country": "AR",
+      "summary": "La Commission de la transparence et de l'éthique publique (Jutep) est confrontée à de graves problèmes de fonctionnement à la suite d'une cyberattaque subie le 13 avril 2026. Le système actuel est considéré comme",
+      "description": "",
+      "title": "Jutep acumula más de 400 denuncias atrasadas y busca cambiar su sistema tras ataque cibernético",
+      "url": "https://www.elpais.com.uy/informacion/politica/jutep-acumula-mas-de-400-denuncias-atrasadas-y-busca-cambiar-su-sistema-tras-ataque-cibernetico",
+      "added": "2026-09-03",
+      "infostealer": {
+        "update": "2026-09-03T09:30:08",
+        "employees": 0,
+        "users": 404,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 8,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-04-13",
       "victim": "IFAGE",
       "domain": "ifage.ch",
       "country": "CH",
@@ -13015,6 +13118,29 @@
         "group": "lockbit5",
         "permalink": "https://www.ransomware.live/id/YWxjb3Juc2Nob29scy5vcmdAbG9ja2JpdDU="
       }
+    },
+    {
+      "date": "2026-03-01",
+      "victim": "Tlajomulco",
+      "domain": "tlajomulco.gob.mx",
+      "country": "MX",
+      "summary": "Quatre mois après une cyberattaque qui a paralysé les services municipaux de Tlajomulco, le Congrès de Jalisco exige des éclaircissements sur la sécurité des données patrimoniales. L'attaque, survenue en mars, a mis hors service plus de 120 démarches municipales et a soulevé des inquiétudes quant à l'intégrité des bases de données, notamment celles concernant les registres de propriété et les bénéficiaires. Les élus demandent une transparence totale et un diagnostic détaillé sur les causes de l'incident.",
+      "description": "",
+      "title": "Ciberataque en Tlajomulco: dudas sobre pérdida de datos",
+      "url": "https://www.telediario.mx/politica/ciberataque-en-tlajomulco-dudas-sobre-perdida-de-datos",
+      "added": "2026-09-03",
+      "infostealer": {
+        "update": "2026-09-03T09:00:09",
+        "employees": 0,
+        "users": 126,
+        "thirdparties": 5,
+        "employees_url": 0,
+        "users_url": 46,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
     },
     {
       "date": "2026-02-27",
@@ -26192,6 +26318,29 @@
       "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/641687af-85e1-4a3e-98c4-3258a192c637.html",
       "added": "2025-09-04",
       "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2025-07-31",
+      "victim": "Ocean Edge Resort & Golf Club",
+      "domain": "oceanedge.com",
+      "country": "US",
+      "summary": "L'Ocean Edge Resort & Golf Club a subi une violation de données suite à une attaque par rançongiciel menée par le groupe Nitrogen. Cette violation a exposé une large gamme d'informations sensibles des consommateurs, incluant des numéros d'identification gouvernementaux, des dossiers de santé, des numéros de sécurité sociale, des informations financières et des informations médicales. Les victimes pourraient être éligibles à une compensation.",
+      "description": "",
+      "title": "Ocean Edge Resort Data Breach Lawsuit Investigation",
+      "url": "https://www.claimdepot.com/investigations/ocean-edge-resort-data-breach-2026",
+      "added": "2026-09-03",
+      "infostealer": {
+        "update": "2026-07-26T07:39:54",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 1,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
       "ransomware": null
     },
     {

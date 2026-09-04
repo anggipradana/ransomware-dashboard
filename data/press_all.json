@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 4072,
+  "count": 4074,
   "results": [
     {
       "date": "2026-11-18",
@@ -34,6 +34,52 @@
         "group": "akira",
         "permalink": "https://www.ransomware.live/id/UGF5bG9naXhAYWtpcmE="
       }
+    },
+    {
+      "date": "2026-09-03",
+      "victim": "PTAC",
+      "domain": "ptac.gov.lv",
+      "country": "LV",
+      "summary": "Le Centre de protection des droits des consommateurs (PTAC) a été victime d'une cyberattaque qui a permis à un attaquant d'accéder à des données via une vulnérabilité dans la partie publique de son système de statistiques (ASDIS). L'incident a été détecté par l'institution de cybersécurité Cert.lv. Les données volées comprennent les coordonnées de 697 représentants commerciaux et 34 responsables du PTAC. Le PTAC a confirmé que les données volées étaient des coordonnées de contact (nom, prénom, e-mail, numéro de téléphone) et qu'aucune donnée personnelle sensible n'était stockée. Le PTAC a fermé le système concerné et a informé les autorités compétentes.",
+      "description": "",
+      "title": "\"Cert.lv\" atklāj, kā notika kiberuzbrukums PTAC sistēmai",
+      "url": "https://nra.lv/latvija/529162-cert-lv-informacija-par-kiberuzbrukumu-ptac.htm",
+      "added": "2026-09-04",
+      "infostealer": {
+        "update": "2026-09-04T16:30:07",
+        "employees": 0,
+        "users": 1,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 1,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-09-03",
+      "victim": "Özel Adatıp Hastanesi",
+      "domain": "adatiphastanesi.com",
+      "country": "TR",
+      "summary": "L'hôpital privé Adatıp a été ciblé par une tentative de cyberattaque dans le cadre d'une vague d'attaques visant les établissements de santé en Turquie. Grâce à sa solide infrastructure informatique et à ses systèmes de cybersécurité, l'attaque a été rapidement détectée et maîtrisée. Les analyses techniques ont confirmé qu'il n'y a eu ni fuite de données, ni perte de données, ni accès non autorisé.",
+      "description": "",
+      "title": "Özel Adatıp Hastanesi güçlü siber güvenlik altyapısıyla verilerini korudu",
+      "url": "https://www.halk54.com/ozel-adatip-hastanesi-guclu-siber-guvenlik-altyapisiyla-verilerini-korudu/amp",
+      "added": "2026-09-04",
+      "infostealer": {
+        "update": "2026-09-04T16:00:08",
+        "employees": 5,
+        "users": 0,
+        "thirdparties": 4,
+        "employees_url": 4,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
     },
     {
       "date": "2026-09-03",

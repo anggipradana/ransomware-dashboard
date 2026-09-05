@@ -1,11 +1,17 @@
 {
   "filter_type": null,
-  "count": 188,
+  "count": 189,
   "groups": [
     {
       "group": "0apt",
       "ioc_types": {
         "md5": 4
+      }
+    },
+    {
+      "group": "0day syndicate",
+      "ioc_types": {
+        "ip": 1
       }
     },
     {

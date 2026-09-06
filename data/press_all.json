@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 4074,
+  "count": 4076,
   "results": [
     {
       "date": "2026-11-18",
@@ -1029,6 +1029,19 @@
         "group": "xpl0itrs",
         "permalink": "https://www.ransomware.live/id/R3J1cHBvIFNwYWdnaWFyaSBQYXJtYUB4cGwwaXRycw=="
       }
+    },
+    {
+      "date": "2026-08-18",
+      "victim": "Tirupati Sugar Mill Bagaha",
+      "domain": "yadu.in",
+      "country": "IN",
+      "summary": "La Tirupati Sugar Mill de Bagaha a été victime d'une cyberattaque majeure menée par des hackers inconnus. Cette attaque a permis le vol de données confidentielles et a causé un préjudice financier estimé à environ 100 millions de roupies indiennes. Les systèmes de l'usine ont été paralysés, arrêtant complètement les opérations de vente, de facturation et de stock. Les attaquants demandent une rançon pour restituer les données volées, qui incluaient les registres financiers internes de l'entreprise ainsi que les paiements dus à des milliers d'agriculteurs.",
+      "description": "",
+      "title": "बिहार की तिरुपति शुगर मिल पर साइबर हमला, 100 करोड़ का नुकसान, डेटा चोरी - tirupati sugar mill cyber attack rs 100 cr loss in bihar",
+      "url": "https://www.jagran.com/bihar/west-champaran-tirupati-sugar-mill-cyber-attack-rs-100-cr-loss-in-bihar-40364351.html",
+      "added": "2026-09-06",
+      "infostealer": "",
+      "ransomware": null
     },
     {
       "date": "2026-08-18",
@@ -4765,6 +4778,19 @@
       "title": "Atac cibernetic asupra site-urilor primăriilor din Baraolt și Ghidfalău - Radio Romania Targu Mures",
       "url": "https://www.radiomures.ro/stiri/atac-cibernetic-asupra-site-urilor-primariilor-din-baraolt-si-ghidfalau.html",
       "added": "2026-07-11",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-07-08",
+      "victim": "Beaver County Behavioral Health",
+      "domain": "beavercountypa.gov",
+      "country": "US",
+      "summary": "Beaver County Behavioral Health a annoncé avoir été victime d'une attaque par rançongiciel. L'enquête a révélé que des cybercriminels ont copié des données du réseau de BCBH, y compris des informations de santé protégées. L'agence travaille avec les forces de l'ordre fédérales et des consultants en cybersécurité. Les types d'informations affectées incluent le nom, la date de naissance, le numéro de sécurité sociale, le numéro de permis de conduire, les informations médicales et les informations d'assurance. L'agence fournira des avis écrits aux personnes concernées.",
+      "description": "",
+      "title": "Beaver County agency announces it was ransomware attack victim",
+      "url": "https://www.timesonline.com/story/news/local/2026/09/04/beaver-county-pa-behavioral-health-clients-warned-information-might-be-at-risk-ransomware/91617014007/",
+      "added": "2026-09-06",
       "infostealer": "",
       "ransomware": null
     },

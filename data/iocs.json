@@ -1,6 +1,6 @@
 {
   "filter_type": null,
-  "count": 189,
+  "count": 191,
   "groups": [
     {
       "group": "0apt",
@@ -671,6 +671,15 @@
       }
     },
     {
+      "group": "kazu",
+      "ioc_types": {
+        "session": 2,
+        "email": 2,
+        "pgp": 1,
+        "ip": 1
+      }
+    },
+    {
       "group": "krybit",
       "ioc_types": {
         "tox": 2,
@@ -895,7 +904,8 @@
       "group": "panzer",
       "ioc_types": {
         "tox": 1,
-        "certificate": 1
+        "certificate": 1,
+        "pgp": 1
       }
     },
     {
@@ -1236,6 +1246,12 @@
     },
     {
       "group": "vect",
+      "ioc_types": {
+        "tox": 1
+      }
+    },
+    {
+      "group": "vexy ransomware",
       "ioc_types": {
         "tox": 1
       }

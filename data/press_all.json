@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 4076,
+  "count": 4079,
   "results": [
     {
       "date": "2026-11-18",
@@ -34,6 +34,19 @@
         "group": "akira",
         "permalink": "https://www.ransomware.live/id/UGF5bG9naXhAYWtpcmE="
       }
+    },
+    {
+      "date": "2026-09-07",
+      "victim": "Grandi Holding Co., Ltd.",
+      "domain": "grandi.com.tw",
+      "country": "TW",
+      "summary": "La société Grandi Holding Co., Ltd. a été victime d'une attaque par ransomware ayant touché plusieurs de ses serveurs, entraînant notamment le dysfonctionnement de son système ERP. L'équipe de sécurité du groupe de marketing intégré et d'investissement créatif a immédiatement isolé le réseau et activé les protocoles de réponse aux incidents pour sécuriser les systèmes. Les services sont en cours de restauration progressive et l'entreprise estime que l'impact global sur ses opérations et ses finances ne sera pas significatif.",
+      "description": "",
+      "title": "Today's Information",
+      "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=2&spoke_time=173619&spoke_date=20260907&co_id=6136",
+      "added": "2026-09-07",
+      "infostealer": "",
+      "ransomware": null
     },
     {
       "date": "2026-09-03",
@@ -941,6 +954,29 @@
         "employees": 0,
         "users": 0,
         "thirdparties": 1,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-08-22",
+      "victim": "BMS Engineering",
+      "domain": "bms-engineering.lu",
+      "country": "LU",
+      "summary": "Le prestataire informatique BMS Engineering, qui héberge des données de santé sensibles pour de nombreux cabinets médicaux au Luxembourg, a été victime d'une cyberattaque majeure. L'incident, détecté le 22 août 2026, a provoqué la paralysie des services digitaux et la perte ou corruption de données personnelles. L'attaque a affecté au moins 80 cabinets médicaux et une trentaine de PME. La firme a communiqué tardivement sur l'incident, suscitant des inquiétudes quant à l'ampleur réelle de la fuite de données.",
+      "description": "",
+      "title": "Exclusif: Une cyberattaque qui fait paniquer les médecins - Reporter.lu",
+      "url": "https://www.reporter.lu/exclusif-sante-digitale-une-cyberattaque-qui-fait-paniquer-les-medecins/",
+      "added": "2026-09-07",
+      "infostealer": {
+        "update": "2026-09-07T08:00:09",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 7,
         "employees_url": 0,
         "users_url": 0,
         "last_employee_compromised": null,
@@ -21311,6 +21347,43 @@
       "url": "https://ago.vermont.gov/document/2025-12-27-ellafi-federal-credit-union-data-breach-notice-consumers",
       "added": "2025-12-30",
       "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2025-10-13",
+      "victim": "Euronics XXL",
+      "domain": "euronics.de",
+      "country": "DE",
+      "summary": "Euronics XXL à Brackenheim a été victime d'une cyberattaque en octobre 2025, lui faisant rater les ventes de fin d'année. Le magasin, propriété de Schüle Handels GmbH a engagé une procédure de redressement en avril 2026.",
+      "description": "",
+      "title": "Cyberattacke treibt Euronics-XXL-Markt in die Insolvenz",
+      "url": "https://www.lkz.de/lokales/wirtschaft-lokal_artikel,-cyberattacke-treibt-euronics-xxl-markt-in-die-insolvenz-_arid,867786.html",
+      "added": "2026-09-07",
+      "infostealer": {
+        "update": "2026-09-07T08:00:10",
+        "employees": 0,
+        "users": 2691,
+        "thirdparties": 1,
+        "employees_url": 0,
+        "users_url": 100,
+        "last_employee_compromised": "1970-01-01T00:00:00+00:00",
+        "last_user_compromised": "2026-09-01T16:29:22+00:00",
+        "infostealer_stats": {
+          "CRYPTBOT": 7,
+          "Azorult": 100,
+          "Lumma": 776,
+          "Acreed": 68,
+          "Raccoon": 236,
+          "Vidar": 121,
+          "UNKNOWN": 26,
+          "StealC": 55,
+          "Atomic": 4,
+          "Remus": 12,
+          "RedLine": 587,
+          "Taurus": 1,
+          "Generic Stealer": 631
+        }
+      },
       "ransomware": null
     },
     {

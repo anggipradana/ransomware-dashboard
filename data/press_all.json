@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 4081,
+  "count": 4086,
   "results": [
     {
       "date": "2026-11-18",
@@ -34,6 +34,19 @@
         "group": "akira",
         "permalink": "https://www.ransomware.live/id/UGF5bG9naXhAYWtpcmE="
       }
+    },
+    {
+      "date": "2026-09-07",
+      "victim": "Everett",
+      "domain": "cityofeverett.com",
+      "country": "US",
+      "summary": "La ville d'Everett, dans le Massachusetts, a fermé son Hôtel de Ville suite à un incident de cybersécurité qui a affecté ses systèmes internes. La ville a découvert l'incident dimanche soir et a commencé à travailler avec des experts en cybersécurité. Bien que l'Hôtel de Ville soit fermé, les services d'urgence, les paiements en ligne et les opérations des services publics (police, pompiers, etc.) ont continué normalement. La ville n'a pas encore précisé la méthode d'accès initiale, si des données ont été compromises ou si un acteur malveillant a été identifié.",
+      "description": "",
+      "title": "Everett, Massachusetts, closes City Hall after cybersecurity incident",
+      "url": "https://dysruptionhub.com/everett-ma-city-hall-cyber-incident/",
+      "added": "2026-09-08",
+      "infostealer": "",
+      "ransomware": null
     },
     {
       "date": "2026-09-07",
@@ -200,6 +213,52 @@
     },
     {
       "date": "2026-09-02",
+      "victim": "SPZOZ Warszawa-Ursynów",
+      "domain": "zozursynow.pl",
+      "country": "PL",
+      "summary": "Le SPZOZ Warszawa-Ursynów, qui gère six cabinets médicaux et un centre de traitement à Varsovie, a été victime d'une cyberattaque par ransomware qui a affecté son serveur de messagerie. Le logiciel malveillant a chiffré la correspondance stockée, et il existe un risque potentiel de fuite de données personnelles des patients (nom, prénom, numéro PESEL, données de santé, etc.). L'incident a été signalé aux autorités compétentes, et l'établissement a isolé le serveur pour mener des analyses approfondies.",
+      "description": "",
+      "title": "Atak na sieć przychodni w Warszawie. Możliwy wyciek danych",
+      "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/cyberataki/atak-na-siec-przychodni-w-warszawie-mozliwy-wyciek-danych",
+      "added": "2026-09-08",
+      "infostealer": {
+        "update": "2026-09-08T15:30:07",
+        "employees": 0,
+        "users": 30,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 11,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-09-02",
+      "victim": "SNEXI",
+      "domain": "snexi.fr",
+      "country": "FR",
+      "summary": "SNEXI, entreprise de diagnostics immobiliers, a confirmé avoir été victime d'une cyberattaque le 2 septembre 2026, entraînant une violation de données personnelles. Les données potentiellement compromises incluent des noms, prénoms, adresses e-mail, adresses postales et numéros de téléphone, ainsi que des informations liées à des biens immobiliers (propriétaires, locataires). SNEXI a sécurisé ses systèmes, notifié l'incident à la CNIL et mène toujours des investigations pour déterminer l'étendue exacte de la fuite. L'entreprise précise qu'aucune donnée financière, bancaire ou sensible n'a été compromise.",
+      "description": "",
+      "title": "Fuite de données chez SNEXI : des informations sur des propriétaires,...",
+      "url": "https://frenchbreaches.com/alertes/snexi-mtndjyfm1p926jbh30z",
+      "added": "2026-09-08",
+      "infostealer": {
+        "update": "2026-09-08T13:00:09",
+        "employees": 0,
+        "users": 15,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 6,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-09-02",
       "victim": "Luminis Health",
       "domain": "luminishealth.org",
       "country": "US",
@@ -279,6 +338,19 @@
       "title": "光電廠杭特遭網路攻擊",
       "url": "https://www.ithome.com.tw/news/178600",
       "added": "2026-09-02",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-09-01",
+      "victim": "Stadtwerke Landsberg",
+      "domain": "stadtwerke-landsberg.de",
+      "country": "GER",
+      "summary": "Une entreprise de services publics municipale en Bavière a été victime d'une cyberattaque qui a chiffré son réseau informatique central. L'incident, survenu la semaine du 1er septembre, a perturbé les systèmes de bureau, mais n'a pas affecté les services essentiels tels que l'électricité et l'eau. L'entreprise, Stadtwerke Landsberg, n'a pas identifié de groupe de ransomware spécifique ni confirmé une demande de rançon, mais elle ne peut exclure que des données personnelles (noms, adresses, numéros de téléphone, adresses e-mail et coordonnées bancaires) aient été consultées ou volées. L'enquête forensique est en cours.",
+      "description": "",
+      "title": "Cyberattack encrypts systems at Bavarian municipal utility",
+      "url": "https://therecord.media/cyberattack-bavaria-germany-utility",
+      "added": "2026-09-08",
       "infostealer": "",
       "ransomware": null
     },
@@ -1315,6 +1387,29 @@
       "url": "https://www.bangordailynews.com/2026/08/17/penobscot/penobscot-government/lincoln-maine-town-office-closed-cyberattack/",
       "added": "2026-08-17",
       "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-08-14",
+      "victim": "Reasuransi Marein (MREI)",
+      "domain": "marein-re.com",
+      "country": "ID",
+      "summary": "Reasuransi Marein (MREI) a subi une cyberattaque qui a entraîné un retard dans la publication de ses rapports financiers et annuels pour l'exercice 2025. L'incident a été géré, et il n'y a eu aucune fuite de données jusqu'à la tenue de l'Assemblée Générale Extraordinaire. L'OJK (Autorité de Surveillance des Assurances) a souligné l'importance de renforcer la résilience cybernétique et la gestion des risques dans le secteur, tandis que Marein travaille avec des professionnels pour sécuriser ses systèmes et finaliser les calculs comptables.",
+      "description": "",
+      "title": "OJK: Insiden Reasuransi Marein Jadi Pengingat Pentingnya Ketahanan Siber",
+      "url": "https://keuangan.kontan.co.id/news/ojk-insiden-reasuransi-marein-jadi-pengingat-pentingnya-ketahanan-siber",
+      "added": "2026-09-08",
+      "infostealer": {
+        "update": "2026-09-08T16:00:08",
+        "employees": 0,
+        "users": 2,
+        "thirdparties": 2,
+        "employees_url": 0,
+        "users_url": 6,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
       "ransomware": null
     },
     {

@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 4079,
+  "count": 4081,
   "results": [
     {
       "date": "2026-11-18",
@@ -46,6 +46,38 @@
       "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=2&spoke_time=173619&spoke_date=20260907&co_id=6136",
       "added": "2026-09-07",
       "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-09-03",
+      "victim": "Springfield Public Schools",
+      "domain": "springfieldpublicschools.com",
+      "country": "US",
+      "summary": "Les écoles publiques de Springfield, dans le Massachusetts, ont été contraintes de fermer leurs 64 établissements suite à un incident cybernétique, perturbant l'instruction de plus de 23 000 élèves. La direction a annoncé la fermeture lundi, donnant aux autorités le temps d'enquêter et de restaurer les systèmes. Bien que l'incident ait été identifié publiquement, les détails précis, tels que la méthode d'accès initiale, le type de logiciel malveillant ou si des données d'élèves ou d'employés ont été compromises, restent inconnus.",
+      "description": "",
+      "title": "Cyber incident forces closure of 64 Springfield, Massachusetts, schools",
+      "url": "https://dysruptionhub.com/springfield-schools-cyber-incident/",
+      "added": "2026-09-08",
+      "infostealer": {
+        "update": "2026-09-08T08:00:09",
+        "employees": 174,
+        "users": 74,
+        "thirdparties": 215,
+        "employees_url": 14,
+        "users_url": 22,
+        "last_employee_compromised": "2026-07-25T18:16:33.077000+00:00",
+        "last_user_compromised": "2026-08-26T19:58:18+00:00",
+        "infostealer_stats": {
+          "UNKNOWN": 3,
+          "Raccoon": 6,
+          "Azorult": 16,
+          "Generic Stealer": 32,
+          "RedLine": 81,
+          "Lumma": 20,
+          "Taurus": 1,
+          "Vidar": 2
+        }
+      },
       "ransomware": null
     },
     {
@@ -9134,6 +9166,19 @@
         "last_user_compromised": null,
         "infostealer_stats": {}
       },
+      "ransomware": null
+    },
+    {
+      "date": "2026-05-01",
+      "victim": "Education Software Co., Ltd.",
+      "domain": "kyoikusw.co.jp",
+      "country": "JP",
+      "summary": "La société japonaise de logiciels éducatifs a annoncé qu'un accès non autorisé avait été détecté sur un serveur inactif. Cet accès a entraîné une cryptage par rançongiciel et des traces d'accès non autorisé par des tiers. L'incident, découvert grâce à l'entreprise de location de serveurs, concerne des données de 4 627 personnes (clients et partenaires) qui ont utilisé un service web (système d'auto-évaluation) avant 2016. Les informations potentiellement compromises incluent des données clients, le nom de l'université, le nom et une partie du numéro d'étudiant.",
+      "description": "",
+      "title": "教育ソフトウェアの休眠中のレンタルサーバにランサムウェア攻撃、暗号化被害と不正アクセスの痕跡を確認 | ScanNetSecurity",
+      "url": "https://s.netsecurity.ne.jp/article/2026/09/08/56158.html",
+      "added": "2026-09-08",
+      "infostealer": "",
       "ransomware": null
     },
     {

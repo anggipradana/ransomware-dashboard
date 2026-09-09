@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 4086,
+  "count": 4090,
   "results": [
     {
       "date": "2026-11-18",
@@ -58,6 +58,19 @@
       "title": "Today's Information",
       "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=2&spoke_time=173619&spoke_date=20260907&co_id=6136",
       "added": "2026-09-07",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-09-06",
+      "victim": "Gojin Motors",
+      "domain": "gojin.com",
+      "country": "KR",
+      "summary": "Le concessionnaire officiel de voitures importées, Gojin Motors, a été victime d'un accès illégal externe et d'une infection par ransomware sur certains de ses serveurs internes. L'incident a déclenché une enquête pour déterminer l'étendue de la fuite de données personnelles de ses clients, incluant des informations d'identité et des historiques de service. Bien que Gojin Motors affirme que l'ampleur de la fuite est faible, l'incident soulève des préoccupations concernant la gestion des données clients dans le secteur des concessionnaires de voitures importées, car ces informations peuvent être utilisées pour des attaques de phishing sophistiquées ou des fraudes.",
+      "description": "",
+      "title": "아우디 딜러 고진모터스, 랜섬웨어 공격…수입차, 개인정보 보안 ‘비상’",
+      "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260909010003626",
+      "added": "2026-09-09",
       "infostealer": "",
       "ransomware": null
     },
@@ -339,6 +352,29 @@
       "url": "https://www.ithome.com.tw/news/178600",
       "added": "2026-09-02",
       "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-09-01",
+      "victim": "Westfield Public Schools",
+      "domain": "westfieldnjk12.org",
+      "country": "US",
+      "summary": "Les Westfield Public Schools, dans le New Jersey, ont subi une panne de réseau qui a perturbé les communications et l'enseignement numérique pendant la première semaine de l'année scolaire. Bien que le district ait initialement attribué la panne à une défaillance matérielle, le groupe INC Ransom a revendiqué la responsabilité de l'incident et a listé le district sur son site de fuite, affichant des images de formulaires W-2 d'employés. Le district n'a pas confirmé qu'il s'agissait d'une cyberattaque, mais a qualifié le problème de « perturbation technologique ».",
+      "description": "",
+      "title": "Network outage disrupts Westfield Public Schools in New Jersey as ransomware group posts samples",
+      "url": "https://dysruptionhub.com/westfield-schools-network-outage/",
+      "added": "2026-09-09",
+      "infostealer": {
+        "update": "2026-09-09T10:30:09",
+        "employees": 6,
+        "users": 10,
+        "thirdparties": 20,
+        "employees_url": 3,
+        "users_url": 8,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
       "ransomware": null
     },
     {
@@ -14919,6 +14955,29 @@
     },
     {
       "date": "2026-02-04",
+      "victim": "Gex Corporation",
+      "domain": "gex-fp.co.jp",
+      "country": "JP",
+      "summary": "La société Gex Corporation a annoncé avoir été victime d'une attaque par rançongiciel sur ses serveurs. L'incident a été découvert le 4 février, lorsque des fichiers sur certains de ses serveurs ont été chiffrés, et a été confirmé comme étant une attaque par rançongiciel.",
+      "description": "",
+      "title": "ジェックスにランサムウェア攻撃、商品の出荷を停止 | ScanNetSecurity",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/02/25/54700.html",
+      "added": "2026-09-09",
+      "infostealer": {
+        "update": "2026-09-09T11:00:08",
+        "employees": 0,
+        "users": 56,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 9,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-02-04",
       "victim": "Master Millwork, LLC",
       "domain": "mastermillwork.com",
       "country": "US",
@@ -15368,6 +15427,19 @@
         "group": "incransom",
         "permalink": "https://www.ransomware.live/id/ZGVubWFyay5rMTIud2kudXNAaW5jcmFuc29t"
       }
+    },
+    {
+      "date": "2026-01-29",
+      "victim": "Ville de Bourg-Achard",
+      "domain": "bourgachard.fr",
+      "country": "FR",
+      "summary": "La municipalité de Bourg-Achard a été victime d'une cyberattaque le 29 janvier 2026, entraînant une fuite de données. Les autorités compétentes (CNIL, gendarmerie spécialisée, ANSSI/Normandie Cyber) ont été informées, et la ville a lancé un appel à la vigilance pour prévenir les fraudes.",
+      "description": "",
+      "title": "Bourg-Achard : la mairie victime d'une cyberattaque",
+      "url": "https://www.sweetfm.fr/bourg-achard-la-mairie-victime-d-une-cyberattaque",
+      "added": "2026-09-09",
+      "infostealer": "",
+      "ransomware": null
     },
     {
       "date": "2026-01-29",

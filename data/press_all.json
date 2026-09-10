@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 4092,
+  "count": 4095,
   "results": [
     {
       "date": "2026-11-18",
@@ -49,6 +49,19 @@
       "ransomware": null
     },
     {
+      "date": "2026-09-08",
+      "victim": "Hilltop National Bank",
+      "domain": "hilltop.bank",
+      "country": "US",
+      "summary": "La Hilltop National Bank, basée à Casper, Wyoming, a dû fermer tous ses bureaux et ses systèmes internes après avoir détecté un incident de cybersécurité. Cet incident a perturbé les services bancaires en ligne, mobiles, les services téléphoniques et les paiements programmés. La banque a isolé son réseau pour protéger les données et a informé les autorités réglementaires. Elle a promis de rembourser les frais et charges engendrés par l'incident.",
+      "description": "",
+      "title": "Hilltop National Bank closes Wyoming branches after cybersecurity incident",
+      "url": "https://dysruptionhub.com/hilltop-bank-wyoming-cyber-incident/",
+      "added": "2026-09-10",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
       "date": "2026-09-07",
       "victim": "Everett",
       "domain": "cityofeverett.com",
@@ -72,6 +85,33 @@
       "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=2&spoke_time=173619&spoke_date=20260907&co_id=6136",
       "added": "2026-09-07",
       "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-09-06",
+      "victim": "Batipro",
+      "domain": "batipro.lu",
+      "country": "LU",
+      "summary": "Batipro, un fournisseur de matériaux de construction basé à Betrange, a été victime d'une cyberattaque qui a ciblé l'ensemble de ses six serveurs. L'incident, survenu le week-end, pourrait potentiellement entraîner un léger retard dans le paiement des heures supplémentaires. Le syndicat LCGB note que c'est le premier cas de cyberattaque dans le secteur de la construction au Luxembourg, soulignant une augmentation perçue de ces incidents. L'article mentionne également d'autres incidents récents, tels que des attaques contre des cabinets médicaux et des sites gouvernementaux.",
+      "description": "",
+      "title": "First known cyberattack on construction sector delays overtime pay for 800 staff",
+      "url": "https://www.luxtimes.lu/luxembourg/first-known-cyberattack-on-construction-sector-delays-overtime-pay-for-800-staff/161218050.html",
+      "added": "2026-09-10",
+      "infostealer": {
+        "update": "2026-09-10T14:00:10",
+        "employees": 0,
+        "users": 14,
+        "thirdparties": 1,
+        "employees_url": 0,
+        "users_url": 3,
+        "last_employee_compromised": "1970-01-01T00:00:00+00:00",
+        "last_user_compromised": "2026-05-18T20:13:18+00:00",
+        "infostealer_stats": {
+          "RedLine": 8,
+          "Raccoon": 1,
+          "UNKNOWN": 1
+        }
+      },
       "ransomware": null
     },
     {
@@ -5775,6 +5815,29 @@
         "thirdparties": 0,
         "employees_url": 0,
         "users_url": 3,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-06-29",
+      "victim": "Salida Union School District",
+      "domain": "salida.k12.ca.us",
+      "country": "US",
+      "summary": "Le Salida School District, situé dans le Colorado, a subi une cyberattaque qui a forcé la mise hors ligne de son réseau le 29 juin. L'attaque a endommagé des fichiers stockés localement et perturbé les opérations administratives, bien que les systèmes basés sur le cloud soient restés opérationnels. Bien qu'il n'y ait pas de confirmation publique de l'extraction de données, l'incident a été signalé aux forces de l'ordre et une enquête est en cours. Une telle attaque a été revendiquée par Qilin le 27 juillet.",
+      "description": "",
+      "title": "Cyberattack damages files at Salida School District in Colorado",
+      "url": "https://dysruptionhub.com/salida-school-district-cyberattack/",
+      "added": "2026-09-10",
+      "infostealer": {
+        "update": "2026-07-26T12:30:56",
+        "employees": 0,
+        "users": 6,
+        "thirdparties": 7,
+        "employees_url": 0,
+        "users_url": 4,
         "last_employee_compromised": null,
         "last_user_compromised": null,
         "infostealer_stats": {}

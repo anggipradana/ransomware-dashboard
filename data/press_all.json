@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 4098,
+  "count": 4103,
   "results": [
     {
       "date": "2026-11-18",
@@ -34,6 +34,68 @@
         "group": "akira",
         "permalink": "https://www.ransomware.live/id/UGF5bG9naXhAYWtpcmE="
       }
+    },
+    {
+      "date": "2026-09-11",
+      "victim": "Machelen",
+      "domain": "machelen.be",
+      "country": "BE",
+      "summary": "Le gouvernement local de Machelen est confronté à un incident de cybersécurité qui a paralysé ses systèmes numériques depuis le vendredi 11 septembre 2026. L'attaque, qui semble être survenue via du 'phishing', a forcé la fermeture des guichets municipaux. Les autorités enquêtent pour déterminer l'étendue des dégâts et s'assurer qu'aucune donnée personnelle n'a été divulguée. Bien que les services numériques de base (site web, e-loket) restent accessibles via d'autres systèmes, la communication par e-mail est interrompue.",
+      "description": "",
+      "title": "Cyberaanval treft dienstverlening van gemeente Machelen: \"Vermoedelijk geen persoonsgegevens gestolen\" | VRT NWS Nieuws",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/09/14/cyberaanval-treft-dienstverlening-van-gemeente-machelen-vermoe/",
+      "added": "2026-09-14",
+      "infostealer": {
+        "update": "2026-09-14T13:00:07",
+        "employees": 0,
+        "users": 4,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 1,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-09-11",
+      "victim": "Duopharma Biotech Bhd (DPHARMA)",
+      "domain": "duopharmabiotech.com",
+      "country": "MY",
+      "summary": "La société de produits pharmaceutiques Duopharma Biotech a été victime d'une cyberattaque, avec des intrus non autorisés accédant à son infrastructure informatique. Une enquête préliminaire suggère que des archives, potentiellement incluant des données personnelles, ont été volées. L'entreprise a mis en place des mesures de confinement immédiates et assure que ses systèmes opérationnels et son réseau central ne sont pas affectés, permettant la continuité des activités. Duopharma a lancé une enquête numérique complète et s'engage à renforcer sa sécurité en attendant de déterminer l'étendue exacte des données compromises.",
+      "description": "",
+      "title": "联合药业遭网络攻击 个人资料或外泄",
+      "url": "https://www.klsescreener.com/v2/news/view/1790765/联合药业遭网络攻击_个人资料或外泄",
+      "added": "2026-09-14",
+      "infostealer": {
+        "update": "2024-09-18T09:37:30",
+        "employees": 0,
+        "users": 9,
+        "thirdparties": 9,
+        "employees_url": 0,
+        "users_url": 3,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "ValenciaLeaks",
+        "permalink": "https://www.ransomware.live/id/ZHVvcGhhcm1hYmlvdGVjaC5jb21AVmFsZW5jaWFMZWFrcw=="
+      }
+    },
+    {
+      "date": "2026-09-11",
+      "victim": "Kreishandwerkerschaft Borken",
+      "domain": "kh-borken.de",
+      "country": "DE",
+      "summary": "La Kreishandwerkerschaft Borken a été victime d'une cyberattaque. Le serveur de l'institution a été compromis dans la nuit du jeudi au vendredi 11 septembre, rendant l'organisation injoignable par téléphone et par courriel. Cette situation devrait durer au moins jusqu'au mercredi 16 septembre, voire plus longtemps.",
+      "description": "",
+      "title": "Kreishandwerkerschaft von Hackern angegriffen",
+      "url": "https://www.wn.de/muensterland/kreis-borken/gronau/kreishandwerkerschaft-von-hackern-angegriffen-3646428?pid=true&ueg=default",
+      "added": "2026-09-14",
+      "infostealer": "",
+      "ransomware": null
     },
     {
       "date": "2026-09-11",
@@ -76,6 +138,32 @@
     },
     {
       "date": "2026-09-09",
+      "victim": "Port of Tanjung Pelepas",
+      "domain": "ptp.com.my",
+      "country": "MY",
+      "summary": "Le Port de Tanjung Pelepas a confirmé avoir subi un incident de cybersécurité qui a affecté ses systèmes d'exploitation et a temporairement interrompu les opérations du terminal à conteneurs. Un redémarrage progressif a commencé le 10 septembre.",
+      "description": "",
+      "title": "Cyber attack disrupts operations at Malaysia’s Port of Tanjung Pelepas",
+      "url": "https://www.lloydslist.com/LL1158420/Cyber-attack-disrupts-operations-at-Malaysia%E2%80%99s-Port-of-Tanjung-Pelepas",
+      "added": "2026-09-14",
+      "infostealer": {
+        "update": "2026-09-11T15:54:45",
+        "employees": 10,
+        "users": 322,
+        "thirdparties": 34,
+        "employees_url": 6,
+        "users_url": 47,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "direwolf",
+        "permalink": "https://www.ransomware.live/id/UG9ydCBvZiBUYW5qdW5nIFBlbGVwYXNAZGlyZXdvbGY="
+      }
+    },
+    {
+      "date": "2026-09-09",
       "victim": "Le Tampon",
       "domain": "letampon.fr",
       "country": "FR",
@@ -85,6 +173,29 @@
       "url": "https://www.linfo.re/la-reunion/societe/le-tampon-la-mairie-victime-d-une-cyber-attaque-les-services-municipaux-au-ralenti",
       "added": "2026-09-09",
       "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-09-08",
+      "victim": "Comune di Prato",
+      "domain": "comune.prato.it",
+      "country": "IT",
+      "summary": "Le systèmes du Comune di Prato ont été touchés par une cyberattaque le 8 septembre. L'incident a été rapidement détecté et contenu par les systèmes de surveillance. Les premières vérifications n'ont révélé aucune altération des bases de données, des archives ou des dossiers réseau. Le Conseil municipal a mis en place des mesures de sécurité et a signalé l'incident à la police postale pour identifier les responsables.",
+      "description": "",
+      "title": "Attacco informatico al Comune di Prato, nessuna violazione delle banche dati",
+      "url": "https://www.notiziediprato.it/attualita/attacco-informatico-al-comune-di-prato-nessuna-violazione-delle-banche-dati/",
+      "added": "2026-09-14",
+      "infostealer": {
+        "update": "2026-09-14T12:30:10",
+        "employees": 24,
+        "users": 174,
+        "thirdparties": 13,
+        "employees_url": 6,
+        "users_url": 66,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
       "ransomware": null
     },
     {

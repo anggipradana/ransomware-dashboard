@@ -307,7 +307,10 @@
           "Vidar": 2
         }
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "interlock",
+        "permalink": "https://www.ransomware.live/id/U3ByaW5nZmllbGQgUHVibGljIFNjaG9vbHNAaW50ZXJsb2Nr"
+      }
     },
     {
       "date": "2026-09-03",
@@ -1718,7 +1721,10 @@
         "last_user_compromised": null,
         "infostealer_stats": {}
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "interlock",
+        "permalink": "https://www.ransomware.live/id/Q2l0eSBvZiBGb3J0IFNtaXRoIEFya2Fuc2FzQGludGVybG9jaw=="
+      }
     },
     {
       "date": "2026-08-13",

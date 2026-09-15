@@ -1688,7 +1688,7 @@
       "url": "https://www.escudodigital.com/ciberseguridad/la-japonesa-ryomo-systems-investiga-que-datos-han-robado-los-hackers-de-sus-clientes.html",
       "added": "2026-08-19",
       "infostealer": {
-        "update": "2026-08-19T16:30:08",
+        "update": "2026-09-15T19:29:59",
         "employees": 0,
         "users": 0,
         "thirdparties": 1,
@@ -1698,7 +1698,10 @@
         "last_user_compromised": null,
         "infostealer_stats": {}
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "safepay",
+        "permalink": "https://www.ransomware.live/id/cnlvbW8uY28uanBAc2FmZXBheQ=="
+      }
     },
     {
       "date": "2026-08-14",

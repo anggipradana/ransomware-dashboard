@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 4103,
+  "count": 4108,
   "results": [
     {
       "date": "2026-11-18",
@@ -34,6 +34,29 @@
         "group": "akira",
         "permalink": "https://www.ransomware.live/id/UGF5bG9naXhAYWtpcmE="
       }
+    },
+    {
+      "date": "2026-09-15",
+      "victim": "Ayuntamiento de Collado Villalba",
+      "domain": "colladovillalba.es",
+      "country": "ES",
+      "summary": "L'Ayuntamiento de Collado Villalba a été victime d'une cyberattaque qui a paralysé son support informatique municipal. L'incident a entraîné la chute complète du site web électronique de la municipalité et la fermeture des deux bureaux de service aux citoyens. Initialement attribué à une panne technique, l'Ayuntamiento a confirmé par la suite qu'il s'agissait d'une attaque informatique délibérée. La municipalité a déposé une plainte auprès de la Guardia Civil et a coordonné l'analyse avec la Consejería de Digitalización de la Communauté de Madrid.",
+      "description": "",
+      "title": "Un ciberataque colapsa los servicios informáticos del Ayuntamiento de Collado Villalba y deja a miles de vecinos sin atención",
+      "url": "https://cadenaser.com/cmadrid/2026/09/15/collado-villalba-paraliza-sus-oficinas-de-atencion-y-la-sede-web-por-un-fallo-informatico-en-el-ayuntamiento-ser-madrid-sierra/",
+      "added": "2026-09-16",
+      "infostealer": {
+        "update": "2026-09-16T09:00:09",
+        "employees": 0,
+        "users": 3,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 2,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
     },
     {
       "date": "2026-09-11",
@@ -122,6 +145,29 @@
         "group": "lockbit5",
         "permalink": "https://www.ransomware.live/id/ZHJ3dS5jb21AbG9ja2JpdDU="
       }
+    },
+    {
+      "date": "2026-09-10",
+      "victim": "Maison du souvenir de Maillé",
+      "domain": "maisondusouvenir.fr",
+      "country": "FR",
+      "summary": "La Maison du souvenir de Maillé a été victime d'une cyberattaque par rançongiciel, qui a chiffré et rendu inaccessibles l'ensemble de ses données, y compris des photographies, des documents de recherche et des témoignages collectés sur plus de vingt ans. Les pirates exigent une rançon de 5000 $ en bitcoins pour la récupération des données. L'incident a été découvert dans la nuit du 9 au 10 septembre 2026, et la Maison du souvenir est confrontée à un dilemme quant au paiement de la rançon, tout en étant également victime d'une violation de données à caractère personnel (adresses électroniques d'adhérents).",
+      "description": "",
+      "title": "\"Vingt années de travail anéanties\" : une cyberattaque vise la Maison du souvenir de Maillé, témoin du massacre de 1944",
+      "url": "https://france3-regions.franceinfo.fr/centre-val-de-loire/indre-loire/vingt-annees-de-travail-aneanties-une-cyberattaque-vise-la-maison-du-souvenir-de-maille-temoin-du-massacre-de-1944-3417461.html",
+      "added": "2026-09-16",
+      "infostealer": {
+        "update": "2026-09-16T08:30:10",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 2,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
     },
     {
       "date": "2026-09-10",
@@ -703,6 +749,19 @@
     },
     {
       "date": "2026-08-30",
+      "victim": "Avelogic",
+      "domain": "avelogic.com",
+      "country": "SG",
+      "summary": "Le système de paie des mosquées et madrasahs à Singapour, géré par le Conseil religieux islamique de Singapour (MUIS), a été victime d'une cyberattaque par rançongiciel. Le système SmartHRMS, fourni par le fournisseur de logiciels Avelogic, a été compromis, potentiellement affectant les détails du personnel, y compris les noms, coordonnées, salaires et numéros de compte bancaire. L'incident a été détecté pour la première fois le 30 et 31 août. Bien que des efforts aient été faits pour récupérer les données et que l'on ait pu restaurer le dernier ensemble de données mis à jour, les autorités mènent toujours des enquêtes, et il n'est pas clair si les données ont été volées en masse ou si la rançon a été payée.",
+      "description": "",
+      "title": "Payroll system of mosques, madrasahs hit by ransomware; staff details potentially compromised",
+      "url": "https://www.straitstimes.com/singapore/courts-crime/payroll-system-of-mosques-madrasahs-hit-by-ransomware-staff-details-potentially-compromised",
+      "added": "2026-09-16",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-08-30",
       "victim": "Compucase Enterprise Co., Ltd.",
       "domain": "hec-group.com.tw",
       "country": "TW",
@@ -1251,6 +1310,32 @@
     },
     {
       "date": "2026-08-23",
+      "victim": "Ville de Libercourt",
+      "domain": "libercourt.fr",
+      "country": "FR",
+      "summary": "La ville de Libercourt a été victime d'une cyberattaque par rançongiciel (ransomware) à la fin du mois d'août. Bien que les services municipaux ne soient pas impactés, il est confirmé que des données personnelles ont été exfiltrées. La municipalité a renforcé la sécurité de ses serveurs et a signalé l'incident à la CNIL et à l'ANSSI. Selon une source externe, les cybercriminels, se revendiquant de l'enseigne Qilin, auraient volé 817 Go de données, incluant des bulletins de paie et des cartes d'identité, et menacent de les publier.",
+      "description": "",
+      "title": "« Des données personnelles ont été exfiltrées » : la ville de Libercourt visée par une cyberattaque",
+      "url": "https://www.lavoixdunord.fr/1737463/article/2026-09-15/des-donnees-personnelles-ont-ete-exfiltrees-la-ville-de-libercourt-visee-par-une",
+      "added": "2026-09-16",
+      "infostealer": {
+        "update": "2026-09-06T15:14:48.080939",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 2,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "kairos",
+        "permalink": "https://www.ransomware.live/id/VmlsbGUgZGUgTGliZXJjb3VydEBrYWlyb3M="
+      }
+    },
+    {
+      "date": "2026-08-23",
       "victim": "Partners Financial Services",
       "domain": "partnersholdco.com",
       "country": "CZ",
@@ -1630,6 +1715,22 @@
       "added": "2026-08-17",
       "infostealer": "",
       "ransomware": null
+    },
+    {
+      "date": "2026-08-14",
+      "victim": "Cedar County Memorial Hospital",
+      "domain": "cedarcomem.com",
+      "country": "US",
+      "summary": "Le Cedar County Memorial Hospital, situé à El Dorado Springs, Missouri, a subi une panne de ses réseaux informatiques le 14 août, entraînant l'indisponibilité des dossiers de santé électroniques, du portail patient et de l'accès Internet. L'incident, qui a affecté également sa clinique médicale, a nécessité que le personnel documente les soins manuellement. Bien que la panne ait été résolue en grande partie d'ici le 28 août, le système Meditech est resté hors ligne pendant deux semaines. Le groupe de ransomware Wallstreet a publié une page le 28 août, affirmant avoir des données volées de l'hôpital. L'hôpital a indiqué que des experts externes et le FBI enquêtaient, mais n'a pas confirmé si les informations des patients avaient été affectées.",
+      "description": "",
+      "title": "Ransomware group claims attack on Missouri’s Cedar County Memorial Hospital after IT outage",
+      "url": "https://dysruptionhub.com/cedar-county-hospital-it-shutdown/",
+      "added": "2026-09-16",
+      "infostealer": "",
+      "ransomware": {
+        "group": "Wallstreet",
+        "permalink": "https://www.ransomware.live/id/Q2VkYXIgQ291bnR5IE1lbW9yaWFsIEhvc3BpdGFsQFdhbGxzdHJlZXQ="
+      }
     },
     {
       "date": "2026-08-14",

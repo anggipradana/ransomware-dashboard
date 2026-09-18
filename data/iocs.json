@@ -1,6 +1,6 @@
 {
   "filter_type": null,
-  "count": 191,
+  "count": 192,
   "groups": [
     {
       "group": "0apt",
@@ -485,6 +485,15 @@
       "ioc_types": {
         "tox": 1,
         "md5": 18
+      }
+    },
+    {
+      "group": "endzone",
+      "ioc_types": {
+        "session": 1,
+        "tox": 1,
+        "email": 1,
+        "pgp": 1
       }
     },
     {

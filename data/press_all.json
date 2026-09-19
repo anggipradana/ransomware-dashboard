@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 4125,
+  "count": 4127,
   "results": [
     {
       "date": "2026-11-18",
@@ -34,6 +34,29 @@
         "group": "akira",
         "permalink": "https://www.ransomware.live/id/UGF5bG9naXhAYWtpcmE="
       }
+    },
+    {
+      "date": "2026-09-17",
+      "victim": "Ellis County",
+      "domain": "ellisco.net",
+      "country": "US",
+      "summary": "Le comté d'Ellis a été victime d'un incident de ransomware affectant certaines de ses systèmes informatiques. Les autorités du comté ont pris des mesures immédiates pour contenir la perturbation et ont engagé des spécialistes en cybersécurité. Bien qu'aucune preuve d'accès à des informations personnelles ou sensibles n'ait été trouvée à ce stade, l'enquête est toujours en cours. Le comté travaille avec les forces de l'ordre locales et des partenaires en cybersécurité pour déterminer l'étendue et la cause de l'incident et restaurer les systèmes affectés.",
+      "description": "",
+      "title": "Ellis County reports ransomware incident",
+      "url": "https://hayspost.com/posts/e81e8354-23bb-4821-8b53-e22aa23d0c6a",
+      "added": "2026-09-19",
+      "infostealer": {
+        "update": "2026-09-19T09:30:08",
+        "employees": 0,
+        "users": 2,
+        "thirdparties": 2,
+        "employees_url": 0,
+        "users_url": 3,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
     },
     {
       "date": "2026-09-16",
@@ -309,6 +332,19 @@
           "DarkCrystal": 30
         }
       },
+      "ransomware": null
+    },
+    {
+      "date": "2026-09-11",
+      "victim": "Mairie d’Espelette",
+      "domain": "mairie-espelette.fr",
+      "country": "FR",
+      "summary": "La mairie d’Espelette a été victime d'un piratage suite à l'ouverture d'un fichier PDF malveillant nommé « FACTURE FC_PDF ». Ce malware a pris le contrôle des ordinateurs, a perturbé le secrétariat et a permis le piratage de l'adresse mail accueil@mairie-espelette.fr, qui a ensuite propagé le mail frauduleux à d'autres utilisateurs.",
+      "description": "",
+      "title": "Pays basque. La commune d’Espelette victime d’un piratage : des mails piégés portant un virus sont automatiquement envoyés par la mairie",
+      "url": "https://www.sudouest.fr/pyrenees-atlantiques/espelette/pays-basque-la-commune-d-espelette-victime-d-un-piratage-des-mails-pieges-portant-un-virus-sont-automatiquement-envoyes-par-la-mairie-30651628.php",
+      "added": "2026-09-19",
+      "infostealer": "",
       "ransomware": null
     },
     {

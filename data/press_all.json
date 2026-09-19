@@ -407,7 +407,10 @@
       "url": "https://www.wn.de/muensterland/kreis-borken/gronau/kreishandwerkerschaft-von-hackern-angegriffen-3646428?pid=true&ueg=default",
       "added": "2026-09-14",
       "infostealer": "",
-      "ransomware": null
+      "ransomware": {
+        "group": "rhysida",
+        "permalink": "https://www.ransomware.live/id/S3JlaXNoYW5kd2Vya2Vyc2NoYWZ0IEJvcmtlbkByaHlzaWRh"
+      }
     },
     {
       "date": "2026-09-11",

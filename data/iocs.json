@@ -1128,7 +1128,7 @@
       "group": "shinyhunters",
       "ioc_types": {
         "email": 1,
-        "ip": 1,
+        "ip": 2,
         "telegram": 4
       }
     },

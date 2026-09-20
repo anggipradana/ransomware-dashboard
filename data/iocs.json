@@ -1,6 +1,6 @@
 {
   "filter_type": null,
-  "count": 192,
+  "count": 193,
   "groups": [
     {
       "group": "0apt",
@@ -54,8 +54,8 @@
       "group": "anubis",
       "ioc_types": {
         "ip": 4,
-        "twitter": 2,
-        "md5": 25
+        "md5": 25,
+        "twitter": 1
       }
     },
     {
@@ -81,10 +81,10 @@
       "group": "babuk2",
       "ioc_types": {
         "email": 1,
-        "telegram": 1,
         "tox": 1,
         "session": 1,
-        "pgp": 1
+        "pgp": 1,
+        "telegram": 1
       }
     },
     {
@@ -241,9 +241,9 @@
     {
       "group": "bqtlock",
       "ioc_types": {
-        "telegram": 5,
+        "xmr": 1,
         "twitter": 1,
-        "xmr": 1
+        "telegram": 5
       }
     },
     {
@@ -310,8 +310,8 @@
     {
       "group": "crazyhunter",
       "ioc_types": {
-        "telegram": 2,
-        "tox": 1
+        "tox": 1,
+        "telegram": 2
       }
     },
     {
@@ -363,8 +363,8 @@
       "group": "d1r",
       "ioc_types": {
         "tox": 1,
-        "telegram": 1,
         "ip": 1,
+        "telegram": 1,
         "session": 1,
         "email": 1
       }
@@ -428,8 +428,8 @@
       "group": "devman",
       "ioc_types": {
         "tox": 1,
-        "twitter": 1,
-        "ip": 3
+        "ip": 3,
+        "twitter": 1
       }
     },
     {
@@ -788,9 +788,9 @@
       "group": "medusa",
       "ioc_types": {
         "email": 3,
-        "telegram": 1,
         "tox": 3,
-        "md5": 18
+        "md5": 18,
+        "telegram": 1
       }
     },
     {
@@ -800,6 +800,12 @@
         "email": 2,
         "tox": 2,
         "registrykey": 1
+      }
+    },
+    {
+      "group": "meowciety403",
+      "ioc_types": {
+        "telegram": 1
       }
     },
     {
@@ -914,7 +920,6 @@
       "group": "panzer",
       "ioc_types": {
         "tox": 1,
-        "certificate": 1,
         "pgp": 1
       }
     },
@@ -1123,6 +1128,7 @@
       "group": "shinyhunters",
       "ioc_types": {
         "email": 1,
+        "ip": 1,
         "telegram": 4
       }
     },

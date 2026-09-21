@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 4128,
+  "count": 4132,
   "results": [
     {
       "date": "2026-11-18",
@@ -36,6 +36,62 @@
       }
     },
     {
+      "date": "2026-09-21",
+      "victim": "Data Hub Pvt. Ltd. (et le marché boursier du Népal)",
+      "domain": "datahub.com.np",
+      "country": "Népal",
+      "summary": "Le marché boursier du Népal a été brusquement fermé le lundi suite à une cyberattaque par ransomware ciblant l'infrastructure de Data Hub Pvt. Ltd., qui héberge les serveurs du Système de Gestion des Transactions (TMS) de 72 sociétés de courtage. L'attaque a été détectée vers 5h30 du matin. Les autorités ont suspendu le commerce pour permettre une analyse forensique complète et garantir la sécurité du système, après que Data Hub ait isolé l'infrastructure affectée.",
+      "description": "",
+      "title": "Ransomware attack shuts stock market as investors raise security concerns",
+      "url": "https://english.onlinekhabar.com/ransomware-attack-shuts-nepse.html",
+      "added": "2026-09-21",
+      "infostealer": {
+        "update": "2026-09-21T12:00:11",
+        "employees": 0,
+        "users": 177,
+        "thirdparties": 2,
+        "employees_url": 0,
+        "users_url": 48,
+        "last_employee_compromised": "1970-01-01T00:00:00+00:00",
+        "last_user_compromised": "2026-09-14T00:00:00+00:00",
+        "infostealer_stats": {
+          "Ficker": 1,
+          "RedLine": 75,
+          "Vidar": 9,
+          "Generic Stealer": 40,
+          "UNKNOWN": 3,
+          "Raccoon": 10,
+          "Lumma": 25,
+          "Azorult": 4,
+          "StealC": 4
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-09-17",
+      "victim": "Boustead Singapore",
+      "domain": "boustead.sg",
+      "country": "SG",
+      "summary": "Le 18 septembre, le groupe Boustead Singapore a annoncé qu'une de ses unités commerciales à l'étranger avait été victime d'un incident de cybersécurité. L'unité concernée a immédiatement isolé les systèmes touchés et fait appel à des experts externes pour gérer la crise ; les données et systèmes critiques ont depuis été entièrement restaurés grâce aux sauvegardes. L'entreprise a informé les autorités compétentes, dont la Commission de protection des données personnelles (PDPC) de Singapour. Le groupe précise qu'aucune autre entité n'a été affectée et qu'il n'y a eu aucun impact matériel significatif sur ses opérations. Un audit de cybersécurité indépendant sera mené pour renforcer la résilience de ses systèmes.",
+      "description": "",
+      "title": "www.theedgesingapore.com",
+      "url": "https://www.theedgesingapore.com/amp/news/company-news/boustead-singapore-says-overseas-business-unit-subject--cybersecurity-incident",
+      "added": "2026-09-21",
+      "infostealer": {
+        "update": "2026-09-21T12:00:09",
+        "employees": 2,
+        "users": 0,
+        "thirdparties": 5,
+        "employees_url": 1,
+        "users_url": 2,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
       "date": "2026-09-17",
       "victim": "Ellis County",
       "domain": "ellisco.net",
@@ -55,6 +111,40 @@
         "last_employee_compromised": null,
         "last_user_compromised": null,
         "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-09-16",
+      "victim": "LMU (Université Ludwig Maximilian de Munich)",
+      "domain": "lmu.de",
+      "country": "DE",
+      "summary": "L'Université Ludwig Maximilian de Munich (LMU) a été victime d'une cyberattaque ayant permis à un attaquant non autorisé d'accéder aux données d'inscription stockées dans un de ses systèmes informatiques. Les données potentiellement compromises incluent des informations d'identification (nom, date de naissance, sexe, etc.), des coordonnées (adresse, e-mail, téléphone), des données bancaires (IBAN), des numéros d'assurance maladie, des numéros BAföG et des informations sur le parcours d'études. L'université a pris des mesures immédiates, retirant la composante affectée du système et collaborant avec les autorités d'enquête. Il n'y a pas de preuve que les données aient été publiées ou utilisées à mauvais escient, et le fonctionnement des études n'a pas été perturbé.",
+      "description": "",
+      "title": "Information über einen Datenschutzvorfall",
+      "url": "https://www.lmu.de/de/newsroom/newsuebersicht/news/information-ueber-einen-datenschutzvorfall-f446c16e.html",
+      "added": "2026-09-21",
+      "infostealer": {
+        "update": "2026-09-21T12:00:10",
+        "employees": 60,
+        "users": 500,
+        "thirdparties": 116,
+        "employees_url": 19,
+        "users_url": 100,
+        "last_employee_compromised": "2026-05-27T14:15:47+00:00",
+        "last_user_compromised": "2026-09-18T00:00:00+00:00",
+        "infostealer_stats": {
+          "Azorult": 9,
+          "RedLine": 152,
+          "Generic Stealer": 98,
+          "StealC": 21,
+          "Acreed": 4,
+          "Atomic": 5,
+          "Raccoon": 57,
+          "Vidar": 16,
+          "Lumma": 116,
+          "UNKNOWN": 3
+        }
       },
       "ransomware": null
     },
@@ -638,6 +728,19 @@
       "title": "아우디 딜러 고진모터스, 랜섬웨어 공격…수입차, 개인정보 보안 ‘비상’",
       "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260909010003626",
       "added": "2026-09-09",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-09-05",
+      "victim": "GUTcert",
+      "domain": "gut-cert.de",
+      "country": "DE",
+      "summary": "L'organisme de certification GUTcert, basé à Berlin, a été victime d'une cyberattaque. L'attaque a débuté le 5 septembre 2026 et a permis à des attaquants d'accéder à des parties des systèmes informatiques de l'entreprise. Entre le 6 et le 9 septembre 2026, environ 640 Go de données ont été volés. Les données concernées incluent des informations personnelles des employés, des données financières et fiscales de GUTcert, ainsi que des données clients, notamment des coordonnées, des rapports d'audit, des documentations de systèmes de gestion et des informations techniques sur les vulnérabilités. L'incident est particulièrement critique car GUTcert certifie de nombreuses entreprises de l'infrastructure critique (KRITIS) en Allemagne, ce qui signifie que les données volées peuvent inclure des informations très sensibles sur les réseaux d'énergie (centrales électriques, stations de distribution, etc.), telles que les plans de structure du réseau et les informations sur les vulnérabilités.",
+      "description": "",
+      "title": "Hackerangriff auf die GUTcert; Kundendaten abgeflossen - ein KRITIS-Problem?",
+      "url": "https://borncity.com/blog/2026/09/20/hackerangriff-auf-die-gutcert-kundendaten-abgeflossen/",
+      "added": "2026-09-21",
       "infostealer": "",
       "ransomware": null
     },

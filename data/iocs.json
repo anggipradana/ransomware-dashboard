@@ -298,7 +298,7 @@
       "group": "clop",
       "ioc_types": {
         "email": 11,
-        "ip": 1
+        "ip": 180
       }
     },
     {
@@ -1123,7 +1123,8 @@
     {
       "group": "settra",
       "ioc_types": {
-        "tox": 1
+        "tox": 1,
+        "ip": 2
       }
     },
     {

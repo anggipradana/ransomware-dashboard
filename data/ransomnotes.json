@@ -1,5 +1,5 @@
 {
-  "count": 239,
+  "count": 240,
   "groups": [
     {
       "group": ".git",
@@ -819,6 +819,10 @@
     },
     {
       "group": "silent",
+      "ransomnotes_count": 1
+    },
+    {
+      "group": "silentransomgroup",
       "ransomnotes_count": 1
     },
     {

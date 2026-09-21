@@ -1,6 +1,6 @@
 {
   "filter_type": null,
-  "count": 193,
+  "count": 194,
   "groups": [
     {
       "group": "0apt",
@@ -476,7 +476,7 @@
       "group": "eclipse",
       "ioc_types": {
         "tox": 1,
-        "certificate": 1,
+        "pgp": 1,
         "session": 1
       }
     },
@@ -609,7 +609,7 @@
     {
       "group": "helix",
       "ioc_types": {
-        "certificate": 1
+        "pgp": 1
       }
     },
     {
@@ -687,6 +687,14 @@
         "email": 2,
         "pgp": 1,
         "ip": 1
+      }
+    },
+    {
+      "group": "killsec",
+      "ioc_types": {
+        "tox": 1,
+        "session": 1,
+        "telegram": 1
       }
     },
     {

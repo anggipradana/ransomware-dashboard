@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 4127,
+  "count": 4128,
   "results": [
     {
       "date": "2026-11-18",
@@ -290,6 +290,19 @@
         "last_user_compromised": null,
         "infostealer_stats": {}
       },
+      "ransomware": null
+    },
+    {
+      "date": "2026-09-12",
+      "victim": "Ministère de la Défense et des Affaires des Vétérans (MODVA)",
+      "domain": "mod.gov.na",
+      "country": "NA",
+      "summary": "Le NAM-CSIRT (Namibia Cyber Security Incident Response Team) a confirmé qu'une activité non autorisée a été détectée dans le réseau du Ministère de la Défense et des Affaires des Vétérans (MODVA). L'incident est lié au groupe de ransomware RansomHouse, connu pour ses tactiques de « double-extorsion ». Le NAM-CSIRT mène l'enquête et appelle les organisations à renforcer leurs défenses cybernétiques.",
+      "description": "",
+      "title": "RansomHouse ransomware attack confirmed in Defence Ministry network - Informanté",
+      "url": "https://informante.web.na/?p=401023",
+      "added": "2026-09-21",
+      "infostealer": "",
       "ransomware": null
     },
     {

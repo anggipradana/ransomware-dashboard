@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 4132,
+  "count": 4134,
   "results": [
     {
       "date": "2026-11-18",
@@ -66,6 +66,19 @@
           "StealC": 4
         }
       },
+      "ransomware": null
+    },
+    {
+      "date": "2026-09-17",
+      "victim": "Verbandsgemeinde Otterbach-Otterberg",
+      "domain": "otterbach-otterberg.de",
+      "country": "DE",
+      "summary": "Une plateforme d'échange de documents pour les crèches dans le district de Kaiserslautern a été victime d'une cyberattaque. La municipalité de Verbandsgemeinde Otterbach-Otterberg a été informée de l'attaque vendredi soir. Bien que les données administratives ne semblent pas avoir été affectées, il n'est pas exclu que des données personnelles sur la plateforme des crèches aient été compromises. Les services en ligne ont été temporairement désactivés par mesure de sécurité, et les autorités mènent une enquête.",
+      "description": "",
+      "title": "Cyberangriff auf Kita-Plattform: Sind Daten betroffen?",
+      "url": "https://www.swr.de/swraktuell/rheinland-pfalz/kaiserslautern/kita-opfer-von-hackerangriff-westpfalz-otterbach-otterberg-102.html",
+      "added": "2026-09-22",
+      "infostealer": "",
       "ransomware": null
     },
     {
@@ -330,6 +343,29 @@
         "thirdparties": 0,
         "employees_url": 0,
         "users_url": 2,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-09-14",
+      "victim": "Kolkata Municipal Corporation (KMC)",
+      "domain": "kmcgov.in",
+      "country": "IN",
+      "summary": "Le Conseil municipal de Kolkata (KMC) a été victime d'une cyberattaque par rançongiciel (ransomware) qui a affecté son serveur central et son site web à partir du 14 septembre. Cette attaque a perturbé de nombreux services en ligne, y compris les portails de certificats de naissance et de décès, le paiement des taxes foncières et les services des départements de construction, de trésorerie et de finances. Les services ont été temporairement interrompus pour des raisons de sécurité, mais la situation est désormais revenue à la normale.",
+      "description": "",
+      "title": "KMC की वेबसाइट पर साइबर हमला, अब स्थिति सामान्य",
+      "url": "https://sanmarg.in/kolkata_city/kmc-website-cyber-attack-situation-normal",
+      "added": "2026-09-22",
+      "infostealer": {
+        "update": "2026-09-22T17:30:11",
+        "employees": 0,
+        "users": 1601,
+        "thirdparties": 2,
+        "employees_url": 0,
+        "users_url": 44,
         "last_employee_compromised": null,
         "last_user_compromised": null,
         "infostealer_stats": {}

@@ -1,6 +1,6 @@
 {
   "filter_type": null,
-  "count": 194,
+  "count": 195,
   "groups": [
     {
       "group": "0apt",
@@ -814,6 +814,13 @@
       "group": "meowciety403",
       "ioc_types": {
         "telegram": 1
+      }
+    },
+    {
+      "group": "metaencryptor",
+      "ioc_types": {
+        "url": 2,
+        "ip": 1
       }
     },
     {

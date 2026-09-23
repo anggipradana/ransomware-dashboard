@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 4134,
+  "count": 4139,
   "results": [
     {
       "date": "2026-11-18",
@@ -34,6 +34,59 @@
         "group": "akira",
         "permalink": "https://www.ransomware.live/id/UGF5bG9naXhAYWtpcmE="
       }
+    },
+    {
+      "date": "2026-09-23",
+      "victim": "CTOS Digital",
+      "domain": "ctosdigital.com",
+      "country": "MY",
+      "summary": "CTOS Digital a subi un incident de cybersécurité où des données personnelles de consommateurs ont été accédées sans autorisation. L'entreprise a immédiatement activé ses plans d'urgence, a réussi à contenir et à bloquer l'environnement affecté, et a engagé une équipe de réponse aux incidents indépendante pour une enquête légale. Les systèmes de l'entreprise sont actuellement opérationnels et l'incident est circonscrit à l'environnement spécifique affecté.",
+      "description": "",
+      "title": "CTOS遭网络攻击 部分消费者资料遭非法访问",
+      "url": "https://www.klsescreener.com/v2/news/view/1796407/ctos%E9%81%AD%E7%BD%91%E7%BB%9C%E6%94%BB%E5%87%BB-%E9%83%A8%E5%88%86%E6%B6%88%E8%B4%B9%E8%80%85%E8%B5%84%E6%96%99%E9%81%AD%E9%9D%9E%E6%B3%95%E8%AE%BF%E9%97%AE",
+      "added": "2026-09-23",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-09-23",
+      "victim": "Skroutz Last Mile",
+      "domain": "skroutz.gr",
+      "country": "GR",
+      "summary": "Skroutz Last Mile a annoncé un incident d'accès non autorisé à son système d'information. Les données affectées concernent les envois de colis et incluent des noms, des adresses et des numéros de téléphone. L'entreprise a précisé que les informations de cartes de crédit et autres détails de paiement, ainsi que les mots de passe, n'ont pas été compromises, car elles ne sont pas stockées dans ses systèmes. L'entreprise a pris des mesures de protection et a alerté les utilisateurs sur les risques potentiels de phishing.",
+      "description": "",
+      "title": "Στο στόχαστρο των χάκερ η Skroutz Last Mile: Επηρεάστηκαν ονοματεπώνυμα, διευθύνσεις και τηλέφωνα - Η ανακοίνωση",
+      "url": "https://www.capital.gr/epixeiriseis/4018872/sto-stoxastro-ton-xaker-i-skroutz-last-mile-epireastikan-onomateponuma-dieuthunseis-kai-tilefona-i-anakoinosi/?amp=true",
+      "added": "2026-09-23",
+      "infostealer": {
+        "update": "2026-09-23T12:00:11",
+        "employees": 7,
+        "users": 9835,
+        "thirdparties": 8,
+        "employees_url": 7,
+        "users_url": 100,
+        "last_employee_compromised": "2025-10-23T00:00:00+00:00",
+        "last_user_compromised": "2026-09-22T00:00:00+00:00",
+        "infostealer_stats": {
+          "RedLine": 2930,
+          "Raccoon": 1087,
+          "UNKNOWN": 101,
+          "Vidar": 361,
+          "Ficker": 11,
+          "Generic Stealer": 1707,
+          "Mystic": 23,
+          "StealC": 590,
+          "Atomic": 9,
+          "Predator": 10,
+          "CRYPTBOT": 30,
+          "Acreed": 5,
+          "Azorult": 118,
+          "KPOT": 2,
+          "Taurus": 11,
+          "Lumma": 1816
+        }
+      },
+      "ransomware": null
     },
     {
       "date": "2026-09-21",
@@ -66,6 +119,19 @@
           "StealC": 4
         }
       },
+      "ransomware": null
+    },
+    {
+      "date": "2026-09-20",
+      "victim": "Banque de Sang de Cordons de Boryeong",
+      "domain": "brcell.co.kr",
+      "country": "KR",
+      "summary": "La Banque de Sang de Cordons de Boryeong (Boryeong Saedaehyeol Bank), la première banque de sang de cordons en Corée du Sud, a signalé une possible fuite de données personnelles de mères et d'enfants suite à une infection par ransomware de son système de traitement des informations personnelles le 20 septembre. Les informations potentiellement compromises incluent les noms, numéros de carte d'identité, numéros de téléphone de la mère et du conjoint, ainsi que le nom et la date de naissance de l'enfant. Pour les membres inscrits avant juillet 2016, des informations professionnelles pourraient également avoir été compromises. Bien que la banque affirme que les informations financières ou sensibles ne sont pas incluses et qu'aucune fuite n'a été confirmée à ce jour, la Commission de Protection des Données Personnelles a ouvert une enquête.",
+      "description": "",
+      "title": "[단독]랜섬웨어에 제대혈은행 뚫렸다…“아기 정보도 유출 가능성”",
+      "url": "https://ichannela.com/news/detail/000000551923.do",
+      "added": "2026-09-23",
+      "infostealer": "",
       "ransomware": null
     },
     {
@@ -615,6 +681,19 @@
     },
     {
       "date": "2026-09-09",
+      "victim": "Centre de données de l'État du Bengale-Occidental",
+      "domain": "hosting.wb.gov.in",
+      "country": "IN",
+      "summary": "Le centre de données de l'État du Bengale-Occidental a subi une cyberattaque pendant cinq jours, du 9 au 13 septembre. Des experts soupçonnent que des données importantes de plusieurs départements gouvernementaux, y compris le ministère des Finances, ont été volées ou détruites. Les services en ligne, tels que l'enregistrement des naissances et des décès, ont été affectés, bien que les autorités n'aient pas encore confirmé officiellement le vol de données.",
+      "description": "",
+      "title": "बंगाल के सरकारी डाटा सेंटर पर साइबर हमला, कई विभागों के अहम दस्तावेज चोरी होने की आशंका - west bengal data center cyber attack data theft feared",
+      "url": "https://www.jagran.com/west-bengal/kolkata-west-bengal-data-center-cyber-attack-data-theft-feared-40381877.html",
+      "added": "2026-09-23",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-09-09",
       "victim": "Port of Tanjung Pelepas",
       "domain": "ptp.com.my",
       "country": "MY",
@@ -1076,6 +1155,19 @@
       "title": "光電廠杭特遭網路攻擊",
       "url": "https://www.ithome.com.tw/news/178600",
       "added": "2026-09-02",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-09-01",
+      "victim": "Alabama Board of Nursing",
+      "domain": "abn.alabama.gov",
+      "country": "US",
+      "summary": "Un incident de cybersécurité a perturbé le système de licences de l'Alabama Board of Nursing, mettant hors ligne le système de licences en ligne et forçant l'agence à traiter les demandes par voie papier. Cette panne a entraîné des retards dans l'embauche dans les hôpitaux et cliniques de l'État. Les autorités enquêtent sur l'événement, mais la nature exacte de l'incident (comme le ransomware) n'a pas été confirmée, et il n'y a pas eu de confirmation que des données aient été accédées ou supprimées.",
+      "description": "",
+      "title": "Alabama Board of Nursing cyber incident disrupts licensing statewide",
+      "url": "https://dysruptionhub.com/alabama-nursing-license-system-offline/",
+      "added": "2026-09-23",
       "infostealer": "",
       "ransomware": null
     },

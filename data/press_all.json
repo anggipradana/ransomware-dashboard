@@ -1414,7 +1414,10 @@
       "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=193302&spoke_date=20260830&co_id=3032",
       "added": "2026-08-31",
       "infostealer": "",
-      "ransomware": null
+      "ransomware": {
+        "group": "dragonforce",
+        "permalink": "https://www.ransomware.live/id/SEVDIEdyb3VwQGRyYWdvbmZvcmNl"
+      }
     },
     {
       "date": "2026-08-28",

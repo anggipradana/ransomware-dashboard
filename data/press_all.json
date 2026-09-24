@@ -586,14 +586,14 @@
       "url": "https://fr.finance.yahoo.com/actualites/revolut-confirme-avoir-envoy%C3%A9-donn%C3%A9es-092043291.html",
       "added": "2026-09-18",
       "infostealer": {
-        "update": "2026-09-18T09:00:11",
+        "update": "2026-09-24T13:28:21.967283",
         "employees": 0,
-        "users": 20149,
-        "thirdparties": 51,
+        "users": 20212,
+        "thirdparties": 52,
         "employees_url": 0,
         "users_url": 100,
         "last_employee_compromised": "1970-01-01T00:00:00+00:00",
-        "last_user_compromised": "2026-09-16T00:00:00+00:00",
+        "last_user_compromised": "2026-09-23T00:08:50.277000+00:00",
         "infostealer_stats": {
           "Ficker": 9,
           "UNKNOWN": 122,
@@ -615,7 +615,10 @@
           "DarkCrystal": 30
         }
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "ImNotAVillain",
+        "permalink": "https://www.ransomware.live/id/UmV2b2x1dEBJbU5vdEFWaWxsYWlu"
+      }
     },
     {
       "date": "2026-09-11",

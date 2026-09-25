@@ -4,36 +4,56 @@
     "month": null,
     "country": null
   },
-  "count": 4142,
+  "count": 4154,
   "results": [
     {
-      "date": "2026-11-18",
-      "victim": "Paylogix",
-      "domain": "paylogix.com",
+      "date": "2026-09-23",
+      "victim": "Stevens Point",
+      "domain": "stevenspoint.com",
       "country": "US",
-      "summary": "La société de gestion des avantages sociaux Paylogix a été victime d'une cyberattaque. Des pirates informatiques ont volé des informations sensibles, y compris des numéros de sécurité sociale, des données financières, des informations de santé et des numéros de passeport, appartenant à des dizaines de milliers de personnes. L'incident, qui a eu lieu entre le 13 et le 18 novembre, a été revendiqué par l'enseigne de ransomware Akira en janvier 2026.",
+      "summary": "Les autorités de Stevens Point enquêtent sur une possible cyberattaque qui a mis hors service plusieurs serveurs informatiques municipaux, perturbant les services téléphoniques et par courriel. Bien que les employés aient initialement identifié l'incident comme une cyberattaque, le maire a affirmé que la cause n'était pas confirmée publiquement. Il n'y a, à ce jour, aucune preuve que des données clients aient été compromises. Les services d'urgence restent opérationnels.",
       "description": "",
-      "title": "Employee benefits platform Paylogix says hackers stole financial and health",
-      "url": "https://therecord.media/paylogix-cyberattack-akira-ransomware",
-      "added": "2026-08-26",
+      "title": "Stevens Point investigates possible cyberattack after city servers go offline",
+      "url": "https://spmetrowire.com/stevens-point-investigates-possible-cyberattack-after-city-servers-go-offline/",
+      "added": "2026-09-25",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-09-23",
+      "victim": "Maileva",
+      "domain": "maileva.com",
+      "country": "FR",
+      "summary": "Maileva, un service de La Poste, a interrompu ses services suite à des tentatives d'accès non autorisés. Un cybercriminel cherchait à utiliser la plateforme pour procéder à l'envoi illégitime de courriers. L'incident a été détecté et les services ont été arrêtés préventivement le 23 septembre 2026. Aucune fuite de données personnelles n'a été annoncée à ce stade, et une plainte a été déposée.",
+      "description": "",
+      "title": "Cyberattaque chez La Poste : Maileva interrompt ses services après des...",
+      "url": "https://frenchbreaches.com/alertes/maileva-mufora09gh9so92vdk",
+      "added": "2026-09-25",
       "infostealer": {
-        "update": "2026-04-30T04:48:33",
+        "update": "2026-09-25T11:30:11",
         "employees": 0,
-        "users": 2,
+        "users": 154,
         "thirdparties": 0,
         "employees_url": 0,
-        "users_url": 3,
-        "last_employee_compromised": "1970-01-01T00:00:00+00:00",
-        "last_user_compromised": "2025-11-02T00:00:00+00:00",
-        "infostealer_stats": {
-          "RedLine": 1,
-          "Generic Stealer": 1
-        }
+        "users_url": 21,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
       },
-      "ransomware": {
-        "group": "akira",
-        "permalink": "https://www.ransomware.live/id/UGF5bG9naXhAYWtpcmE="
-      }
+      "ransomware": null
+    },
+    {
+      "date": "2026-09-23",
+      "victim": "Hôpital clinique régional de Yaroslavl",
+      "domain": "med-b-okb-yaroslavl-r78.gosweb.gosuslugi.ru",
+      "country": "RU",
+      "summary": "L'hôpital régional de Yaroslavl a été victime d'une cyberattaque. L'attaque, qui a entraîné la perte de toutes les informations stockées sur les serveurs, a été attribuée à des hackers ukrainiens qui ont demandé une rançon. Bien que les données aient été restaurées, la direction de l'hôpital a décidé de remplacer l'équipement. Le président du comité de la santé et le directeur de l'hôpital, Mikhail Osipov, a souligné l'importance de renforcer la sécurité informatique des établissements de santé et a demandé que des fonds supplémentaires soient alloués au budget régional pour 2027.",
+      "description": "",
+      "title": "Ярославская областная больница подверглась кибератаке- Яррег - новости Ярославской области",
+      "url": "https://yarreg.ru/articles/yaroslavskaya-oblastnaya-bolnica-podverglas-kiberatake/",
+      "added": "2026-09-25",
+      "infostealer": "",
+      "ransomware": null
     },
     {
       "date": "2026-09-23",
@@ -85,6 +105,57 @@
           "Taurus": 11,
           "Lumma": 1816
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-09-22",
+      "victim": "Astrana",
+      "domain": "astranahealth.com",
+      "country": "US",
+      "summary": "La société de technologie de santé Astrana a informé les régulateurs qu'une cyberattaque récente a exposé des informations confidentielles. Les pirates ont réussi à accéder aux serveurs de l'entreprise en se faisant passer pour du personnel d'Astrana et en usurpant le numéro de téléphone corporatif principal. Bien que le nombre de clients impactés et le type de données volées ne soient pas précisés, l'entreprise a dû restaurer certains systèmes à partir de sauvegardes propres et a notifié les autorités et les clients.",
+      "description": "",
+      "title": "Astrana latest healthcare tech firm to report data breach to SEC",
+      "url": "https://therecord.media/astrana-cyberattack-sec-ransomware",
+      "added": "2026-09-25",
+      "infostealer": {
+        "update": "2026-09-25T11:00:09",
+        "employees": 0,
+        "users": 49,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 7,
+        "last_employee_compromised": "1970-01-01T00:00:00+00:00",
+        "last_user_compromised": "2026-07-29T10:31:00+00:00",
+        "infostealer_stats": {
+          "Lumma": 9,
+          "StealC": 1,
+          "Acreed": 4,
+          "Generic Stealer": 31
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-09-21",
+      "victim": "Écoles publiques de Burnaby",
+      "domain": "burnabyschools.ca",
+      "country": "CA",
+      "summary": "Les écoles publiques de Burnaby ont subi une panne de services (internet et lignes téléphoniques) depuis lundi, suite à ce que le district scolaire qualifie d'« incident cybernétique ».",
+      "description": "",
+      "title": "Internet, phones down at Burnaby schools due to ‘cyber incident’",
+      "url": "https://www.ctvnews.ca/vancouver/article/internet-phones-down-at-burnaby-schools-due-to-cyber-incident/",
+      "added": "2026-09-25",
+      "infostealer": {
+        "update": "2026-09-25T11:30:12",
+        "employees": 3,
+        "users": 57,
+        "thirdparties": 243,
+        "employees_url": 2,
+        "users_url": 15,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },
@@ -265,6 +336,29 @@
         "thirdparties": 2,
         "employees_url": 0,
         "users_url": 3,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-09-16",
+      "victim": "International Meteor Organization",
+      "domain": "imo.net",
+      "country": "BE",
+      "summary": "L'International Meteor Organization (IMO), organisation internationale de suivi des météores, a subi une cyberattaque qui a gravement affecté son site web. L'organisation a dû fermer son site pendant plusieurs semaines pour migrer vers une nouvelle infrastructure. Bien que le site principal soit hors service, l'IMO continue de suivre les astéroïdes et les météores via sa page Facebook et a rétabli son système de signalement de boules de feu.",
+      "description": "",
+      "title": "International Meteor Organization says cyberattack dealt ‘critical blow’ to website",
+      "url": "https://therecord.media/international-meteor-organization-cyberattack",
+      "added": "2026-09-25",
+      "infostealer": {
+        "update": "2026-09-25T12:00:10",
+        "employees": 0,
+        "users": 5,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 6,
         "last_employee_compromised": null,
         "last_user_compromised": null,
         "infostealer_stats": {}
@@ -487,6 +581,29 @@
         "thirdparties": 0,
         "employees_url": 0,
         "users_url": 2,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-09-14",
+      "victim": "Dyfed-Powys Police",
+      "domain": "dyfed-powys.police.uk",
+      "country": "GB",
+      "summary": "La police de Dyfed-Powys (Pays de Galles) a été victime d'une cyberattaque détectée le 14 septembre, qui a perturbé certains de ses systèmes non urgents, notamment les contacts en ligne et les e-mails. Les services d'urgence (lignes 999 et 101) sont toutefois restés opérationnels tout au long de l'incident. L'enquête, menée par l'unité régionale contre le crime organisé Tarian, tente toujours de déterminer l'origine de l'attaque et si un ransomware a été utilisé. Si aucune preuve ne montre que des données du public ont été compromises, la police enquête toujours pour savoir si des informations concernant son personnel ont été consultées. L'Information Commissioner's Office (l'autorité de protection des données au Royaume-Uni) a été informée de la situation.",
+      "description": "",
+      "title": "Dyfed-Powys Police cops to cyberattack, staff data potentially nicked",
+      "url": "https://www.theregister.com/cyber-crime/2026/09/25/dyfed-powys-police-cops-to-cyberattack-staff-data-potentially-nicked/5299112",
+      "added": "2026-09-25",
+      "infostealer": {
+        "update": "2026-09-25T13:00:11",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 2,
+        "employees_url": 0,
+        "users_url": 0,
         "last_employee_compromised": null,
         "last_user_compromised": null,
         "infostealer_stats": {}
@@ -814,6 +931,19 @@
     },
     {
       "date": "2026-09-08",
+      "victim": "Nippon Trex Co., Ltd.",
+      "domain": "trex.co.jp",
+      "country": "JP",
+      "summary": "Kyokuto Kaihatsu Kogyo Co., Ltd. a annoncé qu'une panne de système était survenue le 8 septembre suite à un accès non autorisé à sa filiale, Nippon Trex Co., Ltd. Les services affectés incluent les commandes en ligne, le système de commande de pièces des agents et l'envoi/réception d'e-mails. Bien que les opérations soient maintenues par des moyens alternatifs, aucune fuite de données personnelles ou clients n'a été confirmée à ce jour.",
+      "description": "",
+      "title": "極東開発工業子会社の日本トレクス、不正アクセスによるシステム障害を発表 | ScanNetSecurity",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/09/25/56303.html",
+      "added": "2026-09-25",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-09-08",
       "victim": "TOM Group (02383.HK)",
       "domain": "tomgroup.com",
       "country": "TW",
@@ -938,6 +1068,29 @@
       "url": "https://borncity.com/blog/2026/09/20/hackerangriff-auf-die-gutcert-kundendaten-abgeflossen/",
       "added": "2026-09-21",
       "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-09-03",
+      "victim": "mylife Diabetes Care",
+      "domain": "mylife-diabetescare.com",
+      "country": "DE",
+      "summary": "mylife Diabetes Care, un fournisseur international de dispositifs médicaux pour le diabète, a été victime d'une cyberattaque. Le serveur géré par son prestataire informatique, SINOVO health solutions GmbH, a été compromis par un groupe de ransomware. L'attaque, survenue le 3 septembre 2026, a entraîné l'exfiltration de données utilisateur telles que les noms, prénoms, dates de naissance et adresses e-mail. Des données techniques pseudonymisées, potentiellement liées à la thérapie (comme les données de bolus ou de mesure de glucose), ont également été extraites. Les mots de passe étaient stockés de manière chiffrée et n'ont pas été compromis. L'entreprise a signalé l'incident aux autorités de protection des données et recommande aux utilisateurs de changer leurs mots de passe par précaution.",
+      "description": "",
+      "title": "Cyberangriff auf mylife App und mylife Cloud (Diabetes-Care)",
+      "url": "https://borncity.com/blog/2026/09/25/cyberangriff-auf-mylife-app-und-mylife-cloud-diabetes-care/",
+      "added": "2026-09-25",
+      "infostealer": {
+        "update": "2026-09-25T12:00:11",
+        "employees": 0,
+        "users": 8,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 8,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
       "ransomware": null
     },
     {
@@ -1236,6 +1389,19 @@
       "title": "光電廠杭特遭網路攻擊",
       "url": "https://www.ithome.com.tw/news/178600",
       "added": "2026-09-02",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-09-01",
+      "victim": "Zdrowit S.A.",
+      "domain": "zdrowit.pl",
+      "country": "PL",
+      "summary": "Zdrowit S.A. a été victime d'un incident de sécurité impliquant un accès non autorisé à ses systèmes informatiques et le chiffrement d'une partie de ses ressources. La société a confirmé que des procédures de sécurité ont permis de stopper les actions non autorisées. Bien que le groupe de ransomware ait publié un fichier prétendant provenir de Zdrowit S.A., il n'a pas pu être confirmé que les données provenaient de l'entreprise. La société a souligné que cet incident n'affecte pas les apothicaires (Aptek Zdrowit), qui fonctionnent avec un logiciel spécialisé distinct.",
+      "description": "",
+      "title": "Cyberatak na Zdrowit. Spółka potwierdza",
+      "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/cyberataki/cyberatak-na-zdrowit-spolka-potwierdza",
+      "added": "2026-09-25",
       "infostealer": "",
       "ransomware": null
     },
@@ -11120,6 +11286,19 @@
     },
     {
       "date": "2026-04-20",
+      "victim": "James Fallon High School",
+      "domain": "jamesfallo-h.schools.nsw.gov.au",
+      "country": "AU",
+      "summary": "L'école secondaire James Fallon, située à North Albury, a été victime d'une violation de données en avril 2026. Le ministère de l'Éducation de Nouvelle-Galles du Sud (NSW) a confirmé que l'incident, dont la source était située en dehors de NSW, a été contenu rapidement. L'enquête, menée en collaboration avec Cyber NSW, a conclu que les informations concernées incluaient des politiques scolaires, des matériaux pédagogiques et des données relatives aux élèves, aux parents et au personnel. Les familles sont invitées à rester vigilantes face aux tentatives de sollicitation d'informations personnelles.",
+      "description": "",
+      "title": "Department investigation concludes after cyber breach at Border high school",
+      "url": "https://www.bordermail.com.au/story/9357299/james-fallon-high-school-hit-by-data-breach-after-cyber-attack/",
+      "added": "2026-09-25",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-04-20",
       "victim": "Kubota USA",
       "domain": "kubotausa.com",
       "country": "US",
@@ -15652,6 +15831,19 @@
         "group": "payoutsking",
         "permalink": "https://www.ransomware.live/id/VUZQIFRlY2hub2xvZ2llc0BwYXlvdXRza2luZw=="
       }
+    },
+    {
+      "date": "2026-02-13",
+      "victim": "Washington Hotel Co., Ltd.",
+      "domain": "whg-hotels.jp",
+      "country": "JP",
+      "summary": "Le 7 septembre, la société Washington Hotel a publié le rapport final concernant une attaque par ransomware survenue le 13 février. L'intrusion, passée par un équipement connecté à l'extérieur, avait entraîné le chiffrement de certains serveurs et causé des pannes de terminaux de cartes bancaires dans certains établissements. L'enquête forensique a révélé qu'aucune donnée n'a été exfiltrée vers le dark web et que les données clients, hébergées par un prestataire externe, n'ont pas été touchées. En revanche, les informations personnelles de certains employés étaient présentes sur un serveur affecté, et ces derniers sont en cours de notification. L'entreprise a pu restaurer ses fichiers administratifs grâce à ses sauvegardes et a désormais déployé une solution EDR (Endpoint Detection and Response) sur l'ensemble de ses terminaux et serveurs pour prévenir toute récidive.",
+      "description": "",
+      "title": "403 ERROR",
+      "url": "https://www.excite.co.jp/news/article/Scannetsecurity_56299/",
+      "added": "2026-09-25",
+      "infostealer": "",
+      "ransomware": null
     },
     {
       "date": "2026-02-13",
@@ -20673,6 +20865,35 @@
       "ransomware": {
         "group": "blacknevas",
         "permalink": "https://www.ransomware.live/id/UGFyYW1vdW50IEhlYWx0aCBTZXJ2aWNlcyAmIEluc3VyYW5jZSBUUEEgUHZ0LiBMdGRAYmxhY2tuZXZhcw=="
+      }
+    },
+    {
+      "date": "2025-11-18",
+      "victim": "Paylogix",
+      "domain": "paylogix.com",
+      "country": "US",
+      "summary": "La société de gestion des avantages sociaux Paylogix a été victime d'une cyberattaque. Des pirates informatiques ont volé des informations sensibles, y compris des numéros de sécurité sociale, des données financières, des informations de santé et des numéros de passeport, appartenant à des dizaines de milliers de personnes. L'incident, qui a eu lieu entre le 13 et le 18 novembre, a été revendiqué par l'enseigne de ransomware Akira en janvier 2026.",
+      "description": "",
+      "title": "Employee benefits platform Paylogix says hackers stole financial and health",
+      "url": "https://therecord.media/paylogix-cyberattack-akira-ransomware",
+      "added": "2026-08-26",
+      "infostealer": {
+        "update": "2026-04-30T04:48:33",
+        "employees": 0,
+        "users": 2,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 3,
+        "last_employee_compromised": "1970-01-01T00:00:00+00:00",
+        "last_user_compromised": "2025-11-02T00:00:00+00:00",
+        "infostealer_stats": {
+          "RedLine": 1,
+          "Generic Stealer": 1
+        }
+      },
+      "ransomware": {
+        "group": "akira",
+        "permalink": "https://www.ransomware.live/id/UGF5bG9naXhAYWtpcmE="
       }
     },
     {

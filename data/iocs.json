@@ -508,7 +508,8 @@
       "ioc_types": {
         "sha256": 1,
         "mutex": 1,
-        "email": 1
+        "email": 3,
+        "tox": 1
       }
     },
     {
@@ -819,8 +820,8 @@
     {
       "group": "metaencryptor",
       "ioc_types": {
-        "url": 2,
-        "ip": 1
+        "url": 4,
+        "ip": 2
       }
     },
     {

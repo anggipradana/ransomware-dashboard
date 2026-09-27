@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 4156,
+  "count": 4158,
   "results": [
     {
       "date": "2026-09-26",
@@ -27,6 +27,19 @@
         "last_user_compromised": null,
         "infostealer_stats": {}
       },
+      "ransomware": null
+    },
+    {
+      "date": "2026-09-25",
+      "victim": "Keio Electric Railway",
+      "domain": "keio.co.jp",
+      "country": "JP",
+      "summary": "Keio Electric Railway a été frappé par une attaque par rançongiciel, entraînant la panne de certains systèmes opérationnels. Le fonctionnement des trains n'est pas affecté.",
+      "description": "",
+      "title": "勒索軟體駭入東京地鐵、京王 近6萬筆會員email恐外流",
+      "url": "https://news.tvbs.com.tw/world/4028306",
+      "added": "2026-09-27",
+      "infostealer": "",
       "ransomware": null
     },
     {
@@ -627,6 +640,29 @@
         "thirdparties": 0,
         "employees_url": 0,
         "users_url": 2,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-09-14",
+      "victim": "Venâncio Aires",
+      "domain": "venancioaires.rs.gov.br",
+      "country": "BR",
+      "summary": "Le lundi 14, le conseil municipal de Venâncio Aires (Brésil) a été victime d'une cyberattaque ayant paralysé son système informatique interne et son accès à internet.\r\nLes attaquants ont contacté l'institution pour réclamer une récompense en échange du rétablissement des services, sans toutefois préciser le montant demandé. Le président du conseil a déposé une plainte officielle auprès de la police pour signaler l'incident.",
+      "description": "",
+      "title": "folhadomate.com",
+      "url": "https://folhadomate.com/cidades/venancio-aires/camara-sofre-ataque-cibernetico-com-pedido-de-recompensa/",
+      "added": "2026-09-27",
+      "infostealer": {
+        "update": "2026-09-27T14:30:09",
+        "employees": 4,
+        "users": 77,
+        "thirdparties": 29,
+        "employees_url": 2,
+        "users_url": 49,
         "last_employee_compromised": null,
         "last_user_compromised": null,
         "infostealer_stats": {}

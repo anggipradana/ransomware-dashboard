@@ -4,8 +4,63 @@
     "month": null,
     "country": null
   },
-  "count": 4158,
+  "count": 4162,
   "results": [
+    {
+      "date": "2026-09-27",
+      "victim": "SRG SSR",
+      "domain": "srgssr.ch",
+      "country": "CH",
+      "summary": "La SRG a détecté une cyberattaque ayant permis à des personnes non autorisées d'accéder aux données de collaborateurs de SRF. L'incident a entraîné une fuite de données, principalement des coordonnées et des informations organisationnelles de 340 employés actuels et anciens de l'unité 'Information' de SRF, datant de 2020. Les données concernées incluent noms, fonctions et coordonnées professionnelles et parfois privées. Il n'y a pas de preuves actuelles que des mots de passe, des données financières, des sources journalistiques ou des contenus de communication aient été touchés. La SRG a immédiatement réagi en désactivant les accès, a informé les autorités et mène une enquête approfondie.",
+      "description": "",
+      "title": "SRG von Cybervorfall betroffen",
+      "url": "https://www.presseportal.ch/de/pm/100014224/100942588",
+      "added": "2026-09-28",
+      "infostealer": {
+        "update": "2026-09-28T11:30:12",
+        "employees": 3,
+        "users": 308,
+        "thirdparties": 1,
+        "employees_url": 5,
+        "users_url": 41,
+        "last_employee_compromised": "2026-07-10T09:05:42+00:00",
+        "last_user_compromised": "2026-09-21T00:00:00+00:00",
+        "infostealer_stats": {
+          "StealC": 21,
+          "Lumma": 77,
+          "Generic Stealer": 35,
+          "RedLine": 36,
+          "Azorult": 2,
+          "Raccoon": 9,
+          "Atomic": 3,
+          "UNKNOWN": 2
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-09-26",
+      "victim": "Fosko S.A.",
+      "domain": "fosko.cl",
+      "country": "CHI",
+      "summary": "Fosko S.A., fabricant de contenants plastiques, a été victime d'une cyberattaque par ransomware de la variante LockBit 3.0. L'incident a été détecté lorsqu'un utilisateur n'a pas pu accéder à des fichiers de facturation. L'attaque a affecté deux postes de travail et un serveur de fichiers. L'entreprise, qui disposait d'une infrastructure technologique minimale, a activé le service d'Egs-Latam, qui a fourni une réponse immédiate, incluant une analyse forensique détaillée et un renforcement de l'infrastructure, permettant à Fosko de maintenir son opération sans paralysie totale.",
+      "description": "",
+      "title": "Fosko mitiga ataque de ransomware con respuesta especializada de Egs-Latam",
+      "url": "https://www.trendtic.cl/2026/09/fosko-mitiga-ataque-de-ransomware-con-respuesta-especializada-de-egs-latam/",
+      "added": "2026-09-28",
+      "infostealer": {
+        "update": "2026-09-28T16:30:09",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 1,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-09-26",
       "victim": "Air Traffic and Navigation Services (ATNS)",
@@ -2895,6 +2950,29 @@
     },
     {
       "date": "2026-08-11",
+      "victim": "Alto Calore Servizi",
+      "domain": "altocalore.it",
+      "country": "IT",
+      "summary": "Alto Calore Servizi a reconnu avoir subi une cyberattaque entre le 10 et le 11 août, ce qui a causé des perturbations importantes dans la gestion des services et des facturations. L'entreprise a indiqué que la pleine fonctionnalité n'a été rétablie que récemment, et que des incohérences dans la gestion des communications et des factures sont en cours de correction. L'attaque a été revendiquée par Titan le 20 août.",
+      "description": "",
+      "title": "Alto Calore: \"Abbiamo subito un attacco informatico. Ci scusiamo con gli utenti\"",
+      "url": "https://www.avellinotoday.it/attualita/alto-calore-attacco-informatico.html",
+      "added": "2026-09-28",
+      "infostealer": {
+        "update": "2026-07-25T10:56:26",
+        "employees": 3,
+        "users": 3,
+        "thirdparties": 2,
+        "employees_url": 4,
+        "users_url": 2,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-08-11",
       "victim": "Charm",
       "domain": "charm.co.jp",
       "country": "JP",
@@ -3798,6 +3876,19 @@
         "last_user_compromised": null,
         "infostealer_stats": {}
       },
+      "ransomware": null
+    },
+    {
+      "date": "2026-08-03",
+      "victim": "Bright Smile Dental Care, Ltd.",
+      "domain": "brightsmiledentalcare.net",
+      "country": "US",
+      "summary": "Bright Smile Dental Care, une clinique dentaire située à Fishers, a été victime d'une cyberattaque par ransomware le 3 août. L'attaque a affecté les dossiers des patients, le logiciel de gestion de la pratique et le logiciel d'imagerie dentaire. Les informations potentiellement compromises incluent les noms, dates de naissance, adresses, numéros de téléphone, informations d'assurance, informations sur les dépendants, données de santé et, dans certains cas, des numéros de sécurité sociale. La clinique a engagé des consultants en cybersécurité et informe les patients concernés.",
+      "description": "",
+      "title": "Fishers dental office reports ransomware attack on patient records",
+      "url": "https://www.larryinfishers.com/2026/09/28/fishers-dental-office-ransomware-attack/",
+      "added": "2026-09-28",
+      "infostealer": "",
       "ransomware": null
     },
     {

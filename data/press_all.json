@@ -4656,7 +4656,10 @@
         "last_user_compromised": null,
         "infostealer_stats": {}
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "safepay",
+        "permalink": "https://www.ransomware.live/id/c3VtcGVyay5jekBzYWZlcGF5"
+      }
     },
     {
       "date": "2026-07-28",

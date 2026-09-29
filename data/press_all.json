@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 4163,
+  "count": 4164,
   "results": [
     {
       "date": "2026-09-27",
@@ -713,6 +713,45 @@
         "infostealer_stats": {}
       },
       "ransomware": null
+    },
+    {
+      "date": "2026-09-14",
+      "victim": "FTAPI",
+      "domain": "ftapi.com",
+      "country": "DE",
+      "summary": "La plateforme d'échange de données FTAPI a confirmé avoir subi un incident de sécurité informatique. Le groupe criminel The Gentlemen a revendiqué une intrusion dans les systèmes informatiques de FTAPI. L'incident a été détecté le 14 septembre, lorsque des individus non autorisés ont accédé à un serveur interne local et y ont injecté un rançongiciel. FTAPI a isolé les systèmes affectés et a engagé une équipe de forensic externe. L'entreprise souligne que la plateforme FTAPI, les systèmes des clients et les données échangées n'ont pas été affectés, et que les opérations n'ont pas été restreintes, bien que des enquêtes forensiques soient toujours en cours.",
+      "description": "",
+      "title": "Cyber attack on data exchange service FTAPI",
+      "url": "https://www.heise.de/en/news/Cyber-attack-on-data-exchange-service-FTAPI-11469688.html",
+      "added": "2026-09-29",
+      "infostealer": {
+        "update": "2026-09-26T08:42:41",
+        "employees": 0,
+        "users": 426,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 100,
+        "last_employee_compromised": "1970-01-01T00:00:00+00:00",
+        "last_user_compromised": "2026-09-17T11:22:48+00:00",
+        "infostealer_stats": {
+          "CRYPTBOT": 1,
+          "Vidar": 16,
+          "Raccoon": 32,
+          "Acreed": 1,
+          "Atomic": 2,
+          "RedLine": 110,
+          "UNKNOWN": 2,
+          "StealC": 6,
+          "Lumma": 118,
+          "Ficker": 1,
+          "Azorult": 1,
+          "Generic Stealer": 64
+        }
+      },
+      "ransomware": {
+        "group": "thegentlemen",
+        "permalink": "https://www.ransomware.live/id/RlRBUEkgU29mdHdhcmVAdGhlZ2VudGxlbWVu"
+      }
     },
     {
       "date": "2026-09-14",
@@ -62364,8 +62403,8 @@
       "added": "2025-06-20",
       "infostealer": "",
       "ransomware": {
-        "group": "hunters",
-        "permalink": "https://www.ransomware.live/id/Tm9ydGhlYXN0IFJlaGFiaWxpdGF0aW9uIEhvc3BpdGFsIE5ldHdvcmtAaHVudGVycw=="
+        "group": "BrainCipher",
+        "permalink": "https://www.ransomware.live/id/bm9ydGhlYXN0cmVoYWIuY29tQEJyYWluQ2lwaGVy"
       }
     },
     {

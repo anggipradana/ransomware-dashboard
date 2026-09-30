@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 4167,
+  "count": 4168,
   "results": [
     {
       "date": "2026-09-29",
@@ -1305,6 +1305,19 @@
       "title": "Hackerangriff auf die GUTcert; Kundendaten abgeflossen - ein KRITIS-Problem?",
       "url": "https://borncity.com/blog/2026/09/20/hackerangriff-auf-die-gutcert-kundendaten-abgeflossen/",
       "added": "2026-09-21",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-09-03",
+      "victim": "Slate Valley Unified Union School District",
+      "domain": "slatevalleyunified.org",
+      "country": "US",
+      "summary": "Le district scolaire unifié de Slate Valley, dans le Vermont, a été affecté par un incident de cybersécurité qui a perturbé ses systèmes Internet, ses courriels et la technologie des élèves. L'incident a débuté le 3 septembre, entraînant une demande de rançon. Le conseil scolaire a voté le 28 septembre pour refuser de payer. Bien que les services Internet et les courriels du personnel aient commencé à être restaurés le 10 septembre, les systèmes n'étaient pas entièrement opérationnels au 29 septembre. Le district travaille avec des experts en cybersécurité et les forces de l'ordre pour évaluer l'incident.",
+      "description": "",
+      "title": "Cybersecurity incident disrupts Slate Valley schools in Vermont",
+      "url": "https://dysruptionhub.com/slate-valley-vermont-ransom-demand/",
+      "added": "2026-09-30",
       "infostealer": "",
       "ransomware": null
     },

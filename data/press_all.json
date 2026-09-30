@@ -4,8 +4,21 @@
     "month": null,
     "country": null
   },
-  "count": 4164,
+  "count": 4167,
   "results": [
+    {
+      "date": "2026-09-29",
+      "victim": "Radford",
+      "domain": "radfordva.gov",
+      "country": "US",
+      "summary": "La ville de Radford est confrontée à une panne d'Internet et à des perturbations de ses services suite à un possible « incident de données » qui a affecté divers départements municipaux. La ville a immédiatement fait appel à des experts en cybersécurité, des conseillers juridiques et aux forces de l'ordre étatiques et fédérales pour mener l'enquête. L'incident est toujours en cours d'investigation.",
+      "description": "",
+      "title": "City of Radford experiencing internet outage after possible ‘data incident’",
+      "url": "https://www.wsls.com/news/local/2026/09/30/city-of-radford-experiencing-internet-outage-after-possible-data-incident/",
+      "added": "2026-09-30",
+      "infostealer": "",
+      "ransomware": null
+    },
     {
       "date": "2026-09-27",
       "victim": "SRG SSR",
@@ -229,6 +242,19 @@
     },
     {
       "date": "2026-09-21",
+      "victim": "Ikegami Tsushinki Co., Ltd.",
+      "domain": "ikegami.co.jp",
+      "country": "JP",
+      "summary": "Ikegami a confirmé avoir été victime d'une cyberattaque ayant entraîné l'accès non autorisé à certains de ses serveurs et le chiffrement d'une partie de ses fichiers. Pour empêcher l'extension des dommages, l'entreprise a maintenu son réseau interne déconnecté. L'enquête a révélé que des documents internes de la société ont été exfiltrés, après que l'entreprise a analysé des informations provenant d'une source externe. L'étendue exacte de la fuite de données est toujours en cours d'évaluation avec l'aide d'experts. La société a informé les autorités compétentes et prévoit de rétablir ses systèmes et son réseau progressivement, une fois la sécurité totalement vérifiée.",
+      "description": "",
+      "title": "池上通信機[6771]：当社に対するサイバー攻撃に関するお知らせ 2026年9月30日(適時開示) ：日経会社情報DIGITAL：日本経済新聞",
+      "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20260930543349/",
+      "added": "2026-09-30",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-09-21",
       "victim": "Écoles publiques de Burnaby",
       "domain": "burnabyschools.ca",
       "country": "CA",
@@ -335,6 +361,29 @@
           "Azorult": 4,
           "StealC": 4
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-09-20",
+      "victim": "Boryung Biopharma",
+      "domain": "boryungbio.co.kr",
+      "country": "KR",
+      "summary": "Boryung Biopharma a été victime d'une infection par rançongiciel, ce qui a entraîné la coupure du réseau du siège social et des usines (y compris Jincheon). Cette attaque a perturbé la distribution de médicaments depuis la mi-mois. L'entreprise a également signalé une possible fuite de données personnelles des clients de sa banque de sang, bien qu'aucune fuite externe n'ait été confirmée à ce jour. L'entreprise a notifié l'incident à KISA (Korea Internet & Security Agency).",
+      "description": "",
+      "title": "[데일리팜]보령바이오파마, 랜섬웨어 감염…망 차단에 의약품 유통 차질",
+      "url": "https://www.dailypharm.com/user/news/342871",
+      "added": "2026-09-30",
+      "infostealer": {
+        "update": "2026-09-30T12:00:11",
+        "employees": 0,
+        "users": 2,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 2,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },

@@ -1,6 +1,6 @@
 {
   "filter_type": null,
-  "count": 195,
+  "count": 196,
   "groups": [
     {
       "group": "0apt",
@@ -1269,6 +1269,12 @@
       "group": "u-bomb",
       "ioc_types": {
         "email": 1
+      }
+    },
+    {
+      "group": "ulose",
+      "ioc_types": {
+        "tox": 1
       }
     },
     {

@@ -4,8 +4,21 @@
     "month": null,
     "country": null
   },
-  "count": 4188,
+  "count": 4189,
   "results": [
+    {
+      "date": "2026-10-01",
+      "victim": "Vicksburg",
+      "domain": "vicksburg.org",
+      "country": "US",
+      "summary": "La ville de Vicksburg, Mississippi, a dû déconnecter ses systèmes informatiques suite à une cyberattaque par rançongiciel. Bien que les services d'urgence et les services publics continuent de fonctionner, les paiements de services publics en personne pourraient être retardés. La ville a fait appel à des spécialistes en cybersécurité pour enquêter, mais n'a pas encore identifié le groupe responsable, la méthode d'intrusion, ni confirmé si des données personnelles ont été compromises.",
+      "description": "",
+      "title": "City of Vicksburg, Mississippi, shuts down computers after ransomware attack",
+      "url": "https://dysruptionhub.com/vicksburg-mississippi-ransomware-city-computers/",
+      "added": "2026-10-02",
+      "infostealer": "",
+      "ransomware": null
+    },
     {
       "date": "2026-10-01",
       "victim": "Svedala kommun",
@@ -1388,7 +1401,10 @@
       "url": "https://dysruptionhub.com/slate-valley-vermont-ransom-demand/",
       "added": "2026-09-30",
       "infostealer": "",
-      "ransomware": null
+      "ransomware": {
+        "group": "kairos",
+        "permalink": "https://www.ransomware.live/id/U2xhdGUgVmFsbGV5IFVuaWZpZWQgU2Nob29sIERpc3RyaWN0QGthaXJvcw=="
+      }
     },
     {
       "date": "2026-09-03",

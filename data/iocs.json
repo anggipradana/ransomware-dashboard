@@ -1,6 +1,6 @@
 {
   "filter_type": null,
-  "count": 196,
+  "count": 197,
   "groups": [
     {
       "group": "0apt",
@@ -251,6 +251,13 @@
       "ioc_types": {
         "email": 4,
         "md5": 12
+      }
+    },
+    {
+      "group": "byod",
+      "ioc_types": {
+        "session": 1,
+        "email": 1
       }
     },
     {

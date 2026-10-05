@@ -4,8 +4,77 @@
     "month": null,
     "country": null
   },
-  "count": 4189,
+  "count": 4195,
   "results": [
+    {
+      "date": "2026-10-04",
+      "victim": "Indiana Area School District",
+      "domain": "iasd.cc",
+      "country": "US",
+      "summary": "Le district scolaire d'Indiana a signalé un incident de cybersécurité survenu dimanche soir. Le directeur, Robert J. Heinrich Jr., a indiqué qu'à l'heure actuelle, il n'y a aucune indication que les informations des élèves, du personnel ou les données financières gérées par les systèmes du district aient été compromises.",
+      "description": "",
+      "title": "Indiana Area School District reports a cyber attack",
+      "url": "https://www.indianagazette.com/news/local/indiana-area-school-district-reports-a-cyber-attack/article_b29d510f-07bb-4f3b-bf0c-f215cf68b926.html",
+      "added": "2026-10-05",
+      "infostealer": {
+        "update": "2026-10-05T14:30:12",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 1,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-10-02",
+      "victim": "De Bernardusscholen in Oudenaarde",
+      "domain": "bernardusscholen.be",
+      "country": "BE",
+      "summary": "Les écoles de De Bernardus à Oudenaarde ont été victimes d'une cyberattaque. Les données d'environ 4 200 élèves et membres du personnel ont été volées. Les informations volées incluent des noms, des adresses e-mail, des numéros de registre de population et des adresses de domicile des enseignants, ainsi que des données des élèves. La direction a bloqué tous les comptes et a lancé une opération de changement de mots de passe. L'école a déposé une plainte auprès de la police.",
+      "description": "",
+      "title": "Cyberaanval op Bernardusscholen Oudenaarde: gegevens van 4.200 leerlingen en personeelsleden gestolen | VRT NWS Nieuws",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/10/02/bernardusscholen-cyberaanval-oudenaarde/",
+      "added": "2026-10-05",
+      "infostealer": {
+        "update": "2026-10-05T15:00:13",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 101,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-10-02",
+      "victim": "Université publique d'Osaka",
+      "domain": "omu.ac.jp",
+      "country": "JP",
+      "summary": "L'Université publique d'Osaka a été victime d'une cyberattaque par rançongiciel, entraînant l'arrêt de près de 500 serveurs via l'intrusion dans son infrastructure de virtualisation. De nombreuses sauvegardes ont également été chiffrées. L'incident, survenu à partir du 2 octobre 2026, affecte les systèmes de l'université sur ses cinq campus. Au total, les informations personnelles d'au moins 130 000 étudiants et anciens étudiants (incluant des cohortes de 1995 et 2005) sont stockées dans les systèmes touchés, et l'université enquête sur une éventuelle fuite de ces données (adresses, emails, numéros de téléphone). La reprise des cours est reportée au 9 octobre 2026, et la date de résolution n'est pas encore connue.",
+      "description": "",
+      "title": "大阪公立大学、ランサムウェア攻撃で約500台のサーバー停止―バックアップの多くも暗号化、8日まで全授業休講|セキュリティニュースのセキュリティ対策Lab",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/osaka-metropolitan-university-ransomware-update-20261005/",
+      "added": "2026-10-05",
+      "infostealer": {
+        "update": "2026-10-05T15:00:11",
+        "employees": 0,
+        "users": 32,
+        "thirdparties": 17,
+        "employees_url": 0,
+        "users_url": 24,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-10-01",
       "victim": "Vicksburg",
@@ -166,6 +235,19 @@
       "title": "勒索軟體駭入東京地鐵、京王 近6萬筆會員email恐外流",
       "url": "https://news.tvbs.com.tw/world/4028306",
       "added": "2026-09-27",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-09-24",
+      "victim": "Holiday Inn Vilnius",
+      "domain": "holiday-inn-vilnius.vilniushotels.net",
+      "country": "LT",
+      "summary": "Le groupe \"Holiday Inn\" a été victime d'une cyberattaque par ransomware, attribuée au groupe \"Safepay\". Les données de clients et d'employés ont été compromises. Les données de clients, incluant noms, adresses, numéros d'identité et dates de séjour, couvrent une période allant du 28 juillet au 3 août 2026. Les données des employés, incluant codes personnels, informations salariales et documents d'identité, ont également été volées. Les données ont été découvertes le 24 septembre 2026 et publiées le 1er octobre 2026. L'hôtel est en collaboration avec les autorités lituaniennes et internationales dans le cadre d'une enquête judiciaire.",
+      "description": "",
+      "title": "Iš viešbučio „Holiday Inn“ pavogti ir nesumokėjus išpirkos paviešinti 500 klientų duomenys",
+      "url": "https://www.lrt.lt/naujienos/mokslas-ir-it/11/3070307/is-viesbucio-holiday-inn-pavogti-ir-nesumokejus-ispirkos-paviesinti-500-klientu-duomenys",
+      "added": "2026-10-05",
       "infostealer": "",
       "ransomware": null
     },
@@ -3135,6 +3217,29 @@
       "url": "https://www.plymouthindependent.org/jail-visits-suspended-after-cyber-attack/",
       "added": "2026-08-16",
       "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-08-12",
+      "victim": "Beyond Gravity",
+      "domain": "beyondgravity.com",
+      "country": "US",
+      "summary": "Beyond Gravity, un fournisseur aérospatial fédéral, a été victime d'une cyberattaque ciblée menée par un acteur hautement professionnel. La société a détecté les premières indications d'activité malveillante dans son environnement informatique le 12 août et mène actuellement une enquête en collaboration avec le Bureau fédéral de cybersécurité et la firme de sécurité Mandiant.",
+      "description": "",
+      "title": "The aerospace company Beyond Gravity was the target of a cyberattack",
+      "url": "https://www.bluewin.ch/en/news/the-aerospace-company-beyond-gravity-was-the-target-of-a-cyberattack-li.3622429",
+      "added": "2026-10-05",
+      "infostealer": {
+        "update": "2026-10-05T16:30:10",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 16,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
       "ransomware": null
     },
     {
@@ -73332,6 +73437,19 @@
           "Lumma": 138
         }
       },
+      "ransomware": null
+    },
+    {
+      "date": "2023-12-19",
+      "victim": "Nagano Nippo",
+      "domain": "nagano-np.co.jp",
+      "country": "JP",
+      "summary": "La société de presse régionale Nagano Nippo a été victime d'une cyberattaque par rançongiciel. L'incident a été découvert le 19 décembre 2023, à 22h50, juste avant l'impression du journal du 20 décembre. L'attaque a rendu inutilisables la plupart des serveurs et des ordinateurs, détruisant presque toutes les données. Malgré la gravité de la situation, la direction a pris la décision de ne pas négocier avec les attaquants afin de maintenir la publication du journal, même sous forme de presse murale.",
+      "description": "",
+      "title": "「紙齢をつなぐ」——ランサムウェア被害に地域紙はどう立ち向かったか? 長野日報社の2か月（マイナビニュース）｜ｄメニューニュース",
+      "url": "https://topics.smt.docomo.ne.jp/amp/article/mycom/business/mycom_3230656",
+      "added": "2026-10-05",
+      "infostealer": "",
       "ransomware": null
     },
     {

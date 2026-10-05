@@ -1,6 +1,6 @@
 {
   "filter_type": null,
-  "count": 197,
+  "count": 198,
   "groups": [
     {
       "group": "0apt",
@@ -1169,6 +1169,12 @@
       "group": "sicarii",
       "ioc_types": {
         "tox": 1
+      }
+    },
+    {
+      "group": "silentransomgroup",
+      "ioc_types": {
+        "btc": 61
       }
     },
     {

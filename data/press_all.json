@@ -4,8 +4,63 @@
     "month": null,
     "country": null
   },
-  "count": 4197,
+  "count": 4202,
   "results": [
+    {
+      "date": "2026-10-06",
+      "victim": "ASOS",
+      "domain": "asos.com",
+      "country": "GB",
+      "summary": "Des utilisateurs de l'application ASOS au Royaume-Uni ont reçu des messages pop-up apparemment envoyés par des hackers, tentant d'extorquer l'entreprise. Le message, adressé au DPO et à l'équipe informatique d'ASOS, prétend que les attaquants ont « entièrement compromis l'instance Snowflake ». Les experts en cybersécurité notent que l'attaque est grave, car les hackers ont utilisé l'application elle-même comme note de rançon. Le groupe criminel, se nommant Xuanye Group, a créé un canal Telegram pour communiquer.",
+      "description": "",
+      "title": "'ASOS hacked': App users receive notifications apparently sent by hackers",
+      "url": "https://www.bbc.com/news/articles/cj62ylzpr6d3o",
+      "added": "2026-10-06",
+      "infostealer": {
+        "update": "2026-10-06T13:00:12",
+        "employees": 9,
+        "users": 68815,
+        "thirdparties": 32,
+        "employees_url": 7,
+        "users_url": 100,
+        "last_employee_compromised": "2026-06-16T22:09:48+00:00",
+        "last_user_compromised": "2026-10-03T07:40:42+00:00",
+        "infostealer_stats": {
+          "Predator": 18,
+          "Vidar": 2015,
+          "CRYPTBOT": 116,
+          "Atomic": 197,
+          "Taurus": 49,
+          "Ficker": 19,
+          "UNKNOWN": 778,
+          "RedLine": 13084,
+          "Mystic": 34,
+          "DarkCrystal": 26,
+          "Acreed": 2066,
+          "Generic Stealer": 13251,
+          "Aura Stealer": 3,
+          "Remus": 249,
+          "StealC": 1448,
+          "Raccoon": 5202,
+          "Azorult": 2126,
+          "Lumma": 9319
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-10-05",
+      "victim": "ATB",
+      "domain": "atb.ua",
+      "country": "UA",
+      "summary": "La chaîne de supermarchés ATB a confirmé avoir subi une cyberattaque sur ses serveurs. L'entreprise a assuré que cette attaque n'a pas entraîné de fuite de données personnelles des clients, car les données n'étaient pas stockées sur les serveurs attaqués. ATB est en train de restaurer ses serveurs et a précisé que les pages temporaires sur le site web n'affectent pas la sécurité des données.",
+      "description": "",
+      "title": "ATB称服务器遭网络攻击后客户个人信息未泄露",
+      "url": "https://mezha.net/ch/news/d49ee369_atb_says_cyberattack/",
+      "added": "2026-10-06",
+      "infostealer": "",
+      "ransomware": null
+    },
     {
       "date": "2026-10-05",
       "victim": "Ministère des Finances de l'État du Tocantins",
@@ -28,6 +83,32 @@
         "infostealer_stats": {}
       },
       "ransomware": null
+    },
+    {
+      "date": "2026-10-04",
+      "victim": "Trump Mobile",
+      "domain": "trumpmobile.com",
+      "country": "US",
+      "summary": "Trump Mobile, une société de téléphonie mobile liée à la famille de Donald Trump, a été victime d'une cyberattaque par un groupe de ransomware nouvellement établi, BYOD. Cette attaque a entraîné l'exposition des données personnelles de 3 615 clients, incluant des noms, adresses e-mail, numéros de téléphone, adresses résidentielles et détails de commandes. Le groupe BYOD a divulgué ces données sur son site de fuite sur le dark web. L'accès a été obtenu après qu'un employé de la société Liberty Mobile, basée en Floride, ait été infecté par un logiciel malveillant. Trump Mobile a été critiquée pour sa gestion de l'incident, répondant par une déclaration peu professionnelle.",
+      "description": "",
+      "title": "Trump Mobile’s latest problem: Hackers just released customer information",
+      "url": "https://san.com/cc/trump-mobiles-latest-problem-hackers-just-released-customer-information/",
+      "added": "2026-10-06",
+      "infostealer": {
+        "update": "2026-10-05T19:08:58.578145",
+        "employees": 0,
+        "users": 6,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 4,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "BYOD",
+        "permalink": "https://www.ransomware.live/id/VHJ1bXAgTW9iaWxlIFdpcmVsZXNzIChUZWxlY29tKUBCWU9E"
+      }
     },
     {
       "date": "2026-10-04",
@@ -402,6 +483,19 @@
           "Generic Stealer": 31
         }
       },
+      "ransomware": null
+    },
+    {
+      "date": "2026-09-21",
+      "victim": "Bristol City Council",
+      "domain": "tradingwithschools.com",
+      "country": "GB",
+      "summary": "Le Conseil de Bristol a détecté une activité suspecte sur son service 'Trading with Schools' le 21 septembre, qui a été identifié comme une cyberattaque. L'incident a affecté 87 écoles. Bien que le Conseil n'ait pas encore trouvé de preuve de vol de données, le système contient des informations sensibles (détails du personnel, informations sur les élèves, budgets, etc.), ce qui soulève des préoccupations de rançon et de manipulation. Le Conseil a déconnecté les écoles affectées du réseau pour limiter la propagation du logiciel malveillant.",
+      "description": "",
+      "title": "Bristol City Council took four days to detect schools' cyber hack",
+      "url": "https://www.bbc.com/news/articles/cmed30pg4x7lo",
+      "added": "2026-10-06",
+      "infostealer": "",
       "ransomware": null
     },
     {
@@ -1516,6 +1610,29 @@
       "url": "https://borncity.com/blog/2026/09/20/hackerangriff-auf-die-gutcert-kundendaten-abgeflossen/",
       "added": "2026-09-21",
       "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-09-03",
+      "victim": "Bicielx",
+      "domain": "bicielx.es",
+      "country": "ES",
+      "summary": "L'entreprise publique Pimesa a été victime d'une cyberattaque visant la plateforme de gestion Bicielx. L'attaque, survenue le 3 septembre, a été menée par un individu qui a reconnu sa participation et s'est offert de collaborer à l'enquête. Bien que le service n'ait pas été interrompu, l'incident a entraîné l'exposition de données personnelles de certains utilisateurs. Pimesa a activé les protocoles de sécurité, notifié les autorités compétentes (y compris le CCN-CERT et l'Agence Espagnole de Protection des Données) et a commencé à renforcer l'infrastructure technologique de Bicielx.",
+      "description": "",
+      "title": "Un 'hacker' ataca con un agente de inteligencia artificial a una empresa municipal de Elche | TodoAlicante",
+      "url": "https://www.todoalicante.es/elche/hacker-ataca-agente-inteligencia-artificial-empresa-municipal-20261005155515-nt_amp.html",
+      "added": "2026-10-06",
+      "infostealer": {
+        "update": "2026-10-06T12:00:12",
+        "employees": 0,
+        "users": 36,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 11,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
       "ransomware": null
     },
     {

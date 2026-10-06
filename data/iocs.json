@@ -1,6 +1,6 @@
 {
   "filter_type": null,
-  "count": 198,
+  "count": 199,
   "groups": [
     {
       "group": "0apt",
@@ -1288,6 +1288,14 @@
       "group": "ulose",
       "ioc_types": {
         "tox": 1
+      }
+    },
+    {
+      "group": "umbra",
+      "ioc_types": {
+        "session": 1,
+        "email": 1,
+        "telegram": 1
       }
     },
     {

@@ -743,7 +743,10 @@
           "Generic Stealer": 31
         }
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "chaos",
+        "permalink": "https://www.ransomware.live/id/YXN0cmFuYWhlYWx0aC5jb21AY2hhb3M"
+      }
     },
     {
       "date": "2026-09-21",

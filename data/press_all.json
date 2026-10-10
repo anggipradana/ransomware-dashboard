@@ -42596,14 +42596,14 @@
       "url": "https://www.eyeonannapolis.net/2025/02/anne-arundel-county-government-hit-by-cyber-attack/",
       "added": "2025-02-23",
       "infostealer": {
-        "update": "2026-07-25T10:35:44",
+        "update": "2026-10-10T17:03:15.269080",
         "employees": 10,
-        "users": 29,
+        "users": 31,
         "thirdparties": 14,
         "employees_url": 4,
         "users_url": 19,
         "last_employee_compromised": "2026-02-25T17:54:48+00:00",
-        "last_user_compromised": "2026-04-03T21:46:00+00:00",
+        "last_user_compromised": "2026-10-06T14:11:42+00:00",
         "infostealer_stats": {
           "Raccoon": 1,
           "Lumma": 3,
@@ -42612,7 +42612,10 @@
           "RedLine": 15
         }
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "rhysida",
+        "permalink": "https://www.ransomware.live/id/QW5uZSBBcnVuZGVsIENvdW50eUByaHlzaWRh"
+      }
     },
     {
       "date": "2025-02-23",

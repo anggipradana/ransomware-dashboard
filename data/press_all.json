@@ -4,8 +4,44 @@
     "month": null,
     "country": null
   },
-  "count": 4219,
+  "count": 4226,
   "results": [
+    {
+      "date": "2026-10-13",
+      "victim": "Tangerhütte",
+      "domain": "tangerhuette.de",
+      "country": "DE",
+      "summary": "Le 'Rathaus numérique' de Tangerhütte, en Allemagne, a été victime d'une cyberattaque attribuée à l'utilisation de l'Intelligence Artificielle (IA). L'attaque a exploité une faille de type Zero-Day dans le logiciel municipal, forçant la fermeture du service numérique et obligeant les citoyens à recourir à des procédures analogiques pendant plusieurs semaines. Bien que les attaquants n'aient pas réussi à exfiltrer de données réelles, cet incident est considéré comme le premier cas connu d'une cyberattaque par IA contre une municipalité allemande.",
+      "description": "",
+      "title": "In Sachsen-Anhalt: Bundesweit erster KI-Angriff auf Kommune in Deutschland",
+      "url": "https://www.mdr.de/nachrichten/deutschland/politik/hacker-in-sachsen-anhalt-offenbar-erster,ki-angriff-100.html",
+      "added": "2026-10-13",
+      "infostealer": {
+        "update": "2026-09-18T09:00:12",
+        "employees": 0,
+        "users": 5,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 2,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-10-13",
+      "victim": "Ville d'Eichstätt",
+      "domain": "eichstaett.de",
+      "country": "DE",
+      "summary": "La ville d'Eichstätt a été victime d'une cyberattaque, présumée être une attaque par ransomware. Tous les serveurs de la municipalité sont actuellement hors service, paralysant l'ensemble de l'administration. Les autorités n'ont pas encore déterminé si des données ont été exfiltrées, mais elles alertent les citoyens sur la possibilité que des factures officielles puissent être falsifiées. Les enquêtes sont menées par les autorités bavarois, mais l'identité des attaquants reste inconnue.",
+      "description": "",
+      "title": "Cyberangriff legt Stadtverwaltung in Oberbayern lahm: „Wir bereiten uns auf alle Eventualitäten vor“",
+      "url": "https://www.merkur.de/bayern/cyberangriff-legt-stadtverwaltung-lahm-notfallhotline-eingerichtet-94538064.html",
+      "added": "2026-10-13",
+      "infostealer": "",
+      "ransomware": null
+    },
     {
       "date": "2026-10-12",
       "victim": "Ahold Delhaize",
@@ -84,6 +120,42 @@
       "ransomware": null
     },
     {
+      "date": "2026-10-11",
+      "victim": "The Foschini Group",
+      "domain": "tfglimited.co.za",
+      "country": "ZA",
+      "summary": "Le groupe sud-africain The Foschini Group a signalé un incident de cybersécurité affectant ses opérations au Royaume-Uni, survenu le week-end du 11 ou 12 octobre 2026. L'incident a perturbé certains systèmes informatiques des marques Phase Eight, Hobbs et Whistles. L'entreprise a engagé des spécialistes externes et mène une enquête pour déterminer si des informations personnelles ou sensibles ont été compromises. Les opérations en Afrique et en Australie n'ont pas été affectées.",
+      "description": "",
+      "title": "South African fashion retailer Foschini Group's UK arm hit by cyber incident",
+      "url": "https://live.euronext.com/en/financial-news/south-african-fashion-retailer-foschini-groups-uk-arm-hit-cyber-incident",
+      "added": "2026-10-13",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-10-09",
+      "victim": "North Platte et Lincoln County",
+      "domain": "northplattene.gov",
+      "country": "US",
+      "summary": "Un incident de cybersécurité a perturbé les services téléphoniques et Internet des autorités de North Platte et du Lincoln County, Nebraska. Les bureaux du comté ont dû fermer. Les autorités ont déconnecté certains logiciels et ont sollicité l'aide de la Garde Nationale du Nebraska pour contenir la brèche. L'origine de l'intrusion et les responsables n'ont pas été identifiés.",
+      "description": "",
+      "title": "Cyber incident closes offices, disrupts North Platte and Lincoln County phones in Nebraska",
+      "url": "https://dysruptionhub.com/north-platte-nebraska-cyber-phone-outage/",
+      "added": "2026-10-13",
+      "infostealer": {
+        "update": "2026-10-13T17:30:09",
+        "employees": 1,
+        "users": 0,
+        "thirdparties": 1,
+        "employees_url": 1,
+        "users_url": 6,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
       "date": "2026-10-08",
       "victim": "Hochschulservicezentrum Baden-Württemberg",
       "domain": "hsz-bw.de",
@@ -143,6 +215,19 @@
         "last_user_compromised": null,
         "infostealer_stats": {}
       },
+      "ransomware": null
+    },
+    {
+      "date": "2026-10-07",
+      "victim": "U.S.NEXT",
+      "domain": "usnx.com",
+      "country": "US",
+      "summary": "L'entreprise d'hébergement web U.S.NEXT a été victime d'une cyberattaque qui a perturbé les sites web et les services de messagerie de plusieurs entités gouvernementales du Mississippi (incluant les comtés de Madison, Warren, Hinds et Clarke) ainsi que d'une entreprise en Iowa. La perturbation a entraîné des retards dans les démarches administratives et les paiements en ligne. U.S.NEXT a confirmé que les informations de facturation des clients n'avaient pas été compromises, mais n'a pas précisé si le contenu des sites web ou les données de messagerie avaient été accédés. L'attaque n'a pas été attribuée.",
+      "description": "",
+      "title": "U.S.NEXT cyberattack disrupts websites and email in Mississippi",
+      "url": "https://dysruptionhub.com/usnext-mississippi-cyberattack-web-email/",
+      "added": "2026-10-13",
+      "infostealer": "",
       "ransomware": null
     },
     {
@@ -1836,6 +1921,32 @@
       "added": "2026-09-09",
       "infostealer": "",
       "ransomware": null
+    },
+    {
+      "date": "2026-09-08",
+      "victim": "North Slope Borough School District",
+      "domain": "nsbsd.org",
+      "country": "US",
+      "summary": "Le North Slope Borough School District en Alaska a été victime d'un incident de cybersécurité qui a entraîné une perturbation de son service téléphonique à partir du 8 septembre 2026. Bien que les opérations aient repris le 5 octobre, le district a avertit que des informations personnelles des employés, telles que des numéros de sécurité sociale, des informations sur les permis de conduire et des données de bénéfices, pourraient avoir été consultées. Le district a engagé des spécialistes externes, coopère avec le FBI et a offert une surveillance d'identité gratuite à tous les membres du personnel et aux étudiants.",
+      "description": "",
+      "title": "Cyber incident disrupts phone service across North Slope Borough School District in Alaska",
+      "url": "https://dysruptionhub.com/north-slope-alaska-cyber-incident-recovery/",
+      "added": "2026-10-13",
+      "infostealer": {
+        "update": "2026-09-28T00:34:22",
+        "employees": 8,
+        "users": 0,
+        "thirdparties": 9,
+        "employees_url": 4,
+        "users_url": 7,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "incransom",
+        "permalink": "https://www.ransomware.live/id/bnNic2Qub3JnQGluY3JhbnNvbQ"
+      }
     },
     {
       "date": "2026-09-08",
@@ -19834,6 +19945,42 @@
           "UNKNOWN": 1,
           "StealC": 1,
           "RedLine": 18
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-12-21",
+      "victim": "Department of Trade and Industry (DTI)",
+      "domain": "dti.gov.ph",
+      "country": "PH",
+      "summary": "Le Département du Commerce et de l'Industrie (DTI) a été victime d'une cyberattaque par rançongiciel (ransomware) le 21 décembre 2025. L'attaque a rendu impossible la récupération des registres comptables de l'agence. En raison de l'absence de sauvegardes accessibles (serveur partagé, cloud inaccessible, pas de copies hors ligne), le DTI a dû solliciter la Commission d'Audit (COA) pour obtenir des copies de ses documents financiers et reconstruire près d'un an de transactions. Cet incident a mis en lumière de graves failles dans la protection des données et la gestion des archives de l'agence.",
+      "description": "",
+      "title": "DTI loses nearly a year’s accounting records to ransomware, turns to COA for copies",
+      "url": "https://bilyonaryo.com/cris-roque-sablay-dti-loses-nearly-a-years-accounting-records-to-ransomware-turns-to-coa-for-copies/",
+      "added": "2026-10-13",
+      "infostealer": {
+        "update": "2026-10-13T16:30:09",
+        "employees": 47,
+        "users": 1374,
+        "thirdparties": 135,
+        "employees_url": 17,
+        "users_url": 100,
+        "last_employee_compromised": "2026-08-19T00:00:00+00:00",
+        "last_user_compromised": "2026-10-05T22:41:18+00:00",
+        "infostealer_stats": {
+          "Mystic": 7,
+          "StealC": 67,
+          "Acreed": 34,
+          "RedLine": 419,
+          "Vidar": 41,
+          "Generic Stealer": 367,
+          "UNKNOWN": 7,
+          "Raccoon": 52,
+          "Taurus": 1,
+          "Lumma": 240,
+          "CRYPTBOT": 2,
+          "Azorult": 7
         }
       },
       "ransomware": null

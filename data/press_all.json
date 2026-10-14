@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 4226,
+  "count": 4229,
   "results": [
     {
       "date": "2026-10-13",
@@ -39,6 +39,19 @@
       "title": "Cyberangriff legt Stadtverwaltung in Oberbayern lahm: „Wir bereiten uns auf alle Eventualitäten vor“",
       "url": "https://www.merkur.de/bayern/cyberangriff-legt-stadtverwaltung-lahm-notfallhotline-eingerichtet-94538064.html",
       "added": "2026-10-13",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-10-12",
+      "victim": "Femern Link Contractors (FLC)",
+      "domain": "femernlinkcontractors.com",
+      "country": "DK",
+      "summary": "Le principal entrepreneur du projet de la Fehmarn Bält-förbindelsen, FLC (Femern Link Contractors), a été victime d'une intrusion de données. Cette cyberattaque a entraîné la panne des systèmes centraux, provoquant l'arrêt de plusieurs navires et l'interruption du fonctionnement des cartes d'accès. Les problèmes ont débuté la nuit précédant le lundi.",
+      "description": "",
+      "title": "Fehmarn Bält-bygget drabbat av cyberattack",
+      "url": "https://www.newsoresund.se/fehmarn-balt-bygget-drabbat-av-cyberattack/",
+      "added": "2026-10-14",
       "infostealer": "",
       "ransomware": null
     },
@@ -192,7 +205,10 @@
       "url": "https://info-tours.fr/toursagglo/2026/10/08/une-cyberattaque-a-st-pierre-des-corps-la-mairie-perturbee-et-une-enquete-lancee/",
       "added": "2026-10-09",
       "infostealer": "",
-      "ransomware": null
+      "ransomware": {
+        "group": "lockbit5",
+        "permalink": "https://www.ransomware.live/id/c2FpbnRwaWVycmVkZXNjb3Jwcy5mckBsb2NrYml0NQ"
+      }
     },
     {
       "date": "2026-10-08",
@@ -301,6 +317,19 @@
     },
     {
       "date": "2026-10-06",
+      "victim": "Egide",
+      "domain": "egide-group.com",
+      "country": "FR",
+      "summary": "Egide, un groupe industriel français spécialisé dans les composants pour l'électronique sensible (défense, spatial), a été victime d'une cyberattaque le 6 octobre 2026. L'incident a été détecté via un prestataire informatique externe. Par mesure de précaution, Egide a dû interrompre temporairement une partie de ses activités sur son site de Bollène. L'entreprise n'a pas encore confirmé l'exfiltration de données, les investigations étant toujours en cours.",
+      "description": "",
+      "title": "Egide frappé par une cyberattaque : son site de Bollène partiellement interrompu",
+      "url": "https://www.cyberattaque.org/egide-frappe-par-une-cyberattaque-son-site-de-bollene-partiellement-interrompu/",
+      "added": "2026-10-14",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-10-06",
       "victim": "ASOS",
       "domain": "asos.com",
       "country": "GB",
@@ -340,6 +369,22 @@
         }
       },
       "ransomware": null
+    },
+    {
+      "date": "2026-10-05",
+      "victim": "Mandurah State Emergency Service (Mandurah SES)",
+      "domain": "mandurahses.org.au",
+      "country": "AU",
+      "summary": "Le groupe de ransomware The Gentlemen a ciblé l'unité Mandurah State Emergency Service (Mandurah SES) en Australie. L'incident a été signalé le 5 octobre 2026 par les autorités de cybersécurité de l'État de Western Australia (WASOC), suite à un accès non autorisé à l'un de ses serveurs. Le serveur affecté contenait des archives historiques antérieures à 2022, ainsi que des sauvegardes et des données d'opérations. Les opérations de la Mandurah SES se poursuivent normalement, et une enquête est en cours pour déterminer l'étendue de l'incident.",
+      "description": "",
+      "title": "Exclusive: Mandurah SES confirms operations unaffected by ransomware attack",
+      "url": "https://www.cyberdaily.au/security/14294-exclusive-mandurah-ses-confirms-operations-unaffected-by-ransomware-attack",
+      "added": "2026-10-14",
+      "infostealer": "",
+      "ransomware": {
+        "group": "thegentlemen",
+        "permalink": "https://www.ransomware.live/id/TWFuZHVyYWggU3RhdGUgRW1lcmdlbmN5IFNlcnZpY2VAdGhlZ2VudGxlbWVu"
+      }
     },
     {
       "date": "2026-10-05",

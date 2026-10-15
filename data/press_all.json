@@ -4,8 +4,31 @@
     "month": null,
     "country": null
   },
-  "count": 4237,
+  "count": 4238,
   "results": [
+    {
+      "date": "2026-10-15",
+      "victim": "Mampf",
+      "domain": "mampf1a.de",
+      "country": "DE",
+      "summary": "Le prestataire de services informatiques de \"Mampf\" a été victime d'une cyberattaque. L'entreprise, située à Grünsfeld (Baden-Württemberg), a confirmé l'incident. La plateforme est utilisée par les écoles locales pour la distribution des repas scolaires.",
+      "description": "",
+      "title": "Frankenberg, Oederan und Euba: Cyberangriff trifft Schulspeisung",
+      "url": "https://www.freiepresse.de/mittelsachsen/floeha/frankenberg-oederan-und-euba-cyberangriff-trifft-schulspeisung-artikel14447620",
+      "added": "2026-10-15",
+      "infostealer": {
+        "update": "2026-10-15T17:30:07",
+        "employees": 0,
+        "users": 111,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 59,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-10-14",
       "victim": "Colmobil",

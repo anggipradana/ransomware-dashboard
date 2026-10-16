@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 4246,
+  "count": 4247,
   "results": [
     {
       "date": "2026-10-15",
@@ -79,6 +79,29 @@
       "url": "https://www.calcalistech.com/ctechnews/article/skw40vpsfl",
       "added": "2026-10-15",
       "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-10-13",
+      "victim": "Colegio Oficial de Médicos de Tenerife (COMTF)",
+      "domain": "medicostenerife.es",
+      "country": "ES",
+      "summary": "Le Colegio Oficial de Médicos de Tenerife (COMTF) a été victime d'une cyberattaque le 13 octobre 2026. L'entité a déconnecté son réseau pour stopper l'accès non autorisé et analyser l'incident. Bien qu'une note reçue par les équipes suggère que des données ont été chiffrées et volées, le COMTF n'a pas encore détecté de fuite de données. L'entité a signalé l'incident aux autorités espagnoles compétentes.",
+      "description": "",
+      "title": "El Colegio de Médicos de Tenerife sufre un ciberataque y analiza un posible robo de datos",
+      "url": "https://www.atlanticohoy.com/tenerife/colegio-medicos-tenerife-sufre-ciberataque-analiza-posible-robo-datos_1568532_102.html",
+      "added": "2026-10-16",
+      "infostealer": {
+        "update": "2026-10-16T12:00:08",
+        "employees": 0,
+        "users": 9,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 2,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
       "ransomware": null
     },
     {

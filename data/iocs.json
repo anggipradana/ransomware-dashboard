@@ -1,6 +1,6 @@
 {
   "filter_type": null,
-  "count": 200,
+  "count": 201,
   "groups": [
     {
       "group": "0apt",
@@ -1240,6 +1240,12 @@
         "md5": 3,
         "sha1": 3,
         "sha256": 3
+      }
+    },
+    {
+      "group": "the seven deadly sins",
+      "ioc_types": {
+        "ip": 1
       }
     },
     {

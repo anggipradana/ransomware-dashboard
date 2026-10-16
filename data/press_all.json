@@ -4,8 +4,34 @@
     "month": null,
     "country": null
   },
-  "count": 4238,
+  "count": 4246,
   "results": [
+    {
+      "date": "2026-10-15",
+      "victim": "Maruki Ikashikai",
+      "domain": "maruki-ms.co.jp",
+      "country": "JP",
+      "summary": "Maruki Ikashikai, un fournisseur de matériel médical basé à Sendai, au Japon, a annoncé le 15 octobre 2026 que son système central de gestion des commandes, des achats et des stocks a été complètement paralysé suite à une cyberattaque survenue vers 10h00. Cet incident a entraîné l'arrêt des opérations normales de réception de commandes et d'expédition, provoquant des retards de livraison. L'entreprise a mis en place une mesure temporaire en acceptant les commandes par fax et travaille avec des experts externes pour identifier la cause et rétablir le système, sans avoir encore communiqué de calendrier de récupération.",
+      "description": "",
+      "title": "丸木医科器械にサイバー攻撃、医療機器の受注・出荷を停止―基幹システム全面ダウン、FAXで代替受付|セキュリティニュースのセキュリティ対策Lab",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/maruki-medical-cyberattack-order-shipping-suspension-20261015/",
+      "added": "2026-10-16",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-10-15",
+      "victim": "Heber City",
+      "domain": "heberut.gov",
+      "country": "US",
+      "summary": "Une cyberattaque a compromis le réseau du gouvernement local de Heber City, Utah. L'incident a été rapidement contenu par l'équipe informatique de la ville, et les systèmes ont été rétablis. Aucun service essentiel n'a été suspendu. Le FBI mène actuellement une enquête forensique. La ville n'a pas identifié de rançongiciel ni de groupe responsable, et il reste inconnu si des informations municipales ont été accédées ou supprimées.",
+      "description": "",
+      "title": "Cyberattack breaches Heber City government network in Utah",
+      "url": "https://dysruptionhub.com/heber-city-utah-cyberattack/",
+      "added": "2026-10-16",
+      "infostealer": "",
+      "ransomware": null
+    },
     {
       "date": "2026-10-15",
       "victim": "Mampf",
@@ -31,6 +57,19 @@
     },
     {
       "date": "2026-10-14",
+      "victim": "Southville Primary School",
+      "domain": "southville.bristol.sch.uk",
+      "country": "GB",
+      "summary": "Un conseil municipal a confirmé qu'une cyberattaque ciblée a touché l'école primaire Southville. Les dossiers du système d'information de gestion de l'école ont été exportés lors de l'attaque. Bien que cet incident soit distinct d'une cyberattaque antérieure contre le réseau informatique des écoles, le conseil soupçonne que les mêmes criminels sont à l'origine de l'attaque. Une enquête est en cours avec des experts en cybersécurité et l'Information Commissioner's Office (ICO).",
+      "description": "",
+      "title": "Southville Primary school in Bristol hit by targeted cyber-attack",
+      "url": "https://www.bbc.com/news/articles/cwe8r2p98vleo",
+      "added": "2026-10-16",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-10-14",
       "victim": "Colmobil",
       "domain": "colmobil.at",
       "country": "IL",
@@ -39,6 +78,19 @@
       "title": "Cyber incident disrupts operations at Israel’s largest car importer, Colmobil | CTech",
       "url": "https://www.calcalistech.com/ctechnews/article/skw40vpsfl",
       "added": "2026-10-15",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-10-13",
+      "victim": "Clinique vétérinaire Voltaire",
+      "domain": "veterinairevoltaire.com",
+      "country": "FR",
+      "summary": "La Clinique vétérinaire Voltaire de Dijon est confrontée à une cyberattaque depuis le 13 octobre 2026, entraînant l'indisponibilité de son site web et de la prise de rendez-vous en ligne. L'établissement opère avec des services numériques dégradés et redirige ses clients vers le secrétariat téléphonique. À ce stade, aucune fuite de données, rançongiciel ou revendication d'un groupe cybercriminel n'a été confirmée, et l'origine exacte de l'attaque reste inconnue.",
+      "description": "",
+      "title": "La clinique vétérinaire Voltaire à Dijon victime d’une cyberattaque",
+      "url": "https://www.cyberattaque.org/la-clinique-veterinaire-voltaire-a-dijon-victime-dune-cyberattaque/",
+      "added": "2026-10-16",
       "infostealer": "",
       "ransomware": null
     },
@@ -256,6 +308,32 @@
       "title": "++ Info-Date am Morgen, 14.10.: Koalition legt Streit um Zuckersteuer bei ++ Ermittlungen nach Cyberangriff auf Feuerwehrzentrale in Wolsfeld in der Eifel ++",
       "url": "https://www.swr.de/swraktuell-radio/info-date-am-morgen-2026-10-14-koalition-legt-streit-um-zuckersteuer-bei-100.html",
       "added": "2026-10-14",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-10-09",
+      "victim": "Bernalillo",
+      "domain": "tobnm.gov",
+      "country": "US",
+      "summary": "La ville de Bernalillo, au Nouveau-Mexique, a été victime d'une cyberattaque qui a bloqué les paiements en ligne des factures d'eau et forcé la fermeture du bureau des véhicules à moteur. Les autorités locales ont contacté le FBI et des spécialistes en cybersécurité pour rétablir les services. L'incident a été initialement signalé comme une panne de réseau le vendredi précédent.",
+      "description": "",
+      "title": "Cyberattack blocks payments, closes motor vehicle office in Bernalillo, New Mexico",
+      "url": "https://dysruptionhub.com/bernalillo-new-mexico-cyberattack/",
+      "added": "2026-10-16",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-10-09",
+      "victim": "Tribunaux de faillite fédéraux américains",
+      "domain": "fjc.gov",
+      "country": "US",
+      "summary": "Un incident de cybersécurité a perturbé la production et la distribution des avis des tribunaux de faillite fédéraux américains à l'échelle nationale. L'incident, qui a débuté le 9 octobre, a retardé les communications aux créanciers et affecté les avis électroniques et papier. Le centre de notification des faillites, opéré par BAE Systems, est à l'origine de la perturbation. Les tribunaux continuent de traiter les dossiers, mais des retards sont à prévoir dans la livraison des ordres et des notifications.",
+      "description": "",
+      "title": "Cyber incident halts U.S. bankruptcy court notices nationwide",
+      "url": "https://dysruptionhub.com/bankruptcy-court-notices-cyber-incident/",
+      "added": "2026-10-16",
       "infostealer": "",
       "ransomware": null
     },
@@ -1540,6 +1618,22 @@
       "added": "2026-09-18",
       "infostealer": "",
       "ransomware": null
+    },
+    {
+      "date": "2026-09-15",
+      "victim": "Sangre de Cristo Electric Association (SDCEA)",
+      "domain": "myelectric.coop",
+      "country": "US",
+      "summary": "Sangre de Cristo Electric Association (SDCEA) a confirmé qu'une organisation cybercriminelle a obtenu un accès non autorisé à son réseau informatique en septembre 2026. Cet accès a permis aux attaquants d'accéder à un serveur contenant des fichiers internes. Bien que l'entreprise affirme que les informations financières des membres ne sont pas stockées sur le réseau compromis, l'incident a provoqué la perturbation temporaire des services de paiement des factures et des services téléphoniques. SDCEA a renforcé ses mesures de sécurité et a avertit les membres de rester vigilants face aux tentatives de fraude.",
+      "description": "",
+      "title": "SDCEA: Cybercriminal organization gained access to IT network",
+      "url": "https://www.chaffeecountytimes.com/news/sdcea-cybercriminal-organization-gained-access-to-it-network/article_f503d7e0-c1b3-48b5-a544-ccf92965510d.html",
+      "added": "2026-10-16",
+      "infostealer": "",
+      "ransomware": {
+        "group": "incransom",
+        "permalink": "https://www.ransomware.live/id/U2FuZ3JlIGRlIENyaXN0byBFbGVjdHJpYyBBc3NvY2lhdGlvbkBpbmNyYW5zb20"
+      }
     },
     {
       "date": "2026-09-15",
@@ -14027,6 +14121,19 @@
           "Lumma": 10
         }
       },
+      "ransomware": null
+    },
+    {
+      "date": "2026-04-06",
+      "victim": "Lycée Jean-Moulin de Béziers",
+      "domain": "jean-moulin-beziers.mon-ent-occitanie.fr",
+      "country": "FR",
+      "summary": "Le Lycée Jean-Moulin de Béziers a été victime d'une cyberattaque par ransomware en avril 2026. Le groupe cybercriminel russe Medusa a exploité la vétusté de 700 ordinateurs sous Windows 7 pour crypter les fichiers de plus de 1285 postes pédagogiques. Bien qu'aucune rançon n'ait été demandée et qu'aucune donnée sensible n'ait été volée, l'incident a paralysé l'établissement et nécessité une mobilisation massive du personnel et de la Région Occitanie.",
+      "description": "",
+      "title": "\"Ils ne nous ont pas choisis au hasard\" : comment le lycée Jean-Moulin de Béziers a été visé par une vaste cyberattaque de la part d’un groupe russe",
+      "url": "https://www.midilibre.fr/2026/10/16/ils-ne-nous-ont-pas-choisis-au-hasard-comment-le-lycee-jean-moulin-de-beziers-a-ete-vise-par-une-vaste-cyberattaque-de-la-part-dun-groupe-russe-13603574.php",
+      "added": "2026-10-16",
+      "infostealer": "",
       "ransomware": null
     },
     {

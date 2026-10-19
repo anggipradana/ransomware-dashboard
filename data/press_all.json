@@ -4,8 +4,84 @@
     "month": null,
     "country": null
   },
-  "count": 4250,
+  "count": 4254,
   "results": [
+    {
+      "date": "2026-10-19",
+      "victim": "Societatea Națională de Radiocomunicații S.A. (SNR)",
+      "domain": "radiocom.ro",
+      "country": "RO",
+      "summary": "La Societatea Națională de Radiocomunicații S.A. (SNR) a détecté un incident de cybersécurité de type ransomware le 19 octobre 2026. L'incident est actuellement sous investigation par le Directorat Național de Securitate Cibernetică (DNSC). Des mesures de limitation ont été prises, notamment la suspension préventive du service de messagerie. Les services clients continuent de fonctionner, et aucune donnée n'a été confirmée comme compromise à ce jour.",
+      "description": "",
+      "title": "Incident de securitate cibernetică la Societatea Națională de Radiocomunicații S.A. (SNR) București",
+      "url": "https://curierulnational.ro/incident-de-securitate-cibernetica-la-societatea-nationala-de-radiocomunicatii-s-a-snr-bucuresti/",
+      "added": "2026-10-19",
+      "infostealer": {
+        "update": "2026-10-19T11:30:09",
+        "employees": 33,
+        "users": 5,
+        "thirdparties": 6,
+        "employees_url": 13,
+        "users_url": 21,
+        "last_employee_compromised": "2025-11-01T18:17:44.991000+00:00",
+        "last_user_compromised": "2026-01-29T10:59:55.475000+00:00",
+        "infostealer_stats": {
+          "Vidar": 2,
+          "UNKNOWN": 4,
+          "Azorult": 1,
+          "RedLine": 11,
+          "Generic Stealer": 7,
+          "racoon": 1
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-10-18",
+      "victim": "Loxone",
+      "domain": "loxone.com",
+      "country": "AT",
+      "summary": "Loxone, une entreprise autrichienne de technologie pour l'automatisation de bâtiments, a confirmé avoir été victime d'une cyberattaque sur ses systèmes internes le 18 octobre 2026. L'attaque semble être de type rançongiciel (ransomware), avec des menaces de publication de données exfiltrées (environ 201,6 Go). Bien que les systèmes d'automatisation principaux (Miniserver, Remote Connect) ne semblent pas affectés, le groupe travaille avec des experts en cybersécurité pour isoler les systèmes compromis et mener une analyse forensique.",
+      "description": "",
+      "title": "Sicherheitsvorfall bei Loxone (18. Okt. 2026)",
+      "url": "https://borncity.com/blog/2026/10/19/sicherheitsvorfall-bei-loxone/",
+      "added": "2026-10-19",
+      "infostealer": {
+        "update": "2026-10-19T10:30:08",
+        "employees": 0,
+        "users": 928,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 100,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-10-17",
+      "victim": "Jerome School District",
+      "domain": "jeromeschools.org",
+      "country": "US",
+      "summary": "Le district scolaire de Jerome, situé dans l'Idaho, a été victime d'une cyberattaque qui a mis ses réseaux hors service samedi. Suite à cet incident, les cours ont été annulés le lundi. Les autorités locales et des agences fédérales enquêtent sur l'attaque, mais l'attaquant n'a pas été identifié et la nature exacte de l'incident (ransomware ou accès aux données) reste inconnue.",
+      "description": "",
+      "title": "Cyberattack forces Jerome School District in Idaho to cancel classes",
+      "url": "https://dysruptionhub.com/jerome-idaho-school-district-cyberattack/",
+      "added": "2026-10-19",
+      "infostealer": {
+        "update": "2026-10-19T10:30:07",
+        "employees": 0,
+        "users": 18,
+        "thirdparties": 5,
+        "employees_url": 0,
+        "users_url": 7,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-10-17",
       "victim": "Municipalité d'Ovar",
@@ -1534,6 +1610,45 @@
         "infostealer_stats": {}
       },
       "ransomware": null
+    },
+    {
+      "date": "2026-09-18",
+      "victim": "The Japan Times Group",
+      "domain": "japantimes.co.jp",
+      "country": "JP",
+      "summary": "Le groupe The Japan Times a été victime d'une cyberattaque par rançongiciel (ransomware) et d'un accès non autorisé. L'incident a été confirmé le 18 septembre 2026. La cible était un serveur de fichiers administratif utilisé jusqu'en août 2022. Les données potentiellement compromises incluent des informations sur le personnel et les partenaires datant de 2001 à août 2022. Les services numériques (édition en ligne, bases de données) sont maintenus sur une infrastructure indépendante et n'ont pas été affectés. La cyberattaque a été revendiquée par Eclipse le 30 septembre.",
+      "description": "",
+      "title": "ジャパンタイムズにランサムウェア攻撃、窃取を主張するデータの公開を確認 2022年まで使ったサーバーが対象",
+      "url": "https://innovatopia.jp/cyber-security/cyber-security-news/119017/",
+      "added": "2026-10-19",
+      "infostealer": {
+        "update": "2026-09-30T21:53:01",
+        "employees": 5,
+        "users": 621,
+        "thirdparties": 4,
+        "employees_url": 4,
+        "users_url": 35,
+        "last_employee_compromised": "2026-08-25T00:00:00+00:00",
+        "last_user_compromised": "2026-09-25T00:00:00+00:00",
+        "infostealer_stats": {
+          "Lumma": 141,
+          "Azorult": 8,
+          "Vidar": 13,
+          "RedLine": 164,
+          "Raccoon": 59,
+          "Predator": 1,
+          "Generic Stealer": 98,
+          "UNKNOWN": 7,
+          "StealC": 31,
+          "CRYPTBOT": 2,
+          "Acreed": 2,
+          "Atomic": 1
+        }
+      },
+      "ransomware": {
+        "group": "Eclipse",
+        "permalink": "https://www.ransomware.live/id/amFwYW50aW1lcy5jby5qcEBFY2xpcHNl"
+      }
     },
     {
       "date": "2026-09-17",

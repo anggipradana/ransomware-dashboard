@@ -1,6 +1,6 @@
 {
   "filter_type": null,
-  "count": 203,
+  "count": 204,
   "groups": [
     {
       "group": "0apt",
@@ -1382,6 +1382,13 @@
       "ioc_types": {
         "ip": 2,
         "tox": 1
+      }
+    },
+    {
+      "group": "whitearmor",
+      "ioc_types": {
+        "email": 1,
+        "session": 1
       }
     },
     {

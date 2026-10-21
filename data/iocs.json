@@ -1,6 +1,6 @@
 {
   "filter_type": null,
-  "count": 204,
+  "count": 205,
   "groups": [
     {
       "group": "0apt",
@@ -1135,6 +1135,12 @@
       "group": "satanlockv2",
       "ioc_types": {
         "tox": 1
+      }
+    },
+    {
+      "group": "scarlettgroup",
+      "ioc_types": {
+        "session": 1
       }
     },
     {

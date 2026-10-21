@@ -4,8 +4,54 @@
     "month": null,
     "country": null
   },
-  "count": 4263,
+  "count": 4265,
   "results": [
+    {
+      "date": "2026-10-21",
+      "victim": "Meishi Daren Co., Ltd.",
+      "domain": "85cafe.com",
+      "country": "TW",
+      "summary": "Meishi-KY (Meishi Daren Co., Ltd.) a annoncé que certains de ses systèmes d'information ont été victimes d'une cyberattaque. La société a immédiatement activé son mécanisme de réponse aux incidents de sécurité et fait appel à des experts externes pour l'enquête et la réparation. Selon l'évaluation préliminaire, l'incident n'a pas encore eu d'impact majeur sur les opérations ou les finances de l'entreprise.",
+      "description": "",
+      "title": "證期權",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=2434180002&PU=0010",
+      "added": "2026-10-21",
+      "infostealer": {
+        "update": "2026-10-21T09:30:07",
+        "employees": 0,
+        "users": 23,
+        "thirdparties": 1,
+        "employees_url": 0,
+        "users_url": 15,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-10-20",
+      "victim": "Administration du district d'Oberspreewald-Lausitz",
+      "domain": "osl-online.de",
+      "country": "GER",
+      "summary": "L'administration du district d'Oberspreewald-Lausitz a été paralysée par un incident de sécurité informatique. Les systèmes techniques ont été mis hors service le mardi soir. Bien qu'un cyberangriff ne soit pas officiellement confirmé, les rumeurs internes suggèrent cette possibilité. Les services sont fortement limités, et le bureau est fermé le jeudi 22 octobre. Les citoyens sont invités à utiliser la ligne d'assistance téléphonique pour les demandes.",
+      "description": "",
+      "title": "Verdacht auf Cyberangriff: Kreisverwaltung OSL weitgehend lahmgelegt | NIEDERLAUSITZ aktuell",
+      "url": "https://www.niederlausitz-aktuell.de/niederlausitz-aktuell/orte/oberspreewald-lausitz/329620/verdacht-auf-cyberangriff-kreisverwaltung-osl-weitgehend-lahmgelegt.html",
+      "added": "2026-10-21",
+      "infostealer": {
+        "update": "2026-10-21T10:30:08",
+        "employees": 0,
+        "users": 2,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 2,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-10-19",
       "victim": "Societatea Națională de Radiocomunicații S.A. (SNR)",

@@ -902,7 +902,9 @@
         "tox": 3,
         "email": 5,
         "telegram": 2,
-        "session": 1
+        "session": 1,
+        "md5": 8,
+        "ip": 2
       }
     },
     {

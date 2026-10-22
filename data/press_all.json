@@ -4,8 +4,60 @@
     "month": null,
     "country": null
   },
-  "count": 4273,
+  "count": 4276,
   "results": [
+    {
+      "date": "2026-10-22",
+      "victim": "Cutlers Hill Surgery",
+      "domain": "cutlershillsurgery.co.uk",
+      "country": "GB",
+      "summary": "Cutlers Hill Surgery, une clinique médicale à Halesworth, a signalé un incident de cybersécurité affectant ses systèmes de commande de médicaments. Cet incident pourrait entraîner des retards dans la réception de certains traitements, obligeant la clinique à explorer des fournisseurs alternatifs pour minimiser les perturbations.",
+      "description": "",
+      "title": "Medication delays warning as 'cyber incident' hits GP dispensary systems",
+      "url": "https://www.edp24.co.uk/news/26661030.halesworth-surgery-warns-delays-cyber-incident/",
+      "added": "2026-10-22",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-10-22",
+      "victim": "Quest Diagnostics",
+      "domain": "questdiagnostics.com",
+      "country": "US",
+      "summary": "Quest Diagnostics a signalé un accès non autorisé à son système Quanum-LSM, utilisé pour les commandes de tests et la consultation des résultats. Cette cyberattaque a entraîné l'atteinte de dossiers de patients.",
+      "description": "",
+      "title": "Der Laborbetreiber Quest meldet einen Cyberangriff, von dem Patientenakten betroffen sind",
+      "url": "https://de.tradingview.com/news/reuters.com,2026:newsml_L8N46818Z:0/",
+      "added": "2026-10-22",
+      "infostealer": {
+        "update": "2026-10-22T13:00:10",
+        "employees": 20,
+        "users": 16573,
+        "thirdparties": 40,
+        "employees_url": 10,
+        "users_url": 100,
+        "last_employee_compromised": "2026-09-25T00:00:00+00:00",
+        "last_user_compromised": "2026-10-21T00:00:00+00:00",
+        "infostealer_stats": {
+          "Azorult": 893,
+          "Vidar": 387,
+          "CRYPTBOT": 7,
+          "RedLine": 2794,
+          "Mystic": 8,
+          "Lumma": 2431,
+          "StealC": 209,
+          "Generic Stealer": 3447,
+          "Acreed": 102,
+          "Raccoon": 687,
+          "Atomic": 43,
+          "Predator": 2,
+          "UNKNOWN": 172,
+          "Taurus": 2,
+          "DarkCrystal": 10
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-10-21",
       "victim": "COMAPA Victoria",
@@ -197,6 +249,29 @@
         "thirdparties": 0,
         "employees_url": 0,
         "users_url": 100,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-10-17",
+      "victim": "Shinryo Reinetsu Kogyo Co., Ltd.",
+      "domain": "shinryo.com",
+      "country": "JP",
+      "summary": "Shinryo Reinetsu Kogyo, spécialiste du génie climatique, a été victime d'une cyberattaque entraînant une défaillance de son système d'information. L'accès non autorisé a eu lieu le 17 octobre 2026. Bien que certains services soient affectés, aucune fuite de données personnelles ou clients n'a été confirmée à ce jour, et les investigations sont en cours en collaboration avec des experts externes.",
+      "description": "",
+      "title": "新菱冷熱工業、サイバー攻撃でシステム障害 10月17日に不正アクセス、一部サービスに影響|セキュリティニュースのセキュリティ対策Lab",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/shinryo_cyberattack_system_outage_20261022/",
+      "added": "2026-10-22",
+      "infostealer": {
+        "update": "2026-10-22T13:00:11",
+        "employees": 0,
+        "users": 29,
+        "thirdparties": 6,
+        "employees_url": 0,
+        "users_url": 7,
         "last_employee_compromised": null,
         "last_user_compromised": null,
         "infostealer_stats": {}

@@ -4,8 +4,70 @@
     "month": null,
     "country": null
   },
-  "count": 4265,
+  "count": 4273,
   "results": [
+    {
+      "date": "2026-10-21",
+      "victim": "COMAPA Victoria",
+      "domain": "comapavictoria.gob.mx",
+      "country": "MX",
+      "summary": "COMAPA Victoria a été victime d'une tentative de cyberattaque par rançongiciel (ransomware). Les cybercriminels cherchaient à extorquer une rançon en bloquant les fichiers de l'organisme. Grâce à des sauvegardes à jour, l'institution a réussi à restaurer toutes les données sans effectuer de paiement. COMAPA a assuré que les données personnelles et bancaires des utilisateurs n'ont pas été compromises, car l'organisme ne stocke pas ces informations sensibles.",
+      "description": "",
+      "title": "COMAPA en Ciudad Victoria, Tamaulipas, refuerza su seguridad digital tras ciberataque",
+      "url": "https://voxpopulinoticias.com.mx/2026/10/comapa-en-ciudad-victoria-tamaulipas-refuerza-su-seguridad-digital-tras-ciberataque/",
+      "added": "2026-10-22",
+      "infostealer": {
+        "update": "2026-10-13T14:21:09",
+        "employees": 0,
+        "users": 14,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 3,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "qilin",
+        "permalink": "https://www.ransomware.live/id/Q29taXNpw7NuIE11bmljaXBhbCBkZSBBZ3VhIFBvdGFibGUgeSBBbGNhbnRhcmlsbGFkbyBkZSBWaWN0b3JpYUBxaWxpbg"
+      }
+    },
+    {
+      "date": "2026-10-21",
+      "victim": "Richmond Public Schools",
+      "domain": "rvaschools.net",
+      "country": "US",
+      "summary": "Richmond Public Schools, en Virginie, a coupé l'accès à Internet suite à un incident de cybersécurité. Des messages ont été reçus par les employés affirmant que le réseau et les informations sensibles étaient compromis, menaçant de publier des données volées. Bien que l'incident soit confirmé, l'attaquant et la nature exacte de l'attaque (rançongiciel ou vol de données) ne sont pas encore identifiés. L'interruption a perturbé les outils d'enseignement en ligne et les fonctions administratives.",
+      "description": "",
+      "title": "Cyber incident forces Richmond Public Schools in Virginia to shut internet access",
+      "url": "https://dysruptionhub.com/richmond-schools-cyber-incident/",
+      "added": "2026-10-22",
+      "infostealer": {
+        "update": "2026-10-22T09:00:10",
+        "employees": 0,
+        "users": 28,
+        "thirdparties": 142,
+        "employees_url": 0,
+        "users_url": 13,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-10-21",
+      "victim": "TAKKT AG",
+      "domain": "takkt.de",
+      "country": "DE",
+      "summary": "TAKKT AG a été victime d'une cyberattaque ciblant des parties de ses systèmes informatiques. Les divisions Industrial & Packaging en Europe et Foodservices en Amérique du Nord sont affectées, entraînant des restrictions significatives sur le traitement des commandes, le service client et les livraisons. L'entreprise a immédiatement mis en œuvre son plan d'urgence et travaille avec des experts en cybersécurité et en forensique informatique pour rétablir le fonctionnement normal.",
+      "description": "",
+      "title": "EQS-Adhoc: TAKKT AG: Cyberangriff bei TAKKT AG (deutsch)",
+      "url": "https://www.boerse-online.de/dpa-afx/eqs-adhoc-takkt-ag-cyberangriff-bei-takkt-ag-deutsch-559914.html",
+      "added": "2026-10-22",
+      "infostealer": "",
+      "ransomware": null
+    },
     {
       "date": "2026-10-21",
       "victim": "Meishi Daren Co., Ltd.",
@@ -27,6 +89,42 @@
         "last_user_compromised": null,
         "infostealer_stats": {}
       },
+      "ransomware": null
+    },
+    {
+      "date": "2026-10-20",
+      "victim": "Ville de Columbia",
+      "domain": "columbiasc.gov",
+      "country": "US",
+      "summary": "Un incident de sécurité réseau a perturbé les services en ligne de la ville de Columbia, en Caroline du Sud. Les services d'urgence, l'eau et les paiements en ligne sont restés opérationnels. Les perturbations ont affecté les demandes de services, les licences commerciales et les permis. Les autorités enquêtent, mais aucune compromission de données ou attribution d'attaquant n'a été confirmée.",
+      "description": "",
+      "title": "Network security incident disrupts Columbia’s online services in South Carolina",
+      "url": "https://dysruptionhub.com/columbia-south-carolina-security-outage/",
+      "added": "2026-10-22",
+      "infostealer": {
+        "update": "2026-10-22T09:00:11",
+        "employees": 0,
+        "users": 159,
+        "thirdparties": 2,
+        "employees_url": 0,
+        "users_url": 26,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-10-20",
+      "victim": "Graines de Culture(s) / Communauté de communes Pévèle Carembault",
+      "domain": "mediatheques.pevelecarembault.fr",
+      "country": "FR",
+      "summary": "Le réseau de médiathèques Graines de Culture(s), géré par la Communauté de communes Pévèle Carembault, a été victime d'une cyberattaque le 20 octobre 2026. Cette attaque a rendu le portail numérique commun (mediatheques.pevelecarembault.fr) inaccessible, affectant les services de 34 médiathèques. Aucune fuite de données personnelles n'a été confirmée à ce stade, mais les usagers sont fortement invités à ne pas saisir d'identifiants ou de données personnelles sur le portail avant son rétablissement sécurisé.",
+      "description": "",
+      "title": "Graines de Culture(s) : une cyberattaque coupe le portail de 34 médiathèques en Pévèle Carembault",
+      "url": "https://www.cyberattaque.org/graines-de-cultures-une-cyberattaque-coupe-le-portail-de-34-mediatheques-en-pevele-carembault/",
+      "added": "2026-10-22",
+      "infostealer": "",
       "ransomware": null
     },
     {
@@ -406,6 +504,19 @@
       "title": "Cyberangriff legt Stadtverwaltung in Oberbayern lahm: „Wir bereiten uns auf alle Eventualitäten vor“",
       "url": "https://www.merkur.de/bayern/cyberangriff-legt-stadtverwaltung-lahm-notfallhotline-eingerichtet-94538064.html",
       "added": "2026-10-13",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-10-12",
+      "victim": "Parkview Health",
+      "domain": "parkviewhealthathome.com",
+      "country": "US",
+      "summary": "Parkview Health a désactivé de manière proactive son réseau suite à une activité suspectée, ce qui a entraîné l'indisponibilité de MyChart et des recherches de médecins en ligne. L'incident a eu lieu le lundi, et bien que les services aient été perturbés, l'entreprise a affirmé qu'il n'y avait aucune indication que les données aient été compromises.",
+      "description": "",
+      "title": "Suspected cyber incident blocks Parkview Health patient portal in Indiana and Ohio",
+      "url": "https://dysruptionhub.com/parkview-health-indiana-mychart-shutdown/",
+      "added": "2026-10-22",
       "infostealer": "",
       "ransomware": null
     },
@@ -2690,6 +2801,29 @@
       "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=2&spoke_time=173619&spoke_date=20260907&co_id=6136",
       "added": "2026-09-07",
       "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-09-06",
+      "victim": "Sunin Motors",
+      "domain": "suninford.co.kr",
+      "country": "KR",
+      "summary": "Sunin Motors, l'un des plus grands concessionnaires Ford et Lincoln en Corée du Sud, a été victime d'une cyberattaque par rançongiciel (ransomware) le 6 septembre 2026. L'attaque a paralysé le réseau informatique de l'entreprise et entraîné une fuite massive de données clients. Les informations compromises incluent les noms, coordonnées, numéros d'immatriculation des véhicules, numéros de série (VIN) et l'historique détaillé de l'entretien. Sunin Motors a signalé l'incident à la Commission de protection des informations personnelles et est en cours de mise à niveau de son système. Des discussions sont en cours concernant l'indemnisation des victimes.",
+      "description": "",
+      "title": "[단독] 포드·링컨 딜러사 선인자동차, 랜섬웨어 감염… 정비 예약내역 ‘통째로 막혔다’ - 뉴스W",
+      "url": "https://www.newsw.co.kr/news/articleView.html?idxno=20058",
+      "added": "2026-10-22",
+      "infostealer": {
+        "update": "2026-10-22T09:30:08",
+        "employees": 0,
+        "users": 1,
+        "thirdparties": 1,
+        "employees_url": 0,
+        "users_url": 3,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
       "ransomware": null
     },
     {
@@ -7955,6 +8089,19 @@
         "last_user_compromised": null,
         "infostealer_stats": {}
       },
+      "ransomware": null
+    },
+    {
+      "date": "2026-07-11",
+      "victim": "Borough de Petersburg",
+      "domain": "petersburgak.gov",
+      "country": "USA (États-Unis)",
+      "summary": "Le Borough de Petersburg, en Alaska, a révélé avoir été victime d'une cyberattaque par ransomware le 11 juillet 2026. L'incident a ciblé le logiciel de facturation des services publics, permettant l'accès aux noms des clients et aux numéros de compte. Les informations bancaires et les données de carte de crédit n'ont pas été compromises. Les attaquants n'ont pas été identifiés.",
+      "description": "",
+      "title": "Petersburg Borough in Alaska discloses ransomware attack affecting utility billing",
+      "url": "https://dysruptionhub.com/petersburg-alaska-ransomware-utility-billing/",
+      "added": "2026-10-22",
+      "infostealer": "",
       "ransomware": null
     },
     {

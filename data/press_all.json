@@ -2775,7 +2775,10 @@
       "url": "https://www.linfo.re/la-reunion/societe/le-tampon-la-mairie-victime-d-une-cyber-attaque-les-services-municipaux-au-ralenti",
       "added": "2026-09-09",
       "infostealer": "",
-      "ransomware": null
+      "ransomware": {
+        "group": "qilin",
+        "permalink": "https://www.ransomware.live/id/VGFtcG9ubnRAcWlsaW4"
+      }
     },
     {
       "date": "2026-09-08",

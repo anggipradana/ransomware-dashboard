@@ -484,7 +484,8 @@
       "ioc_types": {
         "tox": 1,
         "pgp": 1,
-        "session": 1
+        "session": 1,
+        "sha256": 1
       }
     },
     {

@@ -2525,7 +2525,10 @@
         "last_user_compromised": null,
         "infostealer_stats": {}
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "thegentlemen",
+        "permalink": "https://www.ransomware.live/id/V2VsZCBSZSA4IFNjaG9vbCBEaXN0cmljdEB0aGVnZW50bGVtZW4"
+      }
     },
     {
       "date": "2026-09-12",
@@ -2775,10 +2778,7 @@
       "url": "https://www.linfo.re/la-reunion/societe/le-tampon-la-mairie-victime-d-une-cyber-attaque-les-services-municipaux-au-ralenti",
       "added": "2026-09-09",
       "infostealer": "",
-      "ransomware": {
-        "group": "qilin",
-        "permalink": "https://www.ransomware.live/id/VGFtcG9ubnRAcWlsaW4"
-      }
+      "ransomware": null
     },
     {
       "date": "2026-09-08",

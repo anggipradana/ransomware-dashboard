@@ -24927,7 +24927,10 @@
       "url": "https://www.inforney.com/local-news/kaufman-county-faces-cybersecurity-attack-courthouse-computer-operations-disrupted/article_e9350250-dd15-47ba-81ef-14aba96ebd52.html",
       "added": "2025-10-22",
       "infostealer": "",
-      "ransomware": null
+      "ransomware": {
+        "group": "qilin",
+        "permalink": "https://www.ransomware.live/id/S2F1Zm1hbiBDb3VudHksIFRleGFzQHFpbGlu"
+      }
     },
     {
       "date": "2025-10-20",
@@ -25123,7 +25126,17 @@
       "title": "2026-01-02 Medical Center, LLP Data Breach Notice to Consumers",
       "url": "https://ago.vermont.gov/document/2026-01-02-medical-center-llp-data-breach-notice-consumers",
       "added": "2026-01-06",
-      "infostealer": "",
+      "infostealer": {
+        "update": "2026-10-26T13:37:25",
+        "employees": 0,
+        "users": 1,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 1,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
       "ransomware": {
         "group": "pear",
         "permalink": "https://www.ransomware.live/id/TWVkaWNhbCBDZW50ZXIsIExMUEBwZWFy"
@@ -26743,7 +26756,10 @@
       "url": "",
       "added": "2025-10-20",
       "infostealer": "",
-      "ransomware": null
+      "ransomware": {
+        "group": "qilin",
+        "permalink": "https://www.ransomware.live/id/SEVSS0VSIElORFVTVFJJRVNAcWlsaW4"
+      }
     },
     {
       "date": "2025-09-23",
@@ -27204,7 +27220,10 @@
       "url": "https://ago.vermont.gov/document/2026-01-30-first-atlantic-capital-data-breach-notice-consumers",
       "added": "2026-02-03",
       "infostealer": "",
-      "ransomware": null
+      "ransomware": {
+        "group": "qilin",
+        "permalink": "https://www.ransomware.live/id/Rmlyc3QgQXRsYW50aWMgQ2FwaXRhbEBxaWxpbg"
+      }
     },
     {
       "date": "2025-09-18",
@@ -28418,7 +28437,10 @@
           "RedLine": 3
         }
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "qilin",
+        "permalink": "https://www.ransomware.live/id/QXNoZUBxaWxpbg"
+      }
     },
     {
       "date": "2025-08-28",
@@ -29271,7 +29293,7 @@
       "url": "",
       "added": "2025-11-04",
       "infostealer": {
-        "update": "2026-07-25T10:39:36",
+        "update": "2026-10-26T13:47:43",
         "employees": 0,
         "users": 0,
         "thirdparties": 3,
@@ -33604,7 +33626,10 @@
       "url": "",
       "added": "2025-10-27",
       "infostealer": "",
-      "ransomware": null
+      "ransomware": {
+        "group": "qilin",
+        "permalink": "https://www.ransomware.live/id/c2NobWl0em1peC5jb21AcWlsaW4"
+      }
     },
     {
       "date": "2025-06-18",
@@ -33996,7 +34021,10 @@
       "url": "",
       "added": "2025-10-23",
       "infostealer": "",
-      "ransomware": null
+      "ransomware": {
+        "group": "qilin",
+        "permalink": "https://www.ransomware.live/id/c3RlZXBsZWNoYXNldG9vbC5jb21AcWlsaW4"
+      }
     },
     {
       "date": "2025-06-12",
@@ -34540,7 +34568,10 @@
       "url": "",
       "added": "2025-10-23",
       "infostealer": "",
-      "ransomware": null
+      "ransomware": {
+        "group": "qilin",
+        "permalink": "https://www.ransomware.live/id/c3ByaW5nYnJvb2tzb2Z0d2FyZS5jb21AcWlsaW4"
+      }
     },
     {
       "date": "2025-06-05",
@@ -37309,7 +37340,10 @@
       "url": "https://databreaches.net/2025/07/26/infinite-services-notifying-employees-and-patients-of-limited-ransomware-attack/",
       "added": "2025-07-26",
       "infostealer": "",
-      "ransomware": null
+      "ransomware": {
+        "group": "qilin",
+        "permalink": "https://www.ransomware.live/id/aW5maW5pdGVzZXJ2aWNlcy5vcmdAcWlsaW4"
+      }
     },
     {
       "date": "2025-05-05",

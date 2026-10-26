@@ -26237,7 +26237,7 @@
       },
       "ransomware": {
         "group": "qilin",
-        "permalink": "https://www.ransomware.live/id/aGFsaWZheC5rMTIudmEudXNAcWlsaW4"
+        "permalink": "https://www.ransomware.live/id/SGFsaWZheCBDb3VudHkgUHVibGljIFNjaG9vbHNAcWlsaW4"
       }
     },
     {
@@ -44328,7 +44328,7 @@
       },
       "ransomware": {
         "group": "qilin",
-        "permalink": "https://www.ransomware.live/id/TWluaXN0cnkgb2YgSGVhbHRoIG9mIFBhbGF1QHFpbGlu"
+        "permalink": "https://www.ransomware.live/id/cGFsYXVoZWFsdGhAcWlsaW4"
       }
     },
     {
@@ -57381,7 +57381,7 @@
       "infostealer": "",
       "ransomware": {
         "group": "qilin",
-        "permalink": "https://www.ransomware.live/id/REVUUk9JVCBQQlMgKCBQVUJMSUMgVFYgKUBxaWxpbg"
+        "permalink": "https://www.ransomware.live/id/RGV0cm9pdCBQdWJsaWMgVFZAcWlsaW4"
       }
     },
     {
@@ -63814,10 +63814,7 @@
         "last_user_compromised": null,
         "infostealer_stats": {}
       },
-      "ransomware": {
-        "group": "qilin",
-        "permalink": "https://www.ransomware.live/id/TmV4dCBzdGVwIGhlYWx0aGNhckBxaWxpbg"
-      }
+      "ransomware": null
     },
     {
       "date": "2024-06-05",

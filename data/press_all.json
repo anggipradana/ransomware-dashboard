@@ -645,7 +645,10 @@
       "url": "https://www.newsoresund.se/fehmarn-balt-bygget-drabbat-av-cyberattack/",
       "added": "2026-10-14",
       "infostealer": "",
-      "ransomware": null
+      "ransomware": {
+        "group": "Barracuda",
+        "permalink": "https://www.ransomware.live/id/RmVtZXJuIExpbmsgQ29udHJhY3RvcnNAQmFycmFjdWRh"
+      }
     },
     {
       "date": "2026-10-12",

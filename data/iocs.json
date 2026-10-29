@@ -1,6 +1,6 @@
 {
   "filter_type": null,
-  "count": 205,
+  "count": 206,
   "groups": [
     {
       "group": "0apt",
@@ -521,6 +521,13 @@
         "email": 3,
         "tox": 1,
         "ip": 3
+      }
+    },
+    {
+      "group": "everstake",
+      "ioc_types": {
+        "tox": 1,
+        "pgp": 1
       }
     },
     {
@@ -1178,8 +1185,8 @@
         "email": 1,
         "ip": 2,
         "telegram": 4,
-        "pgp": 1,
-        "md5": 5
+        "md5": 5,
+        "pgp": 1
       }
     },
     {

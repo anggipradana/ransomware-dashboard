@@ -2628,7 +2628,7 @@
       "url": "https://www.vrt.be/vrtnws/nl/2026/09/14/cyberaanval-treft-dienstverlening-van-gemeente-machelen-vermoe/",
       "added": "2026-09-14",
       "infostealer": {
-        "update": "2026-09-14T13:00:07",
+        "update": "2026-10-29T07:41:21.142930",
         "employees": 0,
         "users": 4,
         "thirdparties": 0,
@@ -2638,7 +2638,10 @@
         "last_user_compromised": null,
         "infostealer_stats": {}
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "rhysida",
+        "permalink": "https://www.ransomware.live/id/TWFjaGVsZW4gKEJlbGdpdW0pQHJoeXNpZGE"
+      }
     },
     {
       "date": "2026-09-11",

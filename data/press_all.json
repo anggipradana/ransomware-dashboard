@@ -4,8 +4,47 @@
     "month": null,
     "country": null
   },
-  "count": 4278,
+  "count": 4280,
   "results": [
+    {
+      "date": "2026-10-28",
+      "victim": "Université de Leipzig",
+      "domain": "uni-leipzig.de",
+      "country": "DE",
+      "summary": "L'Université de Leipzig a été victime d'une cyberattaque. Les serveurs connectés à Internet ont été mis hors ligne le mercredi pour prévenir tout dommage. L'attaque a affecté le site web et le système de messagerie, empêchant les étudiants et le personnel de communiquer. Les autorités mènent des analyses pour déterminer la nature de l'attaque, la méthode d'intrusion et si des données ont été exfiltrées.",
+      "description": "",
+      "title": "Nach Hackerangriff: Uni Leipzig weiter offline",
+      "url": "https://www.mdr.de/nachrichten/sachsen/leipzig/leipzig-leipzig-land/news-cyberangriff-internet-sicherheit,hackerangriff-uni-100.html",
+      "added": "2026-10-30",
+      "infostealer": {
+        "update": "2026-10-30T12:30:09",
+        "employees": 197,
+        "users": 887,
+        "thirdparties": 87,
+        "employees_url": 56,
+        "users_url": 100,
+        "last_employee_compromised": "2026-10-17T11:52:40+00:00",
+        "last_user_compromised": "2026-10-22T10:26:25+00:00",
+        "infostealer_stats": {
+          "RedLine": 268,
+          "Azorult": 40,
+          "UNKNOWN": 10,
+          "Vidar": 36,
+          "Acreed": 44,
+          "CRYPTBOT": 4,
+          "Warden Stealer": 2,
+          "Generic Stealer": 306,
+          "Atomic": 2,
+          "Lumma": 172,
+          "Remus": 5,
+          "Mystic": 1,
+          "Raccoon": 89,
+          "StealC": 23,
+          "Taurus": 1
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-10-26",
       "victim": "Centre des Sciences de la Santé de l'Université du Nouveau-Mexique (UNM HSC)",
@@ -3662,6 +3701,29 @@
         "thirdparties": 2,
         "employees_url": 0,
         "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-08-27",
+      "victim": "Serviciul Public Finanțe Locale Ploiești",
+      "domain": "spfl.ro",
+      "country": "RO",
+      "summary": "Le Service Public des Finances Locales de Ploiești a été victime d'une cyberattaque le 27 août 2026. Suite à cet incident, la direction a demandé une rectification budgétaire pour financer des mesures de sécurité, notamment l'acquisition d'un antivirus plus performant et d'un pare-feu, afin de protéger les bases de données de l'institution.",
+      "description": "",
+      "title": "VIDEO 🎦 Rectificare de buget pentru Finanțe Locale Ploiești, în urma unui atac cibernetic. Director: „Ne trebuie măsuri de protecție ca să nu fie atacată baza de date”",
+      "url": "https://telegrama.ro/article/video-rectificare-de-buget-pentru-finante-locale-ploiesti-in-urma-unui-atac-cibernetic-director-ne-trebuie-masuri-de-protectie-ca-sa-nu-fie-atacata-baza-de-date",
+      "added": "2026-10-30",
+      "infostealer": {
+        "update": "2026-10-30T16:00:08",
+        "employees": 1,
+        "users": 48,
+        "thirdparties": 0,
+        "employees_url": 1,
+        "users_url": 12,
         "last_employee_compromised": null,
         "last_user_compromised": null,
         "infostealer_stats": {}

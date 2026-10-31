@@ -668,7 +668,10 @@
       "url": "https://www.merkur.de/bayern/cyberangriff-legt-stadtverwaltung-lahm-notfallhotline-eingerichtet-94538064.html",
       "added": "2026-10-13",
       "infostealer": "",
-      "ransomware": null
+      "ransomware": {
+        "group": "thegentlemen",
+        "permalink": "https://www.ransomware.live/id/RWljaHN0YXR0QHRoZWdlbnRsZW1lbg"
+      }
     },
     {
       "date": "2026-10-12",
@@ -1526,7 +1529,10 @@
         "last_user_compromised": null,
         "infostealer_stats": {}
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "thegentlemen",
+        "permalink": "https://www.ransomware.live/id/U3ZlZGFsYSBLb21tdW5AdGhlZ2VudGxlbWVu"
+      }
     },
     {
       "date": "2026-09-30",

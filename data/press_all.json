@@ -17062,7 +17062,10 @@
           "Ficker": 25
         }
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "medusalocker",
+        "permalink": "https://www.ransomware.live/id/RGlhbkBtZWR1c2Fsb2NrZXI"
+      }
     },
     {
       "date": "2026-03-06",

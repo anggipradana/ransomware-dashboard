@@ -250,7 +250,8 @@
       "group": "braincipher",
       "ioc_types": {
         "email": 4,
-        "md5": 12
+        "md5": 12,
+        "ip": 1
       }
     },
     {

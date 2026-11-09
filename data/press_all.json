@@ -4,8 +4,44 @@
     "month": null,
     "country": null
   },
-  "count": 4283,
+  "count": 4309,
   "results": [
+    {
+      "date": "2026-11-06",
+      "victim": "Bergmann",
+      "domain": "bergmann-dumper.com",
+      "country": "DE",
+      "summary": "Une cyberattaque a touché l'entreprise Bergmann (spécialiste des matériaux de construction) ainsi que la Trauco Group. L'incident a provoqué des pannes informatiques temporaires dans de nombreux sites, forçant l'utilisation de méthodes de commande alternatives telles que le téléphone ou le fax.",
+      "description": "",
+      "title": "Cyberangriff auf Bergmann in Steinfeld: Kunden erhalten KI-Anrufe",
+      "url": "https://www.om-online.de/landkreis-vechta/steinfeld/artikel/cyberangriff-bei-bergmann-ki-anrufe-verunsichern-kunden-51707851",
+      "added": "2026-11-09",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-10-31",
+      "victim": "Gouvernement de Formosa",
+      "domain": "formosa.gob.ar",
+      "country": "AR",
+      "summary": "Le gouvernement de Formosa a confirmé qu'une cyberattaque a affecté son infrastructure technologique, compromettant le fonctionnement des systèmes numériques de l'administration publique provinciale. En mesure préventive, les autorités ont décidé de suspendre temporairement les services numériques pour contenir l'incident, éviter sa propagation et protéger les données stockées.",
+      "description": "",
+      "title": "El Gobierno provincial suspendió temporalmente los servicios digitales tras un ciberataque",
+      "url": "https://neahoy.com/2026/10/31/el-gobierno-provincial-suspendio-temporalmente-los-servicios-digitales-tras-un-ciberataque/",
+      "added": "2026-11-09",
+      "infostealer": {
+        "update": "2026-11-09T11:30:08",
+        "employees": 161,
+        "users": 2382,
+        "thirdparties": 7,
+        "employees_url": 2,
+        "users_url": 100,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-10-31",
       "victim": "ISAE-Supméca",
@@ -54,6 +90,82 @@
     },
     {
       "date": "2026-10-28",
+      "victim": "Zuken",
+      "domain": "zuken.com",
+      "country": "JP",
+      "summary": "Un document de divulgation a été publié par Zuken [6947] le 28 octobre 2026, annonçant une cyberattaque contre sa filiale étrangère.",
+      "description": "",
+      "title": "図研[6947]：海外子会社に対するサイバー攻撃に関するお知らせ 2026年10月28日(適時開示) ：日経会社情報DIGITAL：日本経済新聞",
+      "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20261027557047/",
+      "added": "2026-11-09",
+      "infostealer": {
+        "update": "2026-11-09T17:00:10",
+        "employees": 5,
+        "users": 162,
+        "thirdparties": 7,
+        "employees_url": 1,
+        "users_url": 27,
+        "last_employee_compromised": "2026-06-12T15:53:46+00:00",
+        "last_user_compromised": "2026-10-09T16:26:11+00:00",
+        "infostealer_stats": {
+          "Lumma": 23,
+          "Generic Stealer": 24,
+          "Azorult": 8,
+          "Mystic": 2,
+          "Raccoon": 10,
+          "Acreed": 1,
+          "Vidar": 2,
+          "UNKNOWN": 5,
+          "Taurus": 1,
+          "RedLine": 50,
+          "StealC": 5
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-10-28",
+      "victim": "Gamdom",
+      "domain": "gamdom.com",
+      "country": "CR",
+      "summary": "Le groupe de ransomware Whitearmor a menacé Gamdom en exigeant 15 millions de dollars en Bitcoin. Les attaquants affirment avoir compromis les données de 15,4 millions de comptes clients, avec un accès à 146 champs par compte. L'incident a été rendu possible par l'exploitation d'un ancien compte machine interne dont les identifiants n'avaient pas été mis à jour régulièrement.",
+      "description": "",
+      "title": "게임덤, 1500만 달러 비트코인 요구 랜섬웨어 공격...데이터 유출 우려 (BTC, Gamdom, Whitearmor, 1500만 달러)",
+      "url": "https://www.minsimnews.com/news/articleView.html?idxno=96125",
+      "added": "2026-11-09",
+      "infostealer": {
+        "update": "2026-11-09T16:30:08",
+        "employees": 1,
+        "users": 29138,
+        "thirdparties": 0,
+        "employees_url": 1,
+        "users_url": 100,
+        "last_employee_compromised": "2022-02-12T15:56:05+00:00",
+        "last_user_compromised": "2026-11-09T11:31:20.935000+00:00",
+        "infostealer_stats": {
+          "Ficker": 26,
+          "Lumma": 4229,
+          "Acreed": 53,
+          "CRYPTBOT": 72,
+          "Vidar": 908,
+          "Raccoon": 2271,
+          "UNKNOWN": 519,
+          "StealC": 874,
+          "Predator": 15,
+          "KPOT": 2,
+          "Mystic": 21,
+          "Atomic": 12,
+          "Taurus": 61,
+          "Generic Stealer": 4326,
+          "Azorult": 370,
+          "RedLine": 12175,
+          "DarkCrystal": 12
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-10-28",
       "victim": "Université de Leipzig",
       "domain": "uni-leipzig.de",
       "country": "DE",
@@ -92,6 +204,71 @@
       "ransomware": null
     },
     {
+      "date": "2026-10-27",
+      "victim": "Jumonji Gakuen Women's University",
+      "domain": "jumonji-u.ac.jp",
+      "country": "JP",
+      "summary": "Jumonji Gakuen Women's University confirmed a cyber attack on its systems, resulting in the exposure of organizational information on an external website. The university is currently investigating the incident to determine the full scope of the potential data breach.",
+      "description": "",
+      "title": "404 Not Found お探しのページ(URL)が見つかりません",
+      "url": "https://www.jumonji-u.ac.jp/important/systemfailure_20261028/",
+      "added": "2026-11-09",
+      "infostealer": {
+        "update": "2026-10-31T08:01:35",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 1,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "safepay",
+        "permalink": "https://www.ransomware.live/id/anVtb25qaS11LmFjLmpwQHNhZmVwYXk"
+      }
+    },
+    {
+      "date": "2026-10-27",
+      "victim": "Paritätischer NRW",
+      "domain": "paritaet-nrw.org",
+      "country": "DE",
+      "summary": "Le Paritätischer NRW, une organisation de bien-être en Allemagne, a été victime d'une cyberattaque ayant entraîné un vol de données. Des informations sensibles, y compris des coordonnées bancaires, ont été compromises. L'organisation a immédiatement pris des mesures de protection, a bloqué l'accès aux données, déposé une plainte pénale et fait appel à des experts externes pour enquêter sur l'incident.",
+      "description": "",
+      "title": "Cyberangriff beim Paritätischen - sensible Daten betroffen",
+      "url": "https://www.wz.de/nrw/cyberangriff-beim-paritaetischen-sensible-daten-betroffen_aid-157336287",
+      "added": "2026-11-09",
+      "infostealer": {
+        "update": "2026-07-27T19:02:15",
+        "employees": 1,
+        "users": 4,
+        "thirdparties": 1,
+        "employees_url": 2,
+        "users_url": 10,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "safepay",
+        "permalink": "https://www.ransomware.live/id/cGFyaXRhZXQtbnJ3Lm9yZ0BzYWZlcGF5"
+      }
+    },
+    {
+      "date": "2026-10-27",
+      "victim": "Warhorse",
+      "domain": "warhorsestudios.cz",
+      "country": "CZ",
+      "summary": "Warhorse, un studio d'Embracer, a été victime d'une cyberattaque. Le studio a annoncé sur X qu'il travaillait avec des spécialistes en cybersécurité pour sécuriser ses systèmes et comprendre l'incident.",
+      "description": "",
+      "title": "Cyberattack mot Embracer-bolag",
+      "url": "https://www.privataaffarer.se/placeringar/aktier/cyberattack-mot-embracer-bolag/",
+      "added": "2026-11-09",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
       "date": "2026-10-26",
       "victim": "Centre des Sciences de la Santé de l'Université du Nouveau-Mexique (UNM HSC)",
       "domain": "hsc.unm.edu",
@@ -101,6 +278,169 @@
       "title": "Update on Cybersecurity Event at UNM Health Sciences Center",
       "url": "https://hscnews.unm.edu/news/ambulance-traffic-diverted-clinical-appointments-cancelled-and-classes-cancelled-due-to-cybersecurity-issue-at-unm-hsc",
       "added": "2026-10-27",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-10-25",
+      "victim": "Colmobil",
+      "domain": "colmobil.com",
+      "country": "IL",
+      "summary": "L'importateur de voitures Colmobil a été victime d'une cyberattaque par rançongiciel (ransomware), entraînant une interruption de ses activités, des retards dans les livraisons de véhicules et une déconnexion de ses systèmes avec le ministère des Transports. Bien que l'attaque ait été résolue après que la société ait payé la rançon, l'article met en lumière des menaces plus larges pour l'industrie automobile israélienne, incluant la compromission des mises à jour logicielles, la désactivation des bornes de recharge et le risque de prise de contrôle à distance des véhicules.",
+      "description": "",
+      "title": "מתקפת הסייבר על כלמוביל היא רק ההתחלה: הסכנה האמיתית נמצאת על הכביש | כלכליסט",
+      "url": "https://www.calcalist.co.il/local_news/car/article/rj5pdxj2zg",
+      "added": "2026-11-09",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-10-24",
+      "victim": "TG-iPASS (Gouvernement de Telangana)",
+      "domain": "ipass.telangana.gov.in",
+      "country": "IN",
+      "summary": "Le portail TG-iPASS, appartenant au gouvernement de Telangana, a été victime d'une cyberattaque par rançongiciel (ransomware). L'incident a été découvert lorsqu'un message de rançon a été trouvé sur le serveur, utilisant l'identifiant 'DataLeaks5'. Les autorités ont confirmé que la base de données et certains fichiers ont été chiffrés. Le Bureau de la Cybersécurité (CSB) a ouvert une enquête, mais les détails sur l'identité des attaquants, la méthode d'intrusion et l'ampleur de la fuite de données restent inconnus.",
+      "description": "",
+      "title": "టీజీ ఐపాస్ సర్వర్పై ర్యాన్సమ్వేర్ దాడి.. రంగంలోకి సీఎస్బీ",
+      "url": "https://www.v6velugu.com/ransomware-attack-on-telangana’s-tg-ipass-portal",
+      "added": "2026-11-09",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-10-23",
+      "victim": "G&H Distributing",
+      "domain": "ghdistributing.com",
+      "country": "US",
+      "summary": "G&H Distributing, une entreprise familiale basée à Sioux Falls, a été victime d'une cyberattaque par ransomware. L'incident a été découvert le vendredi matin, le 23 octobre 2026. L'attaque a paralysé les systèmes critiques, y compris les serveurs ERP et les serveurs de fichiers, en exploitant une vulnérabilité connue de son pare-feu. L'entreprise a subi une interruption d'activité d'environ une semaine.",
+      "description": "",
+      "title": "First 48 hours: What ransomware attack taught family business about cybersecurity, trusted partnerships",
+      "url": "https://siouxfalls.business/first-48-hours-what-ransomware-attack-taught-family-business-about-cybersecurity-trusted-partnerships/",
+      "added": "2026-11-09",
+      "infostealer": "",
+      "ransomware": {
+        "group": "akira",
+        "permalink": "https://www.ransomware.live/id/RyAmIEggRGlzdHJpYnV0aW5nQGFraXJh"
+      }
+    },
+    {
+      "date": "2026-10-23",
+      "victim": "Stad Damme",
+      "domain": "damme.be",
+      "country": "BE",
+      "summary": "La ville de Damme a été victime d'une cyberattaque, ce qui l'a contrainte de mettre hors ligne plusieurs formulaires de demande par mesure de précaution. Les services en ligne sont temporairement indisponibles. La ville n'a pas précisé les formulaires concernés, le moment exact de l'attaque, ni si les données des résidents ont été compromises.",
+      "description": "",
+      "title": "Inwoners van Damme kunnen na een cyberaanval geen aanvragen meer doen via de website van de stad",
+      "url": "https://www.lokaalnieuws.online/2026/10/24/damme-cyberaanval-e-loket-offline/",
+      "added": "2026-11-09",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-10-23",
+      "victim": "Jamaica Electronic Transfer Services (JETS) Limited",
+      "domain": "multilink-jm.nodomain",
+      "country": "JM",
+      "summary": "Jamaica Electronic Transfer Services (JETS) a signalé une cyberattaque ayant affecté une partie de ses systèmes administratifs internes. Bien que l'incident ait pu exposer des numéros de cartes de débit historiques et les noms de certains clients liés aux transactions ACH, les réseaux de paiement MultiLink et ACH n'ont pas été compromis et restent pleinement opérationnels. JETS a immédiatement isolé le système affecté et lancé une enquête forensique.",
+      "description": "",
+      "title": "BOJ monitoring JETS cyber incident, urges public to be vigilant",
+      "url": "https://jamaica-gleaner.com/article/news/20261023/boj-monitoring-jets-cyber-incident-urges-customers-be-vigilant",
+      "added": "2026-11-09",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-10-23",
+      "victim": "Program Consultores S.A.",
+      "domain": "municipalidad.com",
+      "country": "AR",
+      "summary": "La Municipalité de Villa Carlos Paz a été victime d'une cyberattaque par ransomware qui a compromis ses systèmes de gestion et mis hors service la plateforme des taxes municipales. L'incident, survenu le 23 octobre 2026, est d'une portée nationale, affectant d'autres municipalités argentines utilisant la plateforme de PGM (Program Consultores S.A.), un fournisseur de solutions informatiques. Les services de paiement et de démarches numériques sont actuellement interrompus, tandis que les autorités travaillent à la conteneurisation de l'attaque et à la récupération des services.",
+      "description": "",
+      "title": "Carlos Paz, afectada por un ciberataque que golpea a municipios de todo el país",
+      "url": "https://www.carlospazvivo.com/carlos-paz-afectada-por-un-ciberataque-que-golpea-a-municipios-de-todo-el-pais/",
+      "added": "2026-11-09",
+      "infostealer": {
+        "update": "2026-11-09T15:00:09",
+        "employees": 0,
+        "users": 509,
+        "thirdparties": 3,
+        "employees_url": 0,
+        "users_url": 100,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-10-22",
+      "victim": "Centre de Recherche en Pathologie et Scan de Pankaj",
+      "domain": "drpankajlab.in",
+      "country": "IN",
+      "summary": "Le Centre de Recherche en Pathologie et Scan de Pankaj, situé à Agra, a été victime d'une cyberattaque par rançongiciel. Les attaquants ont réussi à crypter et à supprimer les données de près de 1,4 million de patients, couvrant quatre années d'informations. L'incident a été signalé par le centre le 22 octobre. Les pirates ont laissé un message exigeant une rançon pour la restitution des données, qui pourraient être vendues sur le dark web. Les autorités locales enquêtent sur cette attaque, qui fait partie d'une campagne plus large ciblant des centres de diagnostic dans 56 villes. Bien que les données récentes aient été récupérées, les archives plus anciennes restent inaccessibles.",
+      "description": "",
+      "title": "आगरा के नामी पैथोलाजी सेंटर पर साइबर हमला, 14 लाख मरीजों का संवेदनशील डाटा हैक - agra pankaj mahendru scanning pathology research centre data hacked cyber criminals",
+      "url": "https://www.jagran.com/uttar-pradesh/agra-city-agra-pankaj-mahendru-scanning-pathology-research-centre-data-hacked-cyber-criminals-40417771.html",
+      "added": "2026-11-09",
+      "infostealer": {
+        "update": "2026-11-09T16:00:08",
+        "employees": 0,
+        "users": 2,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 1,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-10-22",
+      "victim": "Bathurst RSL Club",
+      "domain": "bathurstrsl.com.au",
+      "country": "AU",
+      "summary": "Le Bathurst RSL Club a été victime d'une cyberattaque par le groupe de rançongiciels Qilin. Le groupe a publié des données personnelles, incluant des scans de passeport et des demandes de passeport, appartenant au personnel du club. Le PDG a confirmé que l'incident avait été contenu et que les systèmes de gestion des membres et de jeux n'avaient pas été affectés.",
+      "description": "",
+      "title": "Exclusive: Bathurst RSL says cyber incident contained after Qilin ransomware attack",
+      "url": "https://www.cyberdaily.au/security/14349-exclusive-bathurst-rsl-says-cyber-incident-contained-after-qilin-ransomware-attack",
+      "added": "2026-11-09",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-10-22",
+      "victim": "Hanjin Information & Communication",
+      "domain": "hanjinkal.com",
+      "country": "KR",
+      "summary": "Hanjin Information & Communication, une société de services informatiques du groupe Hanjin, a officiellement confirmé une fuite de données suite à une cyberattaque externe. Le groupe de ransomware 'n0n' a affirmé avoir compromis le système ITSM le 21 octobre 2026 et a menacé de publier des informations. L'entreprise a confirmé le 23 octobre 2026 que les noms et adresses e-mail de 980 utilisateurs du système ITSM avaient été exposés. L'attaquant a également affirmé détenir des informations plus sensibles, telles que les détails sur le déploiement du personnel chez les clients et les informations sur les comptes des partenaires tiers, ce qui représente un risque significatif pour la sécurité de la chaîne d'approvisionnement, bien qu'aucune confirmation de perturbation du système ou de chiffrement de fichiers n'ait été faite.",
+      "description": "",
+      "title": "[단독] 한진그룹 IT 서비스 전문기업 한진정보통신 해킹…항공·물류 공급망 보안 위협 우려 - 데일리시큐",
+      "url": "https://www.dailysecu.com/news/articleView.html?idxno=209036",
+      "added": "2026-11-09",
+      "infostealer": {
+        "update": "2026-11-09T15:00:12",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 1,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-10-22",
+      "victim": "Andest Holdings",
+      "domain": "andst-hd.co.jp",
+      "country": "JAP",
+      "summary": "Andest Holdings a annoncé qu'une cyberattaque a compromis ses serveurs d'entreprise le 22 octobre 2026. Environ 2,5 millions de données clients et 10 000 données de fournisseurs ont potentiellement été exposées. Les informations concernées incluent noms, adresses, numéros de téléphone, adresses de livraison et identifiants. Bien que la boutique en ligne reste accessible, l'utilisation des points de fidélité est suspendue.",
+      "description": "",
+      "title": "アンドエスティHDにサイバー攻撃、顧客約250万件の個人情報漏えいの恐れーアンドエスティは営業継続|セキュリティニュースのセキュリティ対策Lab",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/andst_hd_cyberattack_customer_2500000_privacy_risk_20261023/",
+      "added": "2026-11-09",
       "infostealer": "",
       "ransomware": null
     },
@@ -166,6 +506,29 @@
           "Taurus": 2,
           "DarkCrystal": 10
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-10-21",
+      "victim": "Garanka",
+      "domain": "garanka.fr",
+      "country": "FR",
+      "summary": "Garanka, une entreprise spécialisée dans les équipements de chauffage, a confirmé avoir été victime d'une cyberattaque le 26 octobre 2026. Afin de limiter les conséquences, l'entreprise a isolé ses systèmes informatiques, ce qui a entraîné des perturbations dans les communications et le report d'interventions. Garanka rassure ses clients en précisant que leurs installations de chauffage ne sont pas affectées. Bien que la nature exacte de l'attaque ne soit pas précisée, aucune fuite de données personnelles n'est confirmée à ce stade.",
+      "description": "",
+      "title": "Garanka victime d'une cyberattaque : des interventions chez les clients perturbées",
+      "url": "https://frenchbreaches.com/alertes/garanka-cyberattaque-piratage-fuite-de-donnees-systemes-informatiques-mvp5u5169z0jw96lm8e",
+      "added": "2026-11-09",
+      "infostealer": {
+        "update": "2026-11-09T16:00:08",
+        "employees": 0,
+        "users": 109,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 5,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },
@@ -340,6 +703,29 @@
           "Generic Stealer": 7,
           "racoon": 1
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-10-18",
+      "victim": "Bajaj Hospital",
+      "domain": "bajajhospital.com",
+      "country": "IN",
+      "summary": "L'hôpital Bajaj, situé à Sambhajinagar, a été victime d'une cyberattaque, ce qui a entraîné de graves difficultés pour les patients.",
+      "description": "",
+      "title": "Video | संभाजीनगरच्या बजाज हॉस्पिटलवर सायबर हल्ला, रुग्णांचे अतोनात हाल | Cyber Attack",
+      "url": "https://marathi.ndtv.com/videos/cyber-attack-on-bajaj-hospital-in-sambhajinagar-severely-affects-patients-condition-1181204",
+      "added": "2026-11-09",
+      "infostealer": {
+        "update": "2026-11-09T16:30:10",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 1,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },
@@ -698,6 +1084,19 @@
     },
     {
       "date": "2026-10-12",
+      "victim": "WHIZ (Station de radio et de télévision)",
+      "domain": "whiznews.com",
+      "country": "US",
+      "summary": "WHIZ, une station de radio et de télévision située à Zanesville, Ohio, a été victime d'une cyberattaque le 12 octobre 2026. L'attaque a paralysé l'ensemble de son réseau, entraînant l'arrêt des émissions en direct, des problèmes de diffusion radio et la perte temporaire de données. Bien que les stations de radio et le système de messagerie aient été rétablis au moment de l'article, les lignes téléphoniques sont toujours hors service.",
+      "description": "",
+      "title": "WHIZ in the midst of recovery from a cyber attack - WHIZ - Fox 5 / Marquee Broadcasting",
+      "url": "https://www.whiznews.com/whiz-in-the-midst-of-recovery-from-a-cyber-attack/",
+      "added": "2026-11-09",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-10-12",
       "victim": "Parkview Health",
       "domain": "parkviewhealthathome.com",
       "country": "US",
@@ -903,6 +1302,19 @@
       "title": "++ Info-Date am Morgen, 14.10.: Koalition legt Streit um Zuckersteuer bei ++ Ermittlungen nach Cyberangriff auf Feuerwehrzentrale in Wolsfeld in der Eifel ++",
       "url": "https://www.swr.de/swraktuell-radio/info-date-am-morgen-2026-10-14-koalition-legt-streit-um-zuckersteuer-bei-100.html",
       "added": "2026-10-14",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-10-09",
+      "victim": "Medienwerkstatt (Mattenbach-Gruppe)",
+      "domain": "medienwerkstatt-ag.ch",
+      "country": "CH",
+      "summary": "Le prestataire de services médiatiques Medienwerkstatt, faisant partie du groupe Mattenbach, a été victime d'une cyberattaque par ransomware attribuée au groupe Akira. L'incident a été détecté le 9 octobre 2026. Les attaquants ont volé environ 130 Go de données sensibles, incluant des coordonnées professionnelles, des données clients, des contrats et des fichiers de production. L'entreprise a réussi à restaurer ses systèmes et à reprendre ses activités sans céder aux exigences des pirates.",
+      "description": "",
+      "title": "Thurgauer Medienwerkstatt meldet Cybervorfall",
+      "url": "https://www.inside-it.ch/thurgauer-medienwerkstatt-meldet-cybervorfall-20261023",
+      "added": "2026-11-09",
       "infostealer": "",
       "ransomware": null
     },
@@ -1119,6 +1531,29 @@
         "thirdparties": 0,
         "employees_url": 1,
         "users_url": 43,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-10-06",
+      "victim": "Retim Ecologic Service SA",
+      "domain": "retim.ro",
+      "country": "RO",
+      "summary": "Retim Ecologic Service SA, un opérateur de services publics en Roumanie, a été victime d'une cyberattaque. L'incident a forcé l'entreprise à désactiver la section « Mon Compte » de son site web, utilisée pour le paiement des factures. Les données personnelles des clients ont été affectées. En réponse, l'entreprise a invalidé les mots de passe et supprimé les données de session, et conseille aux utilisateurs de changer leurs mots de passe.",
+      "description": "",
+      "title": "Un atac cibernetic blochează de trei săptămâni plata facturilor pe site-ul operatorului de salubritate Retim - Actualitati-Arad",
+      "url": "https://www.actualitati-arad.ro/un-atac-cibernetic-blocheaza-de-trei-saptamani-plata-facturilor-pe-site-ul-operatorului-de-salubritate-retim/",
+      "added": "2026-11-09",
+      "infostealer": {
+        "update": "2026-11-09T16:30:09",
+        "employees": 0,
+        "users": 873,
+        "thirdparties": 2,
+        "employees_url": 0,
+        "users_url": 10,
         "last_employee_compromised": null,
         "last_user_compromised": null,
         "infostealer_stats": {}
@@ -3786,6 +4221,29 @@
         "thirdparties": 2,
         "employees_url": 0,
         "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-08-27",
+      "victim": "Centrale solaire Huatacondo",
+      "domain": "eiffage.es",
+      "country": "CL",
+      "summary": "La centrale solaire Huatacondo, située au Chili, a été victime d'une cyberattaque le 27 août 2026. L'incident a provoqué la déconnexion de la centrale photovoltaïque et de son système de stockage d'énergie (BESS) du Réseau Électrique National. La disponibilité de l'installation est restée à 0 % pendant près de deux mois, jusqu'au 17 octobre.",
+      "description": "",
+      "title": "Coordinador Eléctrico registró ciberataque en planta solar Huatacondo | Diario Financiero",
+      "url": "https://www.df.cl/senal-df/datos-de-sobremesa/coordinador-electrico-registro-ciberataque-en-planta-solar-huatacondo",
+      "added": "2026-11-09",
+      "infostealer": {
+        "update": "2026-11-09T15:00:10",
+        "employees": 24,
+        "users": 26,
+        "thirdparties": 32,
+        "employees_url": 11,
+        "users_url": 17,
         "last_employee_compromised": null,
         "last_user_compromised": null,
         "infostealer_stats": {}
@@ -26439,6 +26897,29 @@
     },
     {
       "date": "2025-09-29",
+      "victim": "Llano Independent School District",
+      "domain": "llanoisd.org",
+      "country": "US",
+      "summary": "Le district scolaire indépendant de Llano, au Texas, a signalé un incident de cybersécurité suite à des pannes d'internet et de téléphone survenues le 29 septembre 2025. Le district a pris des mesures pour isoler les systèmes affectés et a fait appel à des spécialistes. Le groupe de ransomware Qilin a listé le district comme victime, mais cette revendication reste non vérifiée, et le district n'a pas confirmé la cause de la perturbation ni l'exfiltration de données.",
+      "description": "",
+      "title": "Llano School District in Texas reports cyber incident after internet and phone outages",
+      "url": "https://dysruptionhub.com/llano-isd-texas-internet-phone-outages/",
+      "added": "2026-11-09",
+      "infostealer": {
+        "update": "2026-10-18T13:49:15",
+        "employees": 0,
+        "users": 8,
+        "thirdparties": 2,
+        "employees_url": 0,
+        "users_url": 3,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-09-29",
       "victim": "Charles P. Elliott, P.C.",
       "domain": "elliotttaxservice.com",
       "country": "US",
@@ -27532,6 +28013,19 @@
         "group": "BrainCipher",
         "permalink": "https://www.ransomware.live/id/b3hmb3JkY291bnR5LmNhQEJyYWluQ2lwaGVy"
       }
+    },
+    {
+      "date": "2025-09-15",
+      "victim": "Cox",
+      "domain": "coxs-japan.com",
+      "country": "JP",
+      "summary": "Quatre détaillants (Don Quijote, Nagasakiya, Tachibana Department Store et UD Retail) ont annoncé le 28 octobre 2026 une possible fuite de données clients suite à un accès non autorisé au serveur de leur prestataire externe de réparation d'horloges, Cox. Le serveur a été chiffré par un rançongiciel (ransomware). L'incident a été détecté le 15 septembre 2025. Les clients concernés sont ceux ayant demandé une réparation depuis septembre 2025. Les informations potentiellement compromises incluent le nom, une partie de l'adresse et une partie du numéro de téléphone.",
+      "description": "",
+      "title": "ドン・キホーテなど4社、顧客情報漏えいの可能性 時計修理の委託先にランサムウェア攻撃（アスキー） - Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/8cdfa52994d8c8f48e14ef0889b75294f0673bc9",
+      "added": "2026-11-09",
+      "infostealer": "",
+      "ransomware": null
     },
     {
       "date": "2025-09-15",
@@ -39356,6 +39850,38 @@
         "last_employee_compromised": null,
         "last_user_compromised": null,
         "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2025-04-16",
+      "victim": "Layer-Großhandel",
+      "domain": "layer-grosshandel.de",
+      "country": "DE",
+      "summary": "Le PDG de Layer-Großhandel, David Layer, a décrit une cyberattaque subie par son entreprise de grossiste en outils à Tettnang. L'incident a été détecté le 16 avril 2025 et s'est étendu pendant les vacances de Pâques 2025. L'attaque a été stoppée après que l'équipe informatique ait coupé le système.",
+      "description": "",
+      "title": "Zwischen Datensicherung und Erpressung – Unternehmen ringen mit Cyberbedrohungen",
+      "url": "https://www.suedkurier.de/bodenseekreis/cyberangriffe-zwingen-mittelstand-zum-handeln-erfahrungen-und-konsequenzen-fuer-betriebe-115524787",
+      "added": "2026-11-09",
+      "infostealer": {
+        "update": "2026-07-25T10:55:42",
+        "employees": 0,
+        "users": 79,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 9,
+        "last_employee_compromised": "1970-01-01T00:00:00+00:00",
+        "last_user_compromised": "2026-05-26T20:55:00+00:00",
+        "infostealer_stats": {
+          "Lumma": 14,
+          "Raccoon": 10,
+          "Azorult": 3,
+          "Generic Stealer": 14,
+          "StealC": 2,
+          "UNKNOWN": 1,
+          "Vidar": 2,
+          "RedLine": 22
+        }
       },
       "ransomware": null
     },

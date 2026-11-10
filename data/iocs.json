@@ -1,6 +1,6 @@
 {
   "filter_type": null,
-  "count": 207,
+  "count": 208,
   "groups": [
     {
       "group": "0apt",
@@ -291,6 +291,12 @@
     },
     {
       "group": "clearwater",
+      "ioc_types": {
+        "tox": 1
+      }
+    },
+    {
+      "group": "climax inc",
       "ioc_types": {
         "tox": 1
       }
@@ -1282,13 +1288,14 @@
     {
       "group": "thegentlemen",
       "ioc_types": {
-        "tox": 6,
+        "tox": 7,
         "session": 2,
         "sha1": 4,
         "sha256": 34,
         "md5": 48,
-        "email": 2,
-        "ip": 8
+        "email": 3,
+        "ip": 8,
+        "domain": 3
       }
     },
     {

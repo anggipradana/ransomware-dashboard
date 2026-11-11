@@ -4,8 +4,31 @@
     "month": null,
     "country": null
   },
-  "count": 4367,
+  "count": 4369,
   "results": [
+    {
+      "date": "2026-11-10",
+      "victim": "ePUAP (Système gouvernemental polonais)",
+      "domain": "epuap.gov.pl",
+      "country": "PL",
+      "summary": "Une cyberattaque a été découverte et stoppée sur le système gouvernemental polonais ePUAP. Le ministre de la Digitalisation, Krzysztof Gawkowski, a confirmé que les équipes de sécurité ont agi rapidement pour maintenir la stabilité de l'infrastructure. Des travaux techniques sont actuellement en cours pour restaurer complètement le fonctionnement du système. L'Agence de sécurité intérieure polonaise (ABW) est impliquée dans l'enquête, mais aucune information concernant l'origine de l'attaque n'a été communiquée.",
+      "description": "",
+      "title": "Кибератаку на польскую систему ePUAP остановили — Polsat News",
+      "url": "https://ua.news/ru/dovkolo-svitu/u-polshchi-zupinili-kiberataku-na-derzhavnu-sistemu-epuap-polsat-news",
+      "added": "2026-11-11",
+      "infostealer": {
+        "update": "2026-11-11T14:30:08",
+        "employees": 0,
+        "users": 5784,
+        "thirdparties": 3,
+        "employees_url": 0,
+        "users_url": 85,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-11-10",
       "victim": "Port de Santos",
@@ -564,6 +587,41 @@
         "group": "thegentlemen",
         "permalink": "https://www.ransomware.live/id/U2VjcmV0YXJpYSBkZSBFc3RhZG8gZGUgU2HDumRlQHRoZWdlbnRsZW1lbg"
       }
+    },
+    {
+      "date": "2026-10-31",
+      "victim": "Fullerton Health",
+      "domain": "fullertonhealth.com",
+      "country": "SG",
+      "summary": "Le fournisseur de solutions de santé Fullerton Health a été victime d'une cyberattaque impliquant un accès non autorisé à un serveur. L'incident, découvert le 31 octobre, concerne potentiellement les données personnelles des participants au programme Migrant Worker Primary Care Plan (PCP) géré par le Ministère de la Main-d'œuvre (MOM). Les données compromises incluent le nom, le numéro d'identification étranger, la date de naissance, le numéro de téléphone, l'adresse e-mail et l'adresse résidentielle des travailleurs migrants. Fullerton Health a confirmé que les données de santé ou financières n'ont pas été affectées et coopère avec les autorités compétentes.",
+      "description": "",
+      "title": "Fullerton Health hit by cyber attack, personal data of migrant workers exposed",
+      "url": "https://www.asiaone.com/singapore/fullerton-health-data-breach-migrant-workers",
+      "added": "2026-11-11",
+      "infostealer": {
+        "update": "2026-11-11T16:30:09",
+        "employees": 21,
+        "users": 180,
+        "thirdparties": 10,
+        "employees_url": 9,
+        "users_url": 9,
+        "last_employee_compromised": "2026-07-15T00:00:00+00:00",
+        "last_user_compromised": "2026-11-01T17:53:52+00:00",
+        "infostealer_stats": {
+          "Raccoon": 19,
+          "RedLine": 53,
+          "DarkCrystal": 6,
+          "Lumma": 39,
+          "Acreed": 10,
+          "Generic Stealer": 48,
+          "StealC": 10,
+          "Vidar": 8,
+          "UNKNOWN": 2,
+          "Warden Stealer": 1,
+          "Mystic": 1
+        }
+      },
+      "ransomware": null
     },
     {
       "date": "2026-10-31",

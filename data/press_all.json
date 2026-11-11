@@ -4,8 +4,215 @@
     "month": null,
     "country": null
   },
-  "count": 4349,
+  "count": 4367,
   "results": [
+    {
+      "date": "2026-11-10",
+      "victim": "Port de Santos",
+      "domain": "portodesantos.com.br",
+      "country": "BR",
+      "summary": "Des investigations sont en cours au plus grand complexe portuaire d'Amérique Latine, le port de Santos qu Brésil, afin d'identifier l'origine du problème, d'évaluer la sécurité des données et de rétablir la normalité des opérations.",
+      "description": "",
+      "title": "Porto de Santos investiga suspeita de ataque cibernético após falhas em sistema",
+      "url": "https://g1.globo.com/sp/santos-regiao/videos-bom-dia-regiao/video/porto-de-santos-investiga-suspeita-de-ataque-cibernetico-apos-falhas-em-sistema-15174613.ghtml",
+      "added": "2026-11-11",
+      "infostealer": {
+        "update": "2026-11-11T08:00:13",
+        "employees": 16,
+        "users": 224,
+        "thirdparties": 2,
+        "employees_url": 5,
+        "users_url": 42,
+        "last_employee_compromised": "2024-07-30T20:48:57+00:00",
+        "last_user_compromised": "2026-10-13T09:34:44+00:00",
+        "infostealer_stats": {
+          "RedLine": 32,
+          "Generic Stealer": 5,
+          "UNKNOWN": 2,
+          "Raccoon": 9,
+          "StealC": 2,
+          "Vidar": 3,
+          "Lumma": 9,
+          "racoon": 6
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-09",
+      "victim": "Ridgecrest Regional Hospital",
+      "domain": "rrh.org",
+      "country": "US",
+      "summary": "Ridgecrest Regional Hospital (RRH) a dû mettre ses systèmes hors ligne suite à un incident de cybersécurité. Le groupe ScarlettGroup a listé le domaine de l'hôpital sur son site d'extorsion, affirmant détenir des dossiers patients, employés, de paie, cliniques et financiers. L'incident a entraîné des retards dans le traitement des ordonnances à la pharmacie. Bien que des menaces d'extorsion aient été documentées, l'hôpital n'a pas confirmé l'attribution de l'attaque ni la nature exacte de l'incident (rançongiciel ou vol de données).",
+      "description": "",
+      "title": "Ridgecrest Regional Hospital in California takes systems offline after cyber incident",
+      "url": "https://dysruptionhub.com/ridgecrest-california-hospital-cyber-incident/?utm_source=rss",
+      "added": "2026-11-11",
+      "infostealer": {
+        "update": "2026-11-09T11:07:52",
+        "employees": 0,
+        "users": 1,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 4,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "Scarlettgroup",
+        "permalink": "https://www.ransomware.live/id/cnJoLm9yZ0BTY2FybGV0dGdyb3Vw"
+      }
+    },
+    {
+      "date": "2026-11-09",
+      "victim": "Vanderbilt University",
+      "domain": "vanderbilt.edu",
+      "country": "US",
+      "summary": "L'Université Vanderbilt a été victime d'une cyberattaque par logiciel malveillant, attribuée au groupe \"BYOD\". L'attaque a commencé le lundi matin, entraînant la propagation de logiciels malveillants et la modification de fichiers au format .byod. L'université a dû demander à sa communauté de déconnectée immédiatement de son réseau. Selon les informations disponibles, les pirates auraient obtenu des données personnelles étendues, incluant des dossiers d'étudiants et plus d'un million de numéros de sécurité sociale.",
+      "description": "",
+      "title": "Ransomware Attack Puts Vanderbilt on Lockdown",
+      "url": "https://www.nashvillescene.com/news/pithinthewind/vanderbilt-university-cyber-attack-lockdown/article_c7136f1f-a103-4e75-93bc-826ca02e894e.html",
+      "added": "2026-11-11",
+      "infostealer": {
+        "update": "2026-11-11T08:00:11",
+        "employees": 75,
+        "users": 2281,
+        "thirdparties": 177,
+        "employees_url": 41,
+        "users_url": 100,
+        "last_employee_compromised": "2026-11-07T15:16:14+00:00",
+        "last_user_compromised": "2026-11-03T20:22:24+00:00",
+        "infostealer_stats": {
+          "Azorult": 75,
+          "StealC": 84,
+          "UNKNOWN": 20,
+          "DarkCrystal": 1,
+          "Atomic": 12,
+          "Raccoon": 123,
+          "Vidar": 56,
+          "Ficker": 1,
+          "CRYPTBOT": 3,
+          "Lumma": 476,
+          "Acreed": 7,
+          "RedLine": 494,
+          "Generic Stealer": 429,
+          "Taurus": 2
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-08",
+      "victim": "Municipalité de Narni",
+      "domain": "narni.tr.it",
+      "country": "IT",
+      "summary": "Le service informatique de la municipalité de Narni a détecté une tentative d'intrusion sur son serveur, qui contenait des milliers de données sensibles. L'attaque a été déjouée par le personnel, qui a immédiatement sécurisé le serveur de messagerie. L'incident souligne la nécessité d'amplifier les méthodes de défense du système.",
+      "description": "",
+      "title": "Attacco informatico al Comune di Narni. I dati messi in sicurezza prima dell’intrusione vera e propria",
+      "url": "https://terninrete.it/notizie-di-terni-attacco-informatico-al-comune-di-narni-i-dati-messi-in-sicurezza-prima-dellintrusione-vera-e-propria-dellhater/",
+      "added": "2026-11-11",
+      "infostealer": {
+        "update": "2026-11-11T12:00:11",
+        "employees": 0,
+        "users": 15,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 3,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-08",
+      "victim": "ESTT",
+      "domain": "estt.ru",
+      "country": "RU",
+      "summary": "Le fournisseur d'hébergement russe ESTT a été victime d'une cyberattaque par rançongiciel le 8 novembre 2026. L'attaque a provoqué une panne massive de ses services clients et de son infrastructure cloud. Bien qu'ESTT affirme qu'aucune fuite de données n'a eu lieu et que 90 % des serveurs virtuels ont été restaurés, les portails utilisateurs restent inaccessibles, et le délai de récupération complet n'est pas précisé.",
+      "description": "",
+      "title": "Второй за неделю российский хостинг стал жертвой атаки хакеров",
+      "url": "https://korrespondent.net/world/russia/4927425-vtoroi-za-nedelui-rossyiskyi-khostynh-stal-zhertvoi-ataky-khakerov",
+      "added": "2026-11-11",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-07",
+      "victim": "Mairie de Chambourcy",
+      "domain": "chambourcy.fr",
+      "country": "FR",
+      "summary": "La mairie de Chambourcy a été victime d'une cyberattaque le week-end du 7 et 8 novembre 2026. L'incident a entraîné la mise à l'arrêt préventive de son réseau informatique, forçant les services municipaux à basculer en grande partie en mode papier. La mairie a déposé une plainte et informé la CNIL de l'incident. Elle met également en garde les habitants contre les tentatives d'escroquerie exploitant cette situation.",
+      "description": "",
+      "title": "Chambourcy : cyberattaque à la mairie",
+      "url": "https://www.infosyvelines.fr/articles/chambourcy-mairie-victime-cyberattaque-services-mode",
+      "added": "2026-11-11",
+      "infostealer": {
+        "update": "2026-11-11T08:00:12",
+        "employees": 0,
+        "users": 1,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 1,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-07",
+      "victim": "Kinnarps",
+      "domain": "kinnarps.com",
+      "country": "SE",
+      "summary": "Le fabricant de meubles Kinnarps a été victime d'une cyberattaque. L'intrusion a été découverte le samedi soir, forçant l'entreprise à arrêter sa production dans trois de ses sites (Kinnarp, Jönköping et Skillingaryd) et à mettre son site web hors ligne afin de minimiser les dégâts. L'incident a été signalé à la police.",
+      "description": "",
+      "title": "Cyberattack tvingade Kinnarps att stoppa produktionen på tre orter",
+      "url": "https://www.borskollen.se/nyheter/27/cyberattack-tvingade-kinnarps-att-stoppa-produktionen-pa-tre-orter",
+      "added": "2026-11-11",
+      "infostealer": {
+        "update": "2026-11-11T07:30:08",
+        "employees": 1,
+        "users": 10,
+        "thirdparties": 0,
+        "employees_url": 1,
+        "users_url": 8,
+        "last_employee_compromised": "2022-10-02T00:00:00+00:00",
+        "last_user_compromised": "2024-07-30T23:14:32+00:00",
+        "infostealer_stats": {
+          "Lumma": 3,
+          "Raccoon": 2,
+          "RedLine": 1,
+          "Generic Stealer": 2,
+          "StealC": 3
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-06",
+      "victim": "LAHSA (Los Angeles Homeless Services Authority)",
+      "domain": "lahsa.org",
+      "country": "US",
+      "summary": "L'Autorité des Services aux Sans-Abri de Los Angeles (LAHSA) a ordonné à son personnel de se déconnecté des systèmes informatiques et des e-mails suite à une enquête sur un incident de cybersécurité potentiel. L'ordre a été émis vendredi. Bien que l'agence maintienne ses opérations essentielles, l'accès aux données sensibles des clients (informations de santé, revenus, etc.) et l'impact sur les services clients restent inconnus.",
+      "description": "",
+      "title": "Cybersecurity investigation shuts down computers at Los Angeles Homeless Services Authority",
+      "url": "https://dysruptionhub.com/lahsa-los-angeles-cybersecurity-shutdown/?utm_source=rss",
+      "added": "2026-11-11",
+      "infostealer": {
+        "update": "2026-11-11T11:00:10",
+        "employees": 0,
+        "users": 37,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 11,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-11-06",
       "victim": "Bergmann",
@@ -17,6 +224,29 @@
       "url": "https://www.om-online.de/landkreis-vechta/steinfeld/artikel/cyberangriff-bei-bergmann-ki-anrufe-verunsichern-kunden-51707851",
       "added": "2026-11-09",
       "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-05",
+      "victim": "Giken",
+      "domain": "giken.com",
+      "country": "JP",
+      "summary": "GIKEN a annoncé le 9 novembre 2026 avoir été victime d'une cyberattaque par ransomware. L'accès non autorisé à un serveur a exposé les informations personnelles d'environ 3 200 personnes, incluant des identifiants de connexion et des mots de passe cryptés du système de support client. L'anomalie a été détectée le 5 novembre et l'accès a été coupé le 6 novembre. Bien qu'aucune preuve de transmission externe n'ait été confirmée à ce jour, la possibilité d'une fuite de données n'est pas exclue.",
+      "description": "",
+      "title": "技研製作所にランサムウェアを伴う不正アクセス、約3,200人の個人情報漏えいのおそれ 顧客支援システムのID・暗号化パスワードも対象|セキュリティニュースのセキュリティ対策Lab",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/giken_ransomware_3200_potential_data_leak_20261109/",
+      "added": "2026-11-11",
+      "infostealer": {
+        "update": "2026-11-11T12:00:10",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 2,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
       "ransomware": null
     },
     {
@@ -50,6 +280,29 @@
           "Lumma": 50,
           "Remus": 2
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-04",
+      "victim": "Bibliothèque publique de Queens (QPL)",
+      "domain": "queenslibrary.org",
+      "country": "US",
+      "summary": "La Bibliothèque publique de Queens (QPL) a confirmé avoir été victime d'une cyberattaque par rançongiciel (ransomware) mercredi soir. L'incident a entraîné la paralysie de ses services numériques, incluant le site web, le Wi-Fi, les applications mobiles et les machines de prêt. Aucune organisation criminelle n'a encore revendiqué la responsabilité de l'attaque.",
+      "description": "",
+      "title": "纽约皇后区公共图书馆对抗勒索软件罪犯：Wi-Fi、借还服务和网站陷入瘫痪",
+      "url": "https://news.lavx.hu/zh-Hans/article/niu-yue-huang-hou-qu-gong-gong-tu-shu-guan-dui-kang-le-suo-ruan-jian-zui-fan-wi-fi-jie-hai-fu-wu-he-wang-zhan-xian-ru-tan-huan",
+      "added": "2026-11-11",
+      "infostealer": {
+        "update": "2026-11-11T10:00:10",
+        "employees": 5,
+        "users": 791,
+        "thirdparties": 8,
+        "employees_url": 5,
+        "users_url": 100,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },
@@ -93,6 +346,52 @@
         "thirdparties": 2,
         "employees_url": 0,
         "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-02",
+      "victim": "Busan Bon Hospital",
+      "domain": "bonhospital.co.kr",
+      "country": "KR",
+      "summary": "Le Busan Bon Hospital, spécialisé dans la colonne et les articulations a été victime d'une cyberattaque par rançongiciel (ransomware). L'attaque, survenue le 2 novembre 2026, a entraîné la perte de tous les dossiers médicaux et des informations des patients. La paralysie du système a stoppé les admissions de nouveaux patients et les règlements des patients sortants. Les attaquants ont exigé une somme importante en Bitcoin pour la récupération des données.",
+      "description": "",
+      "title": "[단독] \"병원도 뚫렸다\"‥랜섬웨어 해킹에 진료 마비",
+      "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6863510_37004.html",
+      "added": "2026-11-11",
+      "infostealer": {
+        "update": "2026-11-11T11:30:09",
+        "employees": 0,
+        "users": 2,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 1,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-02",
+      "victim": "Hanil Networks",
+      "domain": "hanilnetworks.com",
+      "country": "KR",
+      "summary": "Hanil Networks, une filiale d'infrastructure informatique du groupe Ubase, a été victime d'une attaque par rançongiciel (ransomware) le 2 novembre 2026. L'entreprise affirme avoir mis en place des mesures de défense immédiates, et aucune fuite de données n'a été confirmée. Cependant, en raison de ses clients dans le secteur financier, les autorités financières ont ordonné des vérifications de sécurité auprès de toutes les institutions financières pour s'assurer qu'il n'y a pas eu de dommages indirect.",
+      "description": "",
+      "title": "한일네트웍스 랜섬웨어 공격받아... “즉시 차단, 유출 피해 없어” - 보안뉴스",
+      "url": "https://www.boannews.com/news/articleView.html?idxno=147152",
+      "added": "2026-11-11",
+      "infostealer": {
+        "update": "2026-11-11T08:00:10",
+        "employees": 0,
+        "users": 3,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 1,
         "last_employee_compromised": null,
         "last_user_compromised": null,
         "infostealer_stats": {}
@@ -224,6 +523,19 @@
       "title": "Air Alert在遭网络攻击后逐步恢复运行 - 开发者 | Межа",
       "url": "https://mezha.net/ch/news/mezha-3e18752cf0f125f8828bd1d4_air-alert-gradually-resumes-operations-after/",
       "added": "2026-11-10",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-01",
+      "victim": "AWO Ruhr-Lippe-Ems",
+      "domain": "awo-rle.de",
+      "country": "DE",
+      "summary": "L'AWO Ruhr-Lippe-Ems a été victime d'une cyberattaque le 1er novembre, où des attaquants inconnus ont pénétré dans certaines parties de son infrastructure informatique. Les pirates ont réussi à obtenir des coordonnées et potentiellement à copier des documents relatifs aux services de conseil ou de facturation. L'AWO a réagi en renouvelant préventivement les accès, les mots de passe et les codes de sécurité, et a déposé une plainte. Bien que l'incident ait été pris au sérieux, les 170 établissements de l'organisation continuent de fonctionner normalement.",
+      "description": "",
+      "title": "Cyberangriff auf die AWO: Unbekannte Täter kopieren Daten vom Server",
+      "url": "https://www1.wdr.de/nrw/ruhrgebiet/kreis-unna/awo-cyberangriff-ruhr-lippe-ems-100.html",
+      "added": "2026-11-11",
       "infostealer": "",
       "ransomware": null
     },
@@ -556,6 +868,19 @@
           "CRYPTBOT": 8
         }
       },
+      "ransomware": null
+    },
+    {
+      "date": "2026-10-28",
+      "victim": "Barbour County Schools",
+      "domain": "bcsvw.com",
+      "country": "US",
+      "summary": "Barbour County Schools, dans le West Virginia, a coupé l'accès à Internet mercredi pour enquêter sur un incident de cybersécurité potentiel. Les écoles sont restées ouvertes et les cours ont continué. Le district a fait appel à des spécialistes externes pour l'investigation. Aucune confirmation de rançongiciel ou de vol de données n'a été faite.",
+      "description": "",
+      "title": "Barbour County Schools in West Virginia cuts internet during suspected cyber incident",
+      "url": "https://dysruptionhub.com/barbour-west-virginia-schools-cyber-incident/",
+      "added": "2026-11-11",
+      "infostealer": "",
       "ransomware": null
     },
     {
@@ -1308,6 +1633,29 @@
     },
     {
       "date": "2026-10-19",
+      "victim": "Seminole County School System",
+      "domain": "seminole.k12.ga.us",
+      "country": "US",
+      "summary": "Le système scolaire de Seminole County en Géorgie a été victime d'une cyberattaque par rançongiciel (ransomware) attribuée au groupe Global Secret Group (GSG). L'incident a été détecté le 19 octobre 2026, forçant le district à mettre ses systèmes hors ligne. Le groupe GSG a revendiqué l'accès à environ 39,6 Go de données. Le district n'a pas encore confirmé si des données ont été volées ou si des fichiers ont été chiffrés, et l'enquête est toujours en cours.",
+      "description": "",
+      "title": "Seminole County schools in Georgia shut systems after cyber incident",
+      "url": "https://dysruptionhub.com/seminole-georgia-schools-cyber-incident/",
+      "added": "2026-11-11",
+      "infostealer": {
+        "update": "2026-11-11T10:00:09",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 10,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-10-19",
       "victim": "Societatea Națională de Radiocomunicații S.A. (SNR)",
       "domain": "radiocom.ro",
       "country": "RO",
@@ -1402,6 +1750,29 @@
         "thirdparties": 0,
         "employees_url": 0,
         "users_url": 100,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-10-17",
+      "victim": "Bbt Se",
+      "domain": "bbt-se.com",
+      "country": "FR",
+      "summary": "Une cyberattaque a ciblé les systèmes de Bbt Se, la société responsable de la conception et de la construction du Tunnel de Base du Brenner. L'intrusion, survenue le 17 octobre 2026, a permis à des personnes non autorisées d'accéder à des données non publiques. Les autorités, notamment la Polizia Postale de Bolzano et le Parquet de Trento, mènent une enquête. Bien qu'un possible lien avec des hackers d'origine russe soit évoqué, il n'a pas été confirmé. La société a confirmé que l'incident n'a eu aucune répercussion sur les activités opérationnelles ou les travaux du tunnel.",
+      "description": "",
+      "title": "Attacco informatico alla galleria del Brennero, aperto un fascicolo",
+      "url": "https://www.altoadige.it/cronaca/galleria-del-brennero-sotto-attacco-informatico-violati-dati-riservati-omgvr3y8",
+      "added": "2026-11-11",
+      "infostealer": {
+        "update": "2026-11-11T08:00:13",
+        "employees": 5,
+        "users": 14,
+        "thirdparties": 5,
+        "employees_url": 3,
+        "users_url": 7,
         "last_employee_compromised": null,
         "last_user_compromised": null,
         "infostealer_stats": {}
@@ -2748,6 +3119,19 @@
         "group": "thegentlemen",
         "permalink": "https://www.ransomware.live/id/U3ZlZGFsYSBLb21tdW5AdGhlZ2VudGxlbWVu"
       }
+    },
+    {
+      "date": "2026-09-30",
+      "victim": "Next One",
+      "domain": "next-one.com",
+      "country": "FR",
+      "summary": "Next One, une entreprise française spécialisée dans l'affichage publicitaire, a été victime d'une cyberattaque par rançongiciel fin septembre 2026. L'attaque a chiffré sa base de données SQL Server et rendu ses sauvegardes informatiques inutilisables, paralysant ainsi ses opérations quotidiennes (devis, factures, consultation des clients). Après l'intervention de prestataires, un serveur de secours a été mis en place rapidement. La récupération complète des données et le retour à la normale ont nécessité environ un mois. L'identité des cybercriminels n'a pas été rendue publique, et aucune fuite de données personnelles n'a été confirmée.",
+      "description": "",
+      "title": "Le géant français de l'affichage publicitaire Next One paralysé par une cyberattaque",
+      "url": "https://frenchbreaches.com/blog/le-geant-francais-de-laffichage-publicitaire-next-one-paralyse-par-une-cyberattaque",
+      "added": "2026-11-11",
+      "infostealer": "",
+      "ransomware": null
     },
     {
       "date": "2026-09-30",
@@ -26693,6 +27077,19 @@
       "title": "La Vergne, Tennessee, says ‘network incident’ hit city systems; offices closed Friday, core services OK",
       "url": "https://dysruptionhub.com/la-vergne-tn-network-incident-oct-2025/",
       "added": "2025-10-20",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2025-10-16",
+      "victim": "Kurogane Kasei",
+      "domain": "kuroganekasei.com",
+      "country": "JP",
+      "summary": "La Kurogane Kasei a confirmé avoir été victime d'une cyberattaque par rançongiciel (ransomware) et d'un accès non autorisé à ses serveurs. L'incident a été découvert le 16 octobre 2025, suite à des problèmes de connectivité. L'enquête a révélé des traces d'accès non autorisés provenant de l'étranger. L'attaque a entraîné une fuite potentielle de données personnelles (noms, adresses, numéros de téléphone, adresses e-mail, titres et départ) concernant des clients, des cadres, des employés et des candidats à l'emploi. L'entreprise a mis en place des mesures de sécurité renforcées, incluant l'initialisation des systèmes, l'adoption de l'authentification multi-facteurs, l'introduction de services de surveillance (MDR) et le renforcement des politiques de sauvegarde et de filtrage.",
+      "description": "",
+      "title": "黒金化成にランサムウェア攻撃 調査結果公表1年後 | ScanNetSecurity",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/11/10/56718.html",
+      "added": "2026-11-11",
       "infostealer": "",
       "ransomware": null
     },

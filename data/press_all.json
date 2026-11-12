@@ -4,8 +4,119 @@
     "month": null,
     "country": null
   },
-  "count": 4369,
+  "count": 4379,
   "results": [
+    {
+      "date": "2026-11-12",
+      "victim": "Evergreen Logistics Corp.",
+      "domain": "evergreen-logistics.com",
+      "country": "TW",
+      "summary": "Le 12 novembre 2026, Evergreen Logistics a détecté des anomalies dans certains de ses systèmes d'information, potentiellement liées à une cyberattaque. L'entreprise a immédiatement activé ses mécanismes de réponse aux incidents de cybersécurité et fait appel à une société externe spécialisée pour l'investigation et l'analyse judiciaire, tandis que les systèmes continuent de fonctionner normalement sans interruption de service. À ce stade, l'incident n'a entraîné aucun impact significatif sur la situation financière ou les opérations du groupe consolidé, et des mesures de renforcement de la sécurité ainsi qu'une surveillance continues seront maintenus, avec des communications ultérieures si des développements importants surviennent.",
+      "description": "",
+      "title": "Today's Information",
+      "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=2&spoke_time=182348&spoke_date=20261112&co_id=2607",
+      "added": "2026-11-12",
+      "infostealer": {
+        "update": "2026-11-12T16:00:08",
+        "employees": 2,
+        "users": 3,
+        "thirdparties": 5,
+        "employees_url": 3,
+        "users_url": 2,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-11",
+      "victim": "Wilmington College",
+      "domain": "wilmington.edu",
+      "country": "US",
+      "summary": "Le Wilmington College a fermé son campus en Ohio le mercredi 11 novembre pour enquêter sur un incident de sécurité potentiel. L'établissement a interdit l'accès à des systèmes clés tels que SharePoint, OneDrive et Jenzabar pour ses étudiants et employés en attendant plus d'informations.",
+      "description": "",
+      "title": "Wilmington College closes Ohio campus early over possible cyber incident",
+      "url": "https://dysruptionhub.com/wilmington-college-ohio-cyber-incident-campus-closure/?utm_source=rss",
+      "added": "2026-11-12",
+      "infostealer": {
+        "update": "2026-11-12T16:00:09",
+        "employees": 1,
+        "users": 3,
+        "thirdparties": 21,
+        "employees_url": 1,
+        "users_url": 5,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-11",
+      "victim": "Worten",
+      "domain": "worten.pt",
+      "country": "POR",
+      "summary": "La société Worten, appartenant au groupe Sonae, a révélé avoir été victime d'une cyberattaque. Un accès non autorisé à certains données personnelles d'un groupe restreint de clients a été constaté. Les données compromises incluent le numéro de contribuable, les coordonnées (téléphone, email) et les numéros d'identification de commandes. La société assure que les mots de passe et les données de paiement n'ont pas été affectés. Elle travaille en collaboration avec les autorités compétentes et a renforcé les mesures de sécurité de ses systèmes.",
+      "description": "",
+      "title": "Worten alvo de ataque informático. Dados pessoais de clientes afetados",
+      "url": "https://www.jornaldenegocios.pt/empresas/comercio/detalhe/worten-alvo-de-ataque-informatico",
+      "added": "2026-11-12",
+      "infostealer": {
+        "update": "2026-11-12T12:00:10",
+        "employees": 10,
+        "users": 39829,
+        "thirdparties": 160,
+        "employees_url": 6,
+        "users_url": 100,
+        "last_employee_compromised": "2026-03-10T00:43:55+00:00",
+        "last_user_compromised": "2026-11-09T14:24:07+00:00",
+        "infostealer_stats": {
+          "Lumma": 7270,
+          "CRYPTBOT": 96,
+          "Vidar": 1668,
+          "Predator": 62,
+          "RedLine": 13122,
+          "Ficker": 1,
+          "Taurus": 44,
+          "UNKNOWN": 539,
+          "Mystic": 46,
+          "DarkCrystal": 45,
+          "Atomic": 25,
+          "Acreed": 505,
+          "KPOT": 11,
+          "Generic Stealer": 8439,
+          "StealC": 1611,
+          "Remus": 150,
+          "Raccoon": 4297,
+          "Azorult": 403
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-10",
+      "victim": "Minmed",
+      "domain": "minmed.sg",
+      "country": "SG",
+      "summary": "Le groupe médical Minmed a été victime d'une cyberattaque ciblant son système de consultation médicale à distance et de dépistage. Le groupe a confirmé que les dossiers médicaux cliniques des patients n'ont pas été affectés. Suite à la découverte de la menace, Minmed a immédiatement pris des mesures pour contrôler la situation, a engagé la société de cybersécurité Ensign InfoSecurity pour l'enquête, a corrigé les vulnérabilités et a notifié les autorités compétentes.",
+      "description": "",
+      "title": "医疗集团Minmed 远程医疗和体检服务系统遭恶意网袭",
+      "url": "https://www.zaobao.com.sg/news/singapore/story20261111-9982881",
+      "added": "2026-11-12",
+      "infostealer": {
+        "update": "2026-11-12T12:00:12",
+        "employees": 1,
+        "users": 223,
+        "thirdparties": 5,
+        "employees_url": 1,
+        "users_url": 28,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-11-10",
       "victim": "ePUAP (Système gouvernemental polonais)",
@@ -59,6 +170,19 @@
           "racoon": 6
         }
       },
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-09",
+      "victim": "Monadnock Community Hospital",
+      "domain": "monadnockcommunityhospital.com",
+      "country": "US",
+      "summary": "Monadnock Community Hospital, situé dans le New Hampshire, a été confronté à une panne de serveur qui a entraîné la déviation des ambulances et l'annulation de soins électifs. Bien que l'incident soit suspecté d'être lié à une cyberattaque, la cause reste non confirmée et l'hôpital travaille avec des experts externes pour rétablir les services.",
+      "description": "",
+      "title": "Monadnock Community Hospital in New Hampshire diverts ambulances amid suspected cyber incident",
+      "url": "https://dysruptionhub.com/monadnock-community-hospital-suspected-cyber-incident/",
+      "added": "2026-11-12",
+      "infostealer": "",
       "ransomware": null
     },
     {
@@ -121,6 +245,34 @@
           "RedLine": 494,
           "Generic Stealer": 429,
           "Taurus": 2
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-08",
+      "victim": "Stadtwerke Achim",
+      "domain": "stadtwerke-achim.de",
+      "country": "DE",
+      "summary": "Les Stadtwerke Achim ont été victimes d'une cyberattaque qui a paralysé leurs systèmes informatiques centraux. L'incident a été détecté le 8 novembre 2026. Bien que l'approvisionnement en électricité, gaz et chaleur reste assuré, les portails clients sont indisponibles et les fonctions de gestion sont fortement limitées. L'entreprise a mobilisé une équipe de crise, fait appel à des experts externes et a informé les autorités compétentes (BSI, police). Aucune preuve de fuite de données n'a été trouvée, mais les clients sont invités à rester vigilants face aux tentatives de fraude.",
+      "description": "",
+      "title": "Cyberangriff auf Achimer Stadtwerke: IT-Systeme lahmgelegt",
+      "url": "https://www.weser-kurier.de/landkreis-verden/stadt-achim/cyberangriff-auf-achimer-stadtwerke-it-systeme-lahmgelegt-doc88feidafgmdhl0xoarw",
+      "added": "2026-11-12",
+      "infostealer": {
+        "update": "2026-11-12T12:00:11",
+        "employees": 0,
+        "users": 16,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 4,
+        "last_employee_compromised": "1970-01-01T00:00:00+00:00",
+        "last_user_compromised": "2026-05-26T16:27:57+00:00",
+        "infostealer_stats": {
+          "Lumma": 3,
+          "Atomic": 2,
+          "Vidar": 6,
+          "Generic Stealer": 6
         }
       },
       "ransomware": null
@@ -210,6 +362,29 @@
           "Generic Stealer": 2,
           "StealC": 3
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-06",
+      "victim": "Geodetska uprava de la République de Slovénie",
+      "domain": "e-uprava.gov.si",
+      "country": "SLO",
+      "summary": "La Geodetska uprava de la République de Slovénie a été victime d'une cyberattaque. L'incident, survenu le vendredi 6 novembre 2026, a permis à des attaquants non identifiés d'accéder à plus de 15 000 enregistrements d'utilisateurs dans le système Domino de l'organisme, dont 7 216 mots de passe hachés. En réponse à l'incident, l'administration a dû désactiver préventivement certains de ses services en ligne. Les autorités sont actuellement en train d'enquêter sur la nature exacte de l'attaque.",
+      "description": "",
+      "title": "Gurs po varnostnem incidentu ponovno vklaplja baze. Je šlo za kibernetski napad?",
+      "url": "https://n1info.si/novice/slovenija/gurs-po-varnostnem-incidentu-ponovno-vklaplja-baze-je-slo-za-kibernetski-napad/",
+      "added": "2026-11-12",
+      "infostealer": {
+        "update": "2026-11-12T12:30:08",
+        "employees": 0,
+        "users": 5,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },
@@ -781,6 +956,29 @@
         "thirdparties": 2,
         "employees_url": 0,
         "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-10-29",
+      "victim": "Cancillería",
+      "domain": "minrel.gov.cl",
+      "country": "CL",
+      "summary": "Un cyberattaque a affecté le Système d'Attention Consulaire et le registre des visas de Cancillería. L'incident a débuté il y a deux semaines via un courriel compromis. Le ministère confirme mener des analyses forensiques et l'Agence Nationale de Cybersécurité a confirmé l'ouverture d'une enquête. L'origine de l'attaque et l'ampleur d'une éventuelle extraction de données ne sont pas encore établies publiquement.",
+      "description": "",
+      "title": "ClicAM: ciberataque a Cancillería, paro camionero y rechazo del presupuesto de Interior | El Mostrador",
+      "url": "https://www.elmostrador.cl/noticias/multimedia/clic-am/2026/11/11/clicam-ciberataque-a-cancilleria-paro-camionero-y-rechazo-del-presupuesto-de-interior/",
+      "added": "2026-11-12",
+      "infostealer": {
+        "update": "2026-11-12T12:30:10",
+        "employees": 1,
+        "users": 716,
+        "thirdparties": 2,
+        "employees_url": 2,
+        "users_url": 53,
         "last_employee_compromised": null,
         "last_user_compromised": null,
         "infostealer_stats": {}
@@ -2208,6 +2406,19 @@
         "group": "thegentlemen",
         "permalink": "https://www.ransomware.live/id/RWljaHN0YXR0QHRoZWdlbnRsZW1lbg"
       }
+    },
+    {
+      "date": "2026-10-12",
+      "victim": "Churer Zentrum Gleis D / Medi Porta",
+      "domain": "gleisd.ch",
+      "country": "CH",
+      "summary": "Le centre médical Churer Zentrum Gleis D, ainsi que la pharmacie Medi Porta à Chur, ont été victimes d'une cyberattaque le 12 octobre. Des données personnelles (noms, adresses, ordonnances, radiographies) et des données d'employés ont été exfiltrées. Cependant, les données de santé sensibles (diagnostics et traitements), stockées dans une application séparée, n'ont pas été compromises. L'enquête est en cours pour déterminer l'origine de l'attaque.",
+      "description": "",
+      "title": "Cyberangriff auf Zentrum Gleis D in Chur",
+      "url": "https://www.srf.ch/news/schweiz/it-sicherheit-cyberangriff-auf-churer-gesundheitszentrum",
+      "added": "2026-11-12",
+      "infostealer": "",
+      "ransomware": null
     },
     {
       "date": "2026-10-12",
@@ -3977,6 +4188,31 @@
       "url": "https://www.snnewswatch.com/local-journalism-initiative-lji/nipigon-hospital-hit-by-ransomware-attack-12786504",
       "added": "2026-09-18",
       "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-09-15",
+      "victim": "Proclin Utrecht",
+      "domain": "proclin.nl",
+      "country": "NL",
+      "summary": "La clinique dentaire Proclin Utrecht a été victime d'une cyberattaque en septembre. L'attaque, qui a consisté en une intrusion externe et le chiffrement d'un serveur local, a affecté les dossiers électroniques des patients. Ces données incluent des informations personnelles (noms, adresses, numéros de sécurité sociale, etc.) et des informations médicales. L'incident a été isolé, le serveur reconstruit et l'Autorité des Données Personnelles a été informée. Les patients sont informés et sont invités à rester vigilants face aux tentatives de phishing.",
+      "description": "",
+      "title": "Patiëntgegevens betrokken bij de cyberaanval op Proclin Utrecht | Nieuws030 - Nieuws030",
+      "url": "https://www.nieuws030.nl/nieuws/pati-ntgegevens-betrokken-bij-cyberaanval-op-proclin-utrecht/",
+      "added": "2026-11-12",
+      "infostealer": {
+        "update": "2026-11-12T12:30:09",
+        "employees": 1,
+        "users": 0,
+        "thirdparties": 0,
+        "employees_url": 1,
+        "users_url": 0,
+        "last_employee_compromised": "2024-12-13T14:26:57+00:00",
+        "last_user_compromised": "1970-01-01T00:00:00+00:00",
+        "infostealer_stats": {
+          "Lumma": 1
+        }
+      },
       "ransomware": null
     },
     {
@@ -7681,7 +7917,10 @@
       "url": "https://beavercountian.com/content/state-federal/our-senator-sponsored-a-ransomware-ban-then-our-county-paid-one",
       "added": "2026-08-10",
       "infostealer": "",
-      "ransomware": null
+      "ransomware": {
+        "group": "incransom",
+        "permalink": "https://www.ransomware.live/id/QmVhdmVyIENvdW50eSBQQUBpbmNyYW5zb20"
+      }
     },
     {
       "date": "2026-08-03",
@@ -10292,7 +10531,10 @@
       "url": "https://www.timesonline.com/story/news/local/2026/09/04/beaver-county-pa-behavioral-health-clients-warned-information-might-be-at-risk-ransomware/91617014007/",
       "added": "2026-09-06",
       "infostealer": "",
-      "ransomware": null
+      "ransomware": {
+        "group": "incransom",
+        "permalink": "https://www.ransomware.live/id/QmVhdmVyIENvdW50eSBQQUBpbmNyYW5zb20"
+      }
     },
     {
       "date": "2026-07-08",

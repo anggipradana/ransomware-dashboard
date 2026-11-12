@@ -1,6 +1,6 @@
 {
   "filter_type": null,
-  "count": 208,
+  "count": 209,
   "groups": [
     {
       "group": "0apt",
@@ -37,7 +37,7 @@
     {
       "group": "akira",
       "ioc_types": {
-        "sha256": 37,
+        "sha256": 38,
         "btc": 7,
         "ip": 1,
         "md5": 320,
@@ -145,6 +145,12 @@
       "group": "black x",
       "ioc_types": {
         "email": 1
+      }
+    },
+    {
+      "group": "blackbasta",
+      "ioc_types": {
+        "sha256": 1
       }
     },
     {
@@ -811,11 +817,11 @@
     {
       "group": "majinahanashi",
       "ioc_types": {
+        "sha1": 5,
         "md5": 5,
         "sha256": 5,
         "tox": 1,
-        "email": 2,
-        "sha1": 5
+        "email": 2
       }
     },
     {
@@ -1050,7 +1056,8 @@
         "ftp": 2,
         "ip": 7,
         "md5": 54,
-        "tox": 1
+        "tox": 1,
+        "sha256": 1
       }
     },
     {

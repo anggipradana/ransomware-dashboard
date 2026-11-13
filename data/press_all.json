@@ -4,8 +4,42 @@
     "month": null,
     "country": null
   },
-  "count": 4379,
+  "count": 4385,
   "results": [
+    {
+      "date": "2026-11-13",
+      "victim": "Univerzita Karlova (UK)",
+      "domain": "cuni.cz",
+      "country": "CZ",
+      "summary": "L'Université de Karlova (UK) a été victime d'une cyberattaque sérieuse. Une application web a été compromise, donnant à l'attaquant un accès non autorisé au Système d'Information Étudiant (SIS). Des données, incluant des informations personnelles, ont été exfiltrées. L'université a signalé l'incident au NÚKIB et a mis en place des mesures de sécurité, notamment l'obligation pour les utilisateurs de changer leurs mots de passe.",
+      "description": "",
+      "title": "Univerzita Karlova řeší kybernetický útok, útočník získal i osobní údaje | ČeskéNoviny.cz",
+      "url": "https://www.ceskenoviny.cz/zpravy/univerzita-karlova-resi-kyberneticky-utok-utocnik-ziskal-osobni-udaje/2901579",
+      "added": "2026-11-13",
+      "infostealer": {
+        "update": "2026-11-13T14:30:09",
+        "employees": 150,
+        "users": 2268,
+        "thirdparties": 164,
+        "employees_url": 72,
+        "users_url": 100,
+        "last_employee_compromised": "2026-10-15T17:23:42+00:00",
+        "last_user_compromised": "2026-11-11T00:54:00+00:00",
+        "infostealer_stats": {
+          "Taurus": 1,
+          "Raccoon": 131,
+          "RedLine": 356,
+          "Azorult": 50,
+          "racoon": 28,
+          "Vidar": 69,
+          "Ficker": 1,
+          "Lumma": 9,
+          "UNKNOWN": 29,
+          "CRYPTBOT": 5
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-11-12",
       "victim": "Evergreen Logistics Corp.",
@@ -23,6 +57,42 @@
         "thirdparties": 5,
         "employees_url": 3,
         "users_url": 2,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-11",
+      "victim": "Ville de Koka",
+      "domain": "koka.lg.jp",
+      "country": "JP",
+      "summary": "La ville de Koka (préfecture de Shiga) a annoncé le 12 novembre 2026 que le serveur de son système de diffusion vocale, utilisé pour les alertes d'urgence en cas de catastrophe, avait été victime d'une cyberattaque. Le système est devenu inutilisable dès le début de la matinée du 11 novembre 2026.",
+      "description": "",
+      "title": "滋賀県甲賀市の音声放送システムサーバーにサイバー攻撃 復旧の見通し立たず｜京都新聞デジタル 京都・滋賀のニュースサイト",
+      "url": "https://www.kyoto-np.co.jp/articles/-/1825071",
+      "added": "2026-11-13",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-11",
+      "victim": "Acadia Parish School System",
+      "domain": "acadia.k12.la.us",
+      "country": "US",
+      "summary": "Le système scolaire d'Acadia Parish en Louisiane a fermé ses systèmes informatiques pour enquêter sur un possible compromis réseau. Le district prévoit que les cours et les opérations normales devraient se poursuivre malgré l'incident.",
+      "description": "",
+      "title": "Acadia Parish School System in Louisiana shuts down computers amid suspected cyber incident",
+      "url": "https://dysruptionhub.com/acadia-parish-louisiana-schools-cyber-shutdown/",
+      "added": "2026-11-13",
+      "infostealer": {
+        "update": "2026-11-13T13:30:11",
+        "employees": 0,
+        "users": 20,
+        "thirdparties": 3,
+        "employees_url": 0,
+        "users_url": 5,
         "last_employee_compromised": null,
         "last_user_compromised": null,
         "infostealer_stats": {}
@@ -91,6 +161,29 @@
           "Raccoon": 4297,
           "Azorult": 403
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-10",
+      "victim": "ActiveCloud",
+      "domain": "activecloud.by",
+      "country": "BY",
+      "summary": "Le fournisseur biélorusse ActiveCloud a été victime d'une cyberattaque massive. L'incident, détecté le 10 novembre 2026, a entraîné l'indisponibilité de nombreux services et canaux de communication, y compris le site web, les chats, la téléphonie et le système de tickets de support.",
+      "description": "",
+      "title": "Белорусский облачный провайдер ActiveCloud сообщил о серьезном сбое из-за кибератаки",
+      "url": "https://nashaniva.com/ru/408915",
+      "added": "2026-11-13",
+      "infostealer": {
+        "update": "2026-11-13T15:00:09",
+        "employees": 0,
+        "users": 3,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 22,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },
@@ -361,6 +454,46 @@
           "RedLine": 1,
           "Generic Stealer": 2,
           "StealC": 3
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-06",
+      "victim": "Yodobashi Holdings",
+      "domain": "yodobashi.com",
+      "country": "JP",
+      "summary": "Yodobashi Holdings a confirmé une intrusion non autorisée sur ses serveurs le 6 novembre 2026, exposant potentiellement les données personnelles de 37,62 millions de membres et d'utilisateurs de commerce en ligne. Bien que les numéros de carte de crédit n'aient pas été compromis, l'entreprise prévoit d'informer les clients affectés par courrier électronique.",
+      "description": "",
+      "title": "日本宜得利遭非法存取！3762萬筆會員資料恐外洩 代理式AI加劇網路攻擊",
+      "url": "https://tw.news.yahoo.com/%E6%97%A5%E6%9C%AC%E5%AE%9C%E5%BE%97%E5%88%A9%E9%81%AD%E9%9D%9E%E6%B3%95%E5%AD%98%E5%8F%96-3762%E8%90%AC%E7%AD%86%E6%9C%83%E5%93%A1%E8%B3%87%E6%96%99%E6%81%90%E5%A4%96%E6%B4%A9-%E4%BB%A3%E7%90%86%E5%BC%8Fai%E5%8A%A0%E5%8A%87%E7%B6%B2%E8%B7%AF%E6%94%BB%E6%93%8A-093900472.html",
+      "added": "2026-11-13",
+      "infostealer": {
+        "update": "2026-11-13T14:00:10",
+        "employees": 14,
+        "users": 11922,
+        "thirdparties": 1,
+        "employees_url": 5,
+        "users_url": 100,
+        "last_employee_compromised": "2026-04-10T19:08:05+00:00",
+        "last_user_compromised": "2026-11-12T00:00:00+00:00",
+        "infostealer_stats": {
+          "Ficker": 12,
+          "StealC": 398,
+          "Lumma": 2003,
+          "CRYPTBOT": 30,
+          "Predator": 10,
+          "Acreed": 2,
+          "Azorult": 416,
+          "Taurus": 2,
+          "Generic Stealer": 1764,
+          "Mystic": 17,
+          "Atomic": 14,
+          "DarkCrystal": 19,
+          "RedLine": 2109,
+          "UNKNOWN": 144,
+          "Raccoon": 1050,
+          "Vidar": 323
         }
       },
       "ransomware": null
@@ -2781,6 +2914,19 @@
         "last_user_compromised": null,
         "infostealer_stats": {}
       },
+      "ransomware": null
+    },
+    {
+      "date": "2026-10-07",
+      "victim": "MKG Bremen",
+      "domain": "mkg-bremen.de",
+      "country": "DE",
+      "summary": "Un centre de soins médicaux (MKG Bremen) à Brême a été victime d'une cyberattaque ayant entraîné la fuite de données personnelles de patients. Les informations compromises incluent des données d'identification (nom, adresse, date de naissance, contacts) ainsi que des dossiers médicaux (notes de médecins, radiographies, diagnostics). Les autorités et des experts externes sont mobilisés pour enquêter sur l'étendue de la violation et prévenir les risques d'usurpation d'identité ou de phishing.",
+      "description": "",
+      "title": "Cyberangriff bei MKG Bremen: Hacker stehlen Daten aus Patientenakten",
+      "url": "https://www.weser-kurier.de/bremen/cyberangriff-bei-mkg-bremen-hacker-stehlen-daten-aus-patientenakten-doc88eyaphsi2b3ezx8jpm",
+      "added": "2026-11-13",
+      "infostealer": "",
       "ransomware": null
     },
     {

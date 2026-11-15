@@ -932,8 +932,8 @@
     {
       "group": "nitrogen",
       "ioc_types": {
-        "tox": 5,
-        "md5": 6
+        "tox": 12,
+        "md5": 22
       }
     },
     {
@@ -1028,7 +1028,8 @@
     {
       "group": "play",
       "ioc_types": {
-        "email": 3
+        "email": 3,
+        "md5": 85
       }
     },
     {

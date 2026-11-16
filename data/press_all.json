@@ -4,8 +4,49 @@
     "month": null,
     "country": null
   },
-  "count": 4389,
+  "count": 4395,
   "results": [
+    {
+      "date": "2026-11-15",
+      "victim": "Tribunal de Justiça de Minas Gerais (TJMG)",
+      "domain": "tjmg.jus.br",
+      "country": "BR",
+      "summary": "Le Tribunal de Justiça de Minas Gerais (TJMG) a confirmé une fuite de données suite à un incident de cybersécurité identifié récemment. Bien que des fichiers aient été divulgués, le TJMG assure que l'intégrité de ses systèmes judiciaires et administratifs est préservée. Les personnes potentiellement affectées sont contactées individuellement pour recevoir des conseils de sécurité. Le tribunal a également informé l'ANPD et les autorités policières pour permettre l'enquête.",
+      "description": "",
+      "title": "TJMG: Vazamento de dados após ataque cibernético é investigado | G1",
+      "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/15/tjmg-apura-vazamento-de-arquivos-apos-ataque-cibernetico.ghtml",
+      "added": "2026-11-16",
+      "infostealer": {
+        "update": "2026-11-16T10:30:09",
+        "employees": 714,
+        "users": 5046,
+        "thirdparties": 142,
+        "employees_url": 66,
+        "users_url": 100,
+        "last_employee_compromised": "2026-10-26T20:00:54+00:00",
+        "last_user_compromised": "2026-11-11T00:54:00+00:00",
+        "infostealer_stats": {
+          "StealC": 208,
+          "Lumma": 1275,
+          "Vidar": 168,
+          "Atomic": 2,
+          "Mystic": 5,
+          "Ficker": 3,
+          "Acreed": 92,
+          "Remus": 3,
+          "Generic Stealer": 1060,
+          "CRYPTBOT": 12,
+          "Taurus": 3,
+          "DarkCrystal": 45,
+          "Azorult": 57,
+          "UNKNOWN": 63,
+          "RedLine": 1633,
+          "Raccoon": 580,
+          "Predator": 1
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-11-15",
       "victim": "Coles",
@@ -110,6 +151,44 @@
         "last_employee_compromised": null,
         "last_user_compromised": null,
         "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-11",
+      "victim": "Autopay S.A.",
+      "domain": "autopay.pl",
+      "country": "PL",
+      "summary": "Autopay S.A., une société polonaise, a signalé une cyberattaque le 11 novembre 2026, impliquant un accès non autorisé à une partie de son infrastructure et à des données de paiement. L'entreprise décrit l'incident comme une attaque de nouvelle génération utilisant massivement des outils d'intelligence artificielle et d'automatisation, sans recours à des logiciels malveillants ou au phishing. Bien que l'exfiltration de données ne soit pas confirmée, Autopay a isolé les serveurs et a informé les autorités polonaises compétentes. Les services de traitement des transactions n'ont pas été affectés.",
+      "description": "",
+      "title": "Autopay заявила о кибератаке и доступе к данным о платежах — RMF24",
+      "url": "https://ua.news/ru/world/u-polshchi-autopay-zaiavila-pro-kiberataku-ta-dostup-do-danikh-pro-platezhi-rmf24",
+      "added": "2026-11-16",
+      "infostealer": {
+        "update": "2026-11-16T11:00:10",
+        "employees": 0,
+        "users": 2071,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 100,
+        "last_employee_compromised": "1970-01-01T00:00:00+00:00",
+        "last_user_compromised": "2026-11-11T00:54:00+00:00",
+        "infostealer_stats": {
+          "UNKNOWN": 21,
+          "Lumma": 428,
+          "RedLine": 803,
+          "Acreed": 4,
+          "Generic Stealer": 277,
+          "DarkCrystal": 17,
+          "Atomic": 2,
+          "Raccoon": 169,
+          "Vidar": 71,
+          "Ficker": 1,
+          "Aura Stealer": 1,
+          "CRYPTBOT": 2,
+          "StealC": 97,
+          "Mystic": 6
+        }
       },
       "ransomware": null
     },
@@ -239,6 +318,19 @@
     },
     {
       "date": "2026-11-10",
+      "victim": "Douanes de Lituanie",
+      "domain": "muitine.lrv.lt",
+      "country": "LT",
+      "summary": "Les Douanes de Lituanie ont signalé un incident cyber potentiel dans leurs systèmes informatiques le 10 novembre 2026. Cet incident a entraîné la suspension temporaire de l'accès au port de gestion des utilisateurs généraux (BAP). Les autorités ont mis en place des mesures de sécurité pour isoler l'infrastructure et enquêter. À ce stade, aucune fuite de données n'a été confirmée.",
+      "description": "",
+      "title": "Muitinei patyrus kibernetinį incidentą, sustabdyta vartotojų valdymo portalo prieiga",
+      "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3110453/lietuvos-muitine-patyre-kibernetini-incidenta",
+      "added": "2026-11-16",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-10",
       "victim": "ActiveCloud",
       "domain": "activecloud.by",
       "country": "BY",
@@ -337,6 +429,22 @@
         }
       },
       "ransomware": null
+    },
+    {
+      "date": "2026-11-09",
+      "victim": "EiCOh",
+      "domain": "eicoh.com",
+      "country": "JP",
+      "summary": "La société Aiko Co., Ltd. a annoncé le 13 novembre 2026 avoir été victime d'un accès non autorisé et d'une attaque par rançongiciel (ransomware) sur certains de ses systèmes. L'incident a été confirmé le 9 novembre 2026. L'entreprise mène actuellement une enquête pour déterminer l'étendue des dégâts et l'existence d'une fuite de données. Elle a également émis une alerte auprès de ses clients et partenaires pour se méfier des courriels usurpant son identité, notamment ceux demandant des modifications de coordonnées bancaires.",
+      "description": "",
+      "title": "エイコー、ランサムウェア被害を公表 11月9日に一部システムで不正アクセス確認、振込先変更を装う連絡に注意喚起|セキュリティニュースのセキュリティ対策Lab",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/eicoh-ransomware-unauthorized-access-payment-change-2026/",
+      "added": "2026-11-16",
+      "infostealer": "",
+      "ransomware": {
+        "group": "thegentlemen",
+        "permalink": "https://www.ransomware.live/id/RWlDT2hAdGhlZ2VudGxlbWVu"
+      }
     },
     {
       "date": "2026-11-09",
@@ -685,6 +793,19 @@
           "Remus": 2
         }
       },
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-04",
+      "victim": "Salvamento Marítimo",
+      "domain": "salvamentomarítimo.es",
+      "country": "ES",
+      "summary": "Salvamento Marítimo a été victime d'une cyberattaque par ransomware, attribuée au groupe Booba Team. L'intrusion a été détectée le 4 novembre 2026. Bien que des systèmes clés (SIGO, SIMAN, Navision) aient été forcés hors service, les opérations de sauvetage se sont poursuivies normalement. L'incident a été signalé à la Police Nationale et au CCN-CERT pour enquête.",
+      "description": "",
+      "title": "Un ciberataque obligó a desconectar sistemas de Salvamento Marítimo en plena crisis migratoria",
+      "url": "https://www.eldiario.es/tecnologia/ciberataque-obligo-desconectar-sistemas-salvamento-maritimo-plena-crisis-migratoria_1_13651742.html",
+      "added": "2026-11-16",
+      "infostealer": "",
       "ransomware": null
     },
     {
@@ -3520,14 +3641,14 @@
       "url": "https://therecord.media/michigan-state-university-byod-gang-cyber-incident",
       "added": "2026-11-10",
       "infostealer": {
-        "update": "2026-11-10T14:00:14",
-        "employees": 622,
-        "users": 3655,
-        "thirdparties": 1145,
+        "update": "2026-11-16T08:38:37.659331",
+        "employees": 624,
+        "users": 3674,
+        "thirdparties": 1148,
         "employees_url": 100,
         "users_url": 100,
-        "last_employee_compromised": "2026-11-03T18:51:01+00:00",
-        "last_user_compromised": "2026-11-07T05:22:18+00:00",
+        "last_employee_compromised": "2026-11-13T00:00:00+00:00",
+        "last_user_compromised": "2026-11-13T00:00:00+00:00",
         "infostealer_stats": {
           "CRYPTBOT": 8,
           "Azorult": 152,
@@ -3550,7 +3671,10 @@
           "Lumma": 834
         }
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "BYOD",
+        "permalink": "https://www.ransomware.live/id/TWljaGlnYW4gU3RhdGUgVW5pdmVyc2l0eUBCWU9E"
+      }
     },
     {
       "date": "2026-10-01",
@@ -7111,6 +7235,29 @@
       "url": "https://www.plymouthindependent.org/jail-visits-suspended-after-cyber-attack/",
       "added": "2026-08-16",
       "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-08-12",
+      "victim": "Hiroshima Gas",
+      "domain": "hiroshima-gas.co.jp",
+      "country": "JP",
+      "summary": "Hiroshima Gas a annoncé une possible fuite de données concernant environ 3 200 de ses clients suite à une cyberattaque par rançongiciel (ransomware) survenue le 12 août 2026. L'attaque a ciblé le système de son prestataire, Ryōge Systems, qui gérait les informations électriques. Les données compromises incluent l'adresse du lieu d'utilisation, la consommation mensuelle et les frais, mais ne contiennent pas d'informations personnelles sensibles telles que les noms, les coordonnées bancaires ou les cartes de crédit.",
+      "description": "",
+      "title": "広島ガス、電気契約情報約3,200件に漏えいのおそれ 両毛システムズへのランサムウェア攻撃で判明|セキュリティニュースのセキュリティ対策Lab",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/hiroshima-gas-ryomo-electric-customer-data-3200-risk-2026/",
+      "added": "2026-11-16",
+      "infostealer": {
+        "update": "2026-11-16T10:30:07",
+        "employees": 0,
+        "users": 36,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 5,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
       "ransomware": null
     },
     {

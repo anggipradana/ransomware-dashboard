@@ -4,8 +4,21 @@
     "month": null,
     "country": null
   },
-  "count": 4395,
+  "count": 4396,
   "results": [
+    {
+      "date": "2026-11-15",
+      "victim": "South Portland",
+      "domain": "southportland.gov",
+      "country": "US",
+      "summary": "La ville de South Portland fait face à un incident de cybersécurité qui affectent ses systèmes informatiques et ses services. L'incident, signalé pour la première fois le dimanche, a conduit à la fermeture de la mairie et de la bibliothèque le lundi. Les perturbations incluent les lignes téléphoniques, les paiements en ligne et en personne, ainsi que l'accès aux portails administratifs. Les autorités locales enquêtent sur la cause, soupçonnant une attaque par des \"acteurs malveillants\", mais n'ont pas encore de calendrier pour la résolution.",
+      "description": "",
+      "title": "South Portland closes city offices after cybersecurity incident",
+      "url": "https://wgme.com/news/local/south-portland-closes-city-offices-after-cybersecurity-incident-maine",
+      "added": "2026-11-17",
+      "infostealer": "",
+      "ransomware": null
+    },
     {
       "date": "2026-11-15",
       "victim": "Tribunal de Justiça de Minas Gerais (TJMG)",
@@ -82828,29 +82841,33 @@
       "url": "https://www.newsday.com/business/henry-schein-cyberattack-d5qc1014",
       "added": "",
       "infostealer": {
-        "update": "2026-07-25T10:39:27",
-        "employees": 90,
-        "users": 752,
-        "thirdparties": 37,
+        "update": "2026-11-17T08:21:10.346361",
+        "employees": 93,
+        "users": 818,
+        "thirdparties": 39,
         "employees_url": 21,
         "users_url": 100,
-        "last_employee_compromised": "2026-05-19T00:00:00+00:00",
-        "last_user_compromised": "2026-07-22T00:00:00+00:00",
+        "last_employee_compromised": "2026-09-09T22:01:21+00:00",
+        "last_user_compromised": "2026-11-14T00:00:00+00:00",
         "infostealer_stats": {
-          "StealC": 28,
-          "Acreed": 15,
-          "Lumma": 103,
+          "Acreed": 23,
+          "Remus": 10,
+          "UNKNOWN": 6,
+          "Generic Stealer": 306,
+          "RedLine": 196,
           "Raccoon": 46,
           "Atomic": 1,
-          "Azorult": 95,
-          "Generic Stealer": 277,
+          "StealC": 28,
           "Mystic": 3,
+          "Lumma": 110,
           "Vidar": 32,
-          "RedLine": 196,
-          "UNKNOWN": 6
+          "Azorult": 95
         }
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "Inception",
+        "permalink": "https://www.ransomware.live/id/SGVucnkgU2NoZWluLCBJbmMuQEluY2VwdGlvbg"
+      }
     },
     {
       "date": "2023-10-13",

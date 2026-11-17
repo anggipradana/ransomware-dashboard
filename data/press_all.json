@@ -4,8 +4,69 @@
     "month": null,
     "country": null
   },
-  "count": 4396,
+  "count": 4403,
   "results": [
+    {
+      "date": "2026-11-17",
+      "victim": "MiTAC Digital Technology Corporation",
+      "domain": "mitacmdt.com",
+      "country": "TW",
+      "summary": "Les systèmes d'information de MiTAC ont été victimes d'une cyberattaque par réseau externe. L'incident a impliqué un accès non autorisé à certaines de leurs systèmes. L'entreprise a activé son mécanisme de réponse aux incidents et déclare actuellement qu'il n'y a pas d'impact majeur sur ses opérations ou ses finances.",
+      "description": "",
+      "title": "證期權",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=2446665002&PU=0010",
+      "added": "2026-11-17",
+      "infostealer": {
+        "update": "2026-11-17T12:30:08",
+        "employees": 0,
+        "users": 1,
+        "thirdparties": 1,
+        "employees_url": 0,
+        "users_url": 1,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-16",
+      "victim": "Kreiskrankenhaus Greiz-Ronneburg",
+      "domain": "kreiskrankenhaus-greiz.de",
+      "country": "DE",
+      "summary": "Le Kreiskrankenhaus Greiz-Ronneburg a été victime d'une cyberattaque menée par des acteurs inconnus qui ont accédé à ses systèmes informatiques. L'incident a entraîné la fermeture de l'urgence et des perturbations dans les soins planifiés. Les autorités ont ouvert une enquête, mais la nature exacte de l'attaque, son ampleur et les responsables restent inconnus.",
+      "description": "",
+      "title": "Cyberangriff auf Kreiskrankenhaus in Greiz",
+      "url": "https://www.kma-online.de/aktuelles/it-digital-health/detail/cyberangriff-auf-kreiskrankenhaus-in-greiz-56516",
+      "added": "2026-11-17",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-16",
+      "victim": "WIESON TECHNOLOGIES CO., LTD.",
+      "domain": "wieson.com",
+      "country": "TW",
+      "summary": "L'entreprise de composants électroniques Wieson Technologies a découvert qu'une cyberattaque avait ciblé certains de ses systèmes d'information. La société a immédiatement activé son mécanisme de réponse aux incidents, isolant les équipements affectés et procédant à la restauration des systèmes. Les opérations quotidiennes et les systèmes centraux restent normaux, et aucune fuite de données n'a été détectée à ce stade.",
+      "description": "",
+      "title": "驊陞部分資訊系統遭網路攻擊，核心系統未受影響",
+      "url": "https://www.ithome.com.tw/news/180554",
+      "added": "2026-11-17",
+      "infostealer": {
+        "update": "2026-07-25T10:58:50",
+        "employees": 2,
+        "users": 1,
+        "thirdparties": 4,
+        "employees_url": 1,
+        "users_url": 1,
+        "last_employee_compromised": "2026-05-14T07:57:39+00:00",
+        "last_user_compromised": "2025-06-09T19:03:50+00:00",
+        "infostealer_stats": {
+          "Generic Stealer": 1
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-11-15",
       "victim": "South Portland",
@@ -111,6 +172,45 @@
       "ransomware": null
     },
     {
+      "date": "2026-11-14",
+      "victim": "Hospital Clínico de la Universidad de Chile",
+      "domain": "redclinica.cl",
+      "country": "CL",
+      "summary": "Le Hospital Clínico de la Universidad de Chile a confirmé avoir été victime d'une cyberattaque. L'incident, détecté le samedi 14 novembre, a affecté la disponibilité de certains systèmes informatiques institutionnels. Bien que la continuité des soins cliniques soit maintenue, l'interruption de services a engendré des difficultés dans les processus de prise en charge et les services de support, notamment pour la planification des consultations. L'établissement collabore avec l'Agence Nationale de Cybersécurité (ANCI) pour la récupération sécurisée des systèmes.",
+      "description": "",
+      "title": "Hospital Clínico de la Universidad de Chile confirma ciberataque: presenta \"dificultades en procesos de atención y servicios\"",
+      "url": "https://www.t13.cl/noticia/nacional/hospital-clinico-universidad-chile-denuncia-ciberataque-presenta-dificultades-p-16-11-2026",
+      "added": "2026-11-17",
+      "infostealer": {
+        "update": "2026-08-30T14:53:36",
+        "employees": 0,
+        "users": 1633,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 80,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "direwolf",
+        "permalink": "https://www.ransomware.live/id/SG9zcGl0YWwgQ2xuaWNvIFVuaXZlcnNpZGFkIGRlIENoaWxlQGRpcmV3b2xm"
+      }
+    },
+    {
+      "date": "2026-11-13",
+      "victim": "Powiatowy Urząd Pracy w Zgorzelcu",
+      "domain": "zgorzelec.praca.gov.pl",
+      "country": "PL",
+      "summary": "Le Powiatowy Urząd Pracy (PUP) de Zgorzelec a été victime d'une cyberattaque externe. L'incident, signalé le 13 novembre 2026, a entraîné des perturbations dans le fonctionnement des systèmes informatiques. Les données des clients potentiellement compromises incluent le nom, le prénom, le numéro PESEL, les numéros d'identité, l'adresse et le numéro de téléphone. Aucune attribution n'a été faite à cette attaque.",
+      "description": "",
+      "title": "Atak na urząd pracy w Zgorzelcu. Nie działa część systemów",
+      "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/cyberataki/atak-na-urzad-pracy-w-zgorzelcu-nie-dziala-czesc-systemow",
+      "added": "2026-11-17",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
       "date": "2026-11-13",
       "victim": "Univerzita Karlova (UK)",
       "domain": "cuni.cz",
@@ -164,6 +264,44 @@
         "last_employee_compromised": null,
         "last_user_compromised": null,
         "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-11",
+      "victim": "Ipsos",
+      "domain": "ipsos.com",
+      "country": "FR",
+      "summary": "Ipsos, l'entreprise française de sondages et d'études de marché, a annoncé avoir été victime d'une cyberattaque affectant un système d'information interne. L'entreprise a déposé une plainte auprès des autorités compétentes. Bien que l'incident ait été identifié le 11 novembre, Ipsos assure que cette compromission n'a eu aucun impact sur ses opérations et que l'enquête est en cours pour déterminer l'ampleur de l'incident.",
+      "description": "",
+      "title": "Sans fournir de détail sur \"la nature et l'ampleur de l'incident\", l'institut de sondage Ipsos annonce avoir été victime d'une cyberattaque",
+      "url": "https://www.bfmtv.com/tech/cybersecurite/sans-fournir-de-detail-sur-la-nature-et-l-ampleur-de-l-incident-l-institut-de-sondage-ipsos-annonce-avoir-ete-victime-d-une-cyberattaque_AD-202611160791.html",
+      "added": "2026-11-17",
+      "infostealer": {
+        "update": "2026-11-17T12:00:16",
+        "employees": 136,
+        "users": 904,
+        "thirdparties": 268,
+        "employees_url": 96,
+        "users_url": 100,
+        "last_employee_compromised": "2026-10-17T11:54:38+00:00",
+        "last_user_compromised": "2026-11-13T00:00:00+00:00",
+        "infostealer_stats": {
+          "UNKNOWN": 7,
+          "Aura Stealer": 1,
+          "Vidar": 38,
+          "Acreed": 17,
+          "CRYPTBOT": 2,
+          "StealC": 43,
+          "Lumma": 161,
+          "Atomic": 3,
+          "Ficker": 2,
+          "Predator": 1,
+          "Generic Stealer": 261,
+          "RedLine": 292,
+          "Azorult": 16,
+          "Raccoon": 95
+        }
       },
       "ransomware": null
     },
@@ -5218,6 +5356,19 @@
       "title": "www.linfo.re",
       "url": "https://www.linfo.re/la-reunion/societe/le-tampon-la-mairie-victime-d-une-cyber-attaque-les-services-municipaux-au-ralenti",
       "added": "2026-09-09",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-09-08",
+      "victim": "Nephrology Associates, P.C.",
+      "domain": "nephrologyassoc.net",
+      "country": "US",
+      "summary": "Nephrology Associates, P.C., une clinique de soins rénaux située dans la région de Bridgeport, Connecticut, a découvert un incident de ransomware le 8 septembre 2026. L'incident a impliqué un accès non autorisé à un serveur contenant des dossiers médicaux historiques et des informations personnelles de patients et d'employés. Bien qu'aucune preuve de suppression de données n'ait été trouvée, les individus affectés sont offerts 24 mois de surveillance de crédit gratuite.",
+      "description": "",
+      "title": "Nephrology Associates Data Breach: Ransomware in CT",
+      "url": "https://openclassactions.com/news/data-breaches/nephrology-associates-connecticut-ransomware-data-breach.php",
+      "added": "2026-11-17",
       "infostealer": "",
       "ransomware": null
     },

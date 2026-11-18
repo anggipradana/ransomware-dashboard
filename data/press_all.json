@@ -4,8 +4,118 @@
     "month": null,
     "country": null
   },
-  "count": 4407,
+  "count": 4417,
   "results": [
+    {
+      "date": "2026-11-18",
+      "victim": "Osaki Electric Industry",
+      "domain": "osaki.co.jp",
+      "country": "JP",
+      "summary": "L'entreprise Osaki Electric Industry, fabricant de compteurs connectés, a publié un premier rapport concernant une cyberattaque par rançongiciel (ransomware) qui a entraîné l'arrêt de sa production.",
+      "description": "",
+      "title": "大崎電気工業[6644]：ランサムウェアによるサイバー攻撃に伴う生産停止の発生に関するお知らせ（第一報） 2026年11月18日(適時開示) ：日経会社情報DIGITAL：日本経済新聞",
+      "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20261118582902/",
+      "added": "2026-11-18",
+      "infostealer": {
+        "update": "2026-11-18T13:00:11",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 1,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-18",
+      "victim": "Yuantai",
+      "domain": "yfy.com",
+      "country": "TW",
+      "summary": "La société Yuantai, leader mondial des papiers électroniques, a annoncé qu'elle soupçonnait ses systèmes d'information d'avoir été victimes d'une cyberattaque. L'entreprise a activé ses mécanismes de défense et fait appel à des experts externes, tout en précisant qu'une évaluation préliminaire indique qu'il n'y a pas d'impact majeur sur ses opérations.",
+      "description": "",
+      "title": "元太資訊系統遭網路攻擊！對營運無重大影響 | 產業熱點 | 產業 | 經濟日報",
+      "url": "https://money.udn.com/money/story/5612/9887132",
+      "added": "2026-11-18",
+      "infostealer": {
+        "update": "2026-11-18T13:00:11",
+        "employees": 37,
+        "users": 25,
+        "thirdparties": 16,
+        "employees_url": 9,
+        "users_url": 56,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-17",
+      "victim": "Superhosting",
+      "domain": "superhosting.bg",
+      "country": "BG",
+      "summary": "Superhosting, une société d'hébergement bulgare, a été victime d'une cyberattaque ayant entraîné un accès non autorisé à son système interne. L'entreprise a confirmé que des données personnelles des clients (nom, email, numéro de téléphone, informations de facturation) ont été compromises. Bien que les mots de passe aient été hachés et que les services d'hébergement ne soient pas affectés, l'entreprise a alerté ses utilisateurs sur une campagne de phishing concurrent.",
+      "description": "",
+      "title": "Хакери удариха най-голямата хостинг компания в България",
+      "url": "https://money.bg/internet-it/hakeri-udariha-superhosting.html",
+      "added": "2026-11-18",
+      "infostealer": {
+        "update": "2026-11-18T11:00:11",
+        "employees": 14,
+        "users": 3047,
+        "thirdparties": 0,
+        "employees_url": 100,
+        "users_url": 100,
+        "last_employee_compromised": "2026-08-10T11:15:49.854000+00:00",
+        "last_user_compromised": "2026-11-11T00:54:00+00:00",
+        "infostealer_stats": {
+          "Lumma": 528,
+          "CRYPTBOT": 8,
+          "Azorult": 66,
+          "Raccoon": 294,
+          "Generic Stealer": 756,
+          "StealC": 141,
+          "Taurus": 4,
+          "Acreed": 67,
+          "Atomic": 7,
+          "UNKNOWN": 19,
+          "Predator": 6,
+          "Mystic": 2,
+          "Vidar": 91,
+          "Remus": 23,
+          "Ficker": 4,
+          "Warden Stealer": 19,
+          "RedLine": 942
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-17",
+      "victim": "Choose",
+      "domain": "choosead.gr",
+      "country": "GR",
+      "summary": "L'entreprise Choose a confirmé avoir subi un accès non autorisé à un de ses systèmes de test. L'incident est strictement limité à cet environnement et n'a pas affecté les systèmes de production. Bien qu'un nombre limité de 4 266 numéros d'identification fiscale (ΑΦΜ) et de noms ait été accédé dans le cadre de tests, aucune fuite de données n'a été confirmée. Les autorités compétentes ont été informées et des mesures d'isolement ont été prises.",
+      "description": "",
+      "title": "Choose: Κυβερνοεπίθεση σε σύστημα που διεξάγονταν δοκιμές - Περιείχε ΑΦΜ και ονοματεπώνυμα - Mononews.gr",
+      "url": "https://www.mononews.gr/business/choose-kyvernoepithesi-se-systima-pou-diexagontan-dokimes-perieiche-afm-kai-onomateponyma",
+      "added": "2026-11-18",
+      "infostealer": {
+        "update": "2026-11-18T10:30:11",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 2,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-11-17",
       "victim": "Neuried",
@@ -149,6 +259,46 @@
     },
     {
       "date": "2026-11-15",
+      "victim": "Canton de Basel-Landschaft",
+      "domain": "baselland.ch",
+      "country": "CH",
+      "summary": "Le Canton de Basel-Landschaft est confronté à une cyberattaque jugée \"sévère et très étendue\" visant son infrastructure informatique. Depuis le dimanche, les attaques ont forcé le canton à isoler certains serveurs du réseau, provoquant des pannes de services numériques et des perturbations des numéros d'urgence de la police. Une équipe de cybersécurité cantonale est mobilisée pour mettre en œuvre les contre-mesures nécessaires.",
+      "description": "",
+      "title": "Kantonale Server betroffen: «Heftiger, breit angelegter Angriff»: Seit Sonntag finden Cyberattacken auf die Baselbieter IT-Struktur statt",
+      "url": "https://www.bazonline.ch/cyberangriff-auf-basel-landschaft-server-isoliert-736977549861",
+      "added": "2026-11-18",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-15",
+      "victim": "SPRC (Star Petroleum Refining Company)",
+      "domain": "sprc.co.th",
+      "country": "TH",
+      "summary": "SPRC (Star Petroleum Refining Company) a publié un communiqué suite à une cyberattaque ayant permis l'accès non autorisé aux données de la société ainsi que de ses filiales (Star Fuels Marketing Co., Ltd. et Star Petroleum Refining Co., Ltd.). L'entreprise est actuellement en phase d'investigation pour déterminer l'étendue de la violation et l'impact financier potentiel. SPRC a également émis des avertissements aux utilisateurs concernant les tentatives de phishing et la diffusion de données potentiellement compromises.",
+      "description": "",
+      "title": "ด่วน!SPRCโดนโจมตีทางไซเบอร์ เร่งตรวจสอบข้อมูลที่ถูกเข้าถึง-ผลกระทบทางการเงิน",
+      "url": "https://th.headtopics.com/news/36043656362336080046-89947707",
+      "added": "2026-11-18",
+      "infostealer": {
+        "update": "2026-11-18T11:00:10",
+        "employees": 15,
+        "users": 1,
+        "thirdparties": 12,
+        "employees_url": 6,
+        "users_url": 2,
+        "last_employee_compromised": "2024-07-13T10:20:02+00:00",
+        "last_user_compromised": "2026-01-23T01:53:17+00:00",
+        "infostealer_stats": {
+          "RedLine": 12,
+          "Generic Stealer": 3,
+          "StealC": 1
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-15",
       "victim": "South Portland",
       "domain": "southportland.gov",
       "country": "US",
@@ -247,6 +397,49 @@
           "RedLine": 3,
           "Lumma": 1,
           "Generic Stealer": 6
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-14",
+      "victim": "Contabo",
+      "domain": "contabo.com",
+      "country": "DE",
+      "summary": "L'hébergeur allemand Contabo a confirmé avoir subi un accès non autorisé à ses systèmes informatiques le 14 novembre 2026. L'entreprise a immédiatement pris des mesures de sécurité, notamment la réinitialisation des mots de passe VNC et le blocage des chemins d'accès suspects. Bien qu'une enquête technique soit en cours pour déterminer l'ampleur de l'intrusion, Contabo n'a pas encore confirmé la fuite de données personnelles.",
+      "description": "",
+      "title": "Contabo victime d'une cyberattaque, l'hébergeur allemand confirme une intrusion dans ses systèmes",
+      "url": "https://frenchbreaches.com/blog/contabo-victime-dune-cyberattaque-lhebergeur-allemand-confirme-une-intrusion-dans-ses-systemes",
+      "added": "2026-11-18",
+      "infostealer": {
+        "update": "2026-11-18T10:30:09",
+        "employees": 1,
+        "users": 26809,
+        "thirdparties": 5,
+        "employees_url": 1,
+        "users_url": 100,
+        "last_employee_compromised": "2022-08-14T17:51:02+00:00",
+        "last_user_compromised": "2026-11-14T21:28:18+00:00",
+        "infostealer_stats": {
+          "Vidar": 863,
+          "Aura Stealer": 1,
+          "Azorult": 189,
+          "UNKNOWN": 231,
+          "Lumma": 5783,
+          "Predator": 6,
+          "Ficker": 6,
+          "CRYPTBOT": 37,
+          "Generic Stealer": 7641,
+          "StealC": 1104,
+          "Raccoon": 1736,
+          "RedLine": 6852,
+          "DarkCrystal": 39,
+          "Acreed": 751,
+          "Remus": 377,
+          "Warden Stealer": 190,
+          "Mystic": 38,
+          "Taurus": 10,
+          "Atomic": 49
         }
       },
       "ransomware": null
@@ -1343,6 +1536,37 @@
         "group": "thegentlemen",
         "permalink": "https://www.ransomware.live/id/U2VjcmV0YXJpYSBkZSBFc3RhZG8gZGUgU2HDumRlQHRoZWdlbnRsZW1lbg"
       }
+    },
+    {
+      "date": "2026-10-31",
+      "victim": "Quantum Systems",
+      "domain": "quantum-systems.com",
+      "country": "DE",
+      "summary": "Le fabricant allemand de drones Quantum Systems a été victime d'une cyberattaque majeure fin octobre. L'attaque visait le serveur de mise à jour de QBase, le système de planification des missions. Par mesure de précaution, l'armée allemande (Bundeswehr) a temporairement mis à l'arrêt un grand nombre de drones de l'entreprise. Quantum Systems affirme que l'incident est maîtrisé et qu'il n'y a pas de risque actuel pour les opérateurs. L'incident souligne la vulnérabilité de l'infrastructure informatique des fabricants de drones militaires.",
+      "description": "",
+      "title": "Cyberaanval treft Duitse dronefabrikant, Bundeswehr houdt toestellen aan de grond",
+      "url": "https://www.dronewatch.nl/2026/11/12/cyberaanval-treft-duitse-dronefabrikant-bundeswehr-houdt-toestellen-aan-de-grond/",
+      "added": "2026-11-18",
+      "infostealer": {
+        "update": "2026-11-18T15:00:11",
+        "employees": 0,
+        "users": 10,
+        "thirdparties": 1,
+        "employees_url": 0,
+        "users_url": 5,
+        "last_employee_compromised": "1970-01-01T00:00:00+00:00",
+        "last_user_compromised": "2025-06-20T14:31:06+00:00",
+        "infostealer_stats": {
+          "UNKNOWN": 1,
+          "Ficker": 1,
+          "Generic Stealer": 1,
+          "Raccoon": 1,
+          "Lumma": 3,
+          "Taurus": 1,
+          "RedLine": 2
+        }
+      },
+      "ransomware": null
     },
     {
       "date": "2026-10-31",
@@ -3594,6 +3818,19 @@
           "Lumma": 9319
         }
       },
+      "ransomware": null
+    },
+    {
+      "date": "2026-10-05",
+      "victim": "Ride On Express Co., Ltd. (Gin no Sara, Kamatori, Sushi Joutou)",
+      "domain": "rideonexpresshd.co.jp",
+      "country": "JP",
+      "summary": "La société Ride On Express (opératrice des marques Gin no Sara, Kamatori et Sushi Joutou) a confirmé avoir été victime d'une cyberattaque par rançongiciel. L'accès non autorisé aux serveurs, qui stockaient les informations des utilisateurs, a été détecté le 5 octobre. L'attaque a été confirmée le 7 octobre, entraînant une panne de système. L'entreprise enquête sur une potentielle fuite de données affectant jusqu'à environ 6,5 millions d'inscrits, incluant des informations personnelles (nom, adresse, téléphone, email, date de naissance, mot de passe haché) et des historiques de commandes. La société est en train d'informer les clients potentiellement concernés et renforce sa sécurité.",
+      "description": "",
+      "title": "「銀のさら・釜寅・すし上等」公式サイト・公式アプリにランサムウェア攻撃 | ScanNetSecurity",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/11/18/56817.html",
+      "added": "2026-11-18",
+      "infostealer": "",
       "ransomware": null
     },
     {
@@ -8765,6 +9002,22 @@
         "infostealer_stats": {}
       },
       "ransomware": null
+    },
+    {
+      "date": "2026-08-01",
+      "victim": "Otter Tail County",
+      "domain": "ottertailcounty.gov",
+      "country": "US",
+      "summary": "Le comté d'Otter Tail, dans le Minnesota, a été victime d'une cyberattaque ayant entraîné un accès non autorisé à son réseau. L'intrusion, qui a permis la copie de données, s'est déroulée entre le 3 juillet et le 1er août 2026. Le comté informe les résidents via son site web en raison de la complexité des données affectées.",
+      "description": "",
+      "title": "Otter Tail County Notifying Residents of Compromised Data Following Cyber-Attack",
+      "url": "https://fergusnow.com/2026/11/17/otter-tail-county-notifying-residents-of-potentially-compromised-data-following-cyber-attack/",
+      "added": "2026-11-18",
+      "infostealer": "",
+      "ransomware": {
+        "group": "incransom",
+        "permalink": "https://www.ransomware.live/id/T3R0ZXIgVGFpbCBDb3VudHksIE1pbm5lc290YUBpbmNyYW5zb20"
+      }
     },
     {
       "date": "2026-08-01",

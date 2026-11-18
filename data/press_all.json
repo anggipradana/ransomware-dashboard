@@ -4,8 +4,56 @@
     "month": null,
     "country": null
   },
-  "count": 4403,
+  "count": 4407,
   "results": [
+    {
+      "date": "2026-11-17",
+      "victim": "Neuried",
+      "domain": "neuried.de",
+      "country": "DE",
+      "summary": "L'administration municipale de Neuried a été victime d'une cyberattaque le 17 novembre 2026. Suite à une perturbation, la municipalité a dû mettre ses systèmes informatiques hors service. Des auteurs inconnus ont accédé à l'infrastructure IT et ont laissé un message dans les fichiers du réseau. Les autorités, y compris la police criminelle et le parquet, enquêtent sur l'incident, mais l'ampleur des dégâts, les services affectés et l'éventuelle exfiltration de données ne sont pas encore confirmés.",
+      "description": "",
+      "title": "Neuried: Cyberangriff auf Gemeindeverwaltung",
+      "url": "https://breisgau.live/polizeimeldungen/neuried-cyberangriff-auf-gemeindeverwaltung/",
+      "added": "2026-11-18",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-17",
+      "victim": "Equinor",
+      "domain": "equinor.com",
+      "country": "NO",
+      "summary": "Equinor a été victime d'une cyberattaque, mais l'entreprise a confirmé que ses opérations et sa production n'ont pas été affectées.",
+      "description": "",
+      "title": "Equinor utsatt for cyberangrep",
+      "url": "https://www.dn.no/jus/equinor/equinor-bekrefter-pagaende-cyberangrep-rettet-mot-it-systemer/2-1-2075578",
+      "added": "2026-11-18",
+      "infostealer": {
+        "update": "2026-11-18T07:30:09",
+        "employees": 15,
+        "users": 149,
+        "thirdparties": 79,
+        "employees_url": 5,
+        "users_url": 45,
+        "last_employee_compromised": "2026-03-29T17:29:44.782000+00:00",
+        "last_user_compromised": "2026-10-24T01:29:18+00:00",
+        "infostealer_stats": {
+          "Acreed": 3,
+          "StealC": 1,
+          "Warden Stealer": 1,
+          "Generic Stealer": 33,
+          "Raccoon": 27,
+          "Lumma": 34,
+          "CRYPTBOT": 2,
+          "RedLine": 48,
+          "Vidar": 1,
+          "Remus": 4,
+          "Azorult": 1
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-11-17",
       "victim": "MiTAC Digital Technology Corporation",
@@ -26,6 +74,38 @@
         "last_employee_compromised": null,
         "last_user_compromised": null,
         "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-16",
+      "victim": "Rikagaku Araştırma Enstitüsü (RIKEN)",
+      "domain": "riken.jp",
+      "country": "JP",
+      "summary": "Le Rikagaku Araştırma Enstitüsü (RIKEN) a annoncé qu'un accès non autorisé avait été obtenu au superordinateur Fugaku, le plus rapide au monde. En conséquence, les opérations de Fugaku ont été suspendues, et l'institut exprime des inquiétudes quant à une possible fuite de données utilisateur. La date exacte de l'intrusion fait l'objet d'une enquête.",
+      "description": "",
+      "title": "Dünyanın en hızlı bilgisayarına siber saldırı! Fugaku'nun faaliyetleri durduruldu",
+      "url": "https://www.babaocagi.com.tr/dunyanin-en-hizli-bilgisayarina-siber-saldiri-fugakunun-faaliyetleri-durduruldu",
+      "added": "2026-11-18",
+      "infostealer": {
+        "update": "2026-11-18T07:30:10",
+        "employees": 25,
+        "users": 74,
+        "thirdparties": 25,
+        "employees_url": 13,
+        "users_url": 70,
+        "last_employee_compromised": "2026-09-14T14:44:30+00:00",
+        "last_user_compromised": "2026-10-26T07:57:16+00:00",
+        "infostealer_stats": {
+          "Lumma": 16,
+          "CRYPTBOT": 1,
+          "Generic Stealer": 17,
+          "Vidar": 4,
+          "RedLine": 25,
+          "Azorult": 1,
+          "StealC": 4,
+          "Predator": 1
+        }
       },
       "ransomware": null
     },
@@ -241,6 +321,29 @@
           "UNKNOWN": 29,
           "CRYPTBOT": 5
         }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-12",
+      "victim": "Divalto",
+      "domain": "divalto.com",
+      "country": "FR",
+      "summary": "L'éditeur français de logiciels Divalto a été victime d'une cyberattaque ciblée et répétée, dont les difficultés ont été signalées dès le 12 novembre 2026. Cette intrusion a perturbé les services ERP et CRM, affectant notamment Belles Lettres Diffusion Distribution (BLDD), un distributeur utilisant les outils de Divalto. Les conséquences sont opérationnelles, entraînant des retards logistiques et des difficultés dans la gestion des commandes et des stocks. À ce stade, Divalto n'a confirmé aucun vol ou compromission de données clients.",
+      "description": "",
+      "title": "Cyberattaque chez Divalto : le distributeur du programme de LFI touché, les commandes des librairies perturbées",
+      "url": "https://www.cyberattaque.org/cyberattaque-chez-divalto-le-distributeur-du-programme-de-lfi-touche-les-commandes-des-librairies-perturbees/",
+      "added": "2026-11-18",
+      "infostealer": {
+        "update": "2026-11-18T08:30:08",
+        "employees": 1,
+        "users": 43,
+        "thirdparties": 3,
+        "employees_url": 1,
+        "users_url": 18,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
       },
       "ransomware": null
     },

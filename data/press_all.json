@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 4421,
+  "count": 4422,
   "results": [
     {
       "date": "2026-11-18",
@@ -950,6 +950,19 @@
           "racoon": 6
         }
       },
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-09",
+      "victim": "Commission européenne",
+      "domain": "commission.europa.eu",
+      "country": "BE",
+      "summary": "Une cyberattaque massive a ciblé la Commission européenne. L'incident, détecté par CERT-EU, a potentiellement compromis des données personnelles et causé une perturbation de plus de dix jours des systèmes de gestion du personnel (salaires, congés). Les attaquants auraient utilisé ARTEX, un framework offensif agentique. La Commission a confirmé avoir contenu la majorité de l'attaque.",
+      "description": "",
+      "title": "Cyberattack hits the Commission",
+      "url": "https://www.politico.eu/newsletter/brussels-playbook/cyberattack-hits-the-commission/",
+      "added": "2026-11-19",
+      "infostealer": "",
       "ransomware": null
     },
     {
@@ -70434,19 +70447,36 @@
       "url": "https://www.bleepingcomputer.com/news/security/frontier-communications-shuts-down-systems-after-cyberattack/",
       "added": "2024-04-19",
       "infostealer": {
-        "update": "2024-07-15T19:36:00",
-        "employees": 860,
-        "users": 5,
-        "thirdparties": 1,
-        "employees_url": 80,
+        "update": "2026-11-19T17:21:12.130090",
+        "employees": 1190,
+        "users": 8070,
+        "thirdparties": 0,
+        "employees_url": 100,
         "users_url": 100,
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "infostealer_stats": {}
+        "last_employee_compromised": "2026-11-13T00:00:00+00:00",
+        "last_user_compromised": "2026-11-13T00:00:00+00:00",
+        "infostealer_stats": {
+          "Generic Stealer": 2053,
+          "Lumma": 1139,
+          "CRYPTBOT": 11,
+          "Acreed": 51,
+          "DarkCrystal": 4,
+          "Ficker": 1,
+          "Raccoon": 407,
+          "UNKNOWN": 138,
+          "Vidar": 223,
+          "Atomic": 5,
+          "Predator": 3,
+          "StealC": 111,
+          "Mystic": 4,
+          "Azorult": 998,
+          "Taurus": 3,
+          "RedLine": 1890
+        }
       },
       "ransomware": {
-        "group": "ransomhub",
-        "permalink": "https://www.ransomware.live/id/RnJvbnRpZXIuY29tQHJhbnNvbWh1Yg"
+        "group": "Handsome Boy Hacking Club",
+        "permalink": "https://www.ransomware.live/id/RnJvbnRpZXIgQ29tbXVuaWNhdGlvbnNASGFuZHNvbWUgQm95IEhhY2tpbmcgQ2x1Yg"
       }
     },
     {

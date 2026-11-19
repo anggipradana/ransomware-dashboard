@@ -4,8 +4,31 @@
     "month": null,
     "country": null
   },
-  "count": 4417,
+  "count": 4418,
   "results": [
+    {
+      "date": "2026-11-18",
+      "victim": "Wilmington School District 209U",
+      "domain": "209u.net",
+      "country": "US",
+      "summary": "Le Wilmington School District 209U a été victime d'une attaque par rançongiciel (ransomware) qui pourrait impliquer une violation de données. Le district a temporairement suspendu l'utilisation des ordinateurs portables et autres appareils Windows fournis par l'école. Une enquête est en cours avec des experts en cybersécurité pour déterminer l'étendue de l'attaque et si des informations sensibles ont été compromises. Le district assure que les opérations d'enseignement se poursuivent normalement.",
+      "description": "",
+      "title": "Wilmington School District 209U Reports Ransomware Attack And Possible Data Breach - 1340 WJOL",
+      "url": "https://www.wjol.com/wilmington-school-district-209u-reports-ransomware-attack-and-possible-data-breach/",
+      "added": "2026-11-18",
+      "infostealer": {
+        "update": "2026-11-18T21:00:09",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 5,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-11-18",
       "victim": "Osaki Electric Industry",
@@ -17,7 +40,7 @@
       "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20261118582902/",
       "added": "2026-11-18",
       "infostealer": {
-        "update": "2026-11-18T13:00:11",
+        "update": "2026-11-18T21:41:23",
         "employees": 0,
         "users": 0,
         "thirdparties": 1,

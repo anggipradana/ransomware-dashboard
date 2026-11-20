@@ -4,8 +4,31 @@
     "month": null,
     "country": null
   },
-  "count": 4422,
+  "count": 4426,
   "results": [
+    {
+      "date": "2026-11-19",
+      "victim": "Cleveland Independent School District",
+      "domain": "clevelandisd.org",
+      "country": "US",
+      "summary": "Le Cleveland Independent School District (ISD) au Texas a restreint l'accès au campus et le réseau après avoir détecté une tentative d'intrusion en cybersécurité. Bien que les écoles restent ouvertes, des mesures préventives ont été prises pour protéger les données, notamment la limitation de l'utilisation des e-mails et l'exigence de connexions filaires pour le personnel. Aucune intrusion réussie, rançongiciel ou vol de données n'a été confirmé.",
+      "description": "",
+      "title": "Cleveland schools in Texas limit visitors after attempted cyber intrusion",
+      "url": "https://dysruptionhub.com/cleveland-isd-texas-cyber-intrusion/?utm_source=rss",
+      "added": "2026-11-20",
+      "infostealer": {
+        "update": "2026-11-20T07:30:10",
+        "employees": 0,
+        "users": 11,
+        "thirdparties": 39,
+        "employees_url": 0,
+        "users_url": 4,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-11-18",
       "victim": "Skagerak Energi",
@@ -256,6 +279,64 @@
         "thirdparties": 1,
         "employees_url": 0,
         "users_url": 1,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-16",
+      "victim": "Vermont",
+      "domain": "vermont.gov",
+      "country": "US",
+      "summary": "Un incident de cybersécurité possible a affecté le système de dispatch Valcour de CrossWind Technologies dans l'État du Vermont. Les autorités ont mis le système hors ligne par précaution, forçant les agences à utiliser des procédures de secours (papier, radio). Bien que les appels d'urgence 911 n'aient pas été affectés, les services de signalement en ligne ont été interrompus. Une enquête est en cours pour déterminer si un intrus a accédé au système, si un rançongiciel ou un vol de données est impliqué.",
+      "description": "",
+      "title": "Possible cyber incident disrupts CrossWind dispatch system in Vermont",
+      "url": "https://dysruptionhub.com/crosswind-valcour-vermont-cyber-incident/",
+      "added": "2026-11-20",
+      "infostealer": {
+        "update": "2026-11-20T07:30:09",
+        "employees": 2,
+        "users": 542,
+        "thirdparties": 10,
+        "employees_url": 2,
+        "users_url": 100,
+        "last_employee_compromised": "2026-09-07T12:23:59+00:00",
+        "last_user_compromised": "2026-11-13T00:00:00+00:00",
+        "infostealer_stats": {
+          "RedLine": 74,
+          "Vidar": 11,
+          "Lumma": 76,
+          "Generic Stealer": 109,
+          "CRYPTBOT": 2,
+          "UNKNOWN": 3,
+          "StealC": 7,
+          "Acreed": 3,
+          "Atomic": 1,
+          "Azorult": 37,
+          "Raccoon": 42
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-16",
+      "victim": "US Department of Agriculture (USDA)",
+      "domain": "usda.gov",
+      "country": "US",
+      "summary": "Le Département de l'Agriculture des États-Unis (USDA) a été victime d'un incident de cybersécurité qui a forcé de nombreuses applications, y compris les outils financiers gérant les paiements aux agriculteurs, à être hors service pendant plusieurs jours. L'incident a été découvert le lundi 16 novembre 2026. La résolution a nécessité la réinitialisation de tous les mots de passe de base de données dans tous les environnements, ce qui a provoqué des perturbations généralisées et des problèmes de VPN. L'origine de l'intrusion et l'existence d'une exfiltration de données restent inconnues.",
+      "description": "",
+      "title": "US Department of Agriculture Hit By Cyber Incident, Farmer Aid Systems Disrupted",
+      "url": "https://www.timesnownews.com/world/us/us-news/usda-cyberattack-us-department-of-agriculture-cyber-incident-systems-taken-offline-article-156539505",
+      "added": "2026-11-20",
+      "infostealer": {
+        "update": "2026-11-20T07:30:09",
+        "employees": 10,
+        "users": 4438,
+        "thirdparties": 71,
+        "employees_url": 11,
+        "users_url": 100,
         "last_employee_compromised": null,
         "last_user_compromised": null,
         "infostealer_stats": {}
@@ -6841,6 +6922,19 @@
         "last_user_compromised": null,
         "infostealer_stats": {}
       },
+      "ransomware": null
+    },
+    {
+      "date": "2026-08-26",
+      "victim": "Park Dental Partners",
+      "domain": "parkdentalpartners.com",
+      "country": "US",
+      "summary": "Park Dental Partners, une société de services dentaires basée à Roseville (Minnesota), a été victime d'une cyberattaque. L'intrusion a été détectée le 28 août, mais les accès non autorisés datent du 26 et 27 août. L'incident a entraîné l'interruption des soins et l'annulation de rendez-vous pendant environ un jour et demi. Des informations sensibles des patients, incluant noms, dates de naissance, diagnostics et détails d'assurance, ont été exfiltrées. La société a confirmé la fuite de données le 13 octobre et a entamé les notifications aux patients et les démarches auprès des autorités.",
+      "description": "",
+      "title": "Park Dental Partners canceled appointments after cyberattack",
+      "url": "https://dysruptionhub.com/park-dental-cyberattack-appointments/?utm_source=rss",
+      "added": "2026-11-20",
+      "infostealer": "",
       "ransomware": null
     },
     {

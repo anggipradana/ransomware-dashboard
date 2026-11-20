@@ -4,7 +4,7 @@
     "month": null,
     "country": null
   },
-  "count": 4426,
+  "count": 4428,
   "results": [
     {
       "date": "2026-11-19",
@@ -559,6 +559,19 @@
     },
     {
       "date": "2026-11-14",
+      "victim": "Instituto da Mobilidade e dos Transportes (IMT)",
+      "domain": "imt.madeira.gov.pt",
+      "country": "PT",
+      "summary": "L'Instituto da Mobilidade e dos Transportes (IMT) a confirmé avoir été la cible de plusieurs cyberattaques. En raison de l'instabilité et pour protéger l'intégrité de ses systèmes, l'IMT a suspendu temporairement ses services en ligne, qui sont inaccessibles depuis samedi dernier. Cette situation perturbe gravement les professionnels, notamment les conducteurs et les écoles de conduite, en bloquant l'émission de certificats. Les autorités compétentes mènent actuellement une enquête sur l'incident.",
+      "description": "",
+      "title": "Falhas no IMT foram provocadas por ataque informático. Site continua inacessível",
+      "url": "https://www.jn.pt/nacional/artigo/falhas-no-imt-foram-provocadas-por-ataque-informatico-site-continua-inacessivel/18150144",
+      "added": "2026-11-20",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-14",
       "victim": "Contabo",
       "domain": "contabo.com",
       "country": "DE",
@@ -921,6 +934,19 @@
     },
     {
       "date": "2026-11-10",
+      "victim": "DonorPerfect / SofterWare",
+      "domain": "donorperfect.com",
+      "country": "US",
+      "summary": "Une cyberattaque a affecté la plateforme DonorPerfect, gérée par SofterWare, perturbant les efforts de collecte de fonds et les dons en ligne des organisations à but non lucratif. Le service a été mis hors ligne le 10 novembre. Bien que l'accès principal ait été rétabli le 18 novembre, des outils mobiles et certaines intégrations (tels que les formulaires de dons et les API) restent indisponibles. SofterWare n'a pas encore confirmé si des informations clients ont été compromises.",
+      "description": "",
+      "title": "DonorPerfect cyberattack delays year-end fundraising",
+      "url": "https://dysruptionhub.com/donorperfect-cyberattack-fundraising/?utm_source=rss",
+      "added": "2026-11-20",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-10",
       "victim": "Douanes de Lituanie",
       "domain": "muitine.lrv.lt",
       "country": "LT",
@@ -1227,7 +1253,7 @@
       "url": "https://www.infosyvelines.fr/articles/chambourcy-mairie-victime-cyberattaque-services-mode",
       "added": "2026-11-11",
       "infostealer": {
-        "update": "2026-11-11T08:00:12",
+        "update": "2026-11-20T13:57:24.715837",
         "employees": 0,
         "users": 1,
         "thirdparties": 0,
@@ -1237,7 +1263,10 @@
         "last_user_compromised": null,
         "infostealer_stats": {}
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "incransom",
+        "permalink": "https://www.ransomware.live/id/Q0hBTUJPVVJDWUBpbmNyYW5zb20"
+      }
     },
     {
       "date": "2026-11-07",

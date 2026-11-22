@@ -1,6 +1,6 @@
 {
   "filter_type": null,
-  "count": 213,
+  "count": 214,
   "groups": [
     {
       "group": "0apt",
@@ -508,6 +508,15 @@
         "tox": 1,
         "md5": 18,
         "mutex": 8
+      }
+    },
+    {
+      "group": "emperador",
+      "ioc_types": {
+        "session": 5,
+        "tox": 3,
+        "ip": 1,
+        "email": 2
       }
     },
     {

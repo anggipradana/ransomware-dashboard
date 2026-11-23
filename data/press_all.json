@@ -4,8 +4,183 @@
     "month": null,
     "country": null
   },
-  "count": 4428,
+  "count": 4440,
   "results": [
+    {
+      "date": "2026-11-22",
+      "victim": "Netbeat (NetBeat GmbH)",
+      "domain": "netbeat.de",
+      "country": "DE",
+      "summary": "Netbeat, un fournisseur d'hébergement web allemand, a été victime d'une cyberattaque sur une partie de son infrastructure d'hébergement. L'incident a entraîné une fuite de données incluant des informations clients, des données de facturation et potentiellement des accès à des sites web hébergés, ainsi que des clés API. En réponse, Netbeat a mis les serveurs affectés hors ligne temporairement et a procédé au réinitialisation de tous les mots de passe des comptes clients. L'enquête est en cours pour déterminer l'étendue exacte de la compromission.",
+      "description": "",
+      "title": "Cyberangriff auf Hoster netbeat … (22.11.2026)",
+      "url": "https://borncity.com/blog/2026/11/22/cyberangriff-auf-hoster-netbeat-22-11-2026/",
+      "added": "2026-11-23",
+      "infostealer": {
+        "update": "2026-11-23T08:30:10",
+        "employees": 4,
+        "users": 132,
+        "thirdparties": 0,
+        "employees_url": 3,
+        "users_url": 23,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-21",
+      "victim": "Hugendubel",
+      "domain": "hugendubel.de",
+      "country": "DE",
+      "summary": "La chaîne de librairies Hugendubel a été victime d'une cyberattaque qui a mis hors service son site de vente en ligne, son centre de service et ses systèmes de messagerie. L'incident a été découvert le 21 novembre 2026. Bien que les systèmes soient toujours affectés, l'entreprise a confirmé que les données des clients n'ont pas été volées.",
+      "description": "",
+      "title": "Hacker legen Hugendubels Onlineshop nach Cyberangriff lahm",
+      "url": "https://suaragarut.id/de/hacker-angriff-hugendubel-onlineshop",
+      "added": "2026-11-23",
+      "infostealer": {
+        "update": "2026-11-23T10:30:09",
+        "employees": 0,
+        "users": 1589,
+        "thirdparties": 1,
+        "employees_url": 0,
+        "users_url": 69,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-21",
+      "victim": "Cranston Police Department",
+      "domain": "cranstonpoliceri.gov",
+      "country": "US",
+      "summary": "Le Cranston Police Department, dans le Rhode Island, a mis hors service son réseau suite à la détection d'une suspicion d'intrusion cybernétique impliquant une base de données. Les communications essentielles (téléphones et radios) sont restées opérationnelles. Les autorités n'ont pas confirmé qu'un accès réussi à la base de données ait eu lieu, ni que des informations personnelles aient été compromises.",
+      "description": "",
+      "title": "Cranston Police Department in Rhode Island shuts network after suspected cyber intrusion",
+      "url": "https://dysruptionhub.com/cranston-police-suspected-cyber-intrusion/?utm_source=rss",
+      "added": "2026-11-23",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-21",
+      "victim": "Department of Motor Traffic (DMT)",
+      "domain": "dmt.gov.lk",
+      "country": "LK",
+      "summary": "Le site web du Department of Motor Traffic (DMT) a été victime d'une cyberattaque la nuit précédant la publication de l'article. Cependant, l'incident n'a pas affecté les opérations normales au bureau de Narahenpita, et les services continueront sans changement.",
+      "description": "",
+      "title": "Department of Motor Traffic website hit by cyber attack - Newswire",
+      "url": "https://www.newswire.lk/2026/11/22/department-of-motor-traffic-website-hit-by-cyber-attack/",
+      "added": "2026-11-23",
+      "infostealer": {
+        "update": "2026-11-23T08:00:12",
+        "employees": 0,
+        "users": 7,
+        "thirdparties": 1,
+        "employees_url": 0,
+        "users_url": 1,
+        "last_employee_compromised": "1970-01-01T00:00:00+00:00",
+        "last_user_compromised": "2026-03-12T08:10:35+00:00",
+        "infostealer_stats": {
+          "Generic Stealer": 5,
+          "Lumma": 2
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-21",
+      "victim": "CHU de la Guadeloupe",
+      "domain": "chu-guadeloupe.fr",
+      "country": "FR",
+      "summary": "Le CHU de la Guadeloupe a été victime d'une cyberattaque depuis le 21 novembre 2026, perturbant gravement ses services sur ses trois sites (Pointe-à-Pitre, Perrin et Palais Royal aux Abymes). L'attaque a mis hors service le téléphone, l'imagerie et les logiciels, impactant particulièrement le laboratoire et la radiologie. Une cellule de crise a été activée et des échanges ont eu lieu avec l'ANSSI. La direction a dû déprogrammer les activités non urgentes, car la situation est jugée très grave et la remise en service complète des systèmes est attendue progressivement à partir de la fin de la semaine.",
+      "description": "",
+      "title": "Le CHU de Guadeloupe victime d'une cyberattaque, une cellule de crise déclenchée",
+      "url": "https://rci.fm/guadeloupe/infos/Sante/Le-CHU-de-Guadeloupe-victime-dune-cyberattaque-une-cellule-de-crise-declenchee",
+      "added": "2026-11-23",
+      "infostealer": {
+        "update": "2026-11-23T07:30:08",
+        "employees": 20,
+        "users": 7,
+        "thirdparties": 7,
+        "employees_url": 8,
+        "users_url": 19,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-20",
+      "victim": "FBI",
+      "domain": "fbi.gov",
+      "country": "US",
+      "summary": "Une base de données criminelle nationale du FBI (NCIC) a été compromise par des hackers présumés. L'incident est en cours d'investigation par l'agence. Cette intrusion survient dans un contexte de préoccupations accrues concernant la cybersécurité nationale, et a suscité des commentaires politiques de la part de Donald Trump.",
+      "description": "",
+      "title": "Trump downplays breach into FBI’s crime database while reviving complaints about agency’s Russia probe | CNN Politics",
+      "url": "https://edition.cnn.com/2026/11/20/politics/fbi-hacked-again-target-crime-database",
+      "added": "2026-11-23",
+      "infostealer": {
+        "update": "2025-12-12T22:10:15",
+        "employees": 25,
+        "users": 27,
+        "thirdparties": 65,
+        "employees_url": 9,
+        "users_url": 7,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {
+          "RedLine": 20,
+          "Generic Stealer": 15,
+          "Lumma": 7,
+          "Azorult": 4
+        }
+      },
+      "ransomware": {
+        "group": "obscura",
+        "permalink": "https://www.ransomware.live/id/TmV3IE9ic2N1cmEgMi4wIUBvYnNjdXJh"
+      }
+    },
+    {
+      "date": "2026-11-20",
+      "victim": "Peninsula Energy",
+      "domain": "peninsula-energy.com",
+      "country": "US",
+      "summary": "Peninsula Energy a été victime d'un incident de cybersécurité affectant le système d'exploitation de son projet d'uranium Lance dans le Wyoming. L'incident, survenu le vendredi, a provoqué une perturbation opérationnelle temporaire pendant que l'entreprise menait une enquête. La compagnie a précisé que la brèche était limitée aux systèmes opérationnels et que les systèmes administratifs aux États-Unis et en Australie n'ont pas été compromis. L'impact quantitatif et les responsables de l'attaque n'ont pas été identifiés.",
+      "description": "",
+      "title": "Peninsula Energy warns of disruption after Wyoming cyber incident",
+      "url": "https://dysruptionhub.com/peninsula-energy-wyoming-cyber-incident/",
+      "added": "2026-11-23",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-19",
+      "victim": "Législature de Virginie-Occident",
+      "domain": "wv.gov",
+      "country": "US",
+      "summary": "La Législature de Virginie-Occident a été victime d'un incident de cybersécurité qui a perturbé son système informatique et rendu son site web indisponible. Des spécialistes externes ont aidé le personnel à contenir et à enquêter sur l'incident. Les autorités n'ont pas encore identifié la cause technique, ni confirmé un vol de données ou un groupe responsable. L'enquête est toujours en cours.",
+      "description": "",
+      "title": "Cybersecurity incident disrupts West Virginia Legislature website",
+      "url": "https://dysruptionhub.com/west-virginia-legislature-cybersecurity-website/",
+      "added": "2026-11-23",
+      "infostealer": {
+        "update": "2026-11-23T08:00:13",
+        "employees": 43,
+        "users": 442,
+        "thirdparties": 55,
+        "employees_url": 7,
+        "users_url": 61,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-11-19",
       "victim": "Cleveland Independent School District",
@@ -559,6 +734,46 @@
     },
     {
       "date": "2026-11-14",
+      "victim": "The Container Store",
+      "domain": "containerstore.com",
+      "country": "US",
+      "summary": "Le site web et les systèmes de The Container Store ont été la cible d'une cyberattaque le week-end du 14 au 15 novembre 2026. L'entreprise a suspendu temporairement les commandes en ligne et a restauré ses systèmes. Elle affirme que les données financières des clients n'ont pas été compromises, car The Container Store ne stocke pas ces informations.",
+      "description": "",
+      "title": "The Container Store back online after cyber attack - Home Furnishings News",
+      "url": "https://www.hfndigital.com/industry-news/the-container-store-back-online-after-cyber-attack/",
+      "added": "2026-11-23",
+      "infostealer": {
+        "update": "2026-11-23T08:00:11",
+        "employees": 3,
+        "users": 1618,
+        "thirdparties": 2,
+        "employees_url": 3,
+        "users_url": 58,
+        "last_employee_compromised": "2025-06-07T15:20:17+00:00",
+        "last_user_compromised": "2026-11-19T23:32:48+00:00",
+        "infostealer_stats": {
+          "UNKNOWN": 24,
+          "RedLine": 289,
+          "Remus": 17,
+          "Acreed": 77,
+          "Generic Stealer": 619,
+          "Vidar": 38,
+          "Mystic": 3,
+          "Aura Stealer": 1,
+          "Warden Stealer": 7,
+          "Raccoon": 87,
+          "CRYPTBOT": 1,
+          "Azorult": 168,
+          "Atomic": 10,
+          "Lumma": 222,
+          "StealC": 18,
+          "DarkCrystal": 1
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-14",
       "victim": "Instituto da Mobilidade e dos Transportes (IMT)",
       "domain": "imt.madeira.gov.pt",
       "country": "PT",
@@ -638,6 +853,64 @@
         "group": "direwolf",
         "permalink": "https://www.ransomware.live/id/SG9zcGl0YWwgQ2xuaWNvIFVuaXZlcnNpZGFkIGRlIENoaWxlQGRpcmV3b2xm"
       }
+    },
+    {
+      "date": "2026-11-13",
+      "victim": "Tribunaux de King County (Superior et District)",
+      "domain": "kingcounty.gov",
+      "country": "US",
+      "summary": "Les tribunaux de King County (Superior et District) ont été victimes d'une cyberattaque impliquant une vulnérabilité critique dans leur système de gestion des dossiers et des paiements en ligne. L'incident a été confirmé par le fournisseur de technologie cloud, Journal Technologies, le 13 novembre 2026. Malgré les avertissements, les responsables du comté ont publiquement attribué la panne à une « maintenance » ou à des « problèmes techniques » pendant au moins une semaine, induisant le public en erreur. Les portails de dépôt et d'enregistrement en ligne sont restés hors service pendant au moins 16 jours, impactant environ 3 millions de résidents du comté.",
+      "description": "",
+      "title": "Portal holding sensitive records remains offline over Holidays - Court officials repeatedly blamed “Maintenance” despite cyberattack warning",
+      "url": "https://www.westsideseattle.com/robinson-papers/2026/11/21/portal-holding-sensitive-records-remains-offline-over-holidays-court",
+      "added": "2026-11-23",
+      "infostealer": {
+        "update": "2026-07-25T10:53:58",
+        "employees": 19,
+        "users": 480,
+        "thirdparties": 24,
+        "employees_url": 15,
+        "users_url": 86,
+        "last_employee_compromised": "2026-03-14T23:58:00+00:00",
+        "last_user_compromised": "2026-07-22T00:00:00+00:00",
+        "infostealer_stats": {
+          "Vidar": 13,
+          "Atomic": 2,
+          "CRYPTBOT": 1,
+          "Raccoon": 48,
+          "UNKNOWN": 3,
+          "Lumma": 80,
+          "Generic Stealer": 126,
+          "StealC": 8,
+          "Azorult": 27,
+          "RedLine": 96,
+          "Acreed": 2
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-13",
+      "victim": "Nissan",
+      "domain": "nissan.com",
+      "country": "JP",
+      "summary": "Nissan a dû désactiver sa système de diagnostic mondial suite à une intrusion non autorisée. Cette cyberattaque empêche les concessionnaires du monde entier de réaliser des réparations cruciales, telles que la reprogrammation des blocs de commande (ECU) ou la création de clés. Le problème a débuté le 13 novembre et n'était pas résolu au 20 novembre.",
+      "description": "",
+      "title": "Кібератака на Nissan: автовиробник вимкнув глобальну систему діагностики - reNews",
+      "url": "https://renews.com.ua/tehnologiyi/kiberataka-na-nissan-avtovirobnik-vimknyv-globalny-sistemy-diagnostiki/",
+      "added": "2026-11-23",
+      "infostealer": {
+        "update": "2026-11-23T08:00:09",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 18,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
     },
     {
       "date": "2026-11-13",
@@ -1055,6 +1328,31 @@
           "Vidar": 3,
           "Lumma": 9,
           "racoon": 6
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-09",
+      "victim": "East-West Center",
+      "domain": "eastwestcenter.org",
+      "country": "US",
+      "summary": "Le East-West Center, situé à Honolulu, Hawaï, a été victime d'un incident de cybersécurité ayant rendu sa base de données d'inscription des participants hors ligne. L'institution a notifié les participants et anciens élèves le 9 novembre 2026 et a proposé deux ans de surveillance de crédit gratuite en précaution. L'enquête est toujours en cours et la base de données reste inaccessible. Le centre n'a pas trouvé de preuve que la compromission des données ait entraîné une utilisation réelle des dossiers personnels.",
+      "description": "",
+      "title": "East-West Center cyber incident leaves Hawaii database offline",
+      "url": "https://dysruptionhub.com/east-west-center-hawaii-cyber-incident-database/",
+      "added": "2026-11-23",
+      "infostealer": {
+        "update": "2026-11-23T08:00:10",
+        "employees": 0,
+        "users": 2,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 2,
+        "last_employee_compromised": "1970-01-01T00:00:00+00:00",
+        "last_user_compromised": "2024-08-27T19:44:54+00:00",
+        "infostealer_stats": {
+          "Lumma": 1
         }
       },
       "ransomware": null

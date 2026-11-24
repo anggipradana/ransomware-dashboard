@@ -4,8 +4,137 @@
     "month": null,
     "country": null
   },
-  "count": 4443,
+  "count": 4449,
   "results": [
+    {
+      "date": "2026-11-24",
+      "victim": "Police israélienne",
+      "domain": "gov.il",
+      "country": "IL",
+      "summary": "La police israélienne a pris des mesures préventives en suspendant tous ses applications de messagerie et de communication interne, craignant des fuites d'informations sensibles. Cette décision a désorienté les forces de l'ordre, obligeant environ 100 000 agents à changer leurs mots de passe. Les autorités enquêtent pour déterminer si l'incident est dû à une cyberattaque délibérée ou à un dysfonctionnement technique. L'application 'Misseronet', plateforme centrale de communication, est l'un des systèmes les plus touchés. Cet incident survient dans un contexte de nombreuses cyberattaques ciblant Israël, dont des attaques attribuées à l'Iran et des groupes de pirates internationaux.",
+      "description": "",
+      "title": "مخاوف من اختراق سيبراني.. الشرطة الإسرائيلية تعطل تطبيقات الاتصال وتربك عناصرها",
+      "url": "https://www.newsroom.info/488489",
+      "added": "2026-11-24",
+      "infostealer": {
+        "update": "2026-11-24T16:30:09",
+        "employees": 21,
+        "users": 2898,
+        "thirdparties": 6,
+        "employees_url": 13,
+        "users_url": 100,
+        "last_employee_compromised": "2021-02-27T21:25:06+00:00",
+        "last_user_compromised": "2026-04-22T08:34:53+00:00",
+        "infostealer_stats": {
+          "Generic Stealer": 2,
+          "StealC": 1
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-24",
+      "victim": "Allied Media",
+      "domain": "alliedmedia.co.nz",
+      "country": "NZ",
+      "summary": "Le Centre national de cybersécurité de Nouvelle-Zélande a signalé que l'intelligence artificielle accélère la vitesse et l'ampleur des cybermenaces. Plusieurs journaux du groupe Allied Media, dont l'Otago Daily Times, ont été touchés par une cyberattaque qui a perturbé leurs systèmes de production. Les journaux prévus pour mercredi ont été retardés. Le Centre a également noté une augmentation des incidents de cybersécurité, atteignant le plus haut total trimestriel en deux ans, et a identifié les acteurs étatiques internationaux, notamment la Chine, la Russie et l'Iran, comme des menaces documentées.",
+      "description": "",
+      "title": "Newspapers delayed as Allied Media hit by cyber attack",
+      "url": "https://www.rnz.co.nz/news/business_media/2762284/newspapers-delayed-as-allied-media-hit-by-cyber-attack",
+      "added": "2026-11-24",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-24",
+      "victim": "TV9 Telugu",
+      "domain": "tv9telugu.com",
+      "country": "IN",
+      "summary": "Une attaque majeure a frappé une importante maison de médias Telugu, entraînant des dommages sur les ordinateurs, les banques de données et les disques durs, ce qui a paralysé ses opérations. Bien que certains soupçonnent une conspiration ou une implication interne, des experts en logiciels soulignent la nécessité de renforcer la sécurité réseau, d'utiliser des logiciels sous licence et des sauvegardes cloud pour prévenir de tels incidents.",
+      "description": "",
+      "title": "Cyber Attack On Media House, But… | Cyber Attack On Media House, But…",
+      "url": "https://english.tupaki.com/entertainment/cyber-attack-disrupts-telugu-media-house-1516593",
+      "added": "2026-11-24",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-23",
+      "victim": "Agência para a Energia (ADENE)",
+      "domain": "adene.pt",
+      "country": "PT",
+      "summary": "L'Agence espagnole de l'Énergia (ADENE) a été victime d'une intrusion non autorisée dans ses systèmes informatiques. En réponse, l'agence a activé son plan de réponse aux incidents et a isolé les systèmes affectés. Par précaution, le Système de Certification Énergétique des Bâtiments (SCE) et son portail sont temporairement indisponibles. La nature et l'étendue de l'intrusion, y compris une éventuelle fuite de données personnelles, sont actuellement sous enquête avec l'aide d'experts indépendants. L'incident a été notifié au Centre National de Cybersécurité (CNCS) et à la Police Judiciaire. ADENE prévient le public de tentatives de fraude liées à cet incident et prévoit de fournir une mise à jour le mardi 24 novembre 2026.",
+      "description": "",
+      "title": "ADENE sofre ataque informático e Portal do Sistema de Certificação Energética está temporariamente indisponível | Jornal Económico",
+      "url": "https://jornaleconomico.sapo.pt/noticias/adene-sofre-ataque-informatico-e-portal-do-sistema-de-certificacao-energetica-esta-temporariamente-indisponivel/",
+      "added": "2026-11-24",
+      "infostealer": {
+        "update": "2026-11-24T09:00:10",
+        "employees": 63,
+        "users": 154,
+        "thirdparties": 6,
+        "employees_url": 4,
+        "users_url": 15,
+        "last_employee_compromised": "2026-10-02T10:30:20+00:00",
+        "last_user_compromised": "2026-09-01T00:00:00+00:00",
+        "infostealer_stats": {
+          "RedLine": 75,
+          "Acreed": 1,
+          "Generic Stealer": 46,
+          "Lumma": 52,
+          "Mystic": 1,
+          "Azorult": 2,
+          "Vidar": 5,
+          "StealC": 14,
+          "Raccoon": 16,
+          "UNKNOWN": 2
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-22",
+      "victim": "Lauderdale County Sheriff's Office",
+      "domain": "lauderdalesheriff.org",
+      "country": "US",
+      "summary": "Le bureau du shérif du comté de Lauderdale, dans le Mississippi, a signalé un incident de cybersécurité survenu le week-end, qui a mis hors service plusieurs systèmes informatiques. Cet incident a perturbé l'accès aux programmes et a soulevé des inquiétudes quant à l'exactitude de la liste des détenus, qui pourrait ne pas refléter les informations les plus récentes. Les autorités n'ont pas précisé la cause ou la méthode de l'attaque, ni les programmes spécifiques affectés.",
+      "description": "",
+      "title": "Cyber incident disrupts Lauderdale County Sheriff's Office systems in Mississippi",
+      "url": "https://dysruptionhub.com/lauderdale-county-sheriff-mississippi-cyber-incident/?utm_source=rss",
+      "added": "2026-11-24",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-22",
+      "victim": "Quimper",
+      "domain": "quimper.bzh",
+      "country": "FR",
+      "summary": "La ville de Quimper et Quimper Bretagne Occidentale sont actuellement victimes d'une cyberattaque. Des mesures de sécurité ont été activées pour limiter les conséquences sur les services municipaux et communautaires. Bien que le système d'information interne soit perturbé, les services publics restent assurés, même si les délais de traitement des demandes peuvent être impactés. L'incident a été signalé à l'Agence nationale de la sécurité des systèmes d'information et des experts sont mobilisés.",
+      "description": "",
+      "title": "Cyberattaque contre Quimper Bretagne Occidentale et la ville de Quimper : Les services mobilisés pour rétablir les systèmes impactés",
+      "url": "https://www.quimper.bzh/actualite/52991/3-cyberattaque-contre-quimper-bretagne-occidentale-et-la-ville-de-quimper-les-services-mobilises-pour-retablir-les-systemes-impactes.htm",
+      "added": "2026-11-24",
+      "infostealer": {
+        "update": "2026-11-24T09:30:08",
+        "employees": 0,
+        "users": 8,
+        "thirdparties": 4,
+        "employees_url": 0,
+        "users_url": 12,
+        "last_employee_compromised": "1970-01-01T00:00:00+00:00",
+        "last_user_compromised": "2025-06-02T14:38:26+00:00",
+        "infostealer_stats": {
+          "Vidar": 1,
+          "StealC": 1,
+          "Raccoon": 1,
+          "Azorult": 1,
+          "Lumma": 1,
+          "Generic Stealer": 2
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-11-22",
       "victim": "Suzlon Energy",
@@ -1574,7 +1703,10 @@
           "Generic Stealer": 6
         }
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "thegentlemen",
+        "permalink": "https://www.ransomware.live/id/U3RhZHR3ZXJrZSBBY2hpbSBBR0B0aGVnZW50bGVtZW4"
+      }
     },
     {
       "date": "2026-11-08",
@@ -1857,7 +1989,10 @@
         "last_user_compromised": null,
         "infostealer_stats": {}
       },
-      "ransomware": null
+      "ransomware": {
+        "group": "thegentlemen",
+        "permalink": "https://www.ransomware.live/id/UXVlZW5zIFB1YmxpYyBMaWJyYXJ5QHRoZWdlbnRsZW1lbg"
+      }
     },
     {
       "date": "2026-11-04",

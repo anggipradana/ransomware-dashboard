@@ -4,8 +4,99 @@
     "month": null,
     "country": null
   },
-  "count": 4449,
+  "count": 4462,
   "results": [
+    {
+      "date": "2026-11-25",
+      "victim": "RNZ",
+      "domain": "rnz.co.nz",
+      "country": "NZ",
+      "summary": "RNZ, un diffuseur public, a été victime d'une cyberattaque présumée qui a interrompu l'accès à certains systèmes éditoriaux et services en ligne. Les équipes techniques de RNZ ont identifié une activité inhabituelle dans l'un de leurs systèmes, et l'organisation est actuellement en cours d'investigation.",
+      "description": "",
+      "title": "RNZ hit by apparent cyber attack",
+      "url": "https://www.rnz.co.nz/national/programmes/checkpoint/audio/2019061411/rnz-hit-by-apparent-cyber-attack",
+      "added": "2026-11-25",
+      "infostealer": {
+        "update": "2026-11-25T11:00:11",
+        "employees": 0,
+        "users": 3,
+        "thirdparties": 1,
+        "employees_url": 0,
+        "users_url": 2,
+        "last_employee_compromised": "1970-01-01T00:00:00+00:00",
+        "last_user_compromised": "2025-02-26T23:07:42+00:00",
+        "infostealer_stats": {
+          "Generic Stealer": 1,
+          "Lumma": 1
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-25",
+      "victim": "ABL Bio",
+      "domain": "ablbio.com",
+      "country": "KR",
+      "summary": "La société ABL Bio a signalé à ses autorités l'allégation d'une attaque par rançongiciel menée par un groupe étranger. Les vérifications internes ont indiqué que les systèmes de l'entreprise et les activités de recherche et développement (R&D) n'ont pas été affectés, suggérant que l'incident pourrait être lié à des comptes personnels.",
+      "description": "",
+      "title": "에이비엘바이오, 해외 랜섬웨어 공격에 촉각…“핵심 연구자산 안전”",
+      "url": "https://m.megaeconomy.co.kr/news/amp.html?ncode=1065594360323198",
+      "added": "2026-11-25",
+      "infostealer": "",
+      "ransomware": {
+        "group": "everest",
+        "permalink": "https://www.ransomware.live/id/QUJMIEJpb0BldmVyZXN0"
+      }
+    },
+    {
+      "date": "2026-11-24",
+      "victim": "Quirónsalud",
+      "domain": "quironsalud.com",
+      "country": "ES",
+      "summary": "Quirónsalud a été victime d'une cyberattaque utilisant l'intelligence artificielle (ARTEX AI) qui a entraîné le vol des adresses e-mail de patients de la santé publique de Madrid. L'entreprise a avertit les utilisateurs, notamment ceux du Hospital General de Villalba, de ce risque de usurpation d'identité et les a obligés à réinitialiser leurs mots de passe. Quirónsalud a précisé que le vol concerne les adresses e-mail et non les dossiers médicaux, car le portail concerné ne contient pas de données cliniques. L'incident a été notifié à l'Agence Espagnole de Protection des Données (AEPD).",
+      "description": "",
+      "title": "Quirónsalud sufre un ciberataque con IA que roba correos de pacientes en Madrid",
+      "url": "https://bilbaohiria.com/actualidad/ciberataque-quironsalud-ia-correos-pacientes-madrid/",
+      "added": "2026-11-25",
+      "infostealer": {
+        "update": "2026-08-10T18:57:05",
+        "employees": 25,
+        "users": 4523,
+        "thirdparties": 51,
+        "employees_url": 7,
+        "users_url": 100,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "direwolf",
+        "permalink": "https://www.ransomware.live/id/UXVpcm9uc2FsdWRAZGlyZXdvbGY"
+      }
+    },
+    {
+      "date": "2026-11-24",
+      "victim": "Shelby County",
+      "domain": "shelby.in.us",
+      "country": "US",
+      "summary": "Le gouvernement du comté de Shelby, situé dans l'Indiana, a mis hors service des serveurs utilisés par plusieurs départements suite à un incident présumé de cybersécurité. Les équipes informatiques ont procédé à la reconstruction de ces serveurs le mardi. Les anomalies ont été remarquées vendredi, et bien que l'incident soit décrit comme une tentative d'attaque, la cause exacte des perturbations n'a pas été identifiée. Les autorités ont également indiqué qu'aucune information n'a été compromise.",
+      "description": "",
+      "title": "Shelby County Government in Indiana shuts down servers after suspected cyber incident",
+      "url": "https://dysruptionhub.com/shelby-county-government-indiana-suspected-cyber-incident/",
+      "added": "2026-11-25",
+      "infostealer": {
+        "update": "2026-11-25T10:30:09",
+        "employees": 0,
+        "users": 4,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 2,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-11-24",
       "victim": "Police israélienne",
@@ -55,6 +146,122 @@
       "title": "Cyber Attack On Media House, But… | Cyber Attack On Media House, But…",
       "url": "https://english.tupaki.com/entertainment/cyber-attack-disrupts-telugu-media-house-1516593",
       "added": "2026-11-24",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-23",
+      "victim": "K-tuin",
+      "domain": "okdiario.com",
+      "country": "ES",
+      "summary": "Les magasins K-tuin, situés à Palma, en Majorque, ont été victimes d'une cyberattaque qui a entraîné le vol de milliers de données clients. L'incident a été détecté le lundi 23 novembre. Les données potentiellement compromises incluent le nom, prénom, numéro de téléphone, DNI/CIF/NIE, pays, province, code postal, adresse e-mail et date d'inscription. Les informations relatives aux commandes en ligne, telles que le numéro, la date, les noms de facturation et d'expédition, les montants, l'état et les méthodes de paiement, sont également affectées. K-tuin assure que les données bancaires et les cartes de paiement n'ont pas été compromises, mais recommande aux clients de rester vigilants contre l'usurpation d'identité et les communications frauduleuses.",
+      "description": "",
+      "title": "Las tiendas de referencia de Apple en Mallorca sufren un ciberataque con robo de miles de datos de clientes",
+      "url": "https://okdiario.com/baleares/tiendas-referencia-apple-mallorca-sufren-ciberataque-robo-miles-datos-clientes-21262024",
+      "added": "2026-11-25",
+      "infostealer": {
+        "update": "2026-11-25T13:30:10",
+        "employees": 0,
+        "users": 66,
+        "thirdparties": 3,
+        "employees_url": 0,
+        "users_url": 23,
+        "last_employee_compromised": "1970-01-01T00:00:00+00:00",
+        "last_user_compromised": "2026-10-13T19:59:10+00:00",
+        "infostealer_stats": {
+          "Raccoon": 3,
+          "Atomic": 1,
+          "Generic Stealer": 8,
+          "RedLine": 6,
+          "Lumma": 16,
+          "StealC": 4
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-23",
+      "victim": "CIA",
+      "domain": "cia.gov",
+      "country": "US",
+      "summary": "A cyberattack has compromised unclassified information from the open-source intelligence analysis systems of the Central Intelligence Agency (CIA) and the Office of the Director of National Intelligence (ODNI). The intrusion is reported to involve the AI-powered tool ARTEX and has been linked to potential Chinese origin.",
+      "description": "",
+      "title": "nytimes.com",
+      "url": "https://www.nytimes.com/2026/11/24/us/politics/spy-agencies-computer-network-breaches.html",
+      "added": "2026-11-25",
+      "infostealer": {
+        "update": "2026-11-25T12:30:08",
+        "employees": 0,
+        "users": 587,
+        "thirdparties": 19,
+        "employees_url": 0,
+        "users_url": 33,
+        "last_employee_compromised": "1970-01-01T00:00:00+00:00",
+        "last_user_compromised": "2026-11-19T23:32:48+00:00",
+        "infostealer_stats": {
+          "CRYPTBOT": 2,
+          "Vidar": 19,
+          "Raccoon": 62,
+          "UNKNOWN": 6,
+          "Lumma": 56,
+          "StealC": 17,
+          "Generic Stealer": 133,
+          "Predator": 2,
+          "Azorult": 41,
+          "RedLine": 162,
+          "Acreed": 1,
+          "Atomic": 4
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-23",
+      "victim": "Banco do Nordeste",
+      "domain": "bnb.gov.br",
+      "country": "BR",
+      "summary": "Le Banco do Nordeste a identifié une tentative d'attaque cybernétique le 23 novembre 2026. En réponse, l'institution a mis en place des mesures de confinement et de protection de ses systèmes, restreignant temporairement l'accès à certains canaux numériques. À ce jour, aucun préjudice financier ni fuite de données n'a été rapporté. Les équipes travaillent à la normalisation des services.",
+      "description": "",
+      "title": "Banco do Nordeste adota medidas de segurança para os seus canais digitais",
+      "url": "https://www.bnb.gov.br/web/guest/imprensa/noticias/-/asset_publisher/QGdgGhxvRtMv/content/banco-do-nordeste-adota-medidas-de-segurança-para-os-seus-canais-digitais/44540",
+      "added": "2026-11-25",
+      "infostealer": {
+        "update": "2026-11-25T12:00:12",
+        "employees": 88,
+        "users": 3101,
+        "thirdparties": 169,
+        "employees_url": 27,
+        "users_url": 100,
+        "last_employee_compromised": "2026-11-16T00:00:00+00:00",
+        "last_user_compromised": "2026-11-16T06:40:32+00:00",
+        "infostealer_stats": {
+          "UNKNOWN": 40,
+          "CRYPTBOT": 1,
+          "Aura Stealer": 1,
+          "RedLine": 993,
+          "Azorult": 10,
+          "StealC": 128,
+          "Mystic": 6,
+          "Vidar": 61,
+          "Raccoon": 303,
+          "Lumma": 690,
+          "Generic Stealer": 421,
+          "DarkCrystal": 2,
+          "Acreed": 10
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-23",
+      "victim": "Buttenheim",
+      "domain": "buttenheim.de",
+      "country": "DE",
+      "summary": "La municipalité de Buttenheim a été victime d'une cyberattaque qui a paralysé ses systèmes informatiques. La maire, Auer-Neuberg, a confirmé qu'une fuite de données a eu lieu lors de cet incident.",
+      "description": "",
+      "title": "Cyberattacke auf Rathaus Buttenheim: Was bisher bekannt ist",
+      "url": "https://www.fraenkischertag.de/lokales/bamberg/blaulicht/rathaus-buttenheim-gehackt-was-buerger-wissen-muessen-art-605531",
+      "added": "2026-11-25",
       "infostealer": "",
       "ransomware": null
     },
@@ -276,6 +483,38 @@
         "last_employee_compromised": null,
         "last_user_compromised": null,
         "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-20",
+      "victim": "Systematic",
+      "domain": "systematic.com",
+      "country": "DK",
+      "summary": "La société Systematic a été victime d'une cyberattaque la semaine dernière. Les systèmes internes ont détecté l'incident, entraînant la coupure préventive des systèmes et de l'accès à Internet. Les attaquants n'ont réussi à accéder qu'à un environnement de test, et aucune donnée client n'a été affectée. L'incident a été signalé à la police, au Service de Sécurité et de Renseignement Danois (PET) et au Centre danois pour la cybersécurité. Les opérations sont revenues à la normale.",
+      "description": "",
+      "title": "Last week, Systematic was subject to a cyberattack. Our internal systems effectively detected the attack, and we quickly shut down systems and internet access at our offices as a precaution, while we… | Systematic",
+      "url": "https://www.linkedin.com/posts/systematic-logo-share-7531023916836765696-l90x/",
+      "added": "2026-11-25",
+      "infostealer": {
+        "update": "2026-11-25T12:00:11",
+        "employees": 13,
+        "users": 148,
+        "thirdparties": 9,
+        "employees_url": 5,
+        "users_url": 34,
+        "last_employee_compromised": "2024-01-12T15:28:31+00:00",
+        "last_user_compromised": "2026-10-14T07:39:42+00:00",
+        "infostealer_stats": {
+          "Acreed": 1,
+          "RedLine": 44,
+          "Lumma": 38,
+          "Raccoon": 6,
+          "Generic Stealer": 35,
+          "StealC": 4,
+          "UNKNOWN": 1,
+          "Vidar": 4
+        }
       },
       "ransomware": null
     },
@@ -515,6 +754,19 @@
     },
     {
       "date": "2026-11-17",
+      "victim": "Bington Steel",
+      "domain": "byingtonsteel.com",
+      "country": "US",
+      "summary": "Le groupe Kyoei Steel a annoncé que sa filiale américaine, Bington Steel, a été victime d'une cyberattaque. L'incident a été détecté le 17 novembre (heure japonaise) et les dommages se sont aggravés les 18 et 19 novembre. Les attaquants ont accédé au système d'information de Bington Steel, ont pris le contrôle des comptes administrateurs et ont modifié des identifiants et des mots de passe. Bien que l'accès au réseau interne et aux fichiers partagés soit perturbé et que la récupération soit en cours, aucune fuite de données n'a été confirmée à ce jour. L'impact direct sur l'expédition des produits et le fonctionnement des usines n'est pas rapporté.",
+      "description": "",
+      "title": "共英製鋼の米国子会社にサイバー攻撃 情報漏洩は「現時点で確認されず」 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUF256JO0V21C26A1000000/",
+      "added": "2026-11-25",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-17",
       "victim": "Superhosting",
       "domain": "superhosting.bg",
       "country": "BG",
@@ -645,6 +897,43 @@
         "last_employee_compromised": null,
         "last_user_compromised": null,
         "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-16",
+      "victim": "LaLiga",
+      "domain": "laliga.com",
+      "country": "ES",
+      "summary": "LaLiga a annoncé qu'une cyberattaque a entraîné l'extraction de données personnelles de l'une de ses plateformes numériques. La fuite, qui a eu lieu entre le 14 et le 16 novembre, a affecté des données de supporters et des informations relatives aux clubs. L'incident a été signalé à l'Agence espagnole de protection des données et à la Police nationale. LaLiga a pris connaissance de l'attaque le 16 novembre et a renforcé la surveillance de ses services numériques.",
+      "description": "",
+      "title": "Des données personnelles du site internet de LaLiga extraites lors d'une cyberattaque | Flashscore.fr",
+      "url": "https://www.flashscore.fr/actualites/des-donnees-personnelles-du-site-internet-de-laliga-extraites-lors-d-une-cyberattaque/KAvHhdGE/",
+      "added": "2026-11-25",
+      "infostealer": {
+        "update": "2026-11-25T13:30:09",
+        "employees": 0,
+        "users": 1764,
+        "thirdparties": 2,
+        "employees_url": 0,
+        "users_url": 95,
+        "last_employee_compromised": "1970-01-01T00:00:00+00:00",
+        "last_user_compromised": "2026-11-21T00:00:00+00:00",
+        "infostealer_stats": {
+          "StealC": 101,
+          "RedLine": 474,
+          "Acreed": 5,
+          "Mystic": 4,
+          "Atomic": 2,
+          "CRYPTBOT": 1,
+          "Vidar": 55,
+          "Raccoon": 83,
+          "DarkCrystal": 1,
+          "Azorult": 5,
+          "Lumma": 374,
+          "Generic Stealer": 273,
+          "UNKNOWN": 9
+        }
       },
       "ransomware": null
     },
@@ -2986,6 +3275,41 @@
     },
     {
       "date": "2026-10-24",
+      "victim": "Old Dominion University",
+      "domain": "odu.edu",
+      "country": "US",
+      "summary": "L'Old Dominion University, située en Virginie, a mis hors service son outil de sondage et d'inscription suite à un incident de cybersécurité impliquant un accès non autorisé à ses données. L'université a pris connaissance du possible vol de données vers le 24 octobre et a notifié les autorités fédérales, dont le FBI. Le groupe de ransomware Qilin a affirmé avoir volé des données universitaires et a menacé de les publier. Les réponses aux sondages et aux événements ont pu contenir des informations personnelles telles que noms, adresses ou dates de naissance. Les personnes concernées peuvent bénéficier d'un suivi d'identité gratuit jusqu'au 26 février 2027.",
+      "description": "",
+      "title": "Old Dominion University in Virginia takes survey tool offline after cyber incident",
+      "url": "https://dysruptionhub.com/old-dominion-university-survey-rsvp-cyber-incident-virginia/",
+      "added": "2026-11-25",
+      "infostealer": {
+        "update": "2026-11-24T14:39:17",
+        "employees": 91,
+        "users": 651,
+        "thirdparties": 369,
+        "employees_url": 16,
+        "users_url": 100,
+        "last_employee_compromised": "2026-07-30T12:54:17.912000+00:00",
+        "last_user_compromised": "2026-11-19T23:32:48+00:00",
+        "infostealer_stats": {
+          "Vidar": 23,
+          "Lumma": 80,
+          "Generic Stealer": 124,
+          "UNKNOWN": 9,
+          "StealC": 13,
+          "Ficker": 1,
+          "RedLine": 174,
+          "Raccoon": 51,
+          "Taurus": 1,
+          "DarkCrystal": 10,
+          "Azorult": 48
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-10-24",
       "victim": "TG-iPASS (Gouvernement de Telangana)",
       "domain": "ipass.telangana.gov.in",
       "country": "IN",
@@ -5021,6 +5345,19 @@
       "title": "City of Radford experiencing internet outage after possible ‘data incident’",
       "url": "https://www.wsls.com/news/local/2026/09/30/city-of-radford-experiencing-internet-outage-after-possible-data-incident/",
       "added": "2026-09-30",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-09-27",
+      "victim": "Ville d'El Cajon",
+      "domain": "elcajon.gov",
+      "country": "US",
+      "summary": "La ville d'El Cajon a subi une brèche de sécurité informatique qui a potentiellement exposé des informations sensibles, incluant des données de santé, des informations financières et l'identité d'agents de police en couverture. Le gestionnaire de la ville, Graham Mitchell, a confirmé cet incident de sécurité réseau le 27 septembre. Un ensemble de données de près de huit téraoctets, comprenant des fiches W-2 des employés, des enregistrements d'appels 911 et des listes d'agents en couverture, a été retrouvé sur un site de fuite de rançongiciel. Le groupe de rançongiciel Rhysida a revendiqué le vol. Les experts en cybersécurité soulignent que les municipalités sont des cibles privilégiées en raison de la quantité de données qu'elles stockent.",
+      "description": "",
+      "title": "Suspected cyberattack targets City of El Cajon",
+      "url": "https://www.nbcsandiego.com/news/local/suspected-cyberattack-targets-city-el-cajon/4105754/",
+      "added": "2026-11-25",
       "infostealer": "",
       "ransomware": null
     },

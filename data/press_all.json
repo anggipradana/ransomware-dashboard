@@ -4,8 +4,31 @@
     "month": null,
     "country": null
   },
-  "count": 4462,
+  "count": 4468,
   "results": [
+    {
+      "date": "2026-11-25",
+      "victim": "Financial Crimes Enforcement Network (FinCEN)",
+      "domain": "fincen.gov",
+      "country": "US",
+      "summary": "Le Financial Crimes Enforcement Network (FinCEN), agence du Département du Trésor, enquête sur un incident de cybersécurité ayant entraîné un accès non autorisé à un sous-ensemble de ses systèmes. Par mesure préventive, l'agence a mis certains systèmes hors service, bien que le site BSA E-Filing reste opérationnel. FinCEN est responsable de la gestion d'informations sensibles et du signalement de crimes financiers.",
+      "description": "",
+      "title": "Treasury's FinCEN says 'cybersecurity incident' includes 'unauthorized access' of some systems",
+      "url": "https://abcnews.com/US/treasurys-fincen-cybersecurity-incident-includes-unauthorized-access-systems/story?id=138432822",
+      "added": "2026-11-25",
+      "infostealer": {
+        "update": "2026-11-25T15:00:10",
+        "employees": 0,
+        "users": 9,
+        "thirdparties": 2,
+        "employees_url": 0,
+        "users_url": 6,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-11-25",
       "victim": "RNZ",
@@ -47,6 +70,70 @@
         "group": "everest",
         "permalink": "https://www.ransomware.live/id/QUJMIEJpb0BldmVyZXN0"
       }
+    },
+    {
+      "date": "2026-11-24",
+      "victim": "Turnitin",
+      "domain": "turnitin.com",
+      "country": "US",
+      "summary": "L'entreprise de technologie éducative Turnitin a signalé qu'elle avait détecté des activités non autorisées au sein de certains de ses systèmes destinés aux clients. La direction a déployé son plan de réponse aux incidents, a engagé des spécialistes externes et a notifié les autorités et les régulateurs. Turnitin affirme que ses systèmes sont pleinement opérationnels et sûrs, précisant que les systèmes affectés ne collectent pas de données d'identification gouvernementales ni d'informations financières institutionnelles. L'enquête est en cours, et la nature, l'étendue de l'activité non autorisée, ainsi que le nombre d'individus potentiellement impactés, n'ont pas encore été précisés.",
+      "description": "",
+      "title": "Turnitin discloses cyberattack affecting customer-facing systems",
+      "url": "https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/",
+      "added": "2026-11-25",
+      "infostealer": {
+        "update": "2026-11-25T15:30:13",
+        "employees": 1358,
+        "users": 255399,
+        "thirdparties": 49,
+        "employees_url": 13,
+        "users_url": 100,
+        "last_employee_compromised": "2026-11-19T23:32:48+00:00",
+        "last_user_compromised": "2026-11-25T00:00:00+00:00",
+        "infostealer_stats": {
+          "Taurus": 37,
+          "CRYPTBOT": 137,
+          "UNKNOWN": 550,
+          "Azorult": 1395,
+          "DarkCrystal": 57,
+          "Raccoon": 4477,
+          "Predator": 23,
+          "Atomic": 66,
+          "StealC": 2958,
+          "KPOT": 3,
+          "Lumma": 11991,
+          "Generic Stealer": 9269,
+          "Ficker": 33,
+          "Acreed": 17,
+          "Vidar": 1478,
+          "Mystic": 92,
+          "RedLine": 17417
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-24",
+      "victim": "Pro-Doma",
+      "domain": "pro-doma.cz",
+      "country": "CZ",
+      "summary": "La société Pro-Doma, l'un des vendeurs de construction les plus importants en République tchèque, a dû revenir à des méthodes traditionnelles (papier et cache) en raison d'une cyberattaque étendue sur son système d'entreprise. Les employés présentent désormais des documents manuellement, les clients ne peuvent payer qu'en espèces, et l'entreprise ne parvient pas à délivrer les biens commandés.",
+      "description": "",
+      "title": "Hacke�i zas�hli miliardov� byznys rodiny Ma�incov�ch. Pro-Doma se vr�tila k pap�ru a tu�ce",
+      "url": "https://byznys.hn.cz/c1-67964410-hackeri-zasahli-miliardovy-byznys-rodiny-marincovych-pro-doma-se-vratila-k-papiru-a-tuzce",
+      "added": "2026-11-25",
+      "infostealer": {
+        "update": "2026-11-25T15:30:08",
+        "employees": 0,
+        "users": 91,
+        "thirdparties": 4,
+        "employees_url": 0,
+        "users_url": 20,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
     },
     {
       "date": "2026-11-24",
@@ -587,6 +674,42 @@
     },
     {
       "date": "2026-11-19",
+      "victim": "Radware",
+      "domain": "radware.com",
+      "country": "IL",
+      "summary": "La société de cybersécurité Radware a été victime d'une brèche de sécurité où des attaquants ont accédé à des informations de compte et à des clés d'accès cloud de ses clients. L'accès a été obtenu via une API de gestion de Cloud WAF interne non sécurisée et exposée publiquement. L'incident a été détecté le jeudi, et Radware a confirmé que l'accès non autorisé a eu lieu le 19 novembre 2026. Les informations potentiellement compromises incluent des coordonnées clients et, pour certains, les identifiants utilisés pour l'exportation de journaux vers des services de stockage cloud (AWS S3, Azure Blob Storage, SFTP). Radware a conseillé aux clients affectés de renouveler immédiatement les clés exposées et de vérifier les journaux d'accès de leurs comptes de stockage.",
+      "description": "",
+      "title": "Radware discloses breach exposing customer cloud access keys",
+      "url": "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/",
+      "added": "2026-11-25",
+      "infostealer": {
+        "update": "2026-11-25T15:30:11",
+        "employees": 14,
+        "users": 229,
+        "thirdparties": 34,
+        "employees_url": 25,
+        "users_url": 39,
+        "last_employee_compromised": "2026-10-16T19:36:46.659000+00:00",
+        "last_user_compromised": "2026-11-12T17:57:16+00:00",
+        "infostealer_stats": {
+          "RedLine": 55,
+          "Warden Stealer": 2,
+          "CRYPTBOT": 3,
+          "Raccoon": 18,
+          "Remus": 2,
+          "Lumma": 73,
+          "Generic Stealer": 59,
+          "Vidar": 4,
+          "StealC": 10,
+          "Azorult": 5,
+          "Acreed": 7,
+          "UNKNOWN": 4
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-19",
       "victim": "Législature de Virginie-Occident",
       "domain": "wv.gov",
       "country": "US",
@@ -630,6 +753,48 @@
         "infostealer_stats": {}
       },
       "ransomware": null
+    },
+    {
+      "date": "2026-11-18",
+      "victim": "Rackspace",
+      "domain": "rackspace.com",
+      "country": "US",
+      "summary": "Rackspace a décidé de fermer sa plateforme cloud Rackspace Spot suite à une brèche de sécurité. Les pirates ont accédé aux clusters Kubernetes et aux secrets des clients. L'intrusion a été découverte le 18 novembre 2026, après que les attaquants aient compromis les identifiants le 17 novembre 2026. Les clients ont jusqu'au 8 décembre 2026 pour migrer leurs services. Rackspace conseille aux utilisateurs de considérer leurs jetons API, jetons de rafraîchissement, kubeconfigs et secrets Kubernetes comme potentiellement compromis.",
+      "description": "",
+      "title": "Rackspace shuts down Spot cloud platform after security breach",
+      "url": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/",
+      "added": "2026-11-25",
+      "infostealer": {
+        "update": "2025-03-14T09:45:45",
+        "employees": 322,
+        "users": 8395,
+        "thirdparties": 35,
+        "employees_url": 35,
+        "users_url": 100,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {
+          "RedLine": 4492,
+          "Raccoon": 1690,
+          "Azorult": 968,
+          "Vidar": 586,
+          "racoon": 171,
+          "UNKNOWN": 252,
+          "CRYPTBOT": 70,
+          "Lumma": 1611,
+          "Ficker": 20,
+          "Predator": 14,
+          "Taurus": 14,
+          "KPOT": 2,
+          "StealC": 463,
+          "Atomic": 11,
+          "Mystic": 8
+        }
+      },
+      "ransomware": {
+        "group": "clop",
+        "permalink": "https://www.ransomware.live/id/UkFDS1NQQUNFLkNPTUBjbG9w"
+      }
     },
     {
       "date": "2026-11-18",
@@ -749,6 +914,48 @@
         "last_employee_compromised": null,
         "last_user_compromised": null,
         "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-17",
+      "victim": "Bell",
+      "domain": "bell.ca",
+      "country": "CA",
+      "summary": "Bell a été victime d'une attaque informatique utilisant l'intelligence artificielle, qui a permis le vol de données de plusieurs clients d'affaires. L'intrusion a eu lieu le 17 novembre, lorsque les attaquants ont accédé à un environnement de pré-production du système Maximo de Bell. Les informations exfiltrées incluent des noms, titres, courriels, numéros de téléphone professionnels, adresses d'affaires, contenu de billets de service et certaines adresses IP. Bell assure que les mots de passe et les documents sensibles n'ont pas été compromis, et que le service à la clientèle n'a pas été affecté. L'entreprise a transmis les traces de l'attaque au Centre canadien pour la cybersécurité et à la GRC.",
+      "description": "",
+      "title": "Bell victime d’une attaque informatique appuyée par l’intelligence artificielle",
+      "url": "https://www.qub.ca/article/bell-victime-dune-attaque-informatique-appuyee-par-lintelligence-artificielle-1806549520",
+      "added": "2026-11-25",
+      "infostealer": {
+        "update": "2026-11-25T15:30:10",
+        "employees": 126,
+        "users": 25247,
+        "thirdparties": 138,
+        "employees_url": 100,
+        "users_url": 100,
+        "last_employee_compromised": "2026-11-09T17:41:48+00:00",
+        "last_user_compromised": "2026-11-25T00:00:00+00:00",
+        "infostealer_stats": {
+          "Azorult": 2192,
+          "Vidar": 723,
+          "Taurus": 11,
+          "Acreed": 896,
+          "Aura Stealer": 1,
+          "Mystic": 20,
+          "CRYPTBOT": 40,
+          "Generic Stealer": 6310,
+          "DarkCrystal": 15,
+          "UNKNOWN": 248,
+          "Lumma": 4849,
+          "Remus": 100,
+          "Ficker": 1,
+          "StealC": 345,
+          "Predator": 7,
+          "Raccoon": 2203,
+          "RedLine": 5343,
+          "Atomic": 46
+        }
       },
       "ransomware": null
     },

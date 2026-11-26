@@ -4,8 +4,122 @@
     "month": null,
     "country": null
   },
-  "count": 4468,
+  "count": 4480,
   "results": [
+    {
+      "date": "2026-11-26",
+      "victim": "Autorità di Sistema Portuale del Mar Tirreno Settentrionale",
+      "domain": "portialtotirreno.it",
+      "country": "IT",
+      "summary": "L'Autorità di Sistema Portuale del Mar Tirreno Settentrionale (AdSP) a Livorno a été victime d'une cyberattaque qui a entraîné le blocage et le crash de ses systèmes informatiques. Les équipes ont déconnecté les PC de Palazzo Rosciano et des autres sites, et des mesures ont été prises pour isoler les systèmes potentiellement touchés et mettre en œuvre un plan de restauration. L'incident a été signalé à l'Agence pour la cybersécurité nationale (ACN) et à la Police des Postes, et des vérifications sont en cours, incluant des interventions sur les accès portuaires.",
+      "description": "",
+      "title": "Attacco informatico alla rete dell'AdSP - Telegranducato di Toscana",
+      "url": "https://www.telegranducato.it/2026/11/26/attacco-informatico-alla-rete-delladsp/",
+      "added": "2026-11-26",
+      "infostealer": "",
+      "ransomware": {
+        "group": "medusa",
+        "permalink": "https://www.ransomware.live/id/QXV0b3JpdMOgIGRpIFNpc3RlbWEgUG9ydHVhbGUgZGVsIE1hciBUaXJyZW5vIFNldHRlbnRyaW9uYWxlIEl0QG1lZHVzYQ"
+      }
+    },
+    {
+      "date": "2026-11-25",
+      "victim": "Queen Elizabeth School",
+      "domain": "qes.org.uk",
+      "country": "GB",
+      "summary": "La Queen Elizabeth School et la Studio School de Kirkby Lonsdale ont fermé leurs portes le 26 novembre suite à une cyberattaque sophistiquée et ciblée. L'incident a été détecté le mercredi 25 novembre, et la fermeture du réseau a été mise en place pour protéger les systèmes informatiques et les données. Les experts travaillent activement à la résolution de cette situation.",
+      "description": "",
+      "title": "'Sophisticated' hacking attempt 'from outside UK' closes Cumbria school",
+      "url": "https://www.nwemail.co.uk/news/26765340.kirkby-lonsdale-school-closes-cyber-incident/",
+      "added": "2026-11-26",
+      "infostealer": {
+        "update": "2026-11-26T14:30:09",
+        "employees": 0,
+        "users": 0,
+        "thirdparties": 18,
+        "employees_url": 0,
+        "users_url": 0,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-25",
+      "victim": "PAMTEK",
+      "domain": "pamtek.com",
+      "country": "KOREA",
+      "summary": "La société PAMTEK, fabricant d'équipements d'inspection de modules d'appareil photo et d'automatisation des processus de semi-conducteurs, a été victime d'une attaque par rançongiciel. L'incident a été découvert le 25 novembre 2026, suite à une attaque survenue le 23 novembre 2026. Cette attaque a soulevé la possibilité de fuite de données personnelles concernant les actionnaires et les employés actuels et anciens de PAMTEK et de ses filiales. Les données potentiellement compromises incluent le nom, l'adresse, le nombre d'actions détenues pour les actionnaires, et le nom, le numéro d'employé, le numéro de sécurité sociale, l'adresse, le numéro de téléphone et l'e-mail pour les anciens employés. Bien qu'aucune fuite réelle n'ait été confirmée à ce jour, PAMTEK a pris des mesures de sécurité, notamment le blocage des accès des attaquants et le renforcement de l'authentification à deux facteurs. La société a également signalé l'incident aux autorités compétentes, dont la Commission de protection des données et KISA.",
+      "description": "",
+      "title": "코스닥 상장사 팸텍, 랜섬웨어 공격 당해…주주·임직원 개인정보 유출 KISA 신고 - 데일리시큐",
+      "url": "https://www.dailysecu.com/news/articleView.html?idxno=209775",
+      "added": "2026-11-26",
+      "infostealer": {
+        "update": "2026-11-26T11:30:08",
+        "employees": 0,
+        "users": 3,
+        "thirdparties": 3,
+        "employees_url": 0,
+        "users_url": 4,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-25",
+      "victim": "City of Clarkesville",
+      "domain": "clarksvillega.gov",
+      "country": "US",
+      "summary": "La ville de Clarkesville, située en Géorgie, enquête sur un incident de ransomware qui a affecté certains systèmes informatiques municipaux. Les autorités ont fait appel à des professionnels de la cybersécurité et ont informé les forces de l'ordre. Bien que l'attaque ait eu lieu récemment, les services municipaux restent opérationnels et les détails précis sur les systèmes touchés ou les données compromises ne sont pas encore disponibles.",
+      "description": "",
+      "title": "Clarkesville investigating ransomware incident affecting city systems - Now Georgia",
+      "url": "https://nowgeorgia.com/clarkesville-investigating-ransomware-incident-affecting-city-systems/",
+      "added": "2026-11-26",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-25",
+      "victim": "Mekari",
+      "domain": "talenta.co",
+      "country": "ID",
+      "summary": "Mekari, un fournisseur indonésien de logiciels de gestion RH et de paie, a désactivé la majorité de ses services le jour de paie après la détection d'activités inhabituelles dans ses systèmes, y compris ceux de tiers connectés, sans toutefois confirmer un piratage, une fuite de données ou un ransomware. Selon l'expert Heru Sutadi, directeur de l'ICT Institute, cette décision inhabituelle indique un risque de sécurité sérieux, et il exige que l'entreprise précise publiquement si un accès non autorisé a été constaté, quelles données sont concernées et si un système tiers est à l'origine de l'incident. L'enjeu est majeur car Mekari gère les données du personnel et le versement des salaires de milliers, voire de millions de travailleurs, dont le droit à être payés à temps risque d'être affecté.",
+      "description": "",
+      "title": "www.inilah.com",
+      "url": "https://www.inilah.com/mekari-talenta-maintanance-di-tanggal-gajian-dinilai-tak-wajar-indikasi-ada-kebocoran-data",
+      "added": "2026-11-26",
+      "infostealer": {
+        "update": "2026-11-26T08:00:09",
+        "employees": 2,
+        "users": 6832,
+        "thirdparties": 4,
+        "employees_url": 2,
+        "users_url": 65,
+        "last_employee_compromised": "2024-07-13T11:02:29+00:00",
+        "last_user_compromised": "2026-11-25T00:00:00+00:00",
+        "infostealer_stats": {
+          "CRYPTBOT": 9,
+          "Vidar": 147,
+          "Raccoon": 441,
+          "Atomic": 21,
+          "DarkCrystal": 7,
+          "UNKNOWN": 42,
+          "Ficker": 3,
+          "StealC": 552,
+          "Azorult": 36,
+          "Predator": 5,
+          "Generic Stealer": 1069,
+          "Taurus": 4,
+          "RedLine": 1440,
+          "Lumma": 1817,
+          "Acreed": 15
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-11-25",
       "victim": "Financial Crimes Enforcement Network (FinCEN)",
@@ -70,6 +184,45 @@
         "group": "everest",
         "permalink": "https://www.ransomware.live/id/QUJMIEJpb0BldmVyZXN0"
       }
+    },
+    {
+      "date": "2026-11-24",
+      "victim": "Inmac Wstore",
+      "domain": "inmacwstore.fr",
+      "country": "FR",
+      "summary": "Inmac Wstore, distributeur français de matériel informatique appartenant au groupe allemand Bechtle, est victime d'une cyberattaque en cours depuis le 24 novembre 2026. Cet incident a provoqué des perturbations dans le traitement des commandes et des retards de livraison. L'entreprise a isolé les systèmes affectés, a saisi les autorités et a déposé plainte. À ce jour, Inmac Wstore n'a pas identifié de fuite de données, bien que cette information reste provisoire. Le site internet de l'entreprise est temporairement indisponible.",
+      "description": "",
+      "title": "Inmac Wstore : cyberattaque en cours, commandes et livraisons perturbées — Fuites Infos",
+      "url": "https://fuitesinfos.fr/article/2026-11-25-inmac-wstore",
+      "added": "2026-11-26",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-24",
+      "victim": "Planzer",
+      "domain": "planzer.ch",
+      "country": "CH",
+      "summary": "Planzer, le partenaire de livraison de Galaxus et Digitec, a été victime d'une cyberattaque durant laquelle des données d'expédition ont été volées, notamment des numéros de colis, noms, adresses de livraison, e-mails et certains numéros de téléphone, les données les plus récentes datant du début 2023. Les systèmes de Galaxus et Digitec ne sont pas touchés : les comptes clients, les données de paiement et les livraisons en cours restent sécurisés. Les clients sont toutefois invités à rester vigilant face aux tentatives de phishing (faux e-mails, SMS ou appels concernant des colis), à ne jamais cliquer sur des liens suspects ni communiquer leurs identifiants, et à vérifier directement le statut de leurs commandes dans leur compte Galaxus ou Digitec.",
+      "description": "",
+      "title": "This site can’t be reached",
+      "url": "https://www.digitec.ch/de/page/cyberangriff-bei-unserem-lieferpartner-planzer-das-musst-du-wissen-44528",
+      "added": "2026-11-26",
+      "infostealer": {
+        "update": "2026-11-26T07:30:09",
+        "employees": 0,
+        "users": 16,
+        "thirdparties": 3,
+        "employees_url": 0,
+        "users_url": 5,
+        "last_employee_compromised": "1970-01-01T00:00:00+00:00",
+        "last_user_compromised": "2026-09-08T01:31:54+00:00",
+        "infostealer_stats": {
+          "Raccoon": 1,
+          "RedLine": 1
+        }
+      },
+      "ransomware": null
     },
     {
       "date": "2026-11-24",
@@ -388,6 +541,62 @@
     },
     {
       "date": "2026-11-22",
+      "victim": "Septeo IT Solutions",
+      "domain": "septeo.fr",
+      "country": "FR",
+      "summary": "Septeo IT Solutions, une entreprise française du secteur informatique, a confirmé avoir subi une cyberattaque qui a entraîné le vol de données clients. L'intrusion a été détectée le dimanche 22 novembre 2026. Les informations compromises incluent des fiches contacts, des détails de tickets de support informatique et des informations de facturation. L'entreprise a pris des mesures pour contenir l'incident et a engagé des démarches auprès des autorités.",
+      "description": "",
+      "title": "Cyberattaque chez Septeo IT Solutions, des données clients et de facturation compromises",
+      "url": "https://frenchbreaches.com/alertes/cyberattaque-septeo-it-solutions-fuite-donnees-clients-mww7besuaxley58og2k",
+      "added": "2026-11-26",
+      "infostealer": {
+        "update": "2026-11-26T13:30:09",
+        "employees": 8,
+        "users": 22,
+        "thirdparties": 12,
+        "employees_url": 25,
+        "users_url": 36,
+        "last_employee_compromised": "2026-11-01T16:31:06+00:00",
+        "last_user_compromised": "2026-11-25T00:00:00+00:00",
+        "infostealer_stats": {
+          "Raccoon": 4,
+          "Azorult": 1,
+          "Lumma": 3,
+          "Acreed": 6,
+          "RedLine": 5,
+          "Generic Stealer": 5
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-22",
+      "victim": "CHU de Bordeaux",
+      "domain": "chu-bordeaux.fr",
+      "country": "FR",
+      "summary": "Plusieurs hôpitaux de Gironde sont en alerte suite à une cyberattaque par rançongiciel (ransomware) attribuée au groupe Scarlettgroup. Les cybercriminels prétendent détenir des données sensibles incluant dossiers médicaux, informations personnelles, résultats d'analyses, documents d'imagerie, données financières et fichiers administratifs. Le CHU de Bordeaux est parmi les établissements concernés et se montre rassurant.",
+      "description": "",
+      "title": "Des pirates informatiques revendiquent une cyberattaque contre le centre hospitalier de Bordeaux",
+      "url": "https://www.sudouest.fr/sciences-et-technologie/des-pirates-informatiques-revendiquent-une-cyberattaque-contre-le-centre-hospitalier-de-bordeaux-31625421.php",
+      "added": "2026-11-26",
+      "infostealer": {
+        "update": "2026-11-22T23:08:34",
+        "employees": 5,
+        "users": 293,
+        "thirdparties": 11,
+        "employees_url": 2,
+        "users_url": 42,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": {
+        "group": "Scarlettgroup",
+        "permalink": "https://www.ransomware.live/id/Y2h1LWJvcmRlYXV4LmZyQFNjYXJsZXR0Z3JvdXA"
+      }
+    },
+    {
+      "date": "2026-11-22",
       "victim": "Lauderdale County Sheriff's Office",
       "domain": "lauderdalesheriff.org",
       "country": "US",
@@ -490,6 +699,29 @@
     },
     {
       "date": "2026-11-21",
+      "victim": "Planet IC",
+      "domain": "planet-ic.de",
+      "country": "DE",
+      "summary": "Suite à une cyberattaque visant l'entreprise d'informatique Planet IC à Schwerin, des données clients du fournisseur d'énergie WEMAG ont été compromises. L'incident, survenu le samedi précédent, a entraîné la mise hors service de plusieurs sites internet pour les clients de WEMAG. Les autorités, incluant le Landeskriminalamt et le BSI, sont mobilisées pour enquêter sur l'incident. Les autorités locales ont également signalé des dysfonctionnements sur les sites internet de plusieurs villes.",
+      "description": "",
+      "title": "Cyberangriff auf IT-Firma: Daten von Strom-Kunden betroffen - genaues Ausmaß aber noch unklar",
+      "url": "https://www.ndr.de/nachrichten/mecklenburg-vorpommern/cyberangriff-auf-schweriner-it-dienstleister,cyberangriff-170.html",
+      "added": "2026-11-26",
+      "infostealer": {
+        "update": "2026-11-26T09:30:08",
+        "employees": 2,
+        "users": 0,
+        "thirdparties": 2,
+        "employees_url": 11,
+        "users_url": 12,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-21",
       "victim": "Hugendubel",
       "domain": "hugendubel.de",
       "country": "DE",
@@ -570,6 +802,39 @@
         "last_employee_compromised": null,
         "last_user_compromised": null,
         "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-20",
+      "victim": "Câmara Municipal de Felgueiras",
+      "domain": "cm-felgueiras.pt",
+      "country": "PT",
+      "summary": "La municipalité de Felgueiras a été victime d'une cyberattaque détectée le 20 novembre. Les équipes de cybersécurité ont réussi à intercepter l'intrusion avant que les attaquants ne puissent installer des mécanismes d'accès persistants (backdoors) et activer un rançongiciel (ransomware). Bien que les systèmes municipaux aient fonctionné sans destruction, chiffrement ou blocage d'informations, il reste à déterminer s'il y a eu accès illégitime à des données personnelles. Des difficultés récentes d'accès au site officiel ont également été observées, et des mesures de sécurité supplémentaires ont été mises en place.",
+      "description": "",
+      "title": "Câmara de Felgueiras alvo de ciberataque. Informáticos terão travado tentativa de ransomware",
+      "url": "https://www.felgueirasmagazine.pt/camara-de-felgueiras-alvo-de-ciberataque-informaticos-terao-travado-tentativa-de-ransomware/",
+      "added": "2026-11-26",
+      "infostealer": {
+        "update": "2026-11-26T09:30:09",
+        "employees": 0,
+        "users": 79,
+        "thirdparties": 5,
+        "employees_url": 0,
+        "users_url": 24,
+        "last_employee_compromised": "1970-01-01T00:00:00+00:00",
+        "last_user_compromised": "2026-10-29T19:56:33+00:00",
+        "infostealer_stats": {
+          "Raccoon": 11,
+          "RedLine": 27,
+          "Acreed": 1,
+          "StealC": 3,
+          "CRYPTBOT": 1,
+          "Vidar": 2,
+          "Generic Stealer": 16,
+          "Lumma": 13,
+          "UNKNOWN": 2
+        }
       },
       "ransomware": null
     },
@@ -1888,6 +2153,45 @@
         }
       },
       "ransomware": null
+    },
+    {
+      "date": "2026-11-10",
+      "victim": "DomusVi",
+      "domain": "domusvi.es",
+      "country": "ES",
+      "summary": "DomusVi, prestataire de services d'aide à domicile aux îles Baléares, a été victime d'une cyberattaque le 10 novembre. Cette intrusion a permis à des tiers d'accéder à des informations personnelles des utilisateurs, incluant des données bancaires et sanitaires. Le gouvernement estime que plus de 1 105 personnes sont potentiellement affectées. Les autorités ont informé les victimes et ont mis en place des mesures de protection, notamment des alertes par SMS, et recommandent aux usagers de surveiller leurs comptes et de se méfier des tentatives d'usurpation d'identité.",
+      "description": "",
+      "title": "Un ciberataque a DomusVi pudo dejar al descubierto datos de 1.105 usuarios del servicio de ayuda a domicilio en Balears",
+      "url": "https://www.diariodemallorca.es/mallorca/2026/11/26/ciberataque-domusvi-pudo-descubierto-datos-136843763.html",
+      "added": "2026-11-26",
+      "infostealer": {
+        "update": "2026-11-10T04:56:33",
+        "employees": 0,
+        "users": 413,
+        "thirdparties": 18,
+        "employees_url": 0,
+        "users_url": 51,
+        "last_employee_compromised": "1970-01-01T00:00:00+00:00",
+        "last_user_compromised": "2026-10-20T18:15:18+00:00",
+        "infostealer_stats": {
+          "RedLine": 123,
+          "Generic Stealer": 40,
+          "racoon": 12,
+          "Mystic": 2,
+          "Azorult": 4,
+          "Vidar": 11,
+          "Lumma": 19,
+          "CRYPTBOT": 2,
+          "Raccoon": 11,
+          "StealC": 1,
+          "UNKNOWN": 5,
+          "Taurus": 1
+        }
+      },
+      "ransomware": {
+        "group": "Black X",
+        "permalink": "https://www.ransomware.live/id/RG9tdXNWaUBCbGFjayBY"
+      }
     },
     {
       "date": "2026-11-10",

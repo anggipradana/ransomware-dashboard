@@ -4,8 +4,57 @@
     "month": null,
     "country": null
   },
-  "count": 4480,
+  "count": 4483,
   "results": [
+    {
+      "date": "2026-11-26",
+      "victim": "Convoy Financial Services Limited (CFS)",
+      "domain": "convoyfinance.com",
+      "country": "HK",
+      "summary": "Convoy Financial Services Limited (CFS) a identifié un incident de cybersécurité. La société a suspendu temporairement l'accès à son système de back-office et à sa « Zone Client » pour mener ses investigations. CFS a indiqué qu'elle n'a trouvé aucune preuve que les polices d'assurance ou les comptes MPF des clients aient été affectés, et qu'aucun transaction non autorisé n'a été identifié. L'incident a été signalé aux autorités réglementaires et de l'application de la loi. Le Commissariat à la protection de la vie privée (PCPD) a pris connaissance de cette notification de violation de données et a entamé une vérification de conformité.",
+      "description": "",
+      "title": "Convoy Financial reports cyber incident; no evidence of affected policies or MPF accounts",
+      "url": "https://www.thestandard.com.hk/news/article/349788/Convoy-Financial-reports-cyber-incident-no-evidence-of-affected-policies-or-MPF-accounts",
+      "added": "2026-11-26",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-26",
+      "victim": "Opco EP",
+      "domain": "opcoep.fr",
+      "country": "FR",
+      "summary": "L'Opco EP, un organisme français majeur du financement de la formation professionnelle, a été victime d'un incident de cybersécurité. L'alerte a été constatée le 26 novembre 2026, entraînant la suspension temporaire de plusieurs de ses portails numériques pour sécuriser ses systèmes. Bien que l'incident soit confirmé, l'Opco EP n'a pas encore confirmé qu'une fuite de données ait eu lieu, et la nature exacte de l'attaque reste inconnue.",
+      "description": "",
+      "title": "Cyberattaque chez Opco EP, l'organisme de formation qui accompagne 442 700 entreprises suspend plusieurs services",
+      "url": "https://frenchbreaches.com/alertes/cyberattaque-opco-ep-incident-cybersecurite-mwxj8zy3wjnpievi9j",
+      "added": "2026-11-26",
+      "infostealer": {
+        "update": "2026-11-26T15:00:10",
+        "employees": 4,
+        "users": 706,
+        "thirdparties": 4,
+        "employees_url": 5,
+        "users_url": 20,
+        "last_employee_compromised": "2026-11-01T17:52:30+00:00",
+        "last_user_compromised": "2026-11-19T23:32:48+00:00",
+        "infostealer_stats": {
+          "StealC": 11,
+          "Lumma": 108,
+          "Atomic": 1,
+          "Warden Stealer": 6,
+          "Remus": 6,
+          "Acreed": 37,
+          "Raccoon": 28,
+          "Mystic": 4,
+          "UNKNOWN": 4,
+          "Vidar": 5,
+          "RedLine": 86,
+          "Generic Stealer": 191
+        }
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-11-26",
       "victim": "Autorità di Sistema Portuale del Mar Tirreno Settentrionale",
@@ -1370,6 +1419,19 @@
         "last_user_compromised": null,
         "infostealer_stats": {}
       },
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-16",
+      "victim": "Zodia Custody",
+      "domain": "zodia-custody.com",
+      "country": "GRE",
+      "summary": "La société de garde d'actifs numériques Zodia Custody, qui appartient entièrement à Standard Chartered, a été victime d'une cyberattaque. L'incident, identifié par Zodia le lundi, a entraîné la fuite de données personnelles de clients et d'employés, notamment des noms et des adresses e-mail. Bien que les transactions non autorisées n'aient pas été confirmées, l'incident représente un coup pour les ambitions de la banque dans le secteur des crypto-actifs.",
+      "description": "",
+      "title": "Κυβερνοεπίθεση σε εταιρεία crypto της Standard Chartered - Διέρρευσαν ονόματα και email πελατών",
+      "url": "https://www.bankingnews.gr/kriptonomismata/articles/913422/kyvernoepithesi-se-etaireia-crypto-tis-standard-chartered-dierrefsan-onomata-kai-email-pelaton",
+      "added": "2026-11-26",
+      "infostealer": "",
       "ransomware": null
     },
     {

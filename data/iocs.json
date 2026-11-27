@@ -1,6 +1,6 @@
 {
   "filter_type": null,
-  "count": 214,
+  "count": 215,
   "groups": [
     {
       "group": "0apt",
@@ -1072,6 +1072,12 @@
       "group": "promptlock",
       "ioc_types": {
         "sha1": 6
+      }
+    },
+    {
+      "group": "puppeteer",
+      "ioc_types": {
+        "tox": 1
       }
     },
     {

@@ -4,8 +4,108 @@
     "month": null,
     "country": null
   },
-  "count": 4483,
+  "count": 4489,
   "results": [
+    {
+      "date": "2026-11-27",
+      "victim": "US Air Force (via Cloud One)",
+      "domain": "af.mil",
+      "country": "US",
+      "summary": "Des pirates informatiques ont compromis Cloud One, une plateforme de cloud computing majeure utilisée par l'armée américaine pour soutenir les fonctions critiques de l'US Air Force. Cette cyberattaque a perturbé le fonctionnement de la plateforme, forçant les services concernés à suspendre certaines procédures. La Cyber Command, la force de cyber-guerre de l'armée américaine, est intervenue pour évaluer l'étendue des dommages. Suite à la découverte de l'attaque, les efforts de migration des applications administratives vers Cloud One ont été gelés, et les mises à jour des applications en cours ont été bloquées, empêchant le personnel de l'US Air Force d'appliquer des correctifs. Il est rapporté que certains utilisateurs ont vu leurs droits d'administrateur retirés. Les attaquants auraient exploité une vulnérabilité logicielle pour accéder au niveau de contrôle de la plateforme, décrit comme un 'télécommand central', bien qu'il n'ait pas été précisé si les pirates ont exercé un contrôle opérationnel sur les aéronefs ou le matériel.",
+      "description": "",
+      "title": "Κυβερνοεπίθεση στην κορυφαία πλατφόρμα cloud της αμερικανικής Πολεμικής Αεροπορίας -«Πάγωσαν» αναβαθμίσεις και μεταφορές συστημάτων - iefimerida.gr",
+      "url": "https://www.iefimerida.gr/kosmos/kybernoepithesi-platforma-cloud-amerikanikis-polemikis-aeroporias",
+      "added": "2026-11-27",
+      "infostealer": {
+        "update": "2026-11-27T14:00:16",
+        "employees": 76,
+        "users": 1112,
+        "thirdparties": 706,
+        "employees_url": 41,
+        "users_url": 100,
+        "last_employee_compromised": "2026-11-13T15:30:54+00:00",
+        "last_user_compromised": "2026-11-23T00:00:00+00:00",
+        "infostealer_stats": {
+          "Vidar": 51,
+          "Raccoon": 42,
+          "StealC": 14,
+          "Mystic": 1,
+          "Atomic": 1,
+          "RedLine": 180,
+          "Taurus": 2,
+          "Lumma": 197,
+          "Azorult": 45,
+          "Generic Stealer": 311,
+          "Acreed": 23,
+          "UNKNOWN": 12
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-27",
+      "victim": "Department for Work and Pensions",
+      "domain": "gov.uk",
+      "country": "GB",
+      "summary": "Le Département du Travail et des Pensions (DWP) a mis certains de ses services hors ligne par précaution suite à un incident de cybersécurité affectant ses systèmes. Les services impactés incluent les plateformes en ligne pour les demandes de pensions, de crédit universel et de PIP, ainsi que le système 'Tell Us Once'. Le DWP enquête sur la cause de l'incident et assure que les paiements réguliers de prestations et de pensions ne sont pas affectés. La nature exacte de l'incident et l'accès éventuel aux données personnelles n'ont pas été confirmés.",
+      "description": "",
+      "title": "Department for Work and Pensions takes some services offline after 'cyber incident'",
+      "url": "https://www.bbc.com/news/articles/c8wy5p6pv2e2o",
+      "added": "2026-11-27",
+      "infostealer": {
+        "update": "2026-11-27T11:00:10",
+        "employees": 0,
+        "users": 15,
+        "thirdparties": 12,
+        "employees_url": 0,
+        "users_url": 4,
+        "last_employee_compromised": "1970-01-01T00:00:00+00:00",
+        "last_user_compromised": "2026-10-20T00:00:00+00:00",
+        "infostealer_stats": {
+          "Lumma": 1,
+          "RedLine": 5,
+          "Generic Stealer": 4,
+          "Acreed": 1
+        }
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-27",
+      "victim": "Yōji Katsudō Kenkyukai",
+      "domain": "youji.co.jp",
+      "country": "Japon",
+      "summary": "La société Yōji Katsudō Kenkyukai (幼児活動研究会), qui fournit des services de gymnastique pour jeunes enfants et des garderies, a publié un deuxième rapport d'incident de cybersécurité le 27 novembre 2026. L'enquête a révélé que des comptes VPN ont été détournés et que les informations d'identification des administrateurs Active Directory (AD) ont été volées, dans le cadre d'une attaque par parasitisme environnemental (Living off the Land). Bien que des traces de fuite de données sur certains serveurs et terminaux aient été identifiées, aucune fuite de données client n'a été confirmée. L'incident initial a été détecté le 14 octobre 2026.",
+      "description": "",
+      "title": "幼児活動研究会へのサイバー攻撃、VPNアカウントを悪用されAD管理者の認証情報を窃取 環境寄生型攻撃と判明|セキュリティニュースのセキュリティ対策Lab",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/yoji_katsudo_research_institute_20261127_updated/",
+      "added": "2026-11-27",
+      "infostealer": "",
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-26",
+      "victim": "Prefeitura de Taquarivaí",
+      "domain": "taquarivai.sp.gov.br",
+      "country": "BR",
+      "summary": "La municipalité de Taquarivaí (SP) a subi une cyberattaque le jeudi 26 novembre 2026, qui a compromis ses systèmes de gestion publique. Aucun préjudice financier n'a été identifié à ce jour. Les services administratifs, tels que les demandes d'engagement et de paiement, sont suspendus en attendant la restauration des systèmes.",
+      "description": "",
+      "title": "Prefeitura de Taquarivaí sofre ataque cibernético | G1",
+      "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/11/27/prefeitura-de-taquarivai-sofre-ataque-cibernetico.ghtml",
+      "added": "2026-11-27",
+      "infostealer": {
+        "update": "2026-11-27T13:30:09",
+        "employees": 0,
+        "users": 7,
+        "thirdparties": 0,
+        "employees_url": 0,
+        "users_url": 1,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
     {
       "date": "2026-11-26",
       "victim": "Convoy Financial Services Limited (CFS)",
@@ -440,6 +540,29 @@
     },
     {
       "date": "2026-11-23",
+      "victim": "Centre hospitalier de Cadillac",
+      "domain": "ch-cadillac.fr",
+      "country": "FR",
+      "summary": "Le Centre hospitalier de Cadillac a été victime d'une cyberattaque informatique dans la nuit du 22 au 23 novembre. La direction du Groupe hospitalier Sud-Gironde a confirmé que cet incident n'a entraîné aucune fuite de données et n'a pas perturbé la prise en charge des patients, et qu'aucun autre établissement du groupe n'a été affecté.",
+      "description": "",
+      "title": "Gironde : le Centre hospitalier de Cadillac-sur-Garonne victime d’une attaque informatique",
+      "url": "https://www.sudouest.fr/gironde/cadillac/gironde-le-centre-hospitalier-de-cadillac-sur-garonne-victime-d-une-attaque-informatique-31692114.php",
+      "added": "2026-11-27",
+      "infostealer": {
+        "update": "2026-11-27T14:00:12",
+        "employees": 2,
+        "users": 1,
+        "thirdparties": 0,
+        "employees_url": 2,
+        "users_url": 1,
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-23",
       "victim": "K-tuin",
       "domain": "okdiario.com",
       "country": "ES",
@@ -743,6 +866,32 @@
         "last_employee_compromised": null,
         "last_user_compromised": null,
         "infostealer_stats": {}
+      },
+      "ransomware": null
+    },
+    {
+      "date": "2026-11-21",
+      "victim": "Dirección General de Casinos",
+      "domain": "gub.uy",
+      "country": "UY",
+      "summary": "La Dirección General de Casinos (DGC) a suspendu une partie de ses opérations administratives après avoir détecté une cyberattaque extérieure au pays. L'incident, détecté le samedi 21 novembre, n'a pas affecté l'exploitation des jeux dans la majorité des salles, bien que des fermetures préventives aient été imposées aux salles de divertissement de Florida et Carmelo. Les équipes techniques ont isolé l'accès au réseau pour prévenir toute compromission supplémentaire, permettant ainsi aux salles de fonctionner de manière autonome malgré des restrictions mineures. Les services administratifs sont les seuls touchés, et l'organisme travaille avec des entités spécialisées pour rétablir le fonctionnement normal.",
+      "description": "",
+      "title": "Ciberataque a Casinos del Estado obligó a cerrar las salas de Florida y Carmelo",
+      "url": "https://www.elobservador.com.uy/nacional/ciberataque-casinos-del-estado-obligo-cerrar-las-salas-florida-y-carmelo-n6065257",
+      "added": "2026-11-27",
+      "infostealer": {
+        "update": "2026-11-27T08:30:09",
+        "employees": 0,
+        "users": 2,
+        "thirdparties": 1,
+        "employees_url": 0,
+        "users_url": 3,
+        "last_employee_compromised": "1970-01-01T00:00:00+00:00",
+        "last_user_compromised": "2024-08-08T21:58:43+00:00",
+        "infostealer_stats": {
+          "StealC": 1,
+          "RedLine": 1
+        }
       },
       "ransomware": null
     },
